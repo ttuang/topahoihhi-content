@@ -1,0 +1,9 @@
+{
+  "songs": [
+    { "title": "Amazing Grace", "slug": "amazing-grace" },
+    { "title": "How Great Thou Art", "slug": "how-great-thou-art" },
+    { "title": "Blessed Assurance", "slug": "blessed-assurance" },
+    { "title": "It Is Well", "slug": "it-is-well" },
+    { "title": "Great Is Thy Faithfulness", "slug": "great-is-thy-faithfulness" }
+  ]
+}

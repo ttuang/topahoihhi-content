@@ -1,0 +1,9 @@
+{
+  "songs": [
+    { "title": "Ka Lungdam", "slug": "ka-lungdam" },
+    { "title": "Lungdam Na Kipahna", "slug": "lungdam-na-kipahna" },
+    { "title": "Thugen Hoih", "slug": "thugen-hoih" },
+    { "title": "Lam Eternity", "slug": "lam-eternity" },
+    { "title": "Pa Ukna", "slug": "pa-ukna" }
+  ]
+}

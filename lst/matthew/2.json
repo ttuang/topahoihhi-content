@@ -1,0 +1,9 @@
+{
+  "book": "Matthew",
+  "chapter": 2,
+  "verses": [
+    { "verse": 1, "text": "Now when Jesus was born in Bethlehem of Judaea in the days of Herod the king." },
+    { "verse": 2, "text": "Saying, Where is he that is born King of the Jews? for we have seen his star in the east." },
+    { "verse": 3, "text": "When Herod the king had heard these things, he was troubled, and all Jerusalem with him." }
+  ]
+}

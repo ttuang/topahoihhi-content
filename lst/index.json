@@ -1,0 +1,6 @@
+{
+  "books": [
+    { "book": "Genesis", "slug": "genesis", "chapters": 2, "testament": "old" },
+    { "book": "Matthew", "slug": "matthew", "chapters": 2, "testament": "new" }
+  ]
+}

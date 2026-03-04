@@ -1,0 +1,9 @@
+{
+  "book": "Matthew",
+  "chapter": 1,
+  "verses": [
+    { "verse": 1, "text": "The book of the generation of Jesus Christ, the son of David, the son of Abraham." },
+    { "verse": 2, "text": "Abraham begat Isaac; and Isaac begat Jacob; and Jacob begat Judas and his brethren." },
+    { "verse": 3, "text": "And Judas begat Phares and Zara of Thamar; and Phares begat Esrom; and Esrom begat Aram." }
+  ]
+}

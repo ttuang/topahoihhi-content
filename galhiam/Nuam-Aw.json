@@ -1,0 +1,48 @@
+{
+  "title": "NUAM AW",
+  "key": "Key: G",
+  "galHiam": "Gal Hiam: 34",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Misiang te totsa a tang akawcik lampi khat om ei,",
+        "Ih mai ah apaisa galhang te'n bawlsiatna thuak hi,",
+        "Hong pina leh a gualzawhna te hangin na lungdam leh,",
+        "Khukdin in lungdamna ko aw, nangah thupha hangin,"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Nuam aw, paak te leh singkung te hang in,",
+        "Nuam aw, mualte leh tuipi te hang in,",
+        "Nuam aw, nang leh kei hong hinsak man in,",
+        "Koi koi om ta leteh nuam aw."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Hih leitung ah dahna gentheihna leh huaihamna dim ei,",
+        "A kang ngeilo ciktui om a, sapna teng kicing sak hi",
+        "Topa kamciam na muang peuh leng mikim a ding kicing ei,",
+        "Na thupha sim sim lel dih in, A dang na nget ma in."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Topa hong vaikhaksa bangin a lampial te maisak aw",
+        "Bang hih cih theilo a hih ma'n amawh maisak in cizen.",
+        "Amau te'n zong teluh hi leh a nun na ki khel lel ding",
+        "Amau te na sanggam hicih phawk in la huhkhial ke'n"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "title": "Kah Hang Hong Gum Zo Zo",
+  "key": "Key: Eb",
+  "galHiam": "Gal Hiam: 260",
+  "ZBC": "ZBC: 259",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Kah hang hong gum zolo",
+        "Khitui in ka mai sawp zong",
+        "Ka launa daisak tuamlo,",
+        "Mawhna kum sawpsiang theilo,",
+        "Kah hang hong gum zolo",
+        "Chorus",
+        "Zeisu kap keitang ding si,",
+        "Singkhuam tungah khaina thuak,",
+        "Kei hong hon dingin hong ngak",
+        "Amah bek hong hon thei",
+        "Verse2",
+        "Sep hang hong gum zolo,",
+        "A hoih pen ka sem thei zong",
+        "A siang pen ka ngaihsun zong,",
+        "Ka kha thak suaksak thei kei",
+        "Sep hang hong gum zolo"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Ngak hang hong gum zolo,",
+        "Huh theihloh mawhna nei zong",
+        "Ka bil sung hehpin'n hong sam,",
+        "Ngak lai leng ka si ding hi",
+        "Ngak hang hong gum zolo"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Khazin up na'n hong gumo",
+        "Hong um sak in Na Tapa",
+        "Abawlsa nate um in",
+        "Akhut in keihong pom ding",
+        "Khazih upna'n hong gum."
+      ]
+    }
+  ]
+}

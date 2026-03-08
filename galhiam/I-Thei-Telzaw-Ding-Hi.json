@@ -1,0 +1,48 @@
+{
+  "title": "IH THEI TEL ZAW DING HI",
+  "key": "Key: E",
+  "galHiam": "Gal Hiam: 90",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Thupha gamnuam tun theih nang, Haksat na tampi om a,",
+        "Hih hang Pasian lam tawntung, Mitsuan gige’n hong kha ding,",
+        "Tua gamsung ihtun theih nang, sih mateng ih zui",
+        "Ding hi, Eite’n ih thei zaw dinghi nung ciangin."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Nung ciangin zingsang khuavak ding,",
+        "Pasian mi siangthote innpi tungding,",
+        "Eite’n ihzawhna tangthu ihsut kik ding,",
+        "Eite’n ih theitel zawding hi nung ciangin."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Inn leh lo neek leh taak, nakhem ih kisam a, Nuntak na lei gogawtak,",
+        "Lakpi mah ih zui zel a, Hihhang Topa hongciamna,",
+        "Kammal eite’n muan ciat ni,",
+        "Eite’n ih theitel zaw ding hi nung ciang in."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Eite lungsim siasak ding, gamtat kampau a hizong,",
+        "Phawk khakloh lauhuai Ze-et na bawlsiat nate ih thuak zong,",
+        "Hanciam nopna takpi tawh, eite ihpuk khathei zel zong,",
+        "Eite’n theitel zawding hi nung ciang in."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "title": "NANG DEIH BANG, TOPA",
+  "key": "Key: Eb",
+  "galHiam": "Gal Hiam: 341",
+  "ZBC": "ZBC: 377",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Nang deih bang, Topa",
+        "Nang deih bangbang",
+        "Nangmah beelseekpa, Kei tungman bang",
+        "Nangma deih bangin, Kei hong bawl in",
+        "Taang lo, mang dingin",
+        "Nang kong ngak hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Nang deih bang, Topa",
+        "Nang deih bangbang",
+        "Tu ni-in Topa, Hong sit in, Nang",
+        "Vuk sang ngozawin, Tun hong sapp in",
+        "Lungsim neem takin",
+        "Nang mai kong kun."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Nang deih bang, Topa",
+        "Nang deih bang bang",
+        "Ka liam ka gimna, Hong huh in, Nang",
+        "Vaanglianna khempeuh, Nangmah'n Na nei",
+        "Hong dam sak in, kei",
+        "Hong honpa aw."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Nang deih bang, Topa",
+        "Nang deih bangbang",
+        "Keimah nuntakna, Hong uk in,",
+        "Nang Khazih keima sung, Mi'n muh nading",
+        "Hong guan in, kei sung",
+        "Na Kha Siangtho."
+      ]
+    }
+  ]
+}

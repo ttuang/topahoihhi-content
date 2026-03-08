@@ -1,0 +1,48 @@
+{
+  "title": "NGAKLAH VENG",
+  "key": "Key: D",
+  "galHiam": "Gal Hiam: 2",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "En ven ka ten na gamnuam, Leimi te'n atel zawhloh.",
+        "Mizawng mipoi te leh tagah te nopsakna gam,",
+        "Kei hong simmawh khake'n maw, inn leh lo kaneih loh hang,",
+        "Lei inn sang aphazaw vanah inn nuam kanei hi."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Ngaklah veng tua khuapi katun hun ding.",
+        "To Zeisu a khutpawn kalet ni ciang",
+        "Lungdamna Khitui te aluang ding a,",
+        "Kei hong honpa aw ci'n, lungdam in la kasa ding."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "En ven tuuno anglai ah, melsia mipoi tampi te,",
+        "Vanmi bang mel etlawm Topa'n bawlpha khinzo ta,",
+        "Lei ah ih kosiat nate kham lukhu in khuta uh",
+        "A lutung tee ziah ziah, suangmanpha tawh kizem hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Sihna hanmual hongliamsan, A paisa it leh ngaih te'n,",
+        "Hih lei gentheihna gam nusia in hongpai un ci,",
+        "Keingai in kapkei un la, kei omna ah hongpai un.",
+        "o hong ngaklah van khuapi pan khut hongvan."
+      ]
+    }
+  ]
+}

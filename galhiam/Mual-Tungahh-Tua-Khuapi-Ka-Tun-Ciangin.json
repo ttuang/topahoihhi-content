@@ -1,0 +1,48 @@
+{
+  "title": "MUALTUNGAH TUA KHUAPI KA TUN CIANGIN",
+  "key": "Key: F",
+  "galHiam": "Gal Hiam: 104",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Zion mualdawnah khuapi lian khat om hi,",
+        "Kongzingte khempeuh khamtawh kizut hi,",
+        "Zingsang khatpeuh teh tua khua ka en ding hi,",
+        "Mualtungah tua khuapi ka tun ciangin."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Aw mualtungah Zion Khuapi",
+        "apilonalou Ka tunding ngaklah belin kanei hi",
+        "A kum tawnin ka teng ding hi,",
+        "Mualtungah tua khuapi katun ciangin."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Tua khuapi ah pai dingin hong kisam bi.",
+        "A ut khempeuhte zong kisam hi,",
+        "Kei adingin kibawl khuapi in hong ngak hi",
+        "Mual tungah tua khuapi katun ciang in"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Sihna kiciam kha ngeinawn peuhmah lo din",
+        "Lungzuan cihbang omngei nawnlo ding.",
+        "Tua lai ah atawntungin kateng den ding,",
+        "Mual tungah tua khuapi katun ciang in."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "title": "NA LUKHU TE'N HONG NGAK DIMDEM",
+  "key": "Key: E",
+  "galHiam": "Gal Hiam: 115",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Kapkawmin kuankhia in, a tuhding khaici a pua mi-in,",
+        "Lungdam in kiko na tawh buhlomte pua in,",
+        "Inn ah hongciah ding hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Leikeu na-ah guahin tui abuak bangin,",
+        "Kathaman te'n hong ngak dim dem,",
+        "Kei a ding kikoihzo khamlukhu hoihlua kisa in,",
+        "Hong tan ziah ziah khamlukhu te tang pem pam,",
+        "Endih na lukhu te'n hongngak dim dem zen veleh."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Kiphah dimdem thamante kigual diu deu,",
+        "Laibu tezong kiphen zihziah,",
+        "Lungdamna khituite taak keuh keuh hongtaak keuh keuh,",
+        "Vantungmi te'n lungdamin hong muak ziah ziah,",
+        "Endih na lukhu te'n hongngak dimdemzen veleh,"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Ka ngah ding vangliatnate ka ngaihsut ciang,",
+        "Kathuakna te gentham sakeng,",
+        "Tua te hang amin siangtho phatning Hallelujah,",
+        "Amen ci-in khamlukhu kakhek mateng,",
+        "En dih nalukhu te'n hongngak dimdem zen veleh."
+      ]
+    }
+  ]
+}

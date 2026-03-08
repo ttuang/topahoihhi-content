@@ -1,0 +1,48 @@
+{
+  "title": "OMDAN KASIAM TA",
+  "key": "Key: D",
+  "galHiam": "Gal Hiam: 107",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Simleitungah mihing pilna leh siamna,",
+        "Tha leh ngal hatna te'n Topa muzo kei,",
+        "Vangik pua leh tawldamna ngahto ta ding,",
+        "Thuakdansiam haksa lua To Zeisu lo in."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Omdan zong kasiam ta, thuakdan zong kasiamta,",
+        "Hong makaih a hong hilhpa, To Zeisu a hi,",
+        "Apiang na khempeuh tung'h, lungdam dendinghi tang,",
+        "Omdan hong siamsakpa To Zeisu a hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Sum leh paai deihna leh, Huaihamna te in.",
+        "Lamtawp cih nei thei lo, lungkim om theilo,",
+        "Gentheih haksat na leh lungzuan luankhi tawh,",
+        "Thuakdan nong siamsakpa To Zeisu a hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Gentheih zong kasiam ta, Hauhdan zong kasiamta,",
+        "Gilvah leh gilkial zong, thuakdan kasiam ta,",
+        "Hong it To Zeisu hang na khempeuh tungah,",
+        "Hong thahatsakpa hang hih theihloh nei keng."
+      ]
+    }
+  ]
+}

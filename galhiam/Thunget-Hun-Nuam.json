@@ -1,0 +1,49 @@
+{
+  "title": "THUNGET HUN NUAM",
+  "key": "Key: Bb",
+  "galHiam": "Gal Hiam: 206",
+  "ZBC": "ZBC: 314",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Thunget hun nuam, thunget hun nuam:",
+        "Lungkhamna pan hong sam khia a,",
+        "Ka deih ka sap na a tuamtuam,",
+        "Ka gen theih hun ka Pa mai ah,",
+        "Dahna hong tun ciang thungen leng ka lung sim hong nuam sak a;",
+        "Mawh na’n hong zol ciang thungen leng,",
+        "Dawimangpa’ thang pan ka suak ta."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Thunget hun nuam, thunget hun nuam;",
+        "Va len pih in keima thumna,",
+        "Kei ma khathu pha apia nuam,",
+        "Thuman a dik Pasian kiangah,",
+        "Keima mai-ah um in muangin,",
+        "Hong pai in, hong cih khit nung sang;",
+        "Thunget hun nuam hong tun sim in,",
+        "Lungkhamna teng Amah suan tang."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Thunget hun nuam, thunget hun nuam;",
+        "Kei lungsim hong hehnem lai in,",
+        "Pasian hong ciam Kanaan gam nuam,",
+        "Luah ding ka len toh ma tengin,",
+        "Hih ka pumpi puan bang suah a,",
+        "Sang dingin tul ngei lo noptuam;",
+        "Ka len toh ciang kha ning mangpha,",
+        "Thunget hun nuam thunget hun nuam."
+      ]
+    }
+  ]
+}

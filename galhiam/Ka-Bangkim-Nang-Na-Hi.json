@@ -1,0 +1,32 @@
+{
+  "title": "KABANGKIM NANG NA HI",
+  "key": "",
+  "galHiam": "Gal Hiam: 236Key: EVerse1",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "(Zeisu Pasian Tuuno, Na min manpha hi)2",
+        "Ka thazawn ciangin ka hatna, som",
+        "Ka zon zon hauhna nang na hi,",
+        "Ka bangkim nang nahi",
+        "Suangmanpha bangin kong zong hi,",
+        "Hong khahsuah leng mi hai hi ning Ka bangkim nang na hi."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Na lakhia khinzo ka mawhna",
+        "Na thokik zo Na min ka phat",
+        "Ka bangkim nang na hi.",
+        "Ka puk ciangin nong phongkik hi.",
+        "Ka dangtak ciang tui nong suah hi",
+        "Ka bang kim nang na hi."
+      ]
+    }
+  ]
+}

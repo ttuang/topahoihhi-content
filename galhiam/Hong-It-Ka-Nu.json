@@ -1,0 +1,52 @@
+{
+  "title": "HONG IT KA NU",
+  "key": "Key: E",
+  "galHiam": "Gal Hiam: 118",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Mimbang kapiancil in",
+        "Ka nu'n hongit manin",
+        "A ang nunkhum tuitawh hong vak den a",
+        "Ka ut bang bang in",
+        "Hong tat sak theih man in",
+        "Ka nu hong itna bang zah in lian hiam"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Hong it kanu bang tawh ka teh thei diam",
+        "Hong ho kamkhum bang tawh kateh thei diam",
+        "Leizawhloh suangmanpha sanglian zaw hi",
+        "Nu aw nongho kamkhum zanuam den ing"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Ka nunna a manpha ding nong pattah man in",
+        "Nu aw nong itna lian ka phawkden a",
+        "Topa'n hong hehpih in",
+        "Na nunkum sawt sak hen",
+        "Sim leitung kumsawt guabang hingkhawm leng"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Nu te pumpi khempeuh ei aa ding manpha hi",
+        "A angah hong trawi in hong lumsak a",
+        "A nungah hong pua in",
+        "Nuamtak hong ih musak",
+        "Nu aw nong itna lian ka phawk den hi"
+      ]
+    }
+  ]
+}

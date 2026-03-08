@@ -1,0 +1,58 @@
+{
+  "title": "NA SIH NUNG CIANG",
+  "key": "Key: D",
+  "galHiam": "Gal Hiam: 219",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Na sih nung ciang koi-ah na pai diam?",
+        "Nang hong Tanpa mun bawlsa ah maw?",
+        "Nang hong kheempa Satan kiangah maw?",
+        "Na sih nung ciang koi-ah na pai diam?"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Mihing ta ding khat vei sih seh hi,",
+        "Tua ni hun ciang thukhenna a om ding aa,",
+        "Nang zong sanggam aw, na si ding hi,",
+        "Na sih nung ciang koi-ah na pai diam?"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Na sih nung ciang koi-ah na pai diam?",
+        "Nang hong Tanpa mun bawlsa ah maw?",
+        "Na pai theih na'ng hong Gumpa muangin,",
+        "Khantawn hinna na ngah nading hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Na sih nung ciang koi-ah na pai diam?",
+        "Nang hong Tanpa mun bawlsa ah maw?",
+        "Tawntung nopsakna le gim thuakna,",
+        "Na deih teel in koi-ah na pai diam?"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Na sih nung ciang koi-ah na pai diam?",
+        "Nang hong Tanpa mun bawlsa ah maw?",
+        "Lungnop kicing ding khat bek om hi,",
+        "Mihing hinna paakpalh bang ahi."
+      ]
+    }
+  ]
+}

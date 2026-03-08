@@ -1,0 +1,68 @@
+{
+  "title": "VANTUNG KHUA OM DING HI",
+  "key": "Key: Ab",
+  "galHiam": "Gal Hiam: 275",
+  "ZBC": "ZBC: 442",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Vantung vanglian hehpihna gam,",
+        "Mi siangthote inn a hi;",
+        "Ama kiangah om tawntung ni,",
+        "Leitung na khempeuh paai ni."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Leitung ni abei ciang in-ah,",
+        "Nung ciangin inn nuamah;",
+        "Mi siangtho te om na lam-ah,",
+        "Vantung khua om ding hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Tawntung inn nuam vanglian gamah,",
+        "I lawmte tua gam om ding;",
+        "Tua inn nuam sung-ah om dingin,",
+        "Mi namcin a khawm ding hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Hong gupna si pha vanglianpi,",
+        "Hehpihna gam teng zelsak;",
+        "Hih gal gamah i om lai-in,",
+        "Hong hehpihna thu gen ni."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Khattang hih hang pai in gen ni,",
+        "Leitung dahna kiam ding hi;",
+        "Lungsim deihteng tawntung omna,",
+        "Kim takin a om ding hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 5",
+      "lines": [
+        "Nidang lai a i kikholhna,",
+        "Lung sungah hong suak zel hi;",
+        "Hih leitunga I kikhenna,",
+        "Dah khitui luanna hi."
+      ]
+    }
+  ]
+}

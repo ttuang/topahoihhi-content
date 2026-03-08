@@ -1,0 +1,48 @@
+{
+  "title": "TUA HI KA LUNGDAMNA",
+  "key": "",
+  "galHiam": "Gal Hiam: 201",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Ka nunna ka lungngai a lung gim lua cih na'ng thei lo,",
+        "Mite en leng maizumna thu khat geel leng lam-et bei;",
+        "Kei bang lel ka nuntakna bang hi lel hiam ka cih lai,",
+        "Ka mai ah sing khuampi khat ke'n mu theiing."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Tua hi ka lungdamna, tua hi ka suahtakna,",
+        "Tua hika kipahna, tua hi ka lam-etna;",
+        "Tua hi kei hong siam pa, tua hi ka vang neihna,",
+        "Tua in gual zawhna hongpia."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Leitung ka nunna khempeuh a vekpi'n ka pia khia zo,",
+        "ka sung pan aw gingkhia teng phatna la bek a hi zong;",
+        "Phat dingin kilawm pen sa'ng pahtawi dingin zong hoih pen,",
+        "Hong itna lian ke'n bang tawh ka thuk zo diam?"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Tu-in kha muanna nei ta'ng, ka geelna te guak suak lo,",
+        "Sepnate Topa thupha silh leh ten ding zong hong sik;",
+        "Kakha tha zong hong dim zel Bangbang piang zong lau nawn keng,",
+        "Topa deihna bang piang cih ka tel nung sang."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "KA LUNG MUANG TA",
+  "key": "",
+  "galHiam": "Gal Hiam: 195KEY: C",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Verse1",
+        "Mawhna vangik puak zawh ding hilo,",
+        "Zeisu'n singkhuam tung'h hong puaksak zota,",
+        "Ka mawh hong maisak zo, a sin' hongsawp zo,",
+        "Aliamma hang natna teng dam khin ta."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Ka kha muangta, ka lungmuang ta,",
+        "Kalani ah si To Zeisu sisan hang,",
+        "Lengthe bangin kakhuang dinghi,",
+        "Kuama telzawh loh lungnopna nei khin tang.",
+        "Verse2",
+        "Ka etlawm ta Pasian mi dingin",
+        "Zeisu paihletin hong ki et ciangin",
+        "Tu'n ka kilawm ta hi, Pasian mi dingin,",
+        "Pasian mit tawh kei hong ki et ciangin.",
+        "Verse3.",
+        "Hong ki leizo, hong ki tan zo,",
+        "Man tawh kileisa mi khat ka hita,",
+        "Kei hong kisam ding hi mopi pawi sungah,",
+        "Nang na ut hiam Tuuno pawipi sungah."
+      ]
+    }
+  ]
+}

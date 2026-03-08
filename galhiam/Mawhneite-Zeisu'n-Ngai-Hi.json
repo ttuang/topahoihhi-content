@@ -1,0 +1,58 @@
+{
+  "title": "MAWH NEITE ZEISU'N NGAI HI",
+  "key": "Key: D",
+  "galHiam": "Gal Hiam: 258",
+  "ZBC": "ZBC: 239",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Mawh neite Zeisu'n ngai hi,",
+        "Hih thupha na thangsak un,",
+        "Vantung lam khial a puk mi,",
+        "Lunghei nei mi va hilh un."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Sa sa un, sa kik kik un,",
+        "Mawhneite Zeisu'n ngai hi.",
+        "Hih thu teltak tangko un",
+        "Mawh neite Zeisu'n ngai hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Hong pai-in hong damsak ding",
+        "Na muang in a thutak hi.",
+        "Asia bel pen zong saang ding,",
+        "Mawh neite Zeisu'n ngai hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Tu'n sinsung kisuang nawnlo,",
+        "Thukham mai ah ka siangta.",
+        "A mah'n hong siangsak khinzo,",
+        "Thukham kalhna cin' khin ta."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Mawh neite Zeisu, ngai hi,",
+        "Kei nangawn a mawh pi mah",
+        "Vantungah hong luttpih hi,",
+        "Mawhna teng siangta in ah."
+      ]
+    }
+  ]
+}

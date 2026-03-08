@@ -1,0 +1,58 @@
+{
+  "title": "A MANPHAPEN SUANG",
+  "key": "Key: G",
+  "galHiam": "Gal Hiam: 316",
+  "ZBC": "ZBC: 155",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "A manphapen sung ke'n mu ing",
+        "Lungdamin la ka sa",
+        "Zeisu kei a ci'n lasa ning",
+        "Khazih la in sa ning"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Amanphapen sung ke'n mu ing",
+        "Lungdam in laka sa",
+        "Zeisu kei a ci'n lasa ning",
+        "Khazih la in sa ning"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Zeisu siampi ka Kumpi hi",
+        "Khuavak kamsangpa hi",
+        "Tokhom mai ah kasang lianpa",
+        "Ka van Kumpi Pa hi"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Amah topate' Topa hi",
+        "Kumpite' Kumpi hi",
+        "Amah in thumaanna Ni hi",
+        "Akha nuai cidamna"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Kilem nading kei taang hong si",
+        "Kei taang A si hong bua",
+        "A lamdang kei hong gum Pa hi",
+        "Amah mah in hong gum"
+      ]
+    }
+  ]
+}

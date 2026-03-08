@@ -1,0 +1,58 @@
+{
+  "title": "VANTUNG KHUA IH TUNG DING HI",
+  "key": "Key: C",
+  "galHiam": "Gal Hiam: 160",
+  "ZBC": "ZBC: 435",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Zeisu'n an bang hong itna pha,",
+        "Lam bang puak zaila sa ni.",
+        "Thang van inn tang sua giang nun nuam,",
+        "Ko ading ngo bang lang hi."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Thang van dong (Thang van dong) ih tun ciangin",
+        "Deih teng leh lailung damna ngah ding hi",
+        "Kum Khua in (Kum Khua in ) la sa ni,",
+        "Topa Zeisu ih phat ding hi"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Thang vantung lam ih zuih laitak,",
+        "Zaitha tawlna om ding hi",
+        "Hi zong ih pai khit ciangin ah",
+        "Zaitha tawl om lo ding hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Zang ni suah sim ih um ding a,",
+        "Limbelh sawisang ih leng ding",
+        "Saumang nun nuam kuam bang, luah nang.",
+        "Gua bang hin lai ngaih khua ah."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Ih mai nopna lailung damna,",
+        "Vabang leeng tung nuam ing ci,",
+        "Thangvan kankil ih tun ciangin,",
+        "Kham vangkhua pi ih mu ding."
+      ]
+    }
+  ]
+}

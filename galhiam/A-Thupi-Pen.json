@@ -1,0 +1,40 @@
+{
+  "title": "A THUPI PEN",
+  "key": "Key: A",
+  "galHiam": "Gal Hiam: 282",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Vanglian thuneih na Kumpi hihna",
+        "Pianpih na te le mihing bawl tawm nate",
+        "Pilna leh theihna te sang athupi pen in",
+        "Lei pian ma'n Nang na om khin zo hi"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Kumpi gam luahna Kumpi tokhom",
+        "Leitung in a thuak ngei lamdang sakna te",
+        "Hauhna nopsak nate sang a thupi pen in",
+        "Na mah zah ding ki seh zolo hi"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Hong kithat suang lak hong ki vui",
+        "Siding nong pai",
+        "Nang bek hong ki pam paih",
+        "Lingpaak bang hong kituahcil hi",
+        "Kei nong it ma",
+        "Lei lak kia sa nong tawm hi"
+      ]
+    }
+  ]
+}

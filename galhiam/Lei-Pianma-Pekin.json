@@ -1,0 +1,60 @@
+{
+  "title": "LEI PIAN MA PEKIN",
+  "key": "Key: E",
+  "galHiam": "Gal Hiam: 278",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Ka sungah sisan lum a luan lai tengin,",
+        "Ka nuntakna hu abei ma in,",
+        "Man neilo kei bang lel",
+        "Hong teel man in nuam lua ing,",
+        "A migitna gengen ning"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Lei pianma pek nangawn in kei hong teel,",
+        "Hong ciamteh zo, luah khawmzo ta ka hi ta tu'n,",
+        "Kha Siangtho hong guan,",
+        "A taak kelkel sisan te'n",
+        "Van kham khuapi nuam hong lutpih ta."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Pau banna neilo in mi siangtho bangin,",
+        "Hong seh khol khin zo, Ama mi ding in,",
+        "Ama lim le meel suun dingin hong ciamteh zoa,",
+        "Pasian innkuan ka hita."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Keima mi ahilo, keima mi dingin,",
+        "Ka itloh mite ka itmi dingin,",
+        "Keima mi hi kei uh teh ke'n kongcihsa hi napi,",
+        "\"Ta te aw\" kong ci ding hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Tui duh dangtak in vul,ka om laitak in,",
+        "Sehnel gam keu ah ka zin lai in,",
+        "Sun nisa lelin kun ka om lai aw neem kaza,",
+        "Nuntakna tui ka dawn ta."
+      ]
+    }
+  ]
+}

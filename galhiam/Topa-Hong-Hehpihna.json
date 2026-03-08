@@ -1,0 +1,39 @@
+{
+  "title": "TOPA HONG HEHPIHNA",
+  "key": "Key: G",
+  "galHiam": "Gal Hiam: 194",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Zingsang phalvak tung in, Vansang dawn pan in,",
+        "Ni simin lungnop na ka ngah hi Mual sangdawn leh guam sung,",
+        "Mualkuam zanglei a hi zong,",
+        "Topa hong it na in kikhel ngei lo"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Zankim lai a hi zong, Ih Pa'anglim nuai ah,",
+        "Lungnop kicing hauhna ka ngah hi,",
+        "Nuamsa'n ka om zongin,",
+        "Haksa'n ka om zongin,",
+        "Topa' hong itna in kicing den hi."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Topa aw hong phat ning, a tawntung in,",
+        "Nisim naisim kong phat zong tul ngeilo ding,",
+        "Nong itna lian in kikhel ngeilo a tawntung",
+        "Topa hong hehpih na lian lua sang."
+      ]
+    }
+  ]
+}

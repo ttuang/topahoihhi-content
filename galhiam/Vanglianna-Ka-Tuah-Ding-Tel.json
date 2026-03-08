@@ -1,0 +1,50 @@
+{
+  "title": "VANG LIAN NA KA TUAH DING TEL",
+  "key": "",
+  "galHiam": "Gal Hiam: 202",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Jesu itna'n sihna pan hong gumkhia,",
+        "Mi khial kei a dingin a sisan luangkhia;"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Mangthang mi khial gilo kihuai peen in,",
+        "Vang lian a ka tuah ding tel;",
+        "(Oh kei bang leltak in vang lian a ka tuah ding,",
+        "Lamdang oh lamdang lua)2"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Oh a itna na'n Jesu'n hong gumkhia zo.",
+        "Phu loh vangletna tawh kei hong pom lai a;"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Tua vangletna pian dang sisan vang hi.",
+        "Pian dang vangletna hi ka tan dia lawwm lo:"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Vantung ka tun dong a ka la ding hi",
+        "Pian dang sisan vang in vangletna kei a;"
+      ]
+    }
+  ]
+}

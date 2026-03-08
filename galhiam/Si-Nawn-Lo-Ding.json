@@ -1,0 +1,50 @@
+{
+  "title": "SI NAWNLO DING",
+  "key": "Key: E",
+  "galHiam": "Gal Hiam: 26",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Lawp gige ing zingsang khatpeuh ciang Gabriel",
+        "pengkul tum ke'n za ning, Sinawn lo ding'n ka khanlawh ciang It huai tanpa mu ding ka dawnteh, lungdam awngin lei nusia ning, Sinawn lo ding'n ka khanlawh ciana"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "(Sinawn Loding) Zing sang khatpeuh ciang,",
+        "(Ka khan lawh ciang) Suangman pha kizem,",
+        "(Lungdam si ning) Minthanna gam ah,",
+        "(Vantung khuapi ah) Hih thu sut sut ning,",
+        "A khang a khang a tatsa mite tawh",
+        "A mah bia in phat khawm ta ding, Sinawn lo ding'n",
+        "kakhanlawh ciang."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Mitphiat kalsungin pumthak nei ning, Pasian a",
+        "minthang den ta hen, Sinawnlo ding'n ka khanlawh ciang,",
+        "Tua khuapi ka zuat toh tak ciang in, dahna teng",
+        "mangpha khak ning ke'n, Sinawn loding'n ka khanlawh ciang."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Aki tansa minam khempeun tawh vantung hoihna",
+        "ke'n vel vel ning, Sinawn lo ding'n ka khan lawh ciang",
+        "Tuidam luanna singkung dum gei ah khawina ding",
+        "mun ke'n ka mu ding,",
+        "Sinawn lo ding'n ka khanlawh ciang."
+      ]
+    }
+  ]
+}

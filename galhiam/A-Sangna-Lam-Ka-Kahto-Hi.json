@@ -1,0 +1,58 @@
+{
+  "title": "A SANGNA LAM KA KAH TO HI",
+  "key": "Key: Ab",
+  "galHiam": "Gal Hiam: 327",
+  "ZBC": "ZBC: 268",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "A sangna lam ka kahto hi",
+        "Nisim a thak ka tung zo hi",
+        "Kahto kawm kong thum lai Topa",
+        "\"Hong suanto in a sangzaw ah\""
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Topa aw hong domto in la",
+        "Ka muh ngei nai loh van zaangah",
+        "Upna tawh hong dingto sak in",
+        "A sangzaw ah hong suan to in"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Lungmanna launa tamna ah",
+        "Midangte a ut hang in ah",
+        "Kei ka lungsim a ut kei hi",
+        "Kei' tupna a sang zaw na hi"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "A sangzaw a misiangte' la",
+        "Upna tawh kei mah in ka za",
+        "Dawi mangpa'n thal in hong kap hang",
+        "Ka sangzaw nuam hi leitung sang"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "A sangpen dong ka kah nuam hi",
+        "Vangliatna taang ka mu nuam hi",
+        "Vantung ka muh dong Topa aw",
+        "A sangzaw ah hong pito aw"
+      ]
+    }
+  ]
+}

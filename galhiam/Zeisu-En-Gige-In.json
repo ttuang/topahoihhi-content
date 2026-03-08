@@ -1,0 +1,50 @@
+{
+  "title": "ZEISU EN GIGE IN",
+  "key": "Key: D",
+  "galHiam": "Gal Hiam: 108",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Ih Topa gualzopenpa, dawimangpa zonggawp zo,",
+        "Mawh na koltanna pan hong honkhia zo,",
+        "Nuam hilhial tu’n ih omta,",
+        "lungnop suahtakna sungah,",
+        "Leitung nate’n hong buaisak zo nawnlo."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Kipak in a min siangtho pahtawi ni,",
+        "Lungtuak ei khangno tuailai te’n mainawt ni,",
+        "Na sikna khempeuh Topa’n",
+        "Na gam hong suak sak ding hi,",
+        "Zeisu en gige inla kalsuan in."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Leitung paiziate en in, buaina leh kisiatna in,",
+        "Tua te’ hang’n na lungsim sosak ken in,",
+        "Tuate Zeisu zawhna sung’h oltak en hithiat lel in,",
+        "Nunghei ke’n cikhuampi nasuak kha deh."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Pitazuh zong Topa tawh, tuihual tung’h pai kiau kiau",
+        "Upna tawh Zeisu bek a et ciang in,",
+        "Ahih hang akhuadak leh tuihual kihta tum dektak.",
+        "Khuadak ke’n Zeisu bek en gige in."
+      ]
+    }
+  ]
+}

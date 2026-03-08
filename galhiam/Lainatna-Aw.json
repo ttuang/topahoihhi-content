@@ -1,0 +1,44 @@
+{
+  "title": "LAINAT NA AW",
+  "key": "Key: G",
+  "galHiam": "Gal Hiam: 99",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Itna sisan luangin ka tatsa mite",
+        "Khuamial gimna sungah kahna aw ka za,",
+        "Lainatin ka khi luang, kua sawl ding ka hiam?",
+        "A mangthang khate kua'n pikhia ding hiam?",
+        "Chorus",
+        "Topa'n nang hongsam lainatna aw tawh,",
+        "Ka nasem dingte a tawm lua e,",
+        "Mangthang khate kiang itna thugen ding",
+        "Nang hong sawl ning e, na hi zo diam, ci",
+        "3* Topa'n nang hong sawi, haibang nang hongngak."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Na neih nalam khempeuh kong piaksa hi a,",
+        "Khatzong siitlo in lakik theipa ka hi,",
+        "Hizong lakik keining naphal bang pia in,",
+        "Van ah nongciah ciang na hawmthawh kha diai."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Na tuai lai in sem in, tumbang nahuai ding.",
+        "Na neihlai pia in beina hun hong tungding,",
+        "Gal leh sa haksa in buaina'n honglap ding,",
+        "sep theihlai semin khua hongmial ding hi."
+      ]
+    }
+  ]
+}

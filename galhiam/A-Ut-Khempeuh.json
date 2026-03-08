@@ -1,0 +1,48 @@
+{
+  "title": "A UT KHEMPEUHTE",
+  "key": "Key: D",
+  "galHiam": "Gal Hiam: 323",
+  "ZBC": "ZBC: 238",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "\"A zate khempeuh\" in hih thu taangko un",
+        "Leitung khempeuhah hih thupha tung sak un",
+        "Mi na muh khempeuh hih nuam huai thu ko un",
+        "\"A ut khempeuh hong pai thei\""
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "\"A ut khempeuhte, a ut khempeuhte\"",
+        "Cihna thu a mual a guam va thawn sak un",
+        "Hong it i Pa in hong sam kik lam khialte",
+        "\"A ut khempeuh hong pai thei\""
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Hong paite in zekai nading thu om lo",
+        "Lut theih lai in lut un, kong honsa'n om zo",
+        "Zeisu lo thumaan hinna lampi om lo",
+        "\"A ut khempeuh hong pai thei\""
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "\"A ut khempeuhte\" thuciam a maantak hi",
+        "\"A ut khempeuhte\" thuciam a kip ding hi",
+        "\"A ut khempeuhte\" nuntak tawntungna hi",
+        "\"A ut khempeuh hong pai thei\""
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "title": "KA SUNGAH LUNGNOP SUAHTAKNA OM",
+  "key": "Key: E",
+  "galHiam": "Gal Hiam: 50",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "(ka sungah lungnop suahtakna om hi) 3",
+        "Khasiangtho in kei hong tuam ciang,",
+        "Chorus",
+        "Lungsim leh khut te lamto in diangin la kasa,",
+        "Nuam na khitui te'n Topa pahtawi uh hi,",
+        "Lungdamna leh phatna tawh ka daiom mawk loh nang in ah,",
+        "(Kathum, katauna te lamna tawh nonghei sak",
+        "zo)2",
+        "Verse2",
+        "(Launa leh zumna te hong beipah a)3",
+        "Khasiangtho in kei hongtuam ciang."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "(Kol kitolh thangkhau kitat kasuak ta)3",
+        "Khasiangtho in kei hongtuam ciang,"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "(Laam in diangin Topa kong pahtawi hi)3",
+        "Khasiangtho in kei hongtuam ciang."
+      ]
+    }
+  ]
+}

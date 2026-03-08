@@ -1,0 +1,48 @@
+{
+  "title": "NUNGTA AHIH MAN",
+  "key": "Key: G",
+  "galHiam": "Gal Hiam: 213",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Pasian in ah a Tapa hong sawi,",
+        "Hong it ding leh hong damsak ding;",
+        "Ka mawhna te maisak ding hong pai,",
+        "Nungta ahi manin a han guak bek om hi."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Nungta ahih man bangbang piang ta se leh,",
+        "Phamawh sa keng zong lau bek keng;",
+        "Mailam hun te a khut sung om cih thei ing,",
+        "Amah nungta ahih man ka nun na'n man nei."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Naungek te zong Amah'n hong kepsak,",
+        "Bangzah ta in lungdam huai hiam?",
+        "Tua sangin zong lungdam huai zaw lai,",
+        "Nungta aihman lau nang om lo cih thu mahmah.'"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Ni khat ni ciang sihna gungal ah,",
+        "Haksa pi-in ka kan ding hi;",
+        "Tua hun ciangin sihna zozo in,",
+        "Amah Kumpi ahihlam ka mu thei ding hi."
+      ]
+    }
+  ]
+}

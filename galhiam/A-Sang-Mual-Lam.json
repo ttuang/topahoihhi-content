@@ -1,0 +1,43 @@
+{
+  "title": "A SANGMUAL LAM",
+  "key": "Key: G",
+  "galHiam": "Gal Hiam: 110",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "A sangmual lam ento in",
+        "Kah leh lungkham teng veng ta",
+        "Bangkim ah bangkim Topa",
+        "Huhna in keivanpan hi",
+        "A sangmual lam ento in",
+        "Na hoih tampi ka ngah ta",
+        "Ka gualzawhna teng teng in",
+        "Van an Topa thupha hi"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Sun in meiikhuam zan in",
+        "Meikhuam tawh hong kem hi",
+        "Kei hong cing Pa lusu ngeilo hi",
+        "Sihna kuampi lam ka tuak zong",
+        "Lum leh galhiam a hi"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Sun in niin hong gimsak lo ding hi",
+        "Zan in Kha in zong hong sukhalo ding hi",
+        "Topa a muangte honkhia hi",
+        "A khut kuak sung'n tu'n koih hi"
+      ]
+    }
+  ]
+}

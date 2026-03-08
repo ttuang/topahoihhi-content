@@ -1,0 +1,49 @@
+{
+  "title": "TOPA HONGPAI KIK DING",
+  "key": "Key: E",
+  "galHiam": "Gal Hiam: 105",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Thukhen nani hongnai zota,",
+        "Aw sanggam aw bangci ding na hiam,",
+        "Tawntung mun ding lungngai loin,",
+        "Lungmuang takin om ke'n maw,"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Misiangtho te hongla dingin,",
+        "Topa hongpai ding sawtnawn lo,",
+        "A teelsa mite lei kiuli pan,",
+        "Hongkhop ciangin,",
+        "Kongit sanggam nang kongmu ding hiam."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Topa Zeisu hongpaikik ciang,",
+        "Minthan na tawh hong paisuk ding a,",
+        "Tatsa misiangtho te khempeuh",
+        "Van kimlai ah hongpito ding."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Sanggam aw na kiging nai maw",
+        "Vantung tuunopawi sim dingin ah,",
+        "Tuuno mopuan naneih keileh,",
+        "kham innsung lutthei kei niteh."
+      ]
+    }
+  ]
+}

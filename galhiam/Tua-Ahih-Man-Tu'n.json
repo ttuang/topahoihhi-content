@@ -1,0 +1,32 @@
+{
+  "title": "TUA A HIH MA'N TU'N",
+  "key": "Key: G",
+  "galHiam": "Gal Hiam: 102",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "(Tua a hih ma'n tu'n thukhenna tawh kipelh zo)3",
+        "Ka sungah lungnop suahtakna om hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "(La bang ci'n nasa, kamtuam tawh lakasa)3",
+        "Ka sungah lungnop suahtak na om hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "(Thubang ci'n nangen, kamtuam tawh thu kangen)3",
+        "Ka sungah lungnop suahtakna om hi."
+      ]
+    }
+  ]
+}

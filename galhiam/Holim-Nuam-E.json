@@ -1,0 +1,48 @@
+{
+  "title": "HOLIM NUAM EE",
+  "key": "",
+  "galHiam": "Gal Hiam: 208Key : -",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Kong piak vantung nopna, Na ngahsa suahtakna:",
+        "Thei lo in tu ciang na puuk zeel maw,",
+        "Pa' kiang kong thuum sak hi;",
+        "An ngawlin thu ka ngen zeel, Itna bek in leitung zawhna"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Holim nuam ee, holim nuam ee,",
+        "Van a Kha Siangtho nong kumsuk teh;",
+        "Holim nuam ee, holim nuam ee,",
+        "Kha siangtho aw ka sung hong teeng den aw."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Hauhna kong piak sa hi, Zong un na mu ding hi;",
+        "Lungnopna pilna kong piak sa hi,",
+        "Dawi in hong kheem zeel maw;",
+        "Lau in na lungkia maw, Na san sa upna tawh zo in."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Lungkia nawn kei ning, Lung kia nawn kei ning;",
+        "Suakta zo ka lungdamna khang semsem,",
+        "Um lah nawn kei ning",
+        "Nung kik nawn lo ding, Upna leh itna in zawh na"
+      ]
+    }
+  ]
+}

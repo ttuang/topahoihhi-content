@@ -1,0 +1,50 @@
+{
+  "title": "KHAZIH THO ZO",
+  "key": "Key: G",
+  "galHiam": "Gal Hiam: 144",
+  "ZBC": "ZBC: 145",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Han thuk sungah lum hi,",
+        "Kei Honpa Zeisu;",
+        "A ni tun' ding ngak hi,",
+        "Kei To Zeisu'n"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Han sung pan hong thoto zo,",
+        "Vaang lianpi tawh galte zo gawp zo;",
+        "Khuamial gam pan galzo-in hong tho to hi.",
+        "A 'mi siangte maan' pih ding hing kik zo hi;",
+        "Hing kik zo, hing kik zo,",
+        "Hallelujah, Hing kik zo."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Cin' hangin mawkna hi,",
+        "Hong hon Zeisu' han,",
+        "Ciamteh hang mawkna hi,",
+        "Ka Topa, luang"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Sihna'n len zo lo hi,",
+        "Hong Honpa Zeisu:",
+        "Dalnate su-gawp hi.",
+        "Kei' To Zeisu'n"
+      ]
+    }
+  ]
+}

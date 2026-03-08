@@ -1,0 +1,48 @@
+{
+  "title": "HONG IT ZAW NING",
+  "key": "Key: Bb",
+  "galHiam": "Gal Hiam: 124",
+  "ZBC": "ZBC: 300",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Hong it zaw ning Topa hong it zaw ning",
+        "Khuk din' a kong thumna Nang hong ngai ding",
+        "Hi bang hi kong thumna Kazih hong it zaw ning",
+        "Hong it zaw ning hong it zaw ning"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Ni dang leitung nopna ka lunggulh pen",
+        "Tu in kong deih Nang mah a hoih pha pen",
+        "Tu in kong deih Nang mah Khazih hong it zaw ning",
+        "Hong it zaw ning hong it zaw ning"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Dahna natna thuak hang pha mawh sa lo",
+        "Nangma sawltakte bang la ka sa zo",
+        "Ka sa khawm amau bang Khazih hong it zaw ning",
+        "Hong it zaw ning hong it zaw ning"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Ka sih laitakin ah Nang kong phat ding",
+        "Ka hu tawkna inah Ka vaikhak ding",
+        "Ka ngen lailai hihmah Khazih hong itzaw ning",
+        "Hong it zaw ning hong it zaw ning"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "title": "MAWHNA' ZOL ZUI KEI IN",
+  "key": "Key: Bb",
+  "galHiam": "Gal Hiam: 261",
+  "ZBC": "ZBC: 289",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Mawhna zol zui kei-in, Na zuih leh khial ding,",
+        "Khatvei zo phot lecin, Azom zawh nop ding",
+        "Pasal nakpi'n do in, Lung gulhna mialpi,",
+        "Zeisu en gige in, Hong zawhpih ding hi."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Hong huh nading thungen in,",
+        "Tha hong pia hong kem ding in.",
+        "Hong huh nuam hi Topa in,",
+        "A hong zawhpih ding hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Kholhpih gilo peel in, Kam hoihlo zang ke'n,",
+        "Pasian min zahtak in, A mawkna'n zang ke'n,",
+        "Thu khualin citak in, Thumaan in migi,",
+        "Zeisu en gige in, Hong zawhpih ding hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Azote Pasian in, Kham lukhu pia ding,",
+        "Ipuk kha zel hangin, Upna tawh zo ding,",
+        "Eite hong Honpain, Tha hong quan ding hi,",
+        "Zeisu en gige in, Hong zawhpih ding hi."
+      ]
+    }
+  ]
+}

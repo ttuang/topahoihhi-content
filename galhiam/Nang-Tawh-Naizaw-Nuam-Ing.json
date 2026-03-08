@@ -1,0 +1,52 @@
+{
+  "title": "NANG TAWH NAI ZAW NUAMMO",
+  "key": "Key: G",
+  "galHiam": "Gal Hiam: 264",
+  "ZBC": "ZBC: 303",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Nang tawh nai zaw nuam ing, Ka Pasian aw.",
+        "Singlamteh thuak ta leng, Hong domto aw.",
+        "Thuak hang ka sasa ding,",
+        "Nang tawh naizaw nuam ing.",
+        "Nang tawh nai zaw nuam ing, Ka Pasian aw."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Zakoh bang ka vaka, Ni tum tahang",
+        "Khuamial a suangtum bek,",
+        "Ka lukham hang Ka mang hong nai nuam ing,",
+        "Nang tawh naizaw nuam ing.",
+        "Nang tawh nai zaw nuam ing, Ka Pasian aw."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Na mai ah honglak in, Vantung lampi.",
+        "Nong ngahsak khempeuh te,",
+        "Hehpihna hi. Vantung mi hong sam ding,",
+        "Nang tawh nai zaw nuam ing",
+        "Nang tawh nai zaw nuam ing, Ka Pasian aw"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Na mai ah honglak in, Vantung lampi.",
+        "Nong ngahsak khempeuh te, Hehpihna hi.",
+        "Vantung mi hong sam ding,",
+        "Nang tawh nai zaw nuam ing",
+        "Nang tawh nai zaw nuam ing, Ka Pasian aw"
+      ]
+    }
+  ]
+}

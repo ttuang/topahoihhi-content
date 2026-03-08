@@ -1,0 +1,26 @@
+{
+  "title": "VAN KONG KI HONG",
+  "key": "Key: F",
+  "galHiam": "Gal Hiam: 239",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Vankong khak ki hong tao Nuntakna tui hong luang khia",
+        "Luang den ta hen A tawntung in ah, Zeisu tokhom tung pan."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Lungnop damna suah takna, leh nuntakna,",
+        "Topa hong piak thupha te,",
+        "Up na tawh thu ngen Mi khempeuh tungah,",
+        "Thupha hong tung ta hen."
+      ]
+    }
+  ]
+}

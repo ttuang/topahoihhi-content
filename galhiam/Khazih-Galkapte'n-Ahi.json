@@ -1,0 +1,66 @@
+{
+  "title": "KHAZIH GALKAP TE'N AH",
+  "key": "Key: F",
+  "galHiam": "Gal Hiam: 254",
+  "ZBC": "ZBC: 180",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Khazih galkap te'n ah Galsim ding kuan un.",
+        "Eite mai a masa Zeisu mitsuan un.",
+        "Khazih eite mangpa makai hilo maw,",
+        "En un a dial paina galphual lam manawh."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Khazih galkap te'n ah Gal kapding kuan un.",
+        "Singlamteh pua unla na mailam nawt un."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Zeisu min azak ciang Dawi mite tai uh,",
+        "Nawt un tua ahih ciang na mualsuah dong uh,",
+        "Phatna aw kizak ciang Dawi gam killing hi,",
+        "Lawmte tua ahih ciang Awng un phatna pi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Galkap honpi bangin Pawlpi'n masot hi,",
+        "Tang misiangte bangin i totna khat hi.",
+        "Eite kikhenlo in pumkhat bek i hi,",
+        "Lawp le zuih kikhat in hong ki-it sak hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Kumpi za sia thei hi, kumpi gam kip kei,",
+        "Hih hang Zeisu' Pawlpi cik mah'n sia thei kei.",
+        "Dawi in Pasian' Pawlpi cikciang zo ngei kei,",
+        "Khazih hong ciamsa hi, A ciam peel ngei kei."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 5",
+      "lines": [
+        "Tua hi a hong pawm un mi khempeuh inah,",
+        "Ko tawh hong sakhawm un galzawh nuamna la.",
+        "Aminthang pahtawi un leitung vantungah,",
+        "Tatsat loin phatun khazih kumpipa"
+      ]
+    }
+  ]
+}

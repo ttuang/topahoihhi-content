@@ -1,0 +1,42 @@
+{
+  "title": "ZEISU LIANBEL TA HEN",
+  "key": "Key: E",
+  "galHiam": "Gal Hiam: 295",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Lam tawntungah kei hong tonpih hi",
+        "Hong liah hong dal hi",
+        "Tawntung Pasian kei sung nungta hi",
+        "A vangliatna tawh kei hong tuam hi",
+        "Topa lianbel hi",
+        "Tawntung Pasian keisung nungta hi"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Nungta hi Zeisu, keisung nungta hi",
+        "Han sungpan Zeisu thokik hi",
+        "Kumpi tokhom tung a vangliatna tawh kidim",
+        "Zeisu lianbel ta hen"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Ka mawhna khempeuh hong maisak zo",
+        "Kei hong sawpsiang zo",
+        "Zeisu liamma hangin ka dam zo",
+        "Zeisu zawngkhalna hangin hau zo",
+        "Giautau ngei nawnlo",
+        "Deih teng cing khin Zeisun hong dim zo."
+      ]
+    }
+  ]
+}

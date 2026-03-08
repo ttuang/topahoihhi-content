@@ -1,0 +1,39 @@
+{
+  "title": "HONG KI NAI SAK IN",
+  "key": "Key: A",
+  "galHiam": "Gal Hiam: 284",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Hong kinai sak in",
+        "Hong khah suah ngei ke'n",
+        "Ki niamkhiatna tawh kong zuan",
+        "Na lawmpa ka hi nong ci hi"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Nang kong lunggulh hi",
+        "Kua man hih kenteh",
+        "Na nun kuama'n luah thei kenteh",
+        "Nong kawina ang lum ka phawk hi",
+        "Lam hong musak in",
+        "Kei hong pi kik in"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Sap teng cinna deih teng kimna",
+        "Nang na hi sap teng cinna",
+        "Nong naih hong theisak in"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "title": "VAN LA PI",
+  "key": "Key: G",
+  "galHiam": "Gal Hiam: 214",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Kei tumtak in lungdamna lasa-in ka pai hi,",
+        "Khat veivei ka lungzuangin ka phun kha zelzel hi,",
+        "Hi bang dinmun ciang bek tawh vakthap lel ding maw,",
+        "Vantung mite tawh vanlapi sa khawm lo ding maw."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Mualsang tungpan in la aw gal zak ing,",
+        "A mah muang in mang leng kei zong sa thei ding hing,",
+        "Tua lungdamna thugen in ka vak kawm in ah,",
+        "Lim tak in ka ngaih tak ciangin Vanlapi ka za."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Lungdamna thu gimpi a, genbaih kei mah in teh,",
+        "Na ki pat khiat ding zong baih kei thei kha mah in teh,",
+        "Hi hang ki pan phot lecin na tel na ding hi,",
+        "Vanlapi a kisakna mun Zion na hi.",
+        "Nitaang sungah om dih in,",
+        "Tawntung ni taang sung om in,",
+        "Nitaang sungah nungta ding in,",
+        "Tawntung nuam nasa ding hi,",
+        "Na lam hong taang sak ding hi,",
+        "Sanggam aw nitaang sungah om dih in."
+      ]
+    }
+  ]
+}

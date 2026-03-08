@@ -1,0 +1,43 @@
+{
+  "title": "LAMDANG ZEN MAH SICIA",
+  "key": "",
+  "galHiam": "Gal Hiam: 204",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Zan a van siang en ding ka khua dak leh,",
+        "Vanpi nung ah a pil Pasian om veh;",
+        "Aksite amau mun ciat ah belh a,",
+        "Van dumpi puan in silh sak khin zo ta.",
+        "Chorus",
+        "Vanglian Pasian lamdang zen mahsi cia,",
+        "Vanpi'n hong bia napi'n hong phawk si cia,",
+        "Tel zawh ding hilo lamdang nong itzia,",
+        "Vanglian Pasian lamdang zen mah si cia."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Gamla pek ah ni kha aksi ka mu,",
+        "Dem zawh loh hehpihna Pasian ka mu;",
+        "Meii tung tuangin hong kipulak ding hi,",
+        "ua kan a lamdang zawom lo ding pi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Lawp cinten in vantung ka en to a,",
+        "A bawlsa khempeuh te lamdang ka sa;",
+        "Banghang peuhmah in kei hong phawk zenzen,",
+        "A tapa sing tungah hong khai zenzen."
+      ]
+    }
+  ]
+}

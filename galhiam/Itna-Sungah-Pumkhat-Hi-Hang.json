@@ -1,0 +1,27 @@
+{
+  "title": "Itna sungah pumkhat hi hang",
+  "key": "Key: G",
+  "galHiam": "Gal Hiam: 54",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "(Itna sungah pumkhat hi hang)2",
+        "Eite’ lungsim leh Pasian a kizop khit ciang",
+        "Itna sungah pumkhat hi hang"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Tu-in la sakhawm ziahziah ni",
+        "Top’n hong it zo cih phawk ni,",
+        "Khut kilen in ih sepkhop leh mite’n thei ding,",
+        "Itna sungah pumkhat hi hang"
+      ]
+    }
+  ]
+}

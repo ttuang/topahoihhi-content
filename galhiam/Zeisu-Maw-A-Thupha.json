@@ -1,0 +1,30 @@
+{
+  "title": "ZEISU MAW A THUPHA",
+  "key": "Key: D",
+  "galHiam": "Gal Hiam: 22",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Thupha namkim hongpia Topa,",
+        "nong piak thupha hangin,",
+        "Nang kong mangngilh khazel Topa,",
+        "Hong zang siamsak in Topa."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "(Zeisu maw a thupha, koizaw teel ding na hiam)2",
+        "Nang hong teel zaw ning Topa aw,",
+        "Nongpiak thupha sangin.",
+        "2. Damna thupha",
+        "3. Hauhna thupha",
+        "4. Pilna thupha"
+      ]
+    }
+  ]
+}

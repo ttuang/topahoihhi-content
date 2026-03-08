@@ -1,0 +1,62 @@
+{
+  "title": "KUA NA NGAWH DIAM?",
+  "key": "Key: D",
+  "galHiam": "Gal Hiam: 220",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Topa hong gupkhiatna thu don loin na om lai leh,",
+        "Na nuntakna lungngai in, bangci ding na geel ngei maw,",
+        "Ka thuhilhte siat kaihin, nialnial in na om lai leh,",
+        "Ni khat ni ciangin na zang ding hi."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Van Mangpa kikona tawh,",
+        "Peengkul hong kitum takteh;",
+        "Gupkhiat misiangtho khempeuh,",
+        "Mitphiat kailn hong mang ding,",
+        "Na pasal hong mang ding hi,",
+        "Na tate hong mang ding hi,",
+        "Tua ni takteh nang kua na ngawh diam?"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Tua ni hong tun tak teh, hih leitung dahhuai sin teh,",
+        "Vengsak vengkhang mikizong aa khitui luanna om ding,",
+        "Alumkhawm khat hong mang ding,",
+        "Ansu khawm khat hong mang ding,",
+        "Tua ni tak teh nang kua na ngawh diam?"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Pawlpi sungah min apin, pawlpi ngeina teng zui-in,",
+        "Gamtat hoihna hahkatin, kikhawmin sumpi pia -in,",
+        "Tui na kiphum khit takteh, Vantung tun ding na sawm leh,",
+        "Khat vei na suakkik in Topa'n ci."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Na mawhna tu'n kisik in, peengkul hong kitum ma in,",
+        "Tua vantung Mopi pawi-ah nang zong na om keikha deh,",
+        "Na sih khit ciangin hankhuk sungah vai kihawm nawn lo,",
+        "Cin thei in, tu-in na Piangthak in."
+      ]
+    }
+  ]
+}

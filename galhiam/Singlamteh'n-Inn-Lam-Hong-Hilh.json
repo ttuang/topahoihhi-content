@@ -1,0 +1,68 @@
+{
+  "title": "SINGLAMTEH IN LAM HONG HILH",
+  "key": "Key: Bb",
+  "galHiam": "Gal Hiam: 188",
+  "ZBC": "ZBC: 325",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Singlamteh lam tawn in ka ciah kul ding hi,",
+        "Tua lo lam dang om lopi ,",
+        "Tua khuavak kong pi tungthei ngei kei ning,",
+        "Singlamteh lam ka khialh khak leh"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Singlamteh in lam hong hilh",
+        "Singlamteh in lam hong hilh",
+        "Mailam ka pai ciang in nuam semsem ding,",
+        "Singlamteh in inn lam hong hilh."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Singlamteh phung ka van teng tolh khia khin hi,",
+        "Topa mai ka muh ciangin,",
+        "Lungtai tak tua lam dawnding kong ki pan,",
+        "Ka lung sung phat na tawh ki dim."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Si kithehna lam tawn ka ciah suak ding hi,",
+        "Topa totsa lampi mah,",
+        "Adawn dongin kei ka kah toh theih leh,",
+        "Pasian inn sung ka kha teng ding."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Singlamteh lampi Topa'n tawn masa in",
+        "kei a dingin hong si hi,",
+        "Tua lam baih tuan lo,",
+        "A ma a dingin nuntakna thak ka muhna hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 5",
+      "lines": [
+        "Leitung lampi mangpha ka khak ta ding hi,",
+        "Tua lampi tawnnawn kei ning,",
+        "Topa' kongpi pan hong ciah in hong ci,",
+        "Inn lam zuan in kei ciah ta ning."
+      ]
+    }
+  ]
+}

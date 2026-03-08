@@ -1,0 +1,38 @@
+{
+  "title": "KA THEI HI, KEI HONG TANPA HING HI",
+  "key": "Key: Bb",
+  "galHiam": "Gal Hiam: 168",
+  "ZBC": "ZBC: 146",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Ka theihi kei hong Tanpa hing him",
+        "Leitung ah hong pai kik ding hi",
+        "Ka thei hi, nuntakna thak hong pia",
+        "Hehpihna vaang a khut sung om.",
+        "Chorus",
+        "Kathei, kathei To Zeisu hing hi,",
+        "Leitung ah hong pai kik ding hi,",
+        "Kathei, kathei nuntakna hong pia,",
+        "Hehpihna vaang a khut sung om.",
+        "Verse2",
+        "Ka thei hi hong thuciam pel ngei kei",
+        "A gen sa thu bei ngeilo ding",
+        "Agilo sihna pan ka suakta",
+        "Amah muding nungciangin ah."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Kathei hi ka om nang mun bawl khol",
+        "A om na peuh kei zong om ning",
+        "Alamdang a mah'n kei hong keem hi",
+        "Kei ading in hong pai kik ding."
+      ]
+    }
+  ]
+}

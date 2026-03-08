@@ -1,0 +1,50 @@
+{
+  "title": "NANG KIANGAH",
+  "key": "Key: G",
+  "galHiam": "Gal Hiam: 333",
+  "ZBC": "ZBC: 310",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Hinna tawntung Topa Pasian",
+        "Lawmte sang ka itzaw hi.",
+        "Vantung lam ka zon' laitakah,",
+        "Topa kiang ka tawn nuam hi.",
+        "Nang kiangah, Nang kiangah",
+        "Nang kiangah, Nang kiangah",
+        "Vantung lam ka zon' laitakah,",
+        "Nang kiangah ka tawn nuam hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Leitungah hauhna le nuamna",
+        "Minthang thu ka ngen kei hi.",
+        "Nangma kiang ka om laitakah,",
+        "Lungdamin ka seem ding hi.",
+        "Nang kiangah, Nang kiangah",
+        "Nang kiangah, Nang kiangah",
+        "Nangma kiang ka om laitakah,",
+        "Lungdamin ka seem ding hi. non"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Mualkuâm khuamialna sung hi hang",
+        "Tuipi galah hong kha in.",
+        "Hin' tawntungna kongpi sungah,",
+        "Nangmah tawh hong lut sak in.",
+        "Nang kiangah, Nang kiangah",
+        "Nang kiangah, Nang kiangah",
+        "Hin' tawntungna kongpi sungah,",
+        "Topa kiang ka lut ding hi."
+      ]
+    }
+  ]
+}

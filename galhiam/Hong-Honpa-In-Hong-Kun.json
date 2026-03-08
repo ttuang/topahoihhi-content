@@ -1,0 +1,68 @@
+{
+  "title": "HONG HONPA IN HONG KUN",
+  "key": "Key: Eb",
+  "galHiam": "Gal Hiam: 321",
+  "ZBC": "ZBC: 228",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Hong honpa in hong kun",
+        "Na thahatna neu hi",
+        "Thaneemte'n thu hong ngen un",
+        "Cingtakna ngah ding hong ci"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Zeisu'n loh khin ta",
+        "aman tung ka ba",
+        "Si bang sansa ka mawhna",
+        "Vuk bang hong sawp ngo ta"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Topa tu'n ka thei zo",
+        "Nangm vanglian bek in",
+        "Phak le lol zong damsak zo",
+        "Suang lungnem sak tui bangin"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Hehpih ka ngah na ding",
+        "Phatna khat zong nei keng",
+        "Ka puan vuk bang paak nading",
+        "Tuuno si sung hong sawp leng"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Sihna lupna tung pan",
+        "Ka kha a kah to ding",
+        "Zeisu in keimah hong tan",
+        "Ci in lungdam kiko ding"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 5",
+      "lines": [
+        "Topa tokhom mai ah",
+        "Kicing in ka din ciang",
+        "Mun phatna puak ning Amah",
+        "Ngasuk ning Zeisu khe kiang"
+      ]
+    }
+  ]
+}

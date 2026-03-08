@@ -1,0 +1,30 @@
+{
+  "title": "Vantung Omna",
+  "key": "Key: C",
+  "galHiam": "Gal Hiam: 283",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Siangtho siangtho ka Topa",
+        "Leitung teng na min than kizeel hi",
+        "Minam khempeuh in na min",
+        "Hong pahtawi hong phat ta hen",
+        "Nungta cih theih na'ngin",
+        "Na maitang ko hong lak in."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "\"I Pasian in hoih hi ci'n",
+        "Vantung ah kiphat hi",
+        "Leitung buppi in zong",
+        "Hallelujah ci'n lasa ding"
+      ]
+    }
+  ]
+}

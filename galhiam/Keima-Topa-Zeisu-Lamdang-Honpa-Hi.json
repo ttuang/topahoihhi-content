@@ -1,0 +1,48 @@
+{
+  "title": "KEIMA TOPA ZEISU LAMDANG HONPA",
+  "key": "Key: D",
+  "galHiam": "Gal Hiam: 84",
+  "ZBC": "ZBC: 62",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Keima Topa Zeisu lamdang Honpa hi.",
+        "Kei ading lamdang Honpa hi,",
+        "Suangpi kitam sungah ka kha hongliah sak",
+        "Nuamna gunpi bang hong musak.",
+        "Chorus",
+        "Suangpi kitam sung keima kha hongliahsak.",
+        "Tua suang pi'n gamgawtak liap sak,",
+        "Ait na sungah ka nuntak na phum ta,",
+        "(Ama khutin kei honghum ta)2",
+        "Verse2",
+        "Keima Topa Zeisu lamdang honpa hi.",
+        "A mah'n puakhia keima vanpi,",
+        "A mah'n honglen a kei kaling keiding hi.",
+        "Ka ni bangin tha hongpia hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Kisim zolo thupha hongpia kimat in,",
+        "A ma hoihna tawh kidim in,",
+        "Lungdam in la kasa Pasian minthang hen,",
+        "Hih bang Tanpa kanei hi ke'n."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Ama dikna puanpaak silha kathawh ciang,",
+        "Amah dawnin ka lentoh ciang,",
+        "Ama hongitna leh honghotna kicing,",
+        "Vanah awn tampi tawh saning."
+      ]
+    }
+  ]
+}

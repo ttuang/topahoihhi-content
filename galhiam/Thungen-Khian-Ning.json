@@ -1,0 +1,43 @@
+{
+  "title": "THUNGEN KHIAN NING",
+  "key": "Key: G",
+  "galHiam": "Gal Hiam: 206",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Sep ding a kilawm lopi ka sem khia a,",
+        "Gen ding a kilawm lopi ka gen khia hi;",
+        "Tua hun ciang hih ka sem ding,",
+        "Thupha ka ngah na'ng-in ah,",
+        "Mun khat ah gel-in thu ngen khian ning."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Ken'n pawh thu ngen ning,",
+        "Ken'n pawh thu ngen ning,",
+        "Lam hong pii ding lawmpa,",
+        "Khat ke’n nei lel ing;",
+        "Ken'n pawh thu ngen ning,",
+        "Ken'n pawh thu ngen ning,",
+        "Mun khat ah gel-in thu ngen khian ning."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Nisim a hong piak thupha teng phat peuh leng,",
+        "Ka thuumna khempeuh hong dawng cih ka theihi;",
+        "Mun khat ah gel khian in ah",
+        "Ama' kiang thu ngen peuh leng",
+        "Ka van gik khempeuh hong dawn khia hi."
+      ]
+    }
+  ]
+}

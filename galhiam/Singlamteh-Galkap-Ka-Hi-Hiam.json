@@ -1,0 +1,59 @@
+{
+  "title": "SINGLAMTEH GALKAP",
+  "key": "Key: D",
+  "galHiam": "Gal Hiam: 259",
+  "ZBC": "ZBC: 278",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Singlamteh gal kap ka hi hiam?",
+        "Topa’ nungzui hi hiam?",
+        "Ama na sepna dingin ah,",
+        "Ka mai zumthei ding hiam?"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Keitang ding (kei tang ding)",
+        "A si miPa (a si mi Pa)",
+        "A minpha tawh do ding",
+        "Singlamteh ka puak hangin ah,",
+        "Zawhna lukhu ngah ding."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Midangte’n nopna ngah dingin,",
+        "Sihdong a do laitak;",
+        "A nuam mahmah lupna tungah,",
+        "Lum hithiat ding ka hiam?"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Gal do ding galte a om hiam?",
+        "Tul luanna thuak ding hiam?",
+        "Leitung gitlohna in Pasian",
+        "Kiang hong paipih ding hiam?"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Mang ding in ah ka ki don na’ng,",
+        "Hong hangsak in topa;",
+        "Nangma thupha’n hong huh ta in,",
+        "Gimna ka thuak ciangin,"
+      ]
+    }
+  ]
+}

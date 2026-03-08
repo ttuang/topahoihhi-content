@@ -1,0 +1,58 @@
+{
+  "title": "A THU ZAZA NUAM ING",
+  "key": "Key: G",
+  "galHiam": "Gal Hiam: 169",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Zeisu thu thei semsem nuam ing",
+        "Hong itna thu gengen nuam ing",
+        "Kei tang a si Pa hong itna",
+        "A cing zaw in ka thei nuam ta"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "A thu zaza nuam ing",
+        "A thu zaza nuam ing",
+        "Kei tang a si Pa hong itna",
+        "A cing zaw in ka thei nuam ta"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Zeisu thu ke'n sinsin nuam ing",
+        "A deihna khentel thei nuam ing",
+        "Pasian Khasiangtho ka Siapa'n",
+        "Khris zia leh tong hong lakkhia ta'n"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Zeisu kammal zaza nuam in",
+        "Topa tawh ho limlim nuam ing",
+        "A aw ngai ning vai khempeuh ah",
+        "A gen teng ka pom kim nuam ta"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Van tokhom ah a tutna thu",
+        "Van hauhna teng a neih na thu",
+        "A gam zai nang leh hong pai nang",
+        "Za nuam ing Kumpa a sauh nang"
+      ]
+    }
+  ]
+}

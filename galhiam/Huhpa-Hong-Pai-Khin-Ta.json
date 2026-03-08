@@ -1,0 +1,58 @@
+{
+  "title": "HUHPA HONG PAI KHIN TA",
+  "key": "Key: C",
+  "galHiam": "Gal Hiam: 134",
+  "ZBC": "ZBC: 174",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Lungdam thu zeel sak un mi omna citengah",
+        "Mihing lungsim omna mihing gal tamna-ah",
+        "Tapidaw leii khempeuh Lungdam thugen sak un",
+        "Huhpa hong pai khin ta!"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Huhpa hong pai khin ta! Huhpa hong pai khin ta",
+        "Vantung Kha Siangtho pen Pa'n piak ding hong ciam pen",
+        "Lungdam thu zeel sak un mi omna citengah",
+        "Huhpa hong pai khin ta!"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Zan hun saupi beita zingkhua hong vaak zo ta",
+        "Lungsim vangikpi teng hehna hu ging veng ta",
+        "Ni taang khammual panin hong suah khiat tak ciangin",
+        "Huhpa hong pai khin ta!"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "A kha sung zatui tawh kumpite' To hatpa'n",
+        "Thongkia kha khempeuh tung hong puak hotkhiat kicing",
+        "Thong pi hawm sung tengah zawhna lapi hong ging",
+        "Huhpa hong pai khin ta!"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Gen zawh lo itna siang! ka leii in bang ci-in",
+        "Gen zawh loh hehpihna mi vak vai tung gen ding",
+        "Amah leh A meel taang sungah ka om theih na'ng",
+        "Huhpa hong pai khin ta!"
+      ]
+    }
+  ]
+}

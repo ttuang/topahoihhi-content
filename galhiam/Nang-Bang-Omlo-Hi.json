@@ -1,0 +1,28 @@
+{
+  "title": "NANG BANG OMLO HI",
+  "key": "Key: G",
+  "galHiam": "Gal Hiam: 242",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Nang bang omlo hi",
+        "Nang bangin ka lungsim sukha om kei",
+        "Atawntung tawntungin ka zonzon hang",
+        "Mu keng! Nang bang omlo hi x 2"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Nong hehpihna guntui bangin luang",
+        "Na liamma hang ka dam zo",
+        "Haksatna pan atawntung Nong honkhia",
+        "Nang bang omlo hi"
+      ]
+    }
+  ]
+}

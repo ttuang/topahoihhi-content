@@ -1,0 +1,48 @@
+{
+  "title": "NANG KONG BEL HI",
+  "key": "Key: F",
+  "galHiam": "Gal Hiam: 302",
+  "ZBC": "ZBC: 66",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Lungsim gal dona le dahna sung panin,",
+        "Kei sang a sangzaw suangpi ka delh nuam hi,",
+        "Mawhlua, gimlua zo Nang a hong hi ta ning,",
+        "A kip Suangpi aw, Nangmah kong bel ta hi."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Nang kong bel hi,",
+        "Nang kong bel hi,",
+        "Nangmah kong bel hi,",
+        "A kip thupha Suangpi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Sunin gamdai a, dahin lungleeng laitak,",
+        "Ze-etna in a vang tawh hong tuam ciangin,",
+        "Nuntak huihpi nung, tuipi kihual laitak,",
+        "Thupha Suangpi aw, hong liahin bit takin."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Gal do laitakin gal in hong neh ciangin,",
+        "Tai-in kong ko zel hi, ka belh Suangpi aw,",
+        "Tuihual bang ze-et gimna hong tun ciangin,",
+        "Na sung kong bu hi, keima kha Suangpi aw."
+      ]
+    }
+  ]
+}

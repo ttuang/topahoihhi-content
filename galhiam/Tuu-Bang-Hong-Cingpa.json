@@ -1,0 +1,43 @@
+{
+  "title": "TUU BANG HONG CINGPA",
+  "key": "Key: E",
+  "galHiam": "Gal Hiam: 34",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Topa in kei hong cing tuucing lianpa hi,",
+        "Ka nunsung bangmah ka kisam kei ding hi,",
+        "Lono namun tuikiangah kei hongkha hi,",
+        "Ka nuntak na tha hongdim sak tontung hi.",
+        "Chorus",
+        "Hoihna leh hehpihna in ka khan sung,",
+        "a tawntung in hongzui tak tak dinga,",
+        "Anuam a taang Topa innpha sungah,",
+        "Amah tawh ka om den ding."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Sihna lim guamsung nangawn kanawk hang in,",
+        "Hong cing a hih ma'n siatna kalau kei hi,",
+        "Amolh tum leh aciangkhut in kei aa hi,",
+        "A tawntung in kalungmuan na a hihi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Ka galte omna mai ah kei aa dingin,",
+        "Sabuai phah in an hong lui in hong vak hi",
+        "Keima lu zong sathau hong nilh sak den a,",
+        "Ama kiangah bang kangen lai khong ding hiam!"
+      ]
+    }
+  ]
+}

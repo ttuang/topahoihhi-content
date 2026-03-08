@@ -1,0 +1,57 @@
+{
+  "title": "HUNHOIH HUN NUAM",
+  "key": "Key: E",
+  "galHiam": "Gal Hiam: 12",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Hun hoih hun nuam hong musak",
+        "Hun kilawm hong ngah sak",
+        "Hun manpha sung'h hong tonpih ka To",
+        "Zum leh hiam panin hong hem",
+        "Lau huaina pan hong keem",
+        "Cidam takin a minpha ka lo"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Lungdam si'ng hih hunpha sungah",
+        "Ka Topa'n lam hong pi",
+        "Na sipha tawh hong naisak in",
+        "Nang omna peuh lungnopna",
+        "Ka nun na'n vang nei",
+        "Nong itna kei sungah mei bangin lum den hen",
+        "Hallelujah Amin thang hen"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Silh leh ten an leh tui",
+        "Nisim hongsik hongvak",
+        "A bei theilo hehpihna thupha",
+        "Ka kha ading zong hong lui",
+        "Thu leh la tawh hong vak",
+        "Hi ci bangin hong luang A thupha"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Lono hing silsial bang in",
+        "Unok paak palh bangin",
+        "Ka nuntakna hong no suaksak zel",
+        "Pahtawi dingin ki lawm pen",
+        "Phat ding in zong hoih pen",
+        "Ka khatha hong dim zel hong dim zel"
+      ]
+    }
+  ]
+}

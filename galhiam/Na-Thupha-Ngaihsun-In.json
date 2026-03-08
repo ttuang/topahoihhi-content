@@ -1,0 +1,43 @@
+{
+  "title": "Na Thupha Ngaihsun In",
+  "key": "Key: Eb",
+  "galHiam": "Gal Hiam: 1",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Nun'takna tui pi tung ah huih nun'ciang in",
+        "Lung man'na van gik bang in na thuak ngei hiam.",
+        "Mi dangte a sum a paai na et ciang in",
+        "Zeisu kiangah sun in na lung kiat ciang in",
+        "Singlamteh hong pua sak in a gik thei hiam.",
+        "Thupha khat nungah khat na ngaihsun in",
+        "Vantung khua sungah na omna hi zong",
+        "kuamah in lei zo kei sum a om ding hi."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Thu pha khat nungah khat ngaihsun in",
+        "A tampi hong pia in thei ta in.",
+        "Thu pha khat nungah khat ngaihsun in",
+        "Pasian in a tampi hong pia thei ta in."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Tua ahih ciangin gal kido lai takin",
+        "Pasian in na kheempeuh uk hi.",
+        "Lau kei in Vantung mihing te in",
+        "nang kiangah om hi.",
+        "Lampi tawp dongin nang a hong huh ding hi."
+      ]
+    }
+  ]
+}

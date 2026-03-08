@@ -1,0 +1,37 @@
+{
+  "title": "TOPA MAANG HI",
+  "key": "Key: C",
+  "galHiam": "Gal Hiam: 235",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "[(Topa maang)3 (Leitung lungdam hen)3",
+        "Mi khempeuh kipak hen, Topa maang hi.]2"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Meikuang Ama' mai ah pai,",
+        "Galte khempeuh kangtum khin",
+        "Topa omna ah",
+        "(mualte khuainun bang tuisuak)2"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Athumaanna vantung in hong lak,",
+        "A vangliatna miten mu",
+        "Na khempeuh tung",
+        "Topa Nangmah,",
+        "(kong laamto uh hi)2"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "title": "KHA SUNGAH BUAL KHAWM LENG",
+  "key": "",
+  "galHiam": "Gal Hiam: 46KEY: E",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Verse1",
+        "Lamdang lua aw lamdang lua sa'ng liangvai kei aa ding in,",
+        "Dahna khitui hong nulsiang ta, nuamna vive dim ta,",
+        "Hongitna tel sem sem leng, nuamna khitui hong luang,",
+        "Leitung hauhna sang manpha zaw, nopna kei aa hita."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "AwZeisu a Khasiangtho hongleng Zeisu,",
+        "Innkuan sung hong om ciang,",
+        "Nu leh Pa'n zong lasa khawmta, tate zong honglam ta,",
+        "Ih innkuan in lasa khawm leng, Buaina lah om nawn lo.",
+        "Verse2",
+        "Kitot kisel na om nawnlo, nuamna vive dimta,",
+        "Nu Pa kalzong hongnuam sem sem, khasung ah bual",
+        "khawm leng",
+        "Tu leh ta te masuan in, biak inn lampai khawm ta,",
+        "Kiten kum lah hong tam sem sem. ngaih meel lah hoin sem sem.",
+        "Verse3.",
+        "Thangvan Laukhasiangtho hong leng, Kawigam hong",
+        "phong dingin",
+        "Vangliatna dim itna khut tawh, tuai lai teng hongmanta,",
+        "Enven hialai khangnote Biak innah hong laam.",
+        "Hunkhat lai a a mangthangsa ih tate ai ve leh."
+      ]
+    }
+  ]
+}

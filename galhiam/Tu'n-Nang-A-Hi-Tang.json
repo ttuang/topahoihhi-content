@@ -1,0 +1,38 @@
+{
+  "title": "TU’N NANGA HI TANG’",
+  "key": "Key: G",
+  "galHiam": "Gal Hiam: 222",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Man neilo hi bang leel kei nuntak sung,",
+        "Iplahna them zong neilo bang ah",
+        "Topa maipha muh nang semzolo pi’n,",
+        "Hizahta nong it ma’n nuam lua ing."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Tu’n nanga hi ta’ng hong Gumpa aw,",
+        "Tubansiah nang thu hi ta’ng ka To Zeisu,",
+        "Bangbang piang ta zong hong phat den ni’ng,",
+        "Nang lo-in bang mah tangtun zo ke’ng"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Ze-etna namkim in kei hong tuam hang,",
+        "Lungmuang ta’ng, To Zeisu’n hong do sak,",
+        "Simmawh thu’n tamvei hong kinelhsiah zong,",
+        "Gualzo ka To Zeisu min phat ta’ng."
+      ]
+    }
+  ]
+}

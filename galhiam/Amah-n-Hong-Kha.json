@@ -1,0 +1,58 @@
+{
+  "title": "AMAH'N HONG KHA",
+  "key": "Key: D",
+  "galHiam": "Gal Hiam: 76",
+  "ZBC": "ZBC: 46",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Amah'n hongkha hih thu mahmah",
+        "Hehnepna dim thupha a hi",
+        "Kasepna ka paina tengah",
+        "Pasian khutin keihong kha hi"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Amah'n hong kha Amah'n hong kha",
+        "Ama khut tawh Amah'n hong kha",
+        "Anung mantak kazui ding hi",
+        "Ama khut in kei hong kha hi"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Khatvei leh Eden bang nuamna",
+        "Khatvei leh khuamialna thukpi",
+        "Bang ka tuak hang muanna launa",
+        "Ama khutin kei hong kha hi"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Phunlo puamlo lungkim tak in",
+        "Topa Nakhut kalen nuam hi",
+        "Bang bang tuakzong bang lungkhamna",
+        "Ka Pasian in kei hong kha hi"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Na hehpihna tawh galzo a",
+        "Nasep kakhit ciang a vekpi",
+        "Sih ding lau lo Pasian in ah",
+        "Jordan gungal ah hong kha hi"
+      ]
+    }
+  ]
+}

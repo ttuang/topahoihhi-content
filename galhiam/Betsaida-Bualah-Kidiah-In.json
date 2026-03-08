@@ -1,0 +1,38 @@
+{
+  "title": "BETSAIDA BUAL AH KIDIAH IN",
+  "key": "",
+  "galHiam": "Gal Hiam: 210",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Betsaida bual kilok lai",
+        "Kha Siangtho huih a nun lai",
+        "A hunlap aa kidiah te'n",
+        "Damna ngah damna ngah hi"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Lap lai teh aw lap lai teh",
+        "Betsaida bual kilok lai",
+        "Kidiah in tun kidiah in",
+        "Paulap zongzong nawn ke'n aw"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Na nunna lung muang ken aw",
+        "Paal lunte zong tual kia thei",
+        "Na laukha lailung muang ding",
+        "Cii bang teel zekai ke'n aw"
+      ]
+    }
+  ]
+}

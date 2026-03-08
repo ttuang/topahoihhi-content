@@ -1,0 +1,35 @@
+{
+  "title": "BEEL SEKPA KHUT",
+  "key": "Key: G",
+  "galHiam": "Gal Hiam: 233",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Ahoih Topa a lamdang Honpa",
+        "Ka vai khempeuh Nangma khut sungah",
+        "Om cih thei ing Nang deih bang in",
+        "Nong seek ding hi",
+        "Na omna sungah damtak Nong kai a",
+        "Na Kha Siangtho tawh lam Nong lak a",
+        "Nangma sungah nop semsem nangin",
+        "Hong hilh in"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Siangtho sapna sung Nong tawn sak a",
+        "Kei Nong teel hi Nang kiangah hong kai in",
+        "Hong puah pha'n Topa kong ngen hi",
+        "Hong seek hong bawel hong zang hong dim",
+        "Beel seekpa khut sung kong ki-ap hi",
+        "Hong sam hong lak hong leh hong tonpih in",
+        "Beel seekpa khut sung kong ki-ap hi"
+      ]
+    }
+  ]
+}

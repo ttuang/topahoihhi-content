@@ -1,0 +1,46 @@
+{
+  "title": "HOSANA",
+  "key": "Key: C",
+  "galHiam": "Gal Hiam: 231",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Thanem te'n hat zo ci hen",
+        "A zawng te'n hau zo ci hen",
+        "Mittaw te'n mu zo ci hen",
+        "Topa'n kei tung hong sem khin zo"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Hosana Hosana a kigo Van Tuuno",
+        "Hosana Hosana sihna pan thokik zo hi"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Tua guntui sung kaki bual hi",
+        "Mawhna teng hong sawp siang hi",
+        "Hong hon Pa itna cik tui",
+        "Vantung pan hong luang suk hi"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Tua guntui thuk sung pantho in",
+        "Topa ang ka zuanding hi",
+        "Hong suak ta sak ahih man",
+        "Hotdamna la kasa ding"
+      ]
+    }
+  ]
+}

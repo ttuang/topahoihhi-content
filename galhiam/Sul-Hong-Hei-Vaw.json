@@ -1,0 +1,62 @@
+{
+  "title": "SUL HONG HEI VAW",
+  "key": "Key: E",
+  "galHiam": "Gal Hiam: 60",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Pasian gamleh dikna Pasian thu leh deihna.",
+        "Thupitak ngaihsun dih ni,",
+        "Leitung nate sangin, thudang dang te sangin,",
+        "Zong masa zaw le cin, Tua nate tawh hongpia Khawm ding hi."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Sul honghei vaw sanggam aw,",
+        "Sianmang sinthu anbang kumkhawm in ah,",
+        "Amaizong dihni, Vanmantam a, ihlungkham nate,",
+        "Zeisu zawhna sungah hong tuisuak ding hi,",
+        "Van daitui te hongluang ding hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "A thusung kibual leng, Akha sung kibual leng,",
+        "A ma thu ah lungkim leng,",
+        "Ih lunggulh nate thei, ih tangsap nate nei,",
+        "Ih ngaihsut nasangin hongpia nuam zaw amah",
+        "muangpeuh leng."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Haksat na hongtun ciang lungkhamna hongtun ciang,",
+        "Gilkial dangtak ih thuak ciang,",
+        "Pasian mai zong zaw ni, pasian mai en zaw ni,",
+        "Midang te muan dingsang,",
+        "Zeisu kumpi muan ding hoih zaw hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "lh gitloh na pan in i lungsim niamkhiat in,",
+        "Ih Topa kiang zuan dih ni,",
+        "Ih lungsim sungkhia in, ih mawhna pulak ni,",
+        "Tua hi leh i gamsung, thupha hongpia'n",
+        "hong damsak ding hi."
+      ]
+    }
+  ]
+}

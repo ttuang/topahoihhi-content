@@ -1,0 +1,56 @@
+{
+  "title": "NANGMAH TATKHIAT NADING",
+  "key": "Key: C",
+  "galHiam": "Gal Hiam: 317",
+  "ZBC": "ZBC: 207",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Nangmah tatkhiat nading,",
+        "Nunna na ngah nading,",
+        "Kei' nuntakna kong pia,",
+        "Ka si pha Kong buakhia.",
+        "(Ke'n Ka nuntakna Kong pia zo,",
+        "Nang Kei bang nong pia zo.)2"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Khang tawntunga nuamna,",
+        "Na ngah theih na'nginah,",
+        "Gentheihna kum sawtpi,",
+        "Nang ading Kong thuak hi.",
+        "(Nang ading kum sawtpi Kong gim,",
+        "| Kei hang bang tan na gim.)2"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "A taang ka Pa' inn nuam,",
+        "Ka tokhom vaanglian tuam,",
+        "Nusia'n leitung Kong thuak,",
+        "Lungzuan' dahna kong thuak.",
+        "(Nang hang hih zahta Ke'n nusia,",
+        "Kei hang bang nang nusia. )2"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Dawi gam sung pan nangmah,",
+        "Kong hotkhiat na'nginah,",
+        "Ka thuak gimnapite,",
+        "Gen khin zo kei niteh.",
+        "(Nang ading gen zawh loh Ka thuak,",
+        "Kei ading bang na thuak.)2"
+      ]
+    }
+  ]
+}

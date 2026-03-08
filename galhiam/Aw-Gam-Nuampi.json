@@ -1,0 +1,50 @@
+{
+  "title": "AW GAM NUAMPI",
+  "key": "Key: G",
+  "galHiam": "Gal Hiam: 347",
+  "ZBC": "ZBC: 450",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "An le leengtui gam ka tung zo",
+        "A phatna teng kei a hi zo",
+        "Lungdamhuai ni taang tawntung hi",
+        "Keima khuamial leng mang zo hi"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Aw gam nuampi a pha gampi",
+        "Mualsang tung pan ka galet a",
+        "Kei ading bawl kholhsa innpi",
+        "Tuipa galah ka galmuh ta",
+        "Ka ten nading vantung khuapi",
+        "A taangpha hi tuipi galah"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Hong Honpa kei tawh hong vakkhawm",
+        "Nuam takin kei tawh hong om khawm",
+        "A khut in dam takin hong kai",
+        "Vantung gamgi ciang dong ka nai"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Gamgi gal panin pak namtui",
+        "Huih nung hiauhiau tawh hong kizui",
+        "A vul ngei lo paakte palhin",
+        "Hinna lui luang a tawntung in"
+      ]
+    }
+  ]
+}

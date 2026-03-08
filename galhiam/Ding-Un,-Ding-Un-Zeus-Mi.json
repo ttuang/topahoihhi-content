@@ -1,0 +1,63 @@
+{
+  "title": "DING UN, DING UN ZEISU' MI",
+  "key": "Key: G",
+  "galHiam": "Gal Hiam: 191",
+  "ZBC": "ZBC: 293",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Ding un, ding un Zeisu' mi",
+        "Singlamteh galkap te",
+        "A kumpi dial sangkhan un",
+        "Gal khat khit khat a ban in",
+        "A mah'n hong zawhpih ding",
+        "Gal khempeuh zawh kit ciangin",
+        "Khazih Topa maang ding"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Ding un, ding un Zeisu' mi",
+        "Mang un pengkul sawl na",
+        "Galpi phual ah vakuan un",
+        "Tuni Topa nipha",
+        "Pasal kisa teng kuan un",
+        "Gal te a tam hang in",
+        "Tha le tha kisi sak un",
+        "Hang seem un lau ciangin"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Ding un, ding un Zeisu' mi",
+        "Ama tha bek suang un",
+        "Mihing tha'n hong lelsak ding",
+        "Nomau tha muang kei un",
+        "Pasian thu galvan bang in",
+        "Silhin vilin thungen",
+        "Gal leh sep ding om ciangin",
+        "A baihsa'n om khial ke'n"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Ding un, ding un Zeisu'mi",
+        "Gal bei hak nawn lo ding",
+        "Tu'n gal kap nading zinn ciang",
+        "Gal zawhna la ging ding",
+        "A zote khempeuh in ah",
+        "Nuntak lukhu ngah ding",
+        "Vanglian kumpipan kingah",
+        "A tawntung mang khawm ding"
+      ]
+    }
+  ]
+}

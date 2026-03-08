@@ -1,0 +1,67 @@
+{
+  "title": "HONG PI KHIA IN",
+  "key": "",
+  "galHiam": "Gal Hiam: 243",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Seh ne lgam sung tui Na phul sak",
+        "Israel tung Na piak bang in",
+        "Zogam keu ah Nunna tui luang sak aw",
+        "Zomi te kha dangtak lua in",
+        "Nunna lam pan pial khin ta ung",
+        "Na kha Siangtho hong sawl kik in aw Topa"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Hong pi khia in aw Topa hong pi khia in",
+        "Na tuu huang nuam sung ah om kim ding in",
+        "Mu van lai tha hong guan in",
+        "Tai tampi hong ton pih in",
+        "Na kha lim nuai hong khawl sak in aw Topa"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Suangpi pan in tui Na phul sak",
+        "Israel te Na dawn sak bang",
+        "Zomi kha dang tak te hong dawn sak aw",
+        "Israel te Na pi khia aa",
+        "Cannan gam sung Na lut pih bang",
+        "Na Kha Siangtho hong lutpih kik aw Topa"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Van an lm leh vamim sa tawh",
+        "Israel te na vak bang in",
+        "Zomi te zong nek le dawn hong pia aw",
+        "Nang ma sungah nuamsa ding in",
+        "Aneu alian hong huai kim in",
+        "Itna Pasian Nang bek hong muang ung Topa"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Kei vapai ning mangthang te kiang",
+        "Nong gupna thu tang ko ding in",
+        "Zogam buppi hong khang lo sak kik aw",
+        "Lau lo hang tak Na thu gen ding",
+        "Na Kha Siangtho hong guankik aw",
+        "Mang thang te kiang gupna thu gen ning Topa"
+      ]
+    }
+  ]
+}

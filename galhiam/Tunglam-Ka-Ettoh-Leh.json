@@ -1,0 +1,48 @@
+{
+  "title": "TUNGLAM KA ET TOH LEH",
+  "key": "Key: E",
+  "galHiam": "Gal Hiam: 28",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Tunglam ka ettoh leh van dumpi ka mu a,",
+        "Mualdawn meeiluumkai-te vanmong bang ka mu a,",
+        "Ahih hang ka muh nailoh, genzawhloh in tam a,",
+        "Hih thu ka ngaihsut ciang, Topa bangzah na lian,"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Tua hi a, Topa aw kong phat hi",
+        "Na hihna bangin hong phat ning, Na khempeuhte na khut sung,",
+        "A patna leh a tawpna, Vanglian khut in len,",
+        "Hih thu ka ngaihsut ciang Topa bangzah na lian"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Hih leitung bangmah lo tungah a kaisak hi.",
+        "Sun in ni zan in kha aksi te tang sak hi,",
+        "Amaute a hun zui in ki hei diamdiam uh hi,",
+        "Hih thu ka ngaihsut ciang Topa bangzah na lian."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Vantung vannuai mun khempeuh ah nang na om hi.",
+        "Tuipi thuk sung nangawnah zong na ki zel hi.",
+        "Na thu sung na koihsate damdam nong musak a",
+        ",Hih thu ka ngaihsut ciang, Topa bangzah na lian."
+      ]
+    }
+  ]
+}

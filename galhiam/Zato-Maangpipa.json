@@ -1,0 +1,68 @@
+{
+  "title": "Zato Maangpa",
+  "key": "Key: Eb",
+  "galHiam": "Gal Hiam: 237",
+  "ZBC": "ZBC: 109",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "A siam bel hong damsak thei Pa,",
+        "Hong it Topa Jesuh hi;",
+        "Dahna hong nopsak’ng inah,",
+        "Ahong sapna aw ngai in."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Vantung mi a la sakna,",
+        "Leitung mi pha bel cihna;",
+        "Sa ni a ngaih mahmah la,",
+        "Jesuh pha bel min hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "A hingkik Tuuno vanglian Pa,",
+        "Jesuh ke’n ka hong um hi;",
+        "Hong gum Topa Na min a pha,",
+        "A lian bel ka ci ding hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Jesuh maitang mu ding inah,",
+        "Vantung ka pai toh ciangin;",
+        "A hong itna tokhom kiangah,",
+        "Phatna la sa tawntung ning."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Khialhna, launa teng a beisak,",
+        "Topa Jesuh min bek hi;",
+        "Ka zak ciang ka lung hong nuamsak,",
+        "A manpha Jesuh min hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 5",
+      "lines": [
+        "Na mawhna a hong phel Topa,",
+        "A hong sapna aw ngai i n;",
+        "Vantung lam nuamtak zui inla,",
+        "Jesuh tawh zawhna ngah in."
+      ]
+    }
+  ]
+}

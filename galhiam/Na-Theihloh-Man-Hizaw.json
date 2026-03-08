@@ -1,0 +1,48 @@
+{
+  "title": "NA THEIHLOH MAN HIZAW",
+  "key": "Key: E",
+  "galHiam": "Gal Hiam: 1",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Hongit Topa Zeisu nuntak tawntungna hi,",
+        "Hehpihna leh itna tawh kidim hi,",
+        "Lungdam in lakasa lungmuangin ka om ta,",
+        "Kei khamuan na ka Topa Jesu hi."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Hongitna thei lecin, hong ngaihna thei lecin,",
+        "Nang zong sangnuamlo in omkei niteh,",
+        "Natheihloh man hizaw, Na tel lohman hizaw,",
+        "En dihve na kha ading hilomaw."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Sanggam aw hih leitung a ding bang nageel hiam!",
+        "Na khantawn a dingzong na geel ngei hiam!",
+        "Ki sathei kha kei in na khangdawng hoih lai in,",
+        "Tuate paakbang vulding naphawk thei hiam."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "A kimuh theih lai-in, a hong nai om lai in,",
+        "Hong tung ding nazon hang namuh loh hun,",
+        "Hong tunma tumah in, A mah nial nawn kei-in,",
+        "En dih ve nakha a ding in hong kun."
+      ]
+    }
+  ]
+}

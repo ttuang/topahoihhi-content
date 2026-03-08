@@ -1,0 +1,50 @@
+{
+  "title": "LAM TAWNTUNG A HONG PAIPIH HI",
+  "key": "Key: Ab",
+  "galHiam": "Gal Hiam: 268",
+  "ZBC": "ZBC: 328",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Lam tawntung a hong paipih hi,",
+        "Adang bang ka ngen nawn diam",
+        "Khan tawntung lam honghilh zo hi,",
+        "Hong itna ka muangkhial diam.",
+        "Amah muang leng leitung ah zong,",
+        "Vantung nopna pha ka nei.",
+        "(keitungah bang bang hong tung zong,",
+        "Zeisu'n a pha bawl ka thei)2"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Lam tawntung a hong paipih hi,",
+        "Lam haksa hang lung nuamsak.",
+        "Ze-etna zawh na'ng hong hehpih,",
+        "Hin na Anlum in hong vak.",
+        "Ka kha tui duh dangtaakin vul,",
+        "Ka khe tawl puuk dek lai tak,",
+        "(Ka mai ah Suangpi pan hong phul,",
+        "En un lungdamna tui nak)2"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Lam tawntung a hong paipih hi,",
+        "Kicing lamdang hong it na.",
+        "Tawl damna tak hong khamzohi,",
+        "Vantung ka Pa inn sungah",
+        "Sih nawn lohna puan bang silh in,",
+        "Ataang gam ka kai ding hi.",
+        "(Tua ciang sa ning atawn tungin,",
+        "Zeisu'n hong kha mualsuak hi)2"
+      ]
+    }
+  ]
+}

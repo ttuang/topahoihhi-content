@@ -1,0 +1,50 @@
+{
+  "title": "HEHNEM SIAM JESU",
+  "key": "",
+  "galHiam": "Gal Hiam: 280Key - G",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Lungzuan dahna te'n",
+        "Dai bang hong nawk ciangin ah,",
+        "Hehnem siampa Jesu ngaihsun in,",
+        "A man hong en pah a, damna sung hong tunpih",
+        "A khasung zatui tawh tongdam nem hong luan"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Hong liah hong dal ding A mah hong kikham,",
+        "Topa kha nang kiang hong om tawntung,",
+        "Lungsung siktui bangnem,",
+        "Lungzuang kha hong khoi dam",
+        "Hehnem siampa Jesu'n A ang sung hong sung."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Haksatna khat peuhpeuh",
+        "Na thak khak khak tak ciang in,",
+        "Lungdam ko in Amah phat zaw in,",
+        "Nopsak theih na lungsim hong piaksa hi khin"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "It le ngaih te'n hong paisan hong nusiat ciang in,",
+        "Dah teng thuakpih nuam Jesu ilawm",
+        "hong theisiam mahmah a, Jesu ko peuh lecin",
+        "Khamuanna le nopna tui bang hong luang khawm."
+      ]
+    }
+  ]
+}

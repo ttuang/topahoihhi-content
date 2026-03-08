@@ -1,0 +1,53 @@
+{
+  "title": "KA NUNNA HONG BAWLHOIH SAK",
+  "key": "Key: Ab",
+  "galHiam": "Gal Hiam: 346",
+  "ZBC": "ZBC: 443",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Ni a taang khatna gam lamah",
+        "Nopsak na'ng gam lamah",
+        "Aksi zong a taanna gamah",
+        "Ka om na'ng khua a hi.",
+        "Chorus",
+        "Tua khuapi nuam, khut tawh bawl lo",
+        "Tua gam eima ading",
+        "Tawntung vantungmi'n la a sa",
+        "Eima om nading hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Gimna thuakna gun gal khatah",
+        "Lunggim tamna lamah",
+        "Kikhel a i nopsak na'ngah",
+        "Ka om na'ngin bawl ta."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Sihna tuipi gal khat lamah",
+        "Khuamialna gam sungah",
+        "Lungdam ruamna i ngah nading",
+        "A taangin ka mu hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Mawhna le hehna leitungah",
+        "Hong liah a mangsak hi",
+        "Tawntung tua khuapi nuam sungah",
+        "Zeisu tawh omkhawm ning."
+      ]
+    }
+  ]
+}

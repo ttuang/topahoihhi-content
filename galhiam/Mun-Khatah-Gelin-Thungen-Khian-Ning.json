@@ -1,0 +1,42 @@
+{
+  "title": "MUN KHAT AH GELIN THUNGENKHIAN NING",
+  "key": "Key: D",
+  "galHiam": "Gal Hiam: 294",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Sep ding a kilawm lopi ka sem kha a,",
+        "Gen ding a kilawm lopi ka genkha hi,",
+        "Tua hun ciang hih ka sep ding,",
+        "Thupha ka ngah na'ngin ah'",
+        "Mun khat ah gelin thungenkhian ning."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Ke'npawh thungen ning,",
+        "Ke'npawh thungen ning,",
+        "Lam hong pi ding Topa pha ke'n nei lel ing,",
+        "Ke'npawh thungen ning,",
+        "Ke'npawh thungen ning,",
+        "Mun khat ah gelin thungenkhian ning."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Nisim a hong piak thupha teng phat peuh le'ng,",
+        "Ka thuumna khempeuh hong dawng cih ka thei hi,",
+        "Mun khat ah gelkhia-in ah,",
+        "Ama kiang thungen peuh le'ng",
+        "Ka vangik khempeuh hong dawnkhia hi."
+      ]
+    }
+  ]
+}

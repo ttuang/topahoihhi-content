@@ -1,0 +1,48 @@
+{
+  "title": "HIH LEITUNG KIKHENNA GAM",
+  "key": "",
+  "galHiam": "Gal Hiam: 120Key F",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Hih leitungin gibang khenna gam hi,",
+        "Mitphiat kalsung nangawn lungmuan om thei lo,",
+        "Tu nuam taleng ding khawlnuam ta leng pai,",
+        "Hih leitung kikhen na gam hi."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Phatni hei napeuhah Topa phatni,",
+        "Ih khen zongin Zeisu sung kimu kik ding,",
+        "Lei ah ih kimu diam vankimlai ah,",
+        "hi leitung kikhenna gam hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Ih khen zongin kimuding khawlmun ah,",
+        "Hih leitungin ih khualzinna gam bek hi,",
+        "Ih khawlkhawm zong holung cimom man lo,",
+        "Hih lei kitui luanna gam hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Hun leh tuiluang in hongpai kheng kheng veh",
+        "Hih leitungin asawt ding hinawn lopi.",
+        "Leitungaw mangpha Zeisu hongnai zo,",
+        "Kikhen om nawnlo ding van ah."
+      ]
+    }
+  ]
+}

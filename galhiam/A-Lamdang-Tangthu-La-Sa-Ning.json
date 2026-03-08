@@ -1,0 +1,68 @@
+{
+  "title": "A LAMDANG TANGTHU LASA NING",
+  "key": "Key: Eb",
+  "galHiam": "Gal Hiam: 305",
+  "ZBC": "ZBC: 98",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "A lamdang tangthu lasa ning",
+        "Zeisu kei taang ding si hi",
+        "Vantung minthan'na nusia a",
+        "Singlamteh sihna thuak hi"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "A lamdang tangthu lasa ning",
+        "Zeisu si hi kei taang ding",
+        "Limlang tuikhuk gei kikhop ciang",
+        "Mi Siangthote tawh sa ning"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "A gammangte Zeisu'n zong hi",
+        "Lam a khial tuu te zong hi",
+        "A khut tawh keimah hong pom hi",
+        "Lampi ah hong kha kik hi"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Cinate Zeisu'n damsak a",
+        "A kipukte zong phong hi",
+        "Mittaw in a launa tam a",
+        "Ahih hang hong gum ding hi"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Khuamial kei tungah hong tung ta",
+        "Dahna lampi ka zui ta",
+        "Kei hong ompih in Topa aw",
+        "Hong kem in lam hong hilh ta"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 5",
+      "lines": [
+        "Sihna gungal kah matengin",
+        "Topa in hong cing ding hi",
+        "I itte tawh kimu dingin",
+        "Gungalah hong kha ding hi"
+      ]
+    }
+  ]
+}

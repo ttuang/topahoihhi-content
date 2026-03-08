@@ -1,0 +1,58 @@
+{
+  "title": "PASIAN TA KA HI ZO",
+  "key": "Key: E",
+  "galHiam": "Gal Hiam: 8",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Pasian ta Zeisu Khazih kapom kaup ciangin,",
+        "Pasian ta cihna thu kangah,",
+        "Satan ta panin Pasian ta ka hizo,",
+        "ei tangin ka ToZeisu hongthuaksak hangin."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Pasian ta ka hizo, Topa kaphat den ding,",
+        "Leitung mi'n hong theihpih loh hangin,",
+        "Vantungmi sak theihloh sisan manphat na la",
+        "Vantung kham khua sungah zong hih la kasa ding"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Hot khiatna omkei leh, sing tungth thah ding ka hi,",
+        "Sing lamteh mimawh sih na'ng hi,",
+        "A hih hang Zeisu'n, kei ma mawhna tang in,",
+        "Sihna mual singlamteh tung'h kikhen khin zo ta."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Ka mawhna a tam hang, Zeisu ka up ciangin",
+        "A si in ka mawh sawp siang zo,",
+        "Kei septheih omlo, hong hehpih na hangin,",
+        "Tua sisan hang mawhnei pi midik ka tang ta."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Hehpih na'n upna tawh gupna kangah khin zo",
+        "Tawntung mun ding ka nei zota,",
+        "Leitung mi'n sak theih loh, a lamdang tatna thu",
+        "A tawntung Topa minphat na'ng langaih ka nei"
+      ]
+    }
+  ]
+}

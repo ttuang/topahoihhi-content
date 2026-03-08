@@ -1,0 +1,30 @@
+{
+  "title": "MUVAN LAIBANG",
+  "key": "Key: E",
+  "galHiam": "Gal Hiam: 235",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Hiah nang kong ngak hi",
+        "Kasung ah hong teng in",
+        "Topa kong lunggulh luahi",
+        "Nang sung hong selin",
+        "Khuk din thu khong ngen",
+        "Kong thei tel nuam zaw sem sem hi"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Ka sung teeng in",
+        "Ka nunna hong zang in,",
+        "Nangma tha tawh,",
+        "Ka leeng to ding Muvan lai bang."
+      ]
+    }
+  ]
+}

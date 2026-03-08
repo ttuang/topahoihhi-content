@@ -1,0 +1,31 @@
+{
+  "title": "HALELUJAH TOPA MANG HI",
+  "key": "Key: E",
+  "galHiam": "Gal Hiam: 234",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Halelujah Halelujah Halelujah",
+        "Topa maang hi",
+        "Halelujah Halelujah Halelujah",
+        "Vanglian Topa maang hi"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "A lamdang vangliatna pi tawh",
+        "A gualzawhna hong lak hi",
+        "Khuamial tung leh sihna tungah",
+        "Gualzo khin",
+        "Thong kia mite suahtakna pia",
+        "Sikkol khempeuh sutat khin",
+        "Hong hehpihna hang Gupna ngah ta"
+      ]
+    }
+  ]
+}

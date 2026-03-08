@@ -1,0 +1,48 @@
+{
+  "title": "LUNGDAM KOH BIAKPIAK NA",
+  "key": "Key: G",
+  "galHiam": "Gal Hiam: 97",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Topa tungah lungdam kako ding",
+        "Tuno laibu sung ka min kigelh zo,",
+        "A mual theilo a mial ngeilo ding",
+        "Khut mapawn tawh kigelh zo ta."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Topa tungah lungdam kako ding",
+        "Phatna biakna kongpia hi Topa",
+        "Lungdamkoh biakna kong paipih hi,",
+        "Sangpen Pa aw ka lungdam hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Tuidam kiangah tuuno kikhah bang,",
+        "Neek leh dawn silh leh ten inn leh lo zong,",
+        "A nisim in zatding sum leh paai,",
+        "Hongsik hongpia ka Topa hi,"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Topa hong hehpihna kaphat ding,",
+        "Diik ding huih manngenlo hongpiak man in,",
+        "Nitaang khataang dawnding tuisiangtho,",
+        "A khawnkhong in hong zangsak hi."
+      ]
+    }
+  ]
+}

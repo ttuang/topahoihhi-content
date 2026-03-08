@@ -1,0 +1,50 @@
+{
+  "title": "Zion Zawl La",
+  "key": "Key: D",
+  "galHiam": "Gal Hiam: 288",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Ka ngaih in kei aa hi, Kei zong ama’ ahing,",
+        "Sun le zan lunggulh ing, Sawl bang heina peuh ah,",
+        "Nang loin gua bang ka hing zo diam?",
+        "Pheiphung suankhawm banzal hong len in aw."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Na sakmel pallun e, etin ka cim thei lo,",
+        "Na tongdam khum zungzung, taang bang ka damna hi,",
+        "Simlei ah Nang bang ahoih om kei,",
+        "Lungdeih sinthu li bang cinna hi cia."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Na kha nuai ah hong seel aw,",
+        "Na liim nuai hong belsak aw,",
+        "Ka lungdeih nang lo om kei,",
+        "Sinlai va bang hong phawng cia,",
+        "Nang loin deih cing thei kei,",
+        "Vang ngaih Zeisu nang lo."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Ka Kumpipa na hi, Pasian zong na hihi,",
+        "Ka Pa zong na hi aa, Ka lawm hoih pen zong na hi,",
+        "Zato mangpa, damna mangpa na hi,",
+        "Sianmang vontawi, min lianpen To Zeisu."
+      ]
+    }
+  ]
+}

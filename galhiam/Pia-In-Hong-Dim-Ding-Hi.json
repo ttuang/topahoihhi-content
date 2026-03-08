@@ -1,0 +1,59 @@
+{
+  "title": "PIA IN HONG DIM DING HI",
+  "key": "Key: E",
+  "galHiam": "Gal Hiam: 38",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Na thupha, te sim dih in, khat khit khat ngaih sun dih ve",
+        "Pasian in a tampi hongpiak na theive leh,",
+        "Na neek ding leh napiak ding zong hong sik lai lai aive.",
+        "Pia in minuamsa na hih lam kithei ni teh."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Pia in (hong dim ding hi)",
+        "Pia in (hong dim ding hi)",
+        "Ngahna sangin piakna ah thupha om zaw hi,",
+        "Na sum om na mun ah na lungsim om ding hi.",
+        "Pia in pia in na lungdam, nalungdam ding hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Meigongnu salthau um sung sathau sawh khat zong",
+        "A piak man in thupha luang a zah tampi,",
+        "Kial sung tontung sathau um sathau tawh kilawinawn lo,",
+        "Nang zong pia in Topa hoihna na mu ding hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "A cingh te hau semsem ven, A ciil te zawng semsem se,",
+        "Piak khiatna in it na hi, Pasian dan hi veh,",
+        "Cimawh genthei mizawngte, meigong tagah dongtuak te,",
+        "Piakna tawh it na lak in kisik kei niteh."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Piak nop loh na tawh thupha kongvangte kikhak",
+        "thei a, Hazatna leh iksik na tawh hong khem thei hi",
+        "A phalte khang sem sem ding, a it te kiam semsem ding,",
+        "Neih man a piak hilo a, phal man hizaw hi."
+      ]
+    }
+  ]
+}

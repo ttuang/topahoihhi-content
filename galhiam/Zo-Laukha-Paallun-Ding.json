@@ -1,0 +1,48 @@
+{
+  "title": "ZO LAUKHA PAALLUN DING HI",
+  "key": "Key: G",
+  "galHiam": "Gal Hiam: 245",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Mimbang pianna tuan pupate’n,",
+        "Sin lailung a mawl manin maw,",
+        "Ton le aih, galthat sa manin,",
+        "A nunna mual liamsan ta."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Nun bang nuam aw, ih gam lei-ah",
+        "Namcin Zeisu naubang ih pom ciang,",
+        "Lungdeih teng liibang cing ding a,",
+        "Zo laukha hong paallun ding hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Tun le zua, lia leh taangte aw,",
+        "Singdang gam a eng dingin ah,",
+        "Tung Sianmang in lung awilo ee,",
+        "Gual tawh kim ding Sian siam hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Tung Sianmang naubang a pomte,",
+        "A paallun tui bang luangluang ding,",
+        "Sim leimi-lun zatam teng sang,",
+        "Gual tung tuang vabang pil ding."
+      ]
+    }
+  ]
+}

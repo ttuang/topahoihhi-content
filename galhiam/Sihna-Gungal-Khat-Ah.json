@@ -1,0 +1,62 @@
+{
+  "title": "SIHNA GUNGAL KHAT AH",
+  "key": "Key: G",
+  "galHiam": "Gal Hiam: 274",
+  "ZBC": "ZBC: 436",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Jesuh si in hong sawp siang hi,",
+        "Kikhawm ding sihna gun gal-ah;",
+        "Natna hong tun’n kik ding nai lo,",
+        "Nuamna thu kikum in om ni;",
+        "Sihna gungal khatah."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Sihna gungal khatah, Sihna gungal khatah,",
+        "Sihna gungal khatah, I tun ding hong nai ta!",
+        "I tun ding hong nai ta, I tun ding hong nai ta,",
+        "I tun ding hong nai ta, Sinna gungal khatah."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Dahna hong tung ding ka lau lo,",
+        "Upna’n ka mu vantung ka en;",
+        "Ka za hi vantung mi’n la sa,",
+        "Khitui khempeuh Topa’n nul khin;",
+        "Sihna gungal khatah."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "A itte tawh kikhop nuamna,",
+        "Bang aw ka za ding hiam tua-ah;",
+        "Ka lungsim hong vut hong tho sak,",
+        "Na dang deihna tau mun mang sak;",
+        "Sihna gungal khatah."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Topa hong hilh bang ka zuihna,",
+        "Lungdam ka ngah a kicinna;",
+        "Khawlngei lo-in ka phat ding hi,",
+        "Khitui khempeuh hong nul sak hi;",
+        "Sihna gungal khatah."
+      ]
+    }
+  ]
+}

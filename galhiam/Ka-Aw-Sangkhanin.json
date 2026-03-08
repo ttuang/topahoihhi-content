@@ -1,0 +1,26 @@
+{
+  "title": "Ka Aw Sangkhanin",
+  "key": "",
+  "galHiam": "Gal Hiam: 36",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Ka aw sangkhan in Topa minphat ning",
+        "Khut te lam in namin kong phat den ding",
+        "Khasiangtho aw kote hong dim in la,",
+        "Ka aw te tawh namin kong phat den ding."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "(Minthang hallelujah, Hallelujah",
+        "Topa bia in pahtawi ni)"
+      ]
+    }
+  ]
+}

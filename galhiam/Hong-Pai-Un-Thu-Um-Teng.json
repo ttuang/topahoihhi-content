@@ -1,0 +1,61 @@
+{
+  "title": "HONG PAI UN THU UM TENG",
+  "key": "Key: Ab",
+  "galHiam": "Gal Hiam: 126",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "ZBC ; 78"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Hong pai un thu um teng",
+        "Lungdam in kipak un",
+        "Hong pai un va en ni",
+        "Betlen Khua sungah",
+        "Vantung Kumpipa",
+        "Bawngkuang sung hong suak ci"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Va bia ni hong pai ta un",
+        "Va bia ni hong pai ta un",
+        "Hong pai un va bia ni",
+        "Khazih Topa"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Sa un kipahna la",
+        "Vantung mi honte aw",
+        "Vantung a sang belna",
+        "Khempeuh thawn sak un",
+        "Van sang belna-ah",
+        "Pasian'min thang ta hen"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Hi hi hong hon ding Pa",
+        "Tu ni'n kong dawn uh hi",
+        "Zeisu Topa Na min",
+        "Thang tawntung ta hen",
+        "Pa Pasian' deih thu",
+        "Mi bang in hong piang ta"
+      ]
+    }
+  ]
+}

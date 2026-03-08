@@ -1,0 +1,56 @@
+{
+  "title": "HONPA TUUCIANGBANG HONG PI IN",
+  "key": "Key: Bb",
+  "galHiam": "Gal Hiam: 80",
+  "ZBC": "ZBC: 395",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Honpa tuu cingbang hong pi-in",
+        "Nong huai na ko kisam pha",
+        "Antam gamnuam ah hong vak in",
+        "HOng bawlkholhsak in omna",
+        "(Thupha Zeisu, thupha Zeisu",
+        "Nong leizo kote Nang aa)x2"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Hong pawlin Nang neihsa kote",
+        "Ko paina lampi cing in",
+        "Hong kem hong hun in Na tuute",
+        "Lam khialh ciang hong zong kik in",
+        "(Thupha Zeisu, thupha Zeisu",
+        "Nong leizo kote Nang aa)x2"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Mizawng mimawh ka hi uh hing",
+        "Nong ciam zo hong sang ding in",
+        "Mawhna phel Na'ng siatnang dal Na'ng",
+        "Hehpihna Na nei cing in",
+        "(Thupha Zeisu, thupha Zeisu",
+        "Nong leizo kote Nang aa)x2"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Ka neulai un Nang ma pahtak",
+        "Na awi bang hongta sak in",
+        "Hong hon Topa pha aw dimtak",
+        "Nangma itna hong guan in",
+        "(Thupha Zeisu, thupha Zeisu",
+        "Nong leizo kote Nang aa)x2"
+      ]
+    }
+  ]
+}

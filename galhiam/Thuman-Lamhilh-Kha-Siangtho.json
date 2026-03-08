@@ -1,0 +1,50 @@
+{
+  "title": "Thumaan Lamhilh Kha Siangtho",
+  "key": "Key: G",
+  "galHiam": "Gal Hiam: 122",
+  "ZBC": "ZBC: 175",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Thumaan Lamhilh Kha Siangtho",
+        "Tapidawte nusia lo",
+        "Vantung gam zuanzin mite",
+        "A khut tawh hong len gige",
+        "A gimte tawntung pha tuam",
+        "A zak ciang Ama aw nuam",
+        "“Vantung innpi lam zong mi,",
+        "Hong zui in, Kong kha ding hi”"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Hong ompih den Lawm pha pen,",
+        "Ko guak hong zawt tawm sak ke’n",
+        "Khuamial, lung-man’, launa sung’",
+        "Nangmah’n hong om-pih tawntung",
+        "Huihpi nasia mahmah in",
+        "Lungkia laitak hong ci in",
+        "“Vantung innpi a zuan mi,",
+        "Hong zui in, Kong kha ding hi”"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Nasepna hun bei ta a,",
+        "Vantung tun’ ding bek om ta",
+        "Kei min zong a om buangtam,",
+        "Jesuh si bek ka paulam",
+        "Sihna gun ka ngah lai-tak",
+        "Hong ci lai, siangtak tel-tak",
+        "“Vantung innpi a zuan mi,",
+        "Hong zui in, Kong kha ding hi”"
+      ]
+    }
+  ]
+}

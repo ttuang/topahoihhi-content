@@ -1,0 +1,58 @@
+{
+  "title": "KUA I LANG PANG ZO DING",
+  "key": "Key: G",
+  "galHiam": "Gal Hiam: 173",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Topa sung nuam un, hong hehpihna phat un,",
+        "Hong hencip khempeuh phelkhia hi.",
+        "Si tawh hong tanzo lau nawn peuh mah kei un,",
+        "Zeisu ah deihna teng cing hi."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Eilam ah Pasian, Eilam ah Pasian,",
+        "Eilam hong om leh, Kua i langpang zo ding",
+        "Kua? (Kua?) Kua? (Kua?) Kua?",
+        "Kua i langpang zo, Kua pang zo ding?"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Topa sung hat un, a thahatna suang un,",
+        "Nisim thuman in citak ni.",
+        "Siatna'n hong nawk ciang, thuman a ding hangun",
+        "Amah i tha leh bukna hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Ama thu muang un, a kamciam peel ngeilo,",
+        "Khris sung ah Amen hi khin tane",
+        "Lei abei zongin a thu bei thei ngeilo,",
+        "Lai Siangtho in gen khin zo ta."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Topa sung kip un, a ang muanhuai sungah,",
+        "Tawntung nunna ki patna hi.",
+        "Athaneempen zong a khut sung pan in ah,",
+        "Kuamah in sut zolo ding hi."
+      ]
+    }
+  ]
+}

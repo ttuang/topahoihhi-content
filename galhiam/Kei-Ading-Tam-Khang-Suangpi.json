@@ -1,0 +1,46 @@
+{
+  "title": "KEI A DING TAM KHANG SUANGPI",
+  "key": "Key: Bb",
+  "galHiam": "Gal Hiam: 183",
+  "ZBC": "ZBC: 265",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Kei aa ding tam khang Luangpi,",
+        "Nang ma sung kong beel ding hi.",
+        "Na pang vang pan hong ki zui.",
+        "Thakhat luangkhia si le tui,",
+        "Mawh kiphel thuapna hi hen",
+        "Hong sut hen la hongsawp hen.",
+        "Verse2",
+        "Ka khutin ka sepna tawh",
+        "Thukham deihna cin zolo",
+        "Hahkat den zo mah leng zongolia",
+        "Tawplo khitui luang hang zong",
+        "Mawhna kiphel zo sam lo",
+        "Nangmahbek in nong hon zo.",
+        "Verse3",
+        "Khut sung bangmah keng lo pi",
+        "Na singlamteh kong beel hi.",
+        "Puan neilo nangma'n nong guan,",
+        "Cimawh hehpihna kong zuan.",
+        "Kihhuai tuinak kong delh hi,",
+        "Nong sil ke'h ka si ding hi,"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Ka nuntak lai hita leh,",
+        "Ka sih laitak hita leh,",
+        "Theihloh gam ka kai ciang zong,",
+        "Thukhenna mai kong tun' dong,",
+        "Kei tang kitam Suangpi aw,",
+        "Nangma sung hong beel sak aw."
+      ]
+    }
+  ]
+}

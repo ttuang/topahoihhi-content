@@ -1,0 +1,59 @@
+{
+  "title": "HONG SIANGSAK SI",
+  "key": "Key: Bb",
+  "galHiam": "Gal Hiam: 157",
+  "ZBC": "ZBC: 139",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "En un, mawhna khempeuh a pua khia Pa",
+        "Sihna Kalvary mual tungah",
+        "Singlamteh tung gimna sihna thuak in",
+        "Kei ading in a sisian hong luang"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Hong Gumpa Topa naak sungah",
+        "Sisan leh tui hong luang khia hi",
+        "Ka lung sungah om tawntung hi",
+        "Mawhna ki sawp siang zo"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Mawh sawp siang nang tui",
+        "A hong luang zo hi",
+        "Hong Gum Topa sihna mun pan",
+        "A tawntung in tua tui ah kisil ni",
+        "Hong Gum Topa kiang zuan in pai ni"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Tua si sungah a kisil khempeuh te",
+        "A mawhna teng vuk bang ngo ding",
+        "Na mawna khempeuh uh hong maisak ding",
+        "Ka kiang hong pai un Topa'n hong ci"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Mawhna sungah ka pai kik nawn kei ding",
+        "Zeisu'n kei hong suakta sak ding",
+        "A Kha Siangtho in kei hong pi ding-a",
+        "A gam suangah hong lutpih ding hi"
+      ]
+    }
+  ]
+}

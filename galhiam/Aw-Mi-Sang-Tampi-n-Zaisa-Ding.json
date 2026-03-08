@@ -1,0 +1,60 @@
+{
+  "title": "AW MI SANG TAMPI'N ZAISA DING",
+  "key": "Key: G",
+  "galHiam": "Gal Hiam: 314",
+  "ZBC": "ZBC: 152",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Aw mi sang tampi'n zaisa ding",
+        "Hong taang vanglian phat ni",
+        "Hong taang vanglian phat ni",
+        "Ka Pasian vanglian belna le",
+        "Hong hehpihna phat ni",
+        "Hong hehpihna phat ni",
+        "Hong hehpihna phat ni"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Aw ka lim bel keimah hong kha'n",
+        "Tang bang damna hong piang",
+        "Tang bang damna hong piang",
+        "Hih leitung mi khempeuh tungah",
+        "Na thupha dim ta hen",
+        "Na thupha dim ta hen",
+        "Na thupha dim ta hen"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Aw Zeisu aw Nangmah siangbel",
+        "Dam na'ng le lungdamna",
+        "Dam na'ng le lungdamna",
+        "Mawhnei te'n zong hong theih zawh na'ng",
+        "Ka muan lianbel na hi",
+        "Ka muan lianbel na hi",
+        "Ka muan lianbel na hi"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Mawhna khempeuh hong phel zo hi",
+        "Mi vaitham zong gumkhia",
+        "Mi vaitham zong gumkhia",
+        "A Si phabel hong luangsak hi",
+        "Eite hong itna hi",
+        "Eite hong itna hi",
+        "Eite hong itna hi"
+      ]
+    }
+  ]
+}

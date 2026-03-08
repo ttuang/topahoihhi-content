@@ -1,0 +1,36 @@
+{
+  "title": "NANG TAWH A HOLIM NUAM BEK HI’NG",
+  "key": "Key: G",
+  "galHiam": "Gal Hiam: 293",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Topa nang tungah na khat zong hong ngen kei ning,",
+        "Nang tawh a holim nuam bek hi'ng,",
+        "Lungdamna kong kohzawh loh zah ding,",
+        "Nong piaksa khempeuhte kicing,",
+        "Nang tawh a holim nuam bek hi'ng.",
+        "Chorus",
+        "Lungkhamna, dahna zing ciangin thuakkha mah ning,",
+        "Ka khitui tampi luangkha ding,",
+        "Tua haksatna ka thuak ma-in ah,",
+        "Lungdam hong ko nuam ing Topa aw,",
+        "Nang tawh a holim nuam bek hi'ng."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Haksatnate in thu hong ngen sak pahpah a,",
+        "Tu'n bel a holim nuam bek hÆ°á»Ÿng,",
+        "Kiphatsakna them zong nei lo-in,",
+        "Lungdamna ko nuam ing Topa,",
+        "Nang tawh a holim nuam bek hi'ng."
+      ]
+    }
+  ]
+}

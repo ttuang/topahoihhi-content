@@ -1,0 +1,48 @@
+{
+  "title": "ZEISU LO BUANG",
+  "key": "Key: E",
+  "galHiam": "Gal Hiam: 289",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Hih leitung ah ka khualzinna, lungkim nop cih omlo",
+        "Leitung teekta, thusia lasia bek na za ding",
+        "Pilna hileh, hauhna hileh lokhawh singpuakna pan in",
+        "Lungnopna om nawnlo hi Zeisu lo buang"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Kalani mual tungah, a sisan hong bua a",
+        "Kilawm lopi’n khonkhong nuntakna hong pia zo",
+        "A liamma hang damna, a zawnkhalna hang hauhna",
+        "A sisan in ka mawhna teng hong sawpsiang ta"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Lungnopna ding ken ka zonga, lungkim nop cih om lo",
+        "Mualtung lamah kahto diaidiai ka khuadak leh",
+        "Tua mual hoihpen, kalani mual lungnop kicing tawldamna",
+        "Tawldam nopna ngah nading Zeisu lo buang"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "I hunte bei hong kheng diaidiai, anlak hun kheng dekta",
+        "Apil nga bang meivak taangsak, taangsak veni",
+        "Mi tul tampi kikhawm mai ah, meivak taanglo a paite",
+        "Zumna bek hi ding aiveh Zeisu mai ah"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "title": "Singlamteh Kiangah",
+  "key": "Key: F",
+  "galHiam": "Gal Hiam: 309",
+  "ZBC": "ZBC: 120",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Singlamteh kiangah omna",
+        "Kalani mual tung ah",
+        "Nuamna hong pia ciktui in",
+        "Mi teng aa ding luangta"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Singlamteh, Singlamteh",
+        "Ka kisak theihna hi",
+        "Vantung khua ka tun’ ciang in",
+        "A nuam ka ngah na’ng hi"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Singlamteh kiang ka ding a",
+        "Hehpihna’n hong mu a",
+        "A taang zingsol aksi in",
+        "Ka kiim kot a taang ta"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Jesuh Singlamteh kiangah",
+        "Ngak a kong om ciang ah",
+        "Singlamteh a liim nuaiah",
+        "Hong gum hong omsak in."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Singlamteh kiangah ka om",
+        "A thu-um tawntung ning",
+        "Gungal khat a kham khua in",
+        "Ka tun’ mateng ngak ning."
+      ]
+    }
+  ]
+}

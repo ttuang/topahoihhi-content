@@ -1,0 +1,68 @@
+{
+  "title": "KE’N KA MUANG HI | Topa Thu Upna",
+  "key": "Key: F",
+  "galHiam": "Gal Hiam: 267",
+  "ZBC": "ZBC: 323",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Topa thu kiciamna thei a",
+        "Up khialhna kipia ding hi.",
+        "Lung kiatna thuak loh nang in-ah",
+        "A thupa ka um ding hi"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "A kicing hi a thuphapi",
+        "Keimah inah ka um hi",
+        "A kicing hi a thuphapi",
+        "Keimah inah ka um hi"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Kimawh sakna Jesuh inah",
+        "A sipha tawh hong sawp hi",
+        "Keimah hong siangtho sak zo ta,",
+        "Innpi ah hong kai ding hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Topa Jesuh hong hehpih man",
+        "kihtak launa om lo hi",
+        "Ka lampi-ah khua a mial hang,",
+        "khuavak hong tang sak ding hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Ka nuamna teng Jesuh ka pia",
+        "amah bek ke’n ka deih hi.",
+        "Amah in leitung teng uk a,",
+        "deihna teng A kiang om hi"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 5",
+      "lines": [
+        "Ka vekpi in Jesuh ka pia",
+        "ka lungsim ka pum kheempeuh",
+        "Ka lametna a om kheempeuh,",
+        "tawntung Ama kiang om hi."
+      ]
+    }
+  ]
+}

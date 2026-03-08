@@ -1,0 +1,47 @@
+{
+  "title": "VANGAM MALEP",
+  "key": "Key: E",
+  "galHiam": "Gal Hiam: 180",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Leitung i nuntakna, siatna tawh kidim,",
+        "Nek leh dawn haksa, sum zonna zong haksa,",
+        "Siatna a tam man in, inn kuan kilem nawnlo,",
+        "Tua innkuan sung zong , gawt mun neu khat a hi."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Vangam malep, Oh! Vangam ma lep,",
+        "Vangam malep lei ah zong kiciam khol thei, Zeisu nei kim in,",
+        "Pasian zahtak ciat leng, Vangam malep, innkuan sung nuam pen."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Innkuan sung lutang in, Pate hi a,",
+        "Pate siam manin, innkuan sung nuam ding hi,",
+        "Zite’n pasal thu mang leng, tate’n zong thumang ding",
+        "Tua innkuan sung zong Topa’n makaih ding hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Innkuan sung nuam pan in, hong khang khia mite,",
+        "A heina peuh ah maitai tak in om thei,",
+        "Pasian in thupha pia, Pasian in ompih hi,",
+        "Tua innkuan sung zong, vangam neu khat a hi."
+      ]
+    }
+  ]
+}

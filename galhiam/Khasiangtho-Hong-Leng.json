@@ -1,0 +1,50 @@
+{
+  "title": "KHA SIANGTHO HONG LEENG",
+  "key": "Key: E",
+  "galHiam": "Gal Hiam: 150",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Nakpi takin ka lungdam theihna",
+        "Topa hang bek hi nuamlua ing",
+        "Kipak takin ka laam ka dianna",
+        "Ka Pasian hang hi nuamlua si!"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "A manpha pen tatkhiatna puanpi'n",
+        "Kei hong tuam ta,",
+        "Nun kilamdang pian kilamdang ta,",
+        "Thuman puanpi tawh kei hong tuam ta,",
+        "Phat loh theih loh dian loh theih loh,",
+        "Kha Siangtho hong leeng."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Zipipa puan hoih tawh kizem a",
+        "Monu kizepna suang manpha",
+        "Tua bang teekin Topa'n hong zem ta",
+        "Ka Pasian hoihdan lamdang el"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Topa hoihna ke'n ka muh tak teh",
+        "Kam a gen zawh ding zong hi kei",
+        "Lai a at zawh ding zong hilo a",
+        "Lungsim leh Kha tawh phat ding hi."
+      ]
+    }
+  ]
+}

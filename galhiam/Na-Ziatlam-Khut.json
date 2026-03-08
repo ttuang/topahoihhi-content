@@ -1,0 +1,48 @@
+{
+  "title": "NA ZIATLAM KHUT TAWH",
+  "key": "Key: E",
+  "galHiam": "Gal Hiam: 281",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "A hoihna Avangliatna gen zawh hilo,",
+        "Amuanhuai bel Topau",
+        "Hunte kikhelin a kisiat hang,",
+        "Cik mah hun na kikhel ngei kei",
+        "Leitung maingat in Amah thudon kei zong",
+        "Hong itna kip lai zen.",
+        "Nau bangin nong kepna lianlua e,",
+        "Lungdam in Topa kong phat hi"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Na ziatlam khut tawh",
+        "Keimah nong makaih a,gun galkhat ah,",
+        "Haksatna guampi galkhat dongah",
+        "Na ciangkhut in keimah lam ong lah manin,",
+        "A bei theilo athak itna tawh kei nong it a,",
+        "A tul theilo na hehpihna lian kong phat hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Na sung ka nuntak a kipan tuciang dong",
+        "Awn sukin an nong pia,",
+        "Lungsim kha laulo in ka han na'ng",
+        "Nong pua hi, na liangko tungah",
+        "Ka lungsim tawnga ka ngaihsut khempeuh te",
+        "Siit loin nong pia a",
+        "Ka mailam ding nong gelsak khempeuh",
+        "Asia omlo hoihna bek hi."
+      ]
+    }
+  ]
+}

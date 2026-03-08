@@ -1,0 +1,53 @@
+{
+  "title": "HING EI VE",
+  "key": "Key: Eb",
+  "galHiam": "Gal Hiam: 167",
+  "ZBC": "ZBC: 142",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Kei Topa a hing ei ve, Tu'n zong leitungah om,",
+        "A hin kik ken thei gi ge, Mi te'n bang gen ta leh;",
+        "A mah'n hong hehpih thei a, hong hopih na ka za",
+        "A mah ka sap lai takin hong nai gi ge."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Hing e (hing e) hing e (hing e) hong hon khazih Topa,",
+        "Hong tonpih-a, hong hopih hi, ka paina khempeuh ah,",
+        "Hing e (hing e) hing e mihing hon khia Topa,",
+        "Bang ka ci theih hiam nong cih leh,",
+        "Ka lung sungah hing hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Ka kiim Leitung mun khempeuh ah hong itna ka mu,",
+        "Lung khamna ka thuak zel hang,",
+        "Ka lung kiangei kei ding,",
+        "Huihpi nuna tengah,",
+        "Amah'n hong kha ken ka thei,",
+        "A mah hong kilat ding, hong tung ding hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Nuam un, nuam un Zeisu mi, lung dam in la sa un,",
+        "Hin tawntung Hallelujah,",
+        "Zeisu Khazih Kumpi,",
+        "Muan na tawh a zong mi ten,",
+        "A mah mu thei ding uh,",
+        "Tua bang itna a nei mi dang om ngei kei."
+      ]
+    }
+  ]
+}

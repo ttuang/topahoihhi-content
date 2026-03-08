@@ -1,0 +1,29 @@
+{
+  "title": "TOPA'N HONG SEM DING",
+  "key": "Key: G",
+  "galHiam": "Gal Hiam: 286",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Topa'n hong sem ding Lametna teng bei ciang in",
+        "Tel zawhloh ama zia tawh Topa'n kei hong hilh ding hi",
+        "Lam hong lak ding hi Aman'n hongompih den ding",
+        "Itna leh hehpihna tawh Anisim inah, Lam hong pi den ding."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Sehnel gamah kei hong tonpihin lam hong lak",
+        "Sehnel gam sung ciktui ka mu ta,",
+        "Van leh lei a mangthang zong",
+        "Pasian kammal kipden ding",
+        "Tu ni-in thathak hong guan hi."
+      ]
+    }
+  ]
+}

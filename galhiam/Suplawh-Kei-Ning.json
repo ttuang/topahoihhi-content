@@ -1,0 +1,42 @@
+{
+  "title": "SUP LAWH KEI NING",
+  "key": "Key: G",
+  "galHiam": "Gal Hiam: 212",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Mite’n Zeisu' nung zuihna,",
+        "Lungkia in tawp san mah leh,",
+        "Ke'n bel ka Cross pua-in ka zui den ding;",
+        "Nisim in tha hong guan ding,",
+        "To zeisu ka nei zo hi,",
+        "Suplawh kei ning Zeisu nung ka zuih manin."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Hong piak sa te bek ah lungdam ka hi kei hi,",
+        "Hong piak lai ding te ah zong A min phat ning;",
+        "Tua manin nisim in ah, gual zawhna la ka sa hi,",
+        "Suplawh kei ning Zeisu nung ka zuih manin."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Kakha nuntak na dingin,",
+        "Ka muh nai loh vantung gam,",
+        "Upna tawh tung ding ci'n ka gen khol ngam;",
+        "Pasian' hong kamciam bangin,",
+        "Hih leitung na khempeuh zong,",
+        "Hong piak thuah ding cih upna tawh ka mu ta."
+      ]
+    }
+  ]
+}

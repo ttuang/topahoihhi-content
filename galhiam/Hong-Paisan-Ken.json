@@ -1,0 +1,57 @@
+{
+  "title": "HONG PAISAN KE'N",
+  "key": "Key: Ab",
+  "galHiam": "Gal Hiam: 184",
+  "ZBC": "ZBC: 304",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Hong paisan ke'n migi Topa",
+        "Kong thum hong ngai in",
+        "Mi dang te kiang na ban bang mah",
+        "Kei hong kheng kei in"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Topa Topa kong thum hong ngai in",
+        "Mi dang te kiang na ban bang mah",
+        "Kei hong kheng kei in"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Hehpihna Na tokhom mai ah",
+        "Kisik kong khukdin",
+        "Nang hong huh in ka up lahna",
+        "Noptuam hong pia in"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Nangma phatna bek ka suang hi",
+        "na mai muh na ding",
+        "Na thupha tawh nong phel ding hi",
+        "Lung zan dam na ding"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Ka nuamna teng bulpi Nang mah",
+        "Hinna sang pha zaw",
+        "Leitung vantung omlo kuamah",
+        "Nang sang a pha zaw"
+      ]
+    }
+  ]
+}

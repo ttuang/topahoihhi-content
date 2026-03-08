@@ -1,0 +1,58 @@
+{
+  "title": "I NGAK LAITAK HONG TUAK DIAM",
+  "key": "Key: Bb",
+  "galHiam": "Gal Hiam: 251",
+  "ZBC": "ZBC: 162",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Topa Zeisu nuamna hong pia dingin,",
+        "Sunkim zankim hong pai leh,",
+        "Lungsim dikin meivak a baihsa in,",
+        "I ngak laitak hong tuak diam."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Ute naute, I kigingciatzo hiam?",
+        "I kha inn nuam lutna ding,",
+        "Nangmah leh kei kigingsa’n hong mu diam?",
+        "Ngak in, Topa hong pai ding ngak in."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Zingsang khat peuh phalvak tung pan laitak,",
+        "Khat khat in hong sam pak leh,",
+        "Hong kepsak talen I piakkik laitak,",
+        "Pha hi, nang hong ci-na diam?"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Hong vaikhakna bangin i hih zo leh,",
+        "I siamna zah siit kei leeng,",
+        "I lungsim kisuanna a om kei leh,",
+        "Nopnapha I ngah ding hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "A ngak zote in thupha ngah ding hi,",
+        "Vangtung khua-ah maangkhawm ding,",
+        "Sunkim zankim a hong pai kha ding hi,",
+        "I ngak laitak hong tuak diam?"
+      ]
+    }
+  ]
+}

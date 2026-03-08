@@ -1,0 +1,50 @@
+{
+  "title": "TOPA AW KONG MUANG HI",
+  "key": "Key: G",
+  "galHiam": "Gal Hiam: 221",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Topa aw, kong muang hi, Nangmah bek kong muang hi.",
+        "Hih leitung nuntakna, lungmuan omthei lopi;",
+        "Uptheih muantheih dingin, lungsim hemlam tam si,",
+        "Hih leitung ka nun sung, Topa bek kong muang hi."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Kei hong sung in, kei hong liah in, ka Honpa aw,",
+        "Ka suangpi aw, bit takin na kha liim hong seel aw,",
+        "Lungmuanna huang sungah, Tawldamna liim sungah,",
+        "Hong lenin hong kha in,",
+        "Na ang sungah lung muang takin,",
+        "Hong khawlsak aw."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Mite muan ding sangin, Topa muan hoihzaw hi;",
+        "Amuang mite lampi, Topa'n hu-in keem hi;",
+        "Hong paisan ngei lo hi, hong nusia ngei lo hi;",
+        "Hih leitung ka nun sung, Topa bek kong muang hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Hong theikhial ngei lo hi, hong telkhial ngei lo hi;",
+        "Amah muanna sungah, dotna khempeuh veng hi;",
+        "Hong enkhial ngei lo hi, hong hokhial ngei lo hi,",
+        "Hih leitung ka nun sung, Topa bek kong muang hi."
+      ]
+    }
+  ]
+}

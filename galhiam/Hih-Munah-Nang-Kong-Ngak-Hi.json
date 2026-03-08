@@ -1,0 +1,46 @@
+{
+  "title": "HIH MUNAH NANG KONG NGAK HI",
+  "key": "Key: E",
+  "galHiam": "Gal Hiam: 225",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Hih lai mun ah Nang kongkhut lap uh hi",
+        "Hih mun ah",
+        "nang tung lung dam kong koh uh hi",
+        "Kong phat uh hi",
+        "Siangtho Topa hong Bia ungh",
+        "Teeng khawm ni",
+        "Na minphat na sung ah"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Thu nget na Nong dawng hi",
+        "Nang na om tawntung hi",
+        "Kong sap uh ciang Nong za den hi",
+        "ka puk uh ciang Nong dom to hi",
+        "A tawntung ko te Nong panpih hi",
+        "Lam tawntung ah zong Nong kha hi",
+        "Nong hi zo sak hi Nang ma hang in"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Phat ding kilawm nite",
+        "Hong tuah khak uh thuhaksa te",
+        "Nong hehpih na sung tui suak hi",
+        "na hat na'n hong hon khia suak hi",
+        "Nong it na in hong hat sak hi",
+        "A tawntung in ka sa ding hi"
+      ]
+    }
+  ]
+}

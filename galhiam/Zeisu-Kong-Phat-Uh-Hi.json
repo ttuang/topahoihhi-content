@@ -1,0 +1,28 @@
+{
+  "title": "ZEISU Kia’n Singlamteh Pua",
+  "key": "Key: G",
+  "galHiam": "Gal Hiam: 241",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Zeisu kong phat uh hi",
+        "Kumpite Kumpipa, Hong kumsuk aw,",
+        "Hong khawl in Topa,",
+        "Na vangliatna kong phat uh hi."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Siangtho biakpiakna kong pia uh,",
+        "Siangtho biakpiakna kong pia uh,",
+        "Siangtho biakpiakna kong pia uh,",
+        "Zeisu kumpi hong kumsuk aw."
+      ]
+    }
+  ]
+}

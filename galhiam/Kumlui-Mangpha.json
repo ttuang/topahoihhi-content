@@ -1,0 +1,48 @@
+{
+  "title": "KUMLUI MANGPHA",
+  "key": "Key: A",
+  "galHiam": "Gal Hiam: 248",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Hih leitung nuntakna sungah,",
+        "A haksa nuntakna sungah",
+        "Ka Kha Topa'n hong kem kei leh",
+        "A mangthang ding tumah in zong"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Kum te'n hong khengta, nang nakikhel maw",
+        "A beisa sung na mawhna te lungngai in,",
+        "A thak kum sungah hong kem lai lai in,",
+        "Hong tung ding kumthak ah ni taang phahong tan aw."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "A ni hong bei a kha hong bei pribor",
+        "Kum te'n hong kheng diai diai ta a,,",
+        "Hong tung ding a thak kum sung ah,",
+        "Bang hun hong hi ding kithei lo."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Len un, len un a nuam kumlui",
+        "Tu mah in hong paisan ding hi",
+        "Mi khempeuh a ding a ithuai",
+        "Kumlui aw hong paisan ding maw."
+      ]
+    }
+  ]
+}

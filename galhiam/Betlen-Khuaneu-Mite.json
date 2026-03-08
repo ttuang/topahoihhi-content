@@ -1,0 +1,49 @@
+{
+  "title": "BETLEN KHUA NEU MITE",
+  "key": "Key: E",
+  "galHiam": "Gal Hiam: 70",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Betlen khua neu mite nolah ihsip ta maw",
+        "Hong gum Zeisu hong suak hi lo maw",
+        "Tuucing te'n zong nuamin hong bia uh",
+        "Leimi tading hong ki pia nau ngek"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Tuzan kim lai a lungdam huai bel thu",
+        "Betlen khua sung",
+        "Bawng an neekna kuang sung",
+        "Hong gum ding Khazih Zeisu naungek",
+        "Minthang hen mitung nopna om hen"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Kong it lawm aw tuni'n nang sung mun a awng maw",
+        "Hong gum Zeisu naungek suaknuam hi",
+        "Bawng kuang sung lo mundang awnglo maw",
+        "Na lungsungah tuni'n suak sak in"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "A lamdang aksipi'n mipilte lamhilh hi",
+        "Kham leh paaknamtui tawh bia uh hi",
+        "Kiniamkhiat a hong suak To Zeisu",
+        "Lungdamin eizong va bia ve ni"
+      ]
+    }
+  ]
+}

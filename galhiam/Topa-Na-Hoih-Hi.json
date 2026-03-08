@@ -1,0 +1,35 @@
+{
+  "title": "TOPA NA HOIH HI",
+  "key": "Key: F",
+  "galHiam": "Gal Hiam: 233",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Kei hong panpih kei lecin on Koi lam ka zuan diam?",
+        "zingsang khuavak Bang ci'n tho in ka muak thei diam?",
+        "Nong hehpihna tawh ka nung pan nong sam sam hi",
+        "Nang tawh I ki nai hang in Topa kong mu thei kei hi"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "(Topa Na hoih)2",
+        "(Nong hehpihna a tawntung kip hi)2"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "(Na migit na kei hong musak in",
+        "Na hihna bang hong mu sak in)2",
+        "Na hih na bang taktak in."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "title": "NI TAMPI KHENG ZO TA HI",
+  "key": "Key: A",
+  "galHiam": "Gal Hiam: 276",
+  "ZBC": "ZBC: 457",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "A lung mang te hong hehpih in,",
+        "Ni tampi kheng zo ta hi",
+        "Gimna Lung khamna thuak nain",
+        "Nitampi kheng zo ta hi",
+        "Khual zinna le kikal a Nuamna lungdamna te tawh",
+        "Thu apha ka bawl uh maw, Ni tampi kheng zota hi.",
+        "Chorus",
+        "Ni tampi kheng zo hi, Ni tampi kheng zo hi,",
+        "Thupha gamtat theih na ding",
+        "Ni tampi kheng zo ta hi"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Mawkna in a hun beisak ke'n,",
+        "Ni tampi kheng zo ta hi",
+        "Na mai zingsang khuavak bang hen,",
+        "Ni tampi kheng zo ta hi Leitung ah dahna sungah,",
+        "Lung khamna kahna om a,",
+        "Na unau te phong inla, Ni tampi kheng zo ta hí"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Itna tawh a kikhih khempeuh,",
+        "Ni tampi kheng zo ta hi Eite in Inusia ta hi,",
+        "Ni tampi kheng zo ta hi",
+        "Khaici pha kituh khempeuh, A vakpha a lim nuai ah,",
+        "Hong po a l lungdamna Ni tampi kheng zota hi"
+      ]
+    }
+  ]
+}

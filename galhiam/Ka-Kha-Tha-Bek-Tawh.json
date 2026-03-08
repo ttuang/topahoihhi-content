@@ -1,0 +1,40 @@
+{
+  "title": "KA KHATHA BEK TAWH",
+  "key": "",
+  "galHiam": "Gal Hiam: 111KEY: G",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Verse1Pasian inkha a hih man, a mah biakpiakna ding in,",
+        "Na khatawh a mah bia in phat lecin.",
+        "Hermon mualah daitui bang, van daituite hongkia in,",
+        "Hopihna nang zong zathei niteh."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "ka khathabek tawh kakha thabek tawh,",
+        "ka kha thabek in lawhcing thei niteh,",
+        "Thu haksapente'n zong nama hongkhak zo ke'n teh,",
+        "Kakha hang nama natun zo ding hi.",
+        "Verse2",
+        "Khris a ding nuntak na ah, a siangtho nuntak na ding,",
+        "Teep leh muam neek leh dawn kizawh kul hi,",
+        "A siangtho gamtat kampau, Nakhempeuh kidek zo lo,",
+        "Tua tezong ka kha bektawh Topa'n ci",
+        "Verse3.",
+        "Gupngah lam hong kitel sak, dam ngah lam hong kitel",
+        "sak,",
+        "Hauh ngah lam hong kitelsak khat om hi,",
+        "Vangliat natawh dawi hawlkhia, damlo te damsak",
+        "theih na,",
+        "Tlung lam pan a hong nai kha hang bek hi."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "title": "NANGMAH TAWH PASIAN OMKHAWM TA HEN",
+  "key": "Key: E",
+  "galHiam": "Gal Hiam: 299",
+  "ZBC": "ZBC: 25",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Nangmah tawh Pasian omkhawm ta hen,",
+        "A hong pi, a hong len dingin,",
+        "A tuu tawh hong kembit dingin,",
+        "Nangmah tawh Pasian omkhawm ta hen."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "I kimuh kik mateng,",
+        "Zeisu kiang kimu mateng,",
+        "kimu kik mateng,",
+        "Nangmah tawh Pasian omkhawm ta hen."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Nangmah tawh Pasian omkhawm ta hen,",
+        "A kha nuai hong liah hong dal in,",
+        "Nisim \"Manna\" hong vaak dingin,",
+        "Nangmah tawh Pasian omkhawm ta hen."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Nangmah tawh Pasian omkhawm ta hen,",
+        "Launa'n hong lungam sak ciangin,",
+        "Ang sung hong pom bikbek ding,",
+        "Nangmah tawh Pasian omkhawm ta hen."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Nangmah tawh Pasian omkhawm ta hen,",
+        "Itna nuai ah hong cing dingin,",
+        "Sihna tuihual satpaai dingin,",
+        "Nangmah tawh Pasian omkhawm ta hen."
+      ]
+    }
+  ]
+}

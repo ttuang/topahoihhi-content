@@ -1,0 +1,47 @@
+{
+  "title": "TOPA HOIH HI",
+  "key": "Key: G",
+  "galHiam": "Gal Hiam: 170",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Topa hoih hi, Topa lian hi",
+        "Lungkham hunin hong huh a",
+        "A ma kiang ah a bel mite",
+        "Ama'n limtak hong kem hi."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Hong phatning maw, Topa hong phat ning",
+        "Na vangliatna lamdang si, Thuuk in zai e,",
+        "Lamdang nong itna, Kabelh suangpi To Zeisu."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Lungsim tamkham, lam-et bei te.",
+        "Meigong tagah genthei te,",
+        "Lei vui pan innong lam to a,",
+        "Zeisu hong itna bek hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Kha siangtho mit hong vaksak a",
+        "It na khut tawh hong len a,",
+        "Kei nong sap leh kong dawng ding a",
+        "Ka thu sim kong hilh ding."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "title": "HONG PAALSAK AW",
+  "key": "Key: E",
+  "galHiam": "Gal Hiam: 279",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Topa na gam le na min ading hong tawi in",
+        "Namte tungah hong tawisang in",
+        "Zogam le zomite hong laamto in",
+        "Na min ading hong laamto in"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Israel mite napi bangin",
+        "Pa aw ka nuntakna hongpi aw",
+        "Sehnel gam Rose paak bang in",
+        "Ka nuntak lai ni",
+        "Hong paalsak aw hong paalsak aw"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Zogam lei aw khanglo in thasan in hat in",
+        "Kumthak nino hongsuak en in",
+        "Gamkeu gawtaak hong niim ding",
+        "singcin hong paal ding",
+        "Upna khuam bang khosak ta in"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Bah le gui a om khut te hong laamto in",
+        "A zaw khut te hong khauhsakin",
+        "Muvanlai tha hong guan in",
+        "Na nasem ding in",
+        "Kawlgam sung le lei mongdong in"
+      ]
+    }
+  ]
+}

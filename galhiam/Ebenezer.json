@@ -1,0 +1,41 @@
+{
+  "title": "EBENEZER",
+  "key": "Key: G",
+  "galHiam": "Gal Hiam: 296",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "anglai ah ka pom Aman kei hong kem",
+        "Vanglianpa'n hong kem",
+        "Zanni tuni a tawntung",
+        "Topa in zingvai hong hawm a",
+        "Topa ka khuavak hong hi ta"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Sam bang zalna peuh van laukha'n hong kem",
+        "Lungkham huihkhi le",
+        "Tuihualte hong dai sak hi",
+        "Tu ciangciang gualzawhna hong pia",
+        "Gualzawhna mualsuang bang phut ing"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Topa na min kong pahtawi hi",
+        "Nang bang adang Pasian om lo",
+        "Na hoihnate sinlung ka gel ciang",
+        "Lungdam luankhi te'n",
+        "Nang hong phat zel"
+      ]
+    }
+  ]
+}

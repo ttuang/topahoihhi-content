@@ -1,0 +1,55 @@
+{
+  "title": "ETLAWM EE",
+  "key": "",
+  "galHiam": "Gal Hiam: 203",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Van Kha Siangtho hong leeng a",
+        "A khawlna mun etlawm ee",
+        "Huih bang mau in lam bang in kipak ziahziah",
+        "Kamthak pau in kipau a",
+        "Lathak te zong ki sa khia",
+        "Van laukha a khawmna mun et in lawm ee"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Etlawm ee, etlawm Zion tate",
+        "The bang khuangin gungei",
+        "Sing bang huang diam diam",
+        "Etlawm ee, etlawm Sian vontawi te",
+        "Gual zawhna lasa in Topa phat uh hi"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Khanlawhna mei bang hong kuang",
+        "Ki itna hong khang semsem",
+        "A ki-imcip mawhna te zong hong pho khia",
+        "A kilem lo mite tung kilem na daitui hong kia",
+        "Maigum mi zong maitai in",
+        "Hong diang khia ta"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Dam lo te'n damna ngah a",
+        "Lunggim mite'n tawldamna",
+        "Topa tat sa gup ngah mi hong khang semsem",
+        "Vangliatna tawh kituam zo",
+        "Gualzo pen te ih hi hi",
+        "Teel tuam tate Topa ading mainawt ni"
+      ]
+    }
+  ]
+}

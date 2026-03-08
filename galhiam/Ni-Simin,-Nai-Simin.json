@@ -1,0 +1,48 @@
+{
+  "title": "NI SIMIN, NAI SIMIN",
+  "key": "Key: Ab",
+  "galHiam": "Gal Hiam: 334",
+  "ZBC": "ZBC: 312",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Topa bek hong phel thei hi",
+        "Keimah inah Na kiang ka beel hi",
+        "Na sipha tawh hong sawp in",
+        "Na kiangah hong om sak tawntung in."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Ni simin, nai simin,",
+        "Sipha than'na thei sak in.",
+        "Hehpih a , Nong itna tawh",
+        "Khau banginah keimah hong hen in."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "A kisia thei leitungah",
+        "Dam takin keimah lam hong hilh tan",
+        "Topa bek i up ciangin",
+        "Cikmah hunin lamkhial nawn lo ding,"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Sih ding hun hong tun mateng",
+        "Vantung innpi nuam sung tun mateng",
+        "Nang kong up na'ng khang sak in",
+        "Topa tawh kikhen nawn lo dingin."
+      ]
+    }
+  ]
+}

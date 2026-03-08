@@ -1,0 +1,58 @@
+{
+  "title": "Vantung Omna",
+  "key": "Key: A",
+  "galHiam": "Gal Hiam: 344",
+  "ZBC": "ZBC: 424",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "I omna’ng inn ngaihsun inla,",
+        "A tang gungal khat ah om a ci;",
+        "Mi siangthote nuamna a oma,",
+        "Puan pak tawh kizemin om hi."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Vantung-ah, vantung-ah,",
+        "I omna ding inn vantung-ah!",
+        "Vantung-ah, vantung-ah,",
+        "Vantung-ah, I omna ding inn vantung-ah."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Nangma lawmte ngaihsun inla,",
+        "Amailam a maute’n a zui hi;",
+        "Lungdamna tawh a maute’n la sa,",
+        "Pasian innpi sung om uh hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Vantung hong gum Topa kiangah,",
+        "Keima lawmte nuamsa a om hi;",
+        "Tua mun in gimna om nawnlohna,",
+        "Keima kha i n a tung nuam hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "En in, i lawmte vantung-ah,",
+        "Amaute vantung khua a lutzo;",
+        "A lungkhamna teng bei khin ding a,",
+        "Gimna tawntung mu lo omzo."
+      ]
+    }
+  ]
+}

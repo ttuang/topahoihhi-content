@@ -1,0 +1,48 @@
+{
+  "title": "AMAH'N KA MAWHNA TENG LAKHIA ZO",
+  "key": "Key: Bb",
+  "galHiam": "Gal Hiam: 270",
+  "ZBC": "ZBC: 352",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Lungsim leh aw in Topa phat ning",
+        "Ama sung ka kipaak ding",
+        "La in sa ning lamdang hong itna",
+        "Ke'n sasa ning hi la"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Amah'n ka mawhna teng lakhia zo",
+        "Amin Siang phat un, Amin Siang phat un",
+        "Amah'n ka mawhna teng lakhia zo",
+        "Hallelujah Min phat un"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Nopna khawlna ngah ding Ama kiang",
+        "Ka mawhna tawh ka pai ciang",
+        "Ka nget hong za in hong khahkhia ta",
+        "Ke'n sasa ning hih la"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Ka hu tawpna tawh Amah phat ning",
+        "Sihna ka zawh man in ah",
+        "Amha phat ning a tawntung in ah",
+        "Ke'n sasa ning hih la"
+      ]
+    }
+  ]
+}

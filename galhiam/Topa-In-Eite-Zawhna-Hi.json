@@ -1,0 +1,43 @@
+{
+  "title": "TOPA IN EITE ZAWHNA",
+  "key": "Key: E",
+  "galHiam": "Gal Hiam: 152",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Topa ka kidalna lum leh",
+        "Ka munkip muanhuai ahi ta",
+        "Amah tawh ton leng Ka lampi nuam semsem ta",
+        "Ama khut in kei hong len a, Muan huai takin kei hong kem ta",
+        "Topa in eite zawhna ahi."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Thang siah te thang zak pan in",
+        "Aki khah khia vasa bang in",
+        "Lamin diangin Topa min ka phat thei ta.",
+        "Ka mawhna teng hong mai sak.",
+        "Kanat na teng zong hong dam sak.",
+        "Nuam hilhial ka om thei ta",
+        "Hong it Topa mai-ah."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Sihna lim guam pi sung na ngawn",
+        "Ka nawk hang ka lau kei ding hi",
+        "Na molh tum leh. naciang khut in Hong lung muang sak",
+        "Ka galte omna mai-ah Sabuai phah in an hong lui ta",
+        "Topa in eite zawhna ahi."
+      ]
+    }
+  ]
+}

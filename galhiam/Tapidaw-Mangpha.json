@@ -1,0 +1,58 @@
+{
+  "title": "TAPIDAW “MANGPHA”",
+  "key": "Key: Ab",
+  "galHiam": "Gal Hiam: 345",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "It aw, nuam tak ihmu-in tawlnga in",
+        "I Topa dip tung lukhamin nei in",
+        "Nang kong it hang, Topa'n hong itzaw sem",
+        "Mangpha! Mangpha! Mangpha!"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Naungek bang nuamtak ihmu hithiat in",
+        "Dahna, kahnate'n nang hong phawng lo ding",
+        "Nang a a nuam hithiat ihmutna hi",
+        "Mangpha! Mangpha! Mangpha!"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Hih leitungah niliim a bei mateng",
+        "Topa'n A tubuuk sung hong khop mateng",
+        "Ni vaang taang khuamial a hong bei mateng",
+        "Mangpha! Mangpha! Mangpha!"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Pasian tokhom mai kimuh kik mateng",
+        "A sia thei lo puan a hoih piak mateng",
+        "Tu'n i theih bangin i kitheih mateng",
+        "Mangpha! Mangpha! Mangpha!"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 5",
+      "lines": [
+        "Minthanna thawh kik zing khuavak mateng",
+        "Khazih sung a site thawh kik mateng",
+        "Gina lo bek tawh hong pai kik lo ding",
+        "Mangpha! Mangpha! Mangpha!"
+      ]
+    }
+  ]
+}

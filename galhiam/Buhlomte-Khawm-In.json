@@ -1,0 +1,48 @@
+{
+  "title": "BUHLOMTE KHAWM IN",
+  "key": "Key: C",
+  "galHiam": "Gal Hiam: 318",
+  "ZBC": "ZBC: 212",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Zingsang tuh ding hi ki-itna khaici tuh in",
+        "Sun a tuh bang zanin zong tuth in a cin",
+        "A at hun ngak inla a khop hun zong ngak in",
+        "Lungdamna tawh buhlomte i khawm ding hi"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Buhlomte khawm in buhlomte khawm in",
+        "Lungdamna tawh buhlomte i khawm ding hi",
+        "Buhlomte khawmin buhlomte khawm in",
+        "Lungdamna tawh buhlomte i khawm ding hi"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Nisa sungah tuh in a liap sung zong tuh in",
+        "Phalbi le tuuklai lungmanna om lopi",
+        "Nasep na zawh ciangin kikhop hun hong tung ding",
+        "Lungdamna tawh buhlomte i khawm ding hi"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Kap kawmin pai inla Topa ading tuh in",
+        "Kisiatna in a hong dah sak hang a ci",
+        "Kahna khit ciangin ah Topa hong sam ding a",
+        "Lungdamna tawh buhlomte i khawm ding hi"
+      ]
+    }
+  ]
+}

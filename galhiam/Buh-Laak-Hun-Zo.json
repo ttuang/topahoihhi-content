@@ -1,0 +1,59 @@
+{
+  "title": "BUH LAK HUN ZO",
+  "key": "Key: A",
+  "galHiam": "Gal Hiam: 218",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "A seem dingte tawm lua a, na sep ding tampi om hi,",
+        "Topa buh lak hun zo ta hi.",
+        "Buhte minkhin kuai zota hi,",
+        "Tawntung khuamial gam sungah nisim in bei den,"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Aw, nisim nai simin bei den,",
+        "Ka itna bei thei tuanlo,",
+        "A mawkna in ka si luang ke’nteh,",
+        "Ka tatsate’n ahilh kei leh,",
+        "Vantung mi sawl mai ning."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Kuate ahiam, ka sawl ding, kei adingin kua pai nuam,",
+        "Ka si manpha tawh ka tatsa,",
+        "Mawhna sungah nisim bei den,",
+        "Ka kiangah hong tung thei ding kuamah omlo"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Amaute ka it manin, ka gam nuampi nusia in,",
+        "Singkhuam tungah kipia zo ingh.",
+        "Gimna thuak a ka tatna thu,",
+        "Mi tampi’n theilo in khuamial sung om den."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Kei hiah om ingh Topa aw, nang ading hong sawl inla,",
+        "Ka nuntakna nang a hi khin,",
+        "Kha siangtho in hong makaih hen,",
+        "Ka sem den ding gam khempeuh na neih mateng"
+      ]
+    }
+  ]
+}

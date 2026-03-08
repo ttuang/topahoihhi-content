@@ -1,0 +1,48 @@
+{
+  "title": "TOPA VANG KIAMLO",
+  "key": "Key: G",
+  "galHiam": "Gal Hiam: 196",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Leitung nuntakna, khat vei leh nopna,",
+        "Khatvei leh sehnel gam bang,",
+        "Cimawh beidongin, damlo zawngkhal in,",
+        "Khat veivei lamet bei kisa."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Topa vang kiamlo kikhel lo, (Hallelujah)",
+        "A hoihna kiamlo ki khel lo,",
+        "Hong itna zing nisuak bang hi,",
+        "Topa hih theihna ki ciangtan lo."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Galilee gamah Zeisu hong vak lai",
+        "Damlo tampi damsak hi,",
+        "Misi thosak hi, miphak damsak hi,",
+        "Natna namkim te damsak hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Lunggim mi ading lungnopna om hi,",
+        "Bangin hong lunggim sak hiam,",
+        "En in na mai-ah thupha nak om hi,",
+        "Na up na muan gamzah nang aa"
+      ]
+    }
+  ]
+}

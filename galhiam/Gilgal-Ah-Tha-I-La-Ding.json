@@ -1,0 +1,54 @@
+{
+  "title": "GILGAL AH THA IH LA DING",
+  "key": "",
+  "galHiam": "Gal Hiam: 228",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Canaan gam zuan ding in",
+        "A pai diamdiam lai un",
+        "Ai khua sim idng hong ki thawi uh",
+        "Joshua lung kham lua in",
+        "Topa tung thungen aa",
+        "Na khut sung teipi zan in Topa' in ci hi"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Gilgal ah tha ih la ding a nung kik lo",
+        "Misiang te mainawt ni",
+        "Kha tha tawh ih do ding a",
+        "Khazih gam zai sem sem ding",
+        "Khazih a ding ih tha saan ciat ni"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Kha zih galkap te aw",
+        "Hong ding khia meng meng un",
+        "Topa'n thu hong ciam khin zo a",
+        "Lau ken la lung kia ken",
+        "Galhiam awh ki thawi un nasik na ciang ciang",
+        "Na gam hong pia ning ci"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Tu'n Joshua tekta a",
+        "A kum zong tam lua ta",
+        "Galsim ding tam lua Joshua aw",
+        "Na gal sim ding tamlua namite tha pia in",
+        "Canaan gam na hawm sak in Topa'n ci hi"
+      ]
+    }
+  ]
+}

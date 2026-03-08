@@ -1,0 +1,53 @@
+{
+  "title": "JEHOVAH PASIAN",
+  "key": "Key: G",
+  "galHiam": "Gal Hiam: 58",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Jehovah Shalom nopna Pasian ka up ka san a kipan,",
+        "Telzawhloh lungnopna nei tang,",
+        "Nisim hih leitung nunna sungah,",
+        "Nopna dahna ka thuak zong,",
+        "Ka nopna Jehovah Shalom"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "(Aw nuam sing Topa tungah)2",
+        "Lungdamna la thak Topa kong sak ding,",
+        "Jesuh tawh ka kimuta, a hoihna ka telsiangta,",
+        "Kei a ding ka bangkim Jehovah Pasian."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Ka mawhna khempeuh hong maisak Pa,",
+        "Natna teng hong damsak Pa,",
+        "Ka muzo Jehovah Rapha,",
+        "Hih leitung neekzon haksatna leh,",
+        "Nate hang lunghiang nawn keng,",
+        "Ka zawhna Jehovah Nissi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Jehovah Jireh hong sik Pasian,",
+        "Tu ciangciang hong huh Topa,",
+        "Kei a ding amah hoihpen hi.",
+        "Ama vangliatna sung om hauhna,",
+        "Ka sapna teng hong cingsak,",
+        "Hong sikpa Jehovah Jireh."
+      ]
+    }
+  ]
+}

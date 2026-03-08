@@ -1,0 +1,48 @@
+{
+  "title": "ZO HEISA PAAKTE",
+  "key": "Key: D",
+  "galHiam": "Gal Hiam: 177",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Khat veivei lungkia-in, kei ka om zela,",
+        "Zeisu it dingin ke'n ka hanciam zeel a,",
+        "Ahi hang Zeisu in hong it ka tel ciang,",
+        "Zeisu hong itna in hong lungmuang sak hi."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Zeisu aw nong itna bang tawh kateh thei diam,",
+        "Zeisu aw na hoih na, paakte'n dem zolo,",
+        "Nang na minthanna leh na vangliatnate,",
+        "Zo heisa paakte'n zong hong dem zo ke'n teh."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Mual kuam singnuai lakah, kei ka vak zeel a,",
+        "Topa aw nangmah in paaknamtui na hi.",
+        "Huihkhi hong nun ciangin, paak namtui hiauhiau,",
+        "Zo heisa paak bangin Zeisu namtui hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Luitui luang sialsial ah, kei ka vak ciangin,",
+        "Topa aw nangmah in nunna tui na hi,",
+        "Nong itna lianpi leh nang na sianthona,",
+        "Luitui luang sialsial te'n hong dem zo ke'n teh."
+      ]
+    }
+  ]
+}

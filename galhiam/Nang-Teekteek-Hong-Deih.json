@@ -1,0 +1,48 @@
+{
+  "title": "NANG TEEKTEEK HONG DEIH",
+  "key": "Key: G",
+  "galHiam": "Gal Hiam: 223",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Tulai momno lia le taang,",
+        "In gam a ding nang bang na geel, mawhna kol sung;",
+        "Gal in don vaw mulkim huai lua, luankhi tawh,",
+        "Nisim thunget kisam."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Hong itlua veng aw, Ih zogam mialpi sung zong,",
+        "Banghang tuciang Zeisu meel a leeng lo;",
+        "Kua muang na hiamigam a ding Zeisu in,",
+        "Nang teekteek hong deih."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Nang nong kihel lohin maw,",
+        "Hong mial semsem ding lh Zogam maw u leh nau;",
+        "Dipkuat huai lua tulai lh nuntakna thu,",
+        "Citak ding hong deih hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Gamthak khuavak puak dingin,",
+        "Nang le kei ih mawhpuak hi na thei nai maw?",
+        "Gupna khuavak nibang taang hen Zogam ah,",
+        "Zeisu'n thupha hong pia."
+      ]
+    }
+  ]
+}

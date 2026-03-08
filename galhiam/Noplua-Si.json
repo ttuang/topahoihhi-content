@@ -1,0 +1,53 @@
+{
+  "title": "NOPLUA SI!",
+  "key": "Key: E",
+  "galHiam": "Gal Hiam: 291",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Leitung i nunsung, haksa theizel a,",
+        "Ahih hang Topa muang tawntung peuh le'ng,",
+        "Ei tawh hong omkhawm den hi,",
+        "Buaina teng veng mang ta,",
+        "I innkuan sung i vangkhua ah,",
+        "Nopna kicing hong pia."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Noplua si! Topa, nang tawh tonkhawm le'ng,",
+        "Lei buaina khempeuh tuikhu bang vengsakpa,",
+        "Nisim paisan deudeu oh! Haleluijah,",
+        "Zeisu zawhna sungah lungmuang-in ka om ta."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Zeisu bek en in, nung hei nawn lo ding,",
+        "Ze-etnate in hong tuamcip mah leh,",
+        "I langah kuan pang zo diam,",
+        "Lau nawn peuhmah kei ning,",
+        "Topa tawh tonkhawm peuh leÊ¼ng,",
+        "Bangmah patau keng."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "A phattak Zeisu lam bang paak ve ni,",
+        "Israel mite a paikhiatpihpa,",
+        "San tuipi kantanpihin,",
+        "Suangpi pan tui phulsak,",
+        "Gualzawhna tawh a makai den,"
+      ]
+    }
+  ]
+}

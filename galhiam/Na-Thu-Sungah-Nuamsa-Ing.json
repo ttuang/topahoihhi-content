@@ -1,0 +1,48 @@
+{
+  "title": "NA THU SUNGAH NUAMSA ING",
+  "key": "Key: E",
+  "galHiam": "Gal Hiam: 20",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "(Na thu sungah nuamsa ing)2",
+        "Na thu sung bekmah lametna nei ing",
+        "Mitte vaksak in lungsim nuamsak hi",
+        "Na thusungah Topa kei hongkha in."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Na thu in lam honglak meivak hi, (Hallelu jah)",
+        "Ka paina lampi khua hongvak sak hi,",
+        "A lamdang nate kamuh theih nangin,",
+        "Na thusung ah Topa kei hong kha in."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Mihing te'nuntak na in, an, leh tui bek hilo hi.",
+        "Pasian kammal thutak tawh nungta hi,",
+        "Hih thu a theih nangin Mana tawh vak hi.",
+        "Sehnel gamah Topa in thuhilh hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "(Topa a muang khempeuh te)2",
+        "Zan a ihmut kalin hong cing ding hi,",
+        "Na khanlawh ciang zong hong hopih ding hi",
+        "Na gamtat zia dingzong honghilh ding hi."
+      ]
+    }
+  ]
+}

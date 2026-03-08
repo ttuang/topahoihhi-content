@@ -1,0 +1,59 @@
+{
+  "title": "Itna Pasian",
+  "key": "Key: G",
+  "galHiam": "Gal Hiam: 200",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Leitung mit tawh mel kamuh loh hang",
+        "Vanglian Pa khut in paai bang hong pom den",
+        "Naubang hong kepnate, ham bang hong huainate",
+        "A nop in nuam semsem Hallelujah."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Leitung pilan bang mah neilo a",
+        "Lungmawl kei bang lel mimic bang hong tel",
+        "Sian aw na lenggah huan gia bang zun ka cimlo",
+        "Lau Kha sianghto tui bang hong dim den aw."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Tung solkhapi a mial zong, tung sunni mual a liam zong",
+        "Mualliam theilo kei nong itna, cinglo taklo",
+        "Tualniam ka nunna, a sangna lam hong kaito",
+        "Agape itna Pasian, na min pakbang kong twain",
+        "Zaila naubang hong awi awi ningh maw."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Patpuan hilo, nai puan hilo a",
+        "Jesu sisan tawh kizem puan silh tang",
+        "Lungin ka gel gel ciang hoih in a hih semsem",
+        "Anbang hong itna lian tumdang diak sang."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Na hehpihna tawh hih ciang kong tung",
+        "Mailam ka nunna hong zang toto aw",
+        "Lumbang hong sung den aw, Abraham bangin",
+        "Mite ading thupha hong hi sak aw."
+      ]
+    }
+  ]
+}

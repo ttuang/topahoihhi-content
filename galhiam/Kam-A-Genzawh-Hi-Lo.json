@@ -1,0 +1,48 @@
+{
+  "title": "KAM-A GEN ZAWH HI LO",
+  "key": "Key: G",
+  "galHiam": "Gal Hiam: 130",
+  "ZBC": "ZBC: 132",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Zeisu in keimah hong itna,",
+        "Keimah hong tat nadinginah,",
+        "Singlamteh gilo hong thuakna,",
+        "Kam-a gen zawh hilo.",
+        "Chorus",
+        "Hong itna kam' gen zawh hilo,",
+        "Hong itna kam' gen zawh hilo,",
+        "Zeisu in keimah hong itna,",
+        "Kam-a gen zawh hilo.",
+        "Verse2",
+        "Ka nun'tak tawntung nanginah,",
+        "Nakpi'n dahna A hong thuakna,",
+        "Ling kiphan lukhu hong khukna,",
+        "Kam-a gen zawh hilo."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Pasiankiang hong thumsak Topa,",
+        "Ama sung ka ngah lung nopna",
+        "Ama si hang hong piang thupha,",
+        "Kam-a gen zawh hilo."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Hong nai ciang ka ngah lung damna,",
+        "Launa kihel lo tawldamna,",
+        "Ama hang lametna a pha,",
+        "Kam-a gen zawh hilo."
+      ]
+    }
+  ]
+}

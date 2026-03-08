@@ -1,0 +1,65 @@
+{
+  "title": "GAMLA PI MUAL TUNGAH",
+  "key": "Key: Bb",
+  "galHiam": "Gal Hiam: 154",
+  "ZBC": "ZBC: 138",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Gamla pi mual tung ah",
+        "Singlamteh tul gem gam",
+        "Gentheihna mai zumna lim ahi",
+        "Tua kuampi ka it hi",
+        "Leitung buppi tan ding",
+        "A ithuai pen Pa hong sihna hi"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Tua Singlamteh ke'n ngil ngei kei ning (ngei kei ning)",
+        "Zawhna minpha ka tut zawh mateng",
+        "Tua Singlamteh khah lo len len ning (khah lo len len ning)",
+        "Kham lukhu ka khek na ni mateng"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Mi in tua Singlamteh",
+        "A thusim loh hang in",
+        "Ke'n ka phawk tawntung na a thu in",
+        "Pasian Tuuno in",
+        "Vantung nopna nusia hi",
+        "Kalani mual ah tua pua ding hi"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Ka mawhna hong mai sang",
+        "Hong siangtho sak ding in",
+        "Sisan luang in Zeisu hong si hi",
+        "Pasian Tapa Sisan Siangtho a hong ban na",
+        "Tua Singlamteh ka vel vel nuam hi"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Tua Singlamteh khuampi",
+        "Ke'n nusia ngei kei ning",
+        "Taina zumna ka thuak pih hang in",
+        "Tua hi leh khat vei viang",
+        "Hong sam ding A inn-ah",
+        "Amah tawh a min thang khawm dingin"
+      ]
+    }
+  ]
+}

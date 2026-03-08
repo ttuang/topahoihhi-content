@@ -1,0 +1,58 @@
+{
+  "title": "A MANPHA SI",
+  "key": "Key: Eb",
+  "galHiam": "Gal Hiam: 156",
+  "ZBC": "ZBC: 136",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Manpha si tawntung manpha Si",
+        "Tun kei ading manpha",
+        "Tua Si hang bek ka kha tawldam",
+        "Dahna teng beisak hi"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Aw! Lamdang hi tua Sisan luang",
+        "Gumpa pang pan phul khia",
+        "Vantung dong ah la-in sa ning",
+        "A manpha bel Sisan"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Mangngilh ngei nawn peuhmah kei ni",
+        "Zuau lo Pasian in ci",
+        "Note mawhna khialhna tangin",
+        "Kata Sisan Ka bua"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Mawhna ka bawl tampi ka thei",
+        "Maizo diam tua zahpi",
+        "Ahih hang manpha Si'n sawp hi",
+        "Mawhna teng pua khia hi"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "A ci-mawh lungsim leh pumpi",
+        "Si ding a lum zongin",
+        "Lung nuam takin kei ka si ding",
+        "Tua manpha Sisan hang"
+      ]
+    }
+  ]
+}

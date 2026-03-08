@@ -1,0 +1,59 @@
+{
+  "title": "SIKTUKKILH HILO, HONG ITNA",
+  "key": "Key: E",
+  "galHiam": "Gal Hiam: 277",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "ka nuntakna nak Jesu Topa hi",
+        "Ka sapna khempeuh hongsik hong guan hi.",
+        "Ka sappen laitak kei ading hong si,",
+        "Ka sapna khempeuh kicing sak hi."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Singlamteh tungah kikhen,",
+        "Bang inlen bang in kilhcip",
+        "Siktukkilh a'i diam ? Siktukkilh hilo,",
+        "Hong itna hi zen veh",
+        "Hih thu ke'n bang tawh ka teh thei diam!"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Mawhna koi ah om? Pasian lungtang ah,",
+        "Itna koi ah om ? Pasian lungtang ah.",
+        "Pasian lungtang tuibang hong sawp siang ta,",
+        "Itna in mawhna loh khin zo ta"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Lainatna in kai, hamsiatna Sing ah,",
+        "Mawh na'n ling bang sun itna lungtang ah.",
+        "Jesu mawhna lom kisuaksak khin ta,",
+        "Hong mawhsakpa'n hong diksak zo ta."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Hong itna lian sa'ng, hong ngaihna sang sa'ng,",
+        "Lei le van akihal bangin kidang",
+        "Bang kasuak zen tam, hong it lo hi leh,",
+        "ka khitui khempeuh in cin ken ten."
+      ]
+    }
+  ]
+}

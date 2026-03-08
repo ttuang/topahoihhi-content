@@ -1,0 +1,38 @@
+{
+  "title": "KEI HONG HON PA ASI LUANGIN",
+  "key": "Key: Ab",
+  "galHiam": "Gal Hiam: 159",
+  "ZBC": "ZBC: 118",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Kei hong Hon-pa A si Luangin,",
+        "Ka Kumpi hong si maw?",
+        "Tang-tel bang bek kei ma a ding",
+        "Alutang hong zang maw?",
+        "Verse2",
+        "Keima gitloh na te hangin,",
+        "Singlamteh tung tau maw?",
+        "Lamdang hehpih na leh it na,",
+        "Bang tawh teh thei ding maw?",
+        "Verse3",
+        "Kei zong singlamteh ka muh ciang,",
+        "Zumin ka ki sel daim?",
+        "Lungdam na tawh lung neh no-in,",
+        "Ka khi ka luangsak diam?"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Ahih hang khitui tak na in,",
+        "Itna loh khin zo kei,",
+        "Topa ka pumpi kong pia hi,",
+        "kan ka hih thei kei"
+      ]
+    }
+  ]
+}

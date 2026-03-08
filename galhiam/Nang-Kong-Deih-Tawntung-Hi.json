@@ -1,0 +1,58 @@
+{
+  "title": "NANG KONG DEIH TAWNTUNG HI",
+  "key": "Key: Ab",
+  "galHiam": "Gal Hiam: 266",
+  "ZBC": "ZBC: 309",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Nang kong deih tawntung hi, Migi ka to,",
+        "Lung nopna hong pia thei, A dang om lo."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Kong deih hi, Nang kong deih hi,",
+        "Nang kong deih tawntung hi",
+        "Thupha hong pia,n Topa aw",
+        "Nang kong zuan hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Nang kong deih tawntung hi, Naitak kei kiang,",
+        "Ze-et na'n hong zolo, Nang nong nai ciang."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Nang kong deih tawntung hi, Nuam leng dah leng",
+        "Nuntak na'n man nei kei, Nang hong taan leng"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Nang kong deih tawntung hi, Hong thu hilh in,",
+        "Nong khapsa apha te, Hong ngah sakin."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 5",
+      "lines": [
+        "Nang kong deih tawntung hi, Siang pen pa aw,",
+        "Nang a tak hong hi ning, Tapa pha aw."
+      ]
+    }
+  ]
+}

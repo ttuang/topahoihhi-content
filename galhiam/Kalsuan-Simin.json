@@ -1,0 +1,38 @@
+{
+  "title": "KALSUAN SIM IN",
+  "key": "Key: C",
+  "galHiam": "Gal Hiam: 198",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Kalsuan sim in, Honpa kamai ah pai hi,",
+        "A itna khut tawh hong makaih a,",
+        "Husan sim in Topa nangmah kong bia hi,",
+        "Nang mah tawh tonkhawm leng nuam ka sa,",
+        "Chorus",
+        "Kalsuan simin, a hong pi ding ka thei a,",
+        "A sang zaw ah hong paipih tawntung hi,",
+        "Khatvei ni ciang lamtawpna ka tung ding a,",
+        "Kalsuan simin inn ka nai sem sem hi,",
+        "Verse2",
+        "Ka upna tha khat vei vei ahong kiam ciang",
+        "ka etna khempeuh lungkiatna hi,",
+        "Ki hei kikin kei hong Gumpa ka et ciang, H",
+        "ong ompih manin ka thahat hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Bang bang hong piang ta leh Pasian ka muang hi.",
+        "Nuntakna a mah sungah om hi,",
+        "Amah lampi a hong honsak thei Pa hi,",
+        "Khapsa gam nuam ah hong tun ding hi."
+      ]
+    }
+  ]
+}

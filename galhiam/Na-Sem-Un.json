@@ -1,0 +1,58 @@
+{
+  "title": "NA SEEM UN",
+  "key": "Key: F",
+  "galHiam": "Gal Hiam:  328",
+  "ZBC": "ZBC: 274",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Na seem un, na seem un, Pasian' sawltak hi hang",
+        "I Topa totsa lampi mah a zui hi hang.",
+        "Ama thu nuam in ei hong thahat sak ding hi.",
+        "Na sep ding i muh peuh thahatna tawh seem ni."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Na seem un, na seem un.",
+        "Na seem un, na seem un.",
+        "Lamen un, Thungen un,",
+        "Topa hong nai mateng seem un."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Na seem un, na seem un, gilkialte an vaak un.",
+        "Nuntakna tuinak ah mi gimte paipih un.",
+        "Singlamteh le lungdamna thu tawh kipaak ni.",
+        "Tangko un, \"Man ngen lo, a khawnkhong hong hon hi\"."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Na seem un, na seem un, om hi mikim sep ding,",
+        "Theihkhialhna khuamial gam hi eite sukmang ding.",
+        "I Topa Pasian' min i pahtawi ding a hi,",
+        "Tangko un, \"Man ngen lo, a khawnkhong hong hon hl."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Na seem un, na seem un, Topa' tha tawh seem amigo",
+        "Kumpi puan le lukhu nuamna eite'n saang ding,",
+        "Tatkhiatsa mi dikte tawh eite'n i vekpi'n,",
+        "Sakhawm ding, \"Man ngen lo, a khawnkhong hong hon hi”."
+      ]
+    }
+  ]
+}

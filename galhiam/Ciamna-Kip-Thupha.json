@@ -1,0 +1,48 @@
+{
+  "title": "CIAMNA KIP THUPHA",
+  "key": "Key: D",
+  "galHiam": "Gal Hiam: 331",
+  "ZBC": "ZBC: 340",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Ciamna kip thupha Zeisu kei a",
+        "Pasian vaanglian bang hong ciamsak na pha",
+        "Hotkhiatna luahpa Pasian leisa",
+        "Kha Siangtho a suak si a sawpsa"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Ka gen gen ding hi ka sasa ding",
+        "Hong Honpa phatna sun ni loh in",
+        "Ka gengen ding hi ka sasa ding",
+        "Hong Honpa phatna sun ni loh in"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Thuman'na cing a cing hi nuamna",
+        "Ka mitkha'n ka mu hi lianpi nuamna",
+        "Vantung mite in ka bil sungah",
+        "Hehpihna itna hong gen ka za"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Thuman'na cing hi tawlnga khin hi",
+        "Hong Honpa sung lungnuamin ka om hi",
+        "Vilkawm ngakkawmin ka ente hi",
+        "Ama hoihna itna hong dim hi"
+      ]
+    }
+  ]
+}

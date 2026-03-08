@@ -1,0 +1,58 @@
+{
+  "title": "INN PHA BEL AH I PAI DING HI",
+  "key": "Key: G",
+  "galHiam": "Gal Hiam: 164",
+  "ZBC": "ZBC: 447",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Mi siangthote pai na dinglampi in",
+        "Pasian mai-ah a om ding hi",
+        "Vantung khua mualah I pai ngitnget a,",
+        "Zingsol I tungah hong taang hi"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Inn pha bel ah I pai dinga",
+        "Lungdamna tawh I kimu dinghi.",
+        "Khua mun nuambel ei te’n I phak ciang",
+        "Dahna om nawnlo hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Lamnuam tawn mi siangtho honpite in",
+        "Zion khua-ah a pai kik ciang",
+        "Meivak sungah namgimtui thunkhol un",
+        "Vantung khua-ah I pai ding hi"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Lam nuam tawn dinga I ngaihsut tek leh",
+        "Khat leh khat I ki-it na in",
+        "Pasian tawh eite I omkhawm ding a",
+        "Nuam in I om tawntung ding hi"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Zawdan gungei a a votna gei-ah",
+        "I din’ hangin a gal khatah",
+        "Topa Pasian tawh I ngap khawm ding a",
+        "A min ih phat tawntung ding hi."
+      ]
+    }
+  ]
+}

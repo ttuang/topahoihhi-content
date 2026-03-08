@@ -1,0 +1,50 @@
+{
+  "title": "CIK CIANG NONG CIAH DIAM",
+  "key": "Key: E",
+  "galHiam": "Gal Hiam: 178",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Hong taisan nai keng ei",
+        "Nang nong mangngilh hang in",
+        "Hong nusia nai keng ei",
+        "Nang nong phawk loh hang in",
+        "Na siat lam thei ing",
+        "Na gitloh lam thei ing",
+        "Kei hong zuan phot in",
+        "Kong kikhel sak ding hi"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Cik ciang nong ciah diam",
+        "Cik ciang nong ciah diam",
+        "Lai natna khitui tawh",
+        "Hai bang hong ngak ing ei",
+        "Kum khua ki veita ei",
+        "Sul hong hei lo ding maw",
+        "Siatna hong phawk man",
+        "Hong ciah kik vaw kata"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Na gamtat bang bang in",
+        "Hong thuk kik hi zen leng",
+        "Sim leitung pan in",
+        "Kong paikhia ta ding a",
+        "Hong lai nat ing ei",
+        "Kang mei li na zuat ding",
+        "Zing ciang ci nawn se ke'n",
+        "Tuni'n hong sang pak vaw"
+      ]
+    }
+  ]
+}

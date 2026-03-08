@@ -1,0 +1,51 @@
+{
+  "title": "ZAWHNA OM HI ZEISU SUNG",
+  "key": "Key: E",
+  "galHiam": "Gal Hiam: 165",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Kazahi, a lui tangthu, vanpan honpa hong paina thu,",
+        "Kalvari ah sihna hong thuak hi, misia kei hong gum hi,",
+        "A si hong luankhiat man a, gim in a tauna thu ka za,",
+        "Ka mawhnate ka ki sik a, tu’n zawhna , ka ngah hi."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Zawhna om hi, atawntung, ka honpa Zeisu sung,",
+        "A si tawh kei mi mawh, Hong zongin hong lei zo,",
+        "Ka theih ma’n hong it zo a, kei zong ka it kik thei ta,",
+        "Gualzawhna ka ngah nangin, A si sung hong phum zo"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "A damsak theih thu ka za, Ama vangliatna lang sak a,",
+        "Khebaite hoihtak lam pai sak hi,",
+        "Mittaw khuamu sak hi Tua ciang ka it Zeisu kiang,",
+        "kei hong dam sakin ka cih ciang,",
+        "Amah ka kiangah hong pai a, Zawhna a hong pia hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Van ainn nuam thu ka za,Topa’n kei ading bawlzo ta,",
+        "Kongzing khempeuhah khambek kiphah,",
+        "Limlang tuipi galah,Vantung mite’lasakna,",
+        "A hong tatkhiatna thu ka za",
+        "Khatvei ciang ke’n zong tua laiah,",
+        "Zawhna lasa ding ta."
+      ]
+    }
+  ]
+}

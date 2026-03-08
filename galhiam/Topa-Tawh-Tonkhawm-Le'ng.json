@@ -1,0 +1,48 @@
+{
+  "title": "TOPA TAWH TONKHAWM LENG NUAMEI",
+  "key": "Key: E",
+  "galHiam": "Gal Hiam: 176",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Topa tawh tonkhawm leng nuam e,Buaina kinuaisiah ta,",
+        "Buaina tungah tawntung kigual zo hi.",
+        "Haksakna omlo hilo a,Haksakna kizo thei,",
+        "Topa hong om pihna kitel peuh leng."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Aw nuam sing, ka Topa sungah,Hong hehpihna lasa ning,",
+        "Hong itna sung tawntung ka lung muang hi.",
+        "Amah tawh tonkhawm leng nuam ei, Holim khawm leng nuam zaw laai,",
+        "Topa sungah nisim in nuam ka sa."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Topa nang tawh holim khawm leng, Nong hona aw za ing,",
+        "Na kammalte simin lungngaingai leng,Mit tawh na kimuh theihloh hang,",
+        "Na kilawn theihloh hang,",
+        "Kei nong lawn lam nong suk khak lam ka thei."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Lam in diangin Topa phat ni, Kha sung kibual khawm leng,",
+        "Topa hong om pihna hong lang sak hi.",
+        "Suakta lote suahtak na tawh,Dam lote damna tawh,",
+        "Topa’n hong om pihna hong lang sak hi."
+      ]
+    }
+  ]
+}

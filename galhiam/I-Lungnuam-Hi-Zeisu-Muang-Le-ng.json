@@ -1,0 +1,58 @@
+{
+  "title": "I LUNG NUAM HI, ZEISU MUANG LEENG",
+  "key": "Key: Ab",
+  "galHiam": "Gal Hiam: 262",
+  "ZBC": "ZBC: 296",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "I lung nuam hi Zeisu muang leeng",
+        "Ama hong gen bang um leeng",
+        "Ama hong thuciamna muang leeng",
+        "Topa' hong cihna thei leeng"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Zeisu, Zeisu ke'n ka muang hi",
+        "A muanhuai na thei zo ing",
+        "Zeisu, Zeisu manpha Zeisu",
+        "Amah muang semsem nuam ing"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "I lung nuam hi Zeisu muang leeng",
+        "Hong sapna Asi muang leeng",
+        "Hong dam hong siang sak thei Asi",
+        "Sungah upna tawh bual leeng"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "I lung nuam hi Zeisu muang leeng",
+        "Mawhna pumpi nusia leeng",
+        "Nuntak lungnop tawldam nuamna",
+        "Zeisu khut tung pan sang leeng"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Zeisu kong muan theih ka nuam hi",
+        "A manpha lawmpa Na hi",
+        "Hong Honpa aw a tawp dong in",
+        "Nong ompih ding ka thei hi"
+      ]
+    }
+  ]
+}

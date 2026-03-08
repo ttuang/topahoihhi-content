@@ -1,0 +1,55 @@
+{
+  "title": "KUMPIPA MAI I DING DIING",
+  "key": "Key: Ab",
+  "galHiam": "Gal Hiam: 335",
+  "ZBC": "ZBC: 422",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Kumpipa mai i ding diing",
+        "Vantungmi tawh lasa ding",
+        "ung ciangin, nung ciangin",
+        "A taang gun gei lam zui ding",
+        "Topa min phat tawntung ding",
+        "Nung ciangin, nung ciangin."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Kumpipa mai i ding diing hita",
+        "Vantungmi tawh lasa ding",
+        "Kumpipa a min phat ding",
+        "Halelujah! Halelujah!",
+        "Kumpipa mai i ding diing."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Vantung khua siklong tum ding",
+        "Kumpipa mai i ding diing",
+        "Nung ciangin, nung ciangin",
+        "Dahnate paisan ding a",
+        "Sa tawntung ding minphatna",
+        "Nung ciangin, nung ciangin."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Ka kha in manpha puak ding",
+        "Kumpipa mai i ding diing",
+        "Nung ciangin, nung ciangin",
+        "Zawhna A khe mai nga ding",
+        "Amah bang meel kicing ding",
+        "Nung ciangin, nung ciangin."
+      ]
+    }
+  ]
+}

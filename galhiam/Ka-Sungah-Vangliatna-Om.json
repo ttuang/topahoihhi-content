@@ -1,0 +1,36 @@
+{
+  "title": "KASUNG'H VANGLIATNA OM",
+  "key": "Key: G",
+  "galHiam": "Gal Hiam: 106",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Khazih kazuat lai kihhuai mah ta leng,",
+        "Hallelujah kasung'h vangliatna om ta,",
+        "Hong ki siangsak ta sisan muang peuh leng",
+        "Hallelujah kasung'h vangliatna omta.",
+        "Chorus",
+        "(Vang liatna a om vangliatna a om",
+        "Hallelujah kasung'h vangliatna omta.)2",
+        "Verse2",
+        "Ka mawhna pitawh Zeisu kazuan a.",
+        "Hallelujah kasung'h vangliatna om ta,",
+        "Kongkhak kakiu a, kei hong lutsak ta.",
+        "Hallelujah kasung'h vangliatna omta."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Mangthang mite aw, keitawh paikhawm ni,",
+        "Hallelujah kasung'h vangliatna omta,",
+        "Zeisu sisan in hong siangsak zota,",
+        "Hallelujah kasung'h vangliatna omta."
+      ]
+    }
+  ]
+}

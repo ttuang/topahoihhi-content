@@ -1,0 +1,71 @@
+{
+  "title": "GAM MINTHANG HONG PIANG DING",
+  "key": "Key: Bb",
+  "galHiam": "Gal Hiam: 253",
+  "ZBC": "ZBC: 169",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Vantungah gam aminthang bel",
+        "Eite aading in om hi",
+        "Kum simin mi siangtho te kikhawm uh hi",
+        "Gam minthang tawh ki nai theihna ding in",
+        "Ni in hong khem hi",
+        "Gam mintang piang ding hun",
+        "Hong tung dek tak hi"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Gam minthang hong piang a hun tung dek ta hi",
+        "Gam minthang hong piang a hun tung dek ta hi",
+        "Kisa kholin ka kha aw",
+        "Sawtlo pengkul tum ding hi Kumpipa",
+        "Minthang tawh hong pai ding"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Topa bawlsa vangtunga gam",
+        "Minthang phual lungngaih na in",
+        "Hong gum Topa hong pai ding hun i ngak hi",
+        "I thang awkna hih leitung",
+        "Koltanna sungah hong phel hi",
+        "Gam minthang piang ding hun",
+        "Hong tung dek tak hi"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Sawtvei i ngak ciang hih leitungah",
+        "Lung khamna tam hi",
+        "Meii kai manin mihing lungsim kisia hi",
+        "gam minthan'na thu gen in la",
+        "La phasa in hansuah ni",
+        "Gam minthang piang ding hun",
+        "Hong tung dek tak hi"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Topa bawlsa vantung gamhong tung ciang",
+        "I Topa mu ding",
+        "Hong pai ma in vantung gam i mu ding hi",
+        "Halelujah a si tawh hong gum",
+        "I Topa minthang hen",
+        "Gam minthang piang ding hun",
+        "Hong tung dek tak hi"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "title": "HONG PAIKIK DING KA UM HI",
+  "key": "Key: G",
+  "galHiam": "Gal Hiam: 100",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Mualsang tung khat pan in",
+        "Topa vankahto a",
+        "Puanpaaksilh minih in nungzuite hehnem hi",
+        "Lung zuang kha peuhmah kei un",
+        "Tu a ki lato Zeisu in",
+        "Van a kah namuh bangin hong kumkik ding"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "A gen bang hong paikik ding ka um hi",
+        "Pengkulte ngaihlua kisa in",
+        "Misite phong ding cih ka um hi",
+        "Mitphiat sung kikal inah",
+        "Vantung hong keek inah",
+        "A gen bang hong pai kik ding ka um hi"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Topa hong kilat ding",
+        "Naimah mah ta kha ding",
+        "Tuni zong hi thei hi tuhun zong hithei hi",
+        "Tua hun teh misiang khempeuh",
+        "Leitungin hup zo nawn lo ding",
+        "Van kimlai ah laktohna ngah ding uh hi"
+      ]
+    }
+  ]
+}

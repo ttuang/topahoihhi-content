@@ -1,0 +1,47 @@
+{
+  "title": "INNKUAN KI-IT LENG",
+  "key": "Key: Ab",
+  "galHiam": "Gal Hiam: 148",
+  "ZBC": "ZBC: 400",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "I kimmkot teng kilawmna, Innkuan ki-it leng,",
+        "Aw ging khempeuh lungdamna, Innkuan ki-it leng,",
+        "Lungnopna leh kicinna, Kiheina teng maitai na,",
+        "Hun khempeuh nuam mahmah a, Innkuan ki-it leng."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Innkuan sung ki-it leng,",
+        "Hun khempeuh nuam mahmah a,",
+        "Innkuan ki-it leng."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Bukno khat sung zong nuamna, Innkuan ki-it leng,",
+        "Huatna en’na omlohna, Innkuan ki-it leng,",
+        "I pai-na tengah nuamna, Leitung khempeuh lungdamna,",
+        "Lungdamna dim nuntakna, Innkuan ki-it leng."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Pasian zong hong lungdampih, Innkuan ki-it leng,",
+        "Leitung teng ki-itna dim, Innkuan ki-it leng,",
+        "Lui-ging bek zong la ngaihpi, Vandum bek zong maitaiina,",
+        "Pasian vanpan hong nuihpih, Innkuan ki-it leng."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "title": "A LAMDANG KHANLAWHNA",
+  "key": "Key: E",
+  "galHiam": "Gal Hiam: 22",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "A lamdang khanlawhna",
+        "A lamdang khanlawhna",
+        "A lamdang khanlawhna hong piang hen",
+        "Cina mite'n damna ngah ta hen",
+        "A kihen mite'n suahtakna ngah hen"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Vangliatna leh gualzawhna",
+        "Hauhna leh damna te'n",
+        "Thongkia mite'n suahtakna ngah hen"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "A lamdang gualzawhna",
+        "A lamdang gualzawhna",
+        "A lamdang gualzawhna hong piang hen",
+        "Cina miten'n damna ngah ta hen",
+        "A kihen mite'n suahtakna ngah hen"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "A lamdang kiitna",
+        "A lamdang kiitna",
+        "A lamdang kiitna hong piang hen",
+        "Cina miten'n damna ngah ta hen",
+        "A kihen mite'n suahtakna ngah hen"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "A lamdang vangliatna",
+        "A lamdang vangliatna",
+        "A lamdang vangliatna hong piang hen",
+        "Cina miten'n damna ngah ta hen",
+        "A kihen mite'n suahtakna ngah hen"
+      ]
+    }
+  ]
+}

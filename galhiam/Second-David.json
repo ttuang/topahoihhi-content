@@ -1,0 +1,48 @@
+{
+  "title": "SECOND DAVID",
+  "key": "Key: G",
+  "galHiam": "Gal Hiam: 247",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Second David kha galdo ding tangbang dam-in nong tuangta maw",
+        "Heitui vangkhua khimzinna gamah; Khimbang a zing heitui",
+        "Vangkhua nibang a taan theihnadingin, Sepna khempeuh",
+        "Topa minthanna hita hen!"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Second David kha galdo khitui Gospel te aw",
+        "Heitui vangkhua ko adingin tuang nong tungta uh maw,",
+        "Tangbang damin sepna khempeuh Topa gualzawhna hita hen,",
+        "Sepna khempeuh Topa minthanna hita hen!"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Kha galdo ding galkap te aw tangbang dam-in nong tungta maw;",
+        "Heitui vangkhua khimzinna gamah; Khimbang a zing heitui",
+        "Vangkhua nibang a taan theihnadingin, Sepna khempeuh",
+        "Topa minthanna hita hen!"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Khitui Gospel Gospel te aw tangbang dam-in nong tungta maw,",
+        "Heitui vangkhua khimzinna gamah; Khimbang a zing heitui",
+        "Vangkhua nibang a taan theihnadingin, Sepna khempeuh",
+        "Topa minthanna hita hen!"
+      ]
+    }
+  ]
+}

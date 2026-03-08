@@ -1,0 +1,38 @@
+{
+  "title": "KAWL GAM HONG PIA IN",
+  "key": "Key: G",
+  "galHiam": "Gal Hiam: 182",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Kawl gam hong pia in kawigam hong pia in",
+        "Natat samite Sian aw na zal na, nun nuam leeng",
+        "dingin nun nuam khawl ding in",
+        "Sian aw na ang liim liap ah hong pi in.",
+        "Chorus",
+        "Tui in tuipi atuam bang in kawlgama hong tuam tahen,",
+        "nong gupkhiat na tul sing lam teh thu,",
+        "Kawigam bup asiat ma in kha khan lawhnahong piain.",
+        "Hong piain Topa aw Kawlgam hong pia in.",
+        "Verse2",
+        "Kawlgam aading in khua ul sisuakin,",
+        "Khitui naptui tawh lobang hial ding in,",
+        "It na melma te nuih siam hong lelte,",
+        "Sian aw na ang liim liap ah hong pi-in."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Tho in la taang in suunnitang bang in,",
+        "Topa khuavakin nang hong tan zohi",
+        "Natan na sung ah, Kawl gam minam te,",
+        "Hong uk kumpi te hong paiding uh hi."
+      ]
+    }
+  ]
+}

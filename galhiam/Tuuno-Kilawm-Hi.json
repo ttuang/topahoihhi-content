@@ -1,0 +1,40 @@
+{
+  "title": "TUU NO KI LAWMHI",
+  "key": "Key: G",
+  "galHiam": "Gal Hiam: 326",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Sing lamteh hang nuam sing",
+        "Leibat nong loh sak nuamsing",
+        "Zumle dai nong thuak sakhi",
+        "Kei nong it man' lamdang hehpih nongpia"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Hih it na hang nuam sing",
+        "Aki kilh khut te hang nuam sing",
+        "Sian thona tuitawh hong sawp hi",
+        "Hong pomna le hong maisakna tu'n thei ta'ng"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Tuuno kilawm hi tokhomtung tu-in",
+        "Lukhu tampi na khu hi",
+        "Zawh na tawh namaang hi",
+        "Pasian'ta Zeisu pahtawi lam to un",
+        "Van ngaihno zeisu kithat lum hi",
+        "Tuuno kilawm hi, Tuuno kilawmhi"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "title": "KONGPI KIHONGSA-IN OM A",
+  "key": "Key: C",
+  "galHiam": "Gal Hiam: 322",
+  "ZBC": "ZBC: 235",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Kongpi kihongsa-in om-a,",
+        "A sung panin a vaangpi,",
+        "Singlamteh pan hong taangkhia a,",
+        "Topa' itna hong lak hi."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Hi takpi zo diam tua kongpi,",
+        "Kei ading a honsa'n om maw.",
+        "Keimah takpi, Keimah hong kihon maw."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Hotkhiatna zong mite khempeuh,",
+        "Tua kongpi honsa'n om hi.",
+        "A hau, a zawng, a lian, a neu,",
+        "A kua, ci lo lut thei hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Hehpihna kong kihon lai-in,",
+        "Nang zong lau ken delh inla,",
+        "Itna' piak lukhu ngah na'ngin,",
+        "Singlamteh na saang ding ta."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Leitungah hong piak singlamteh,",
+        "Sih gun galah ikhia ding.",
+        "Hinna lukhu hong piak tak teh,",
+        "Amah i itzaw sem ding."
+      ]
+    }
+  ]
+}

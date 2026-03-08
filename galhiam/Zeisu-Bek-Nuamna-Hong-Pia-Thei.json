@@ -1,0 +1,52 @@
+{
+  "title": "ZEISU BEK'N NUAMNA HONG PIA THEI",
+  "key": "Key: F",
+  "galHiam": "Gal Hiam: 336",
+  "ZBC": "ZBC: 322",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Aw Topa Jesuh kei lungsim",
+        "Na thu ka um man a",
+        "Sawtpi ka zong a nopna in",
+        "Lungdamna ka ngah ta"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Tuni Jesuh sim loh inah",
+        "Deih na dang om lo pi",
+        "Itna hinna tawntung nopna",
+        "Topa kiang ka ngah hi",
+        "Lungdam na ka zon lai tak in",
+        "Topa ka mangngilh hi",
+        "Hong gum Topa ka nial ciang in",
+        "Hong it a hong zol hi"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Leitung aa nop na te deih in",
+        "Lungkim ngah ding in ah",
+        "Hah kat in a ka zon hangin",
+        "Lung kiatna teng ka ngah"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Jesuh hong it thupha inah",
+        "Keimah ka ngah ma in",
+        "Si thei nopna lungsim neih hang",
+        "Topa ka ngaihsun ke’n"
+      ]
+    }
+  ]
+}

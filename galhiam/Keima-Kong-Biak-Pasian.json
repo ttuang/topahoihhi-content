@@ -1,0 +1,38 @@
+{
+  "title": "KEIMA KONG BIAK PASIAN",
+  "key": "Key: G",
+  "galHiam": "Gal Hiam: 216",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Keima kong biak Pasian, A vaanglian Pasian",
+        "Ngaihsut zawh loh in vaangliatna tawh dim hi.",
+        "Sim zawh loh aksi-te, pha zah ding seha,",
+        "Tua van aksi-te a min ciatin sam hi.",
+        "Chorus",
+        "Keima phatra lel tawh Topa lungkim hi,",
+        "Keima biakna lel te Topa'n hong saang hi,",
+        "Kei ka ginat loh hang Topa vaanglian hi;",
+        "Ka biak Pasian hangin ka lungdam ding hi.",
+        "Verse2",
+        "Eite biak Pasian in a nungta Pasian,",
+        "Sing leh suang Pasian a si Pasian hilo;",
+        "Amah nungta aih man, kei ka nungta hi,",
+        "Ka Topa a ding kei ka nungta ding hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Pasian ngaihsut tham ding, Mi?n bang hi le hiam?",
+        "Ahong phawk tham ding mi in bang hi le hiam?",
+        "A Tapa khat neihsun hong pia ka Pasian,",
+        "Hong itna vantung pan leitung hong tuaksuk."
+      ]
+    }
+  ]
+}

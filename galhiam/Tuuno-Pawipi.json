@@ -1,0 +1,47 @@
+{
+  "title": "TUUNO PAWIPI",
+  "key": "Key: G",
+  "galHiam": "Gal Hiam: 10",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Katen nading innpinuam, upna tawh gal et in,",
+        "Nunna guntui luang sial sial, huih dam zong nung hiau hiau,",
+        "Vantung misiang tho te'n phatna lasa ziah ziah,",
+        "Ka ten nading innpi nuam, in kei hong ngak gi ge."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Honpa'n tokhom tungpan ngak lah in hong en en,",
+        "Hua gungal pek pek ah, kham khuapi nuam sungah,",
+        "Phatna lasa khawm ding, Tuu no pawipi sungah."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Ka kha bek hong gum hilo, Ka pumpi zong hong gum,",
+        "Hih leitung gimna lianpi hongthuaksak ngei lo ding",
+        "Van inn nuam ka ciah ciang honghon Topa Zeisu'n",
+        "A hong dawnding a maw, Lung dam khut ki len ding."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Hih leitung pan vantung ah ka lentoh ni ciangin.",
+        "Hona Honpa vangliat na tawh, mitphiat kal ka leng ding",
+        "Leitung mangpha ciding, Aw nuam zen Hallelu,",
+        "Hallelujah ci'n phat na la sa sa ding."
+      ]
+    }
+  ]
+}

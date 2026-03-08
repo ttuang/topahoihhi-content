@@ -1,0 +1,50 @@
+{
+  "title": "VA BANG KA LENG DING",
+  "key": "Key: E",
+  "galHiam": "Gal Hiam: 32",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Topa zeisu’n hih bang thugen,",
+        "Manlang in kong paikik ding hi.",
+        "Mi siangtho te hong pi ding in.",
+        "Thu um misi te thoto ding,",
+        "Mitphiat kalsungin kikhel ding.",
+        "Kham innpi sungah va bang in leng to ding."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Va bang in kei ka leng ding hi.",
+        "Nisuah nitum sak leh khang pan,",
+        "Thu um mite ki kaikhawm ding,",
+        "Kham innpi ah vabang in leng to ding."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Jeruesalem kham khua thak ah,",
+        "Vantung mite ki kaikhawm in.",
+        "Thu um mite tawh ki mu ding, (Halleujah)4",
+        "Lungdam kipak in Pasian phat den ding ."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Kham innpi ah kei ka tung ding,",
+        "Topa’n khitui hong nul sak ding .",
+        "Nat na satna te om nawn lo. (Hallelujah)4",
+        "Lungdam kipak in Pasian phat den ding."
+      ]
+    }
+  ]
+}

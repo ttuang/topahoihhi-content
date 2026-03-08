@@ -1,0 +1,48 @@
+{
+  "title": "LAU PEUH MAH KE'N",
+  "key": "Key: E",
+  "galHiam": "Gal Hiam: 44",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Ka lungmuan na khat om, Lau ke'n kata aw ci,",
+        "Hong thapia awneem khat kaza,",
+        "Na lampi kong honsak lungkham na kuampi te,",
+        "Lametna kongpi kong suaksak ding."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Laupeuhmah ke'n kata aw,",
+        "Vangliat na khempeuh kong pia zo,",
+        "Keina hong up uhleh keima bawl sang lian zaw,",
+        "Na bawl thei dinguh hi, ka kammal te nungkik lo."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Khasiangtho in hongsawl, Topa minthan na ding",
+        "Na khut te tung'h vangliatna kong koih,",
+        "Na mukte hong lawngin, ka thu leh ka kammal te,",
+        "Kong koihsak khin zo hi, lau kei in."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Na gual lelhna lampi, Gualzawhna tawh na tawn",
+        "ding, Thahat in la hangin hong ci,",
+        "Lauke'n la lungkia ke'n, Na mai ah gualzawh na in,",
+        "Hongngak cih tel in la lau kei in."
+      ]
+    }
+  ]
+}

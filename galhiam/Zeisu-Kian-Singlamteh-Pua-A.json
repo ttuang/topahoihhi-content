@@ -1,0 +1,48 @@
+{
+  "title": "ZEISU Kia’n Singlamteh Pua",
+  "key": "Key: A",
+  "galHiam": "Gal Hiam: 329",
+  "ZBC": "ZBC: 279",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Jesuh kia’n singlamteh pua a",
+        "Guak pai ding maw lei mi",
+        "Hi lo, mikim puak ding om a",
+        "Kei puak ding zong om hi"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Singlamteh ke’n ka pua ding hi",
+        "Sihna’n hong khah ma teng",
+        "Kumpi lukhu ka ngah ding hi",
+        "Vantung innpi tung leng"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "A kikhen let Jesuh khe kiang",
+        "Lim lang suang phah tung ah",
+        "Ka kham lukhu ka ngak suk ciang",
+        "Nuam in phat ning Amah"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Aw manpha hi, tua singlamteh",
+        "Vaanglian kumpi lukhu",
+        "Ka ngah ding hi hinkikna leh",
+        "Hong lak ding lawpna thu"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "title": "HONGSAP CIANG KA DAWNG DING",
+  "key": "Key: E",
+  "galHiam": "Gal Hiam: 62",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Itna tawh kei hong beel ahih man in",
+        "Amah ka honkhia ding hi",
+        "Amah in Ka min thei ahih man in",
+        "Munsangna ah Ka koih ding hi"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Aman Kei hong sap ciang Ka dawng ding a",
+        "Haksatna sungah nang kong ompih ding hi",
+        "Amah honkhia in Ka pahtawi ding a",
+        "Nuntak sau tawh nang Kong lumkimsak ding hi"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Nang tungah siatna na inn ah gimna",
+        "Hong tungsak ngei lo ding hi",
+        "Na mai ah tulkhat na kiim ah tulsawm",
+        "Hong puk hang in na lau kei ding hi"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Sun a thaltang leeng zan a lauhuai na",
+        "Hong su khasak lo ding hi",
+        "Topa' liim sungah na ling kei ding hi",
+        "Vantung mi te'n na hong cing ding hi"
+      ]
+    }
+  ]
+}

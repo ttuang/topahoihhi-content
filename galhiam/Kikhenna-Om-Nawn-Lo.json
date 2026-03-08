@@ -1,0 +1,48 @@
+{
+  "title": "KIKHENNA OM NAWNLO",
+  "key": "Key: G",
+  "galHiam": "Gal Hiam: 98",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Kikhenna omnawnlo, kikhenna omnawnlo,",
+        "Vantung ka pa inn ah kikhenna omnawnlo,",
+        "Sihna natna te leh lungzuanna omnawnlo,",
+        "Tuuno in nibang taang, Jerusalem khuathak ah,"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Aw tualai munnuam, lungsim in ka ngaihsut ciang,",
+        "A nopcit dan noptuak zensi,",
+        "Tua munah kapai ciang, lawmte'n hongmuak dinga,",
+        "Hong tankhia ka Topa khutpawn te kalen ding hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "(Lawm aw nang na ut hiam?)?",
+        "Tatkhiat sate lenna van khuapi ah,",
+        "Tua mun tunna dingin Zeisu sisan bek hi,",
+        "Lawm aw nang na ut hiam, Jerusalem khuathak ah."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Tuni'n Topa sapna a aw nem nazak leh,",
+        "Na lungsim khauhsak ke'n Zeisu zuan vaw",
+        "A lian mah mah gupna donlo in om le cin,",
+        "Mawhna dan tawh bangcih kipelh theiding na hiam?"
+      ]
+    }
+  ]
+}

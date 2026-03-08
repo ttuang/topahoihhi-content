@@ -1,0 +1,48 @@
+{
+  "title": "KEI NANGAWN HONG IT HI",
+  "key": "Key: G",
+  "galHiam": "Gal Hiam: 342",
+  "ZBC": "ZBC: 383",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Vantunga i Pa in A hong itna",
+        "Hong piak Lai Siangtho sungah hong gen ta",
+        "Lai Siangtho sungah thu a ngaihpha pen",
+        "Zeisu in kei hong itna mah hipen.",
+        "Chorus",
+        "Zeisu'n hong it man ka nuampha hi",
+        "Kei hong it hi, kei hong it hi",
+        "Zeisu'n hong it man ka nuampha hi",
+        "Kei nangawn hong it hi.",
+        "Verse2",
+        "Amah mangngilhin ka taisan hangin",
+        "Hong it lailai hi, ka mangthang hangin",
+        "Zeisu in hong it ken ka phawk kik a",
+        "Ama angsung ka delh kik vingveng ta."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "A phatna teng tawh A mai ka muh teh",
+        "La khat bek sa thei ding hong kici leh",
+        "Bang la ka sazaw diam hi lo a dang",
+        "\"Zeisu in kei hong it piandanglua sa ng."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Zeisu'n hong it a, kei zong ka it hi",
+        "Ka kha hehpihin tan ding hong kum hi",
+        "Hong it manin singlamteh tung si a",
+        "Tua ahih ciang hong it takpi hi ta."
+      ]
+    }
+  ]
+}

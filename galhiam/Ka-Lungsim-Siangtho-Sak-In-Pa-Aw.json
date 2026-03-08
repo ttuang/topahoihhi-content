@@ -1,0 +1,26 @@
+{
+  "title": "Ka Lungsim Siangtho Sak In Pa Aw",
+  "key": "",
+  "galHiam": "Gal Hiam: 46",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Galhiam 46"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "(Ka lungsim siangtho sak in Pa aw,",
+        "A thak a man ngaihsutna hongpia in)2",
+        "Nang omna pan in kei hong paaikhia kei in la,",
+        "Kei kiang pan khasiangtho la khia ke'n,",
+        "Ka lungsim kha a thak in piangsak aw"
+      ]
+    }
+  ]
+}

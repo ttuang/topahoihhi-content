@@ -1,0 +1,57 @@
+{
+  "title": "MUHKHOPNA-AH HIN’NA OM HI",
+  "key": "Key: G",
+  "galHiam": "Gal Hiam: 311",
+  "ZBC": "ZBC: 130",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Singlamteh tung kikhai mi na muh ciangin,",
+        "Thakhatthu'n hin'na ngah ta un, ci.",
+        "Tua ahih ciang mawh neite'n en un zong un,",
+        "Singlamteh a kithatpa en ni."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "En un, hing ta un.",
+        "A kikhai mipa en-in hin'na ngah ta un.",
+        "Thakhatin hin'na pha ngah ta un."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Mawhna phel ding hi kei leh Amah inah,",
+        "Bang ding singlamteh thuak nuam ding hiam.",
+        "Mawhna pan sihna tawh hong tan nuam ding hiam,",
+        "A pang pan si bang ding a luang diam."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Kisikna bek in mawhna kiphel zo lo,",
+        "A si bek in a hong phel zo hi.",
+        "A si a hong bua Topa Zeisu kiangah,",
+        "Na khialhna khempeuh hong puak in ci."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Hong sapna lunghian' nading om lo ding hi.",
+        "Kicing zo hi, ci-in hong sam hi.",
+        "Lei a bei ciang khatvei hong pai lai ding a,",
+        "Thu ka hong khen ding hi, a ci hi."
+      ]
+    }
+  ]
+}

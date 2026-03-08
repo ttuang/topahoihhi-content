@@ -1,0 +1,58 @@
+{
+  "title": "Topa, Hong Ciah Ing",
+  "key": "Key: Ab",
+  "galHiam": "Gal Hiam: 324",
+  "ZBC": "ZBC: 243",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Pasian kiangpan gamla ka pial",
+        "Tu in hong ciah ing",
+        "Mawhna lam sawt lua ka tawn khial",
+        "Topa hong ciah ing"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Hong ciah ing, Hong ciah ing",
+        "Vak khia nawn lo ding",
+        "Thupha tawh Nang aa hi ning",
+        "Topa hong ciah ing"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Hunpha tampi mawk bei sak ing",
+        "Tu in hong ciah ing",
+        "Tun kap in ki siak taktak ing",
+        "Topa hong ciah ing"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Mawhna lam pial cim tang Topa",
+        "Tu in hong ciah ing",
+        "Muang ning na itna leh thupha",
+        "Topa hong ciah ing"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Ka kha cina, Ka lung meima",
+        "Tu ion hong ciah ing",
+        "Hong dip kik in ka lawpna tha",
+        "Topa hong ciah ing."
+      ]
+    }
+  ]
+}

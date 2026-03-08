@@ -1,0 +1,45 @@
+{
+  "title": "KHAICI MANPHA VAWH UN",
+  "key": "Key: Bb",
+  "galHiam": "Gal Hiam: 273",
+  "ZBC": "ZBC: 416",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Khaici manpha vawh un,",
+        "Zingsang phalvak kipat tungin",
+        "Khaici manpha vawh up",
+        "Khaici manpha vawh un,",
+        "Khangno lungsim zepna ding in",
+        "Khaici manpha vawh un, dawmin lungduai tak.",
+        "Chorus",
+        "Khaici manpha vawh un,",
+        "Khaici manpha vawh un",
+        "Gamla nai ah vawh un,",
+        "Lungduai itna khut tawh.",
+        "Nuntak khomun balnen,",
+        "Lungdamna tangthu gen ta un",
+        "Khaici manpha vawh un, it gamsungah.",
+        "Verse2",
+        "Khaici manpha vawh un, ni akai laitak inah zong,",
+        "Khaici manpha vawh un, khuamui na nungah,",
+        "Khaici manpha vawh un, phunlo, um lah lo in om un,",
+        "Avek pi'n Pasian ap in Amah muang un."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Khaici manpha vawh un,",
+        "Lawpna leh hanciamna tak tawh,",
+        "Khaici manpha vawh un, kham khaici manpha",
+        "Khaici manpha vawh un,",
+        "Khut te tha zawsak ngei lo in.",
+        "Pasian in ni le guah puak ding thunge un."
+      ]
+    }
+  ]
+}

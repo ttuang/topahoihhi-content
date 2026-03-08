@@ -1,0 +1,46 @@
+{
+  "title": "KI CING HI",
+  "key": "Key: C",
+  "galHiam": "Gal Hiam: 197",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Topa hong piak thupha, kei leh ka innkuan aading,",
+        "Kicing hi, hong hehpihna ka phat ding,",
+        "Neek leh dawn, silh leh ten, Nisim zat ding sum leh pai,",
+        "Hong pia hi, ka sapna hong cing sak hi."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "[ (Ki cing hi, hong hehpilhna thupha)2",
+        "Kei aading hong hepihna ki cinghi.]2"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Asi hang mawh maina, Aliamma hangin damna,",
+        "Hong pia hi, hong hehpihna ka phat ding.",
+        "A khawnkhong nuntakna, A zawngkhal na hang hauhna",
+        "Hong pia hi, hong hehpihna ki cing hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Thanem te tha hat na, cidam lo te tung damna,",
+        "Hong pia hi, hong hehpihna ka phat ding,",
+        "Lunggim mi lungdamna, a ki hen mi suahtakna,",
+        "Hong pia hi hong hehpinna ki cing hi."
+      ]
+    }
+  ]
+}

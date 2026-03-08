@@ -1,0 +1,48 @@
+{
+  "title": "A NAI A GAMLA LOTE AH",
+  "key": "Key: Ab",
+  "galHiam": "Gal Hiam: 330",
+  "ZBC": "ZBC: 285",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "A nai a gamla lote ah",
+        "Ante min khin zo ta hi",
+        "Sim le zo mual lo zaang lo ah",
+        "Anvuite min zo ta hi"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Topa aw kote hong thuumna",
+        "Hong ngai in an nei Topa",
+        "An la ding mi hong kuan sak in",
+        "An laak hun a kheng ma in"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Zingsang phalvak tuung ahi zong",
+        "Sun kim ciang ahi zongin",
+        "Hong kuan sak lai in nitak zong",
+        "Lo lai teng an khawm ding in"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Kuan meng un Topa' sawltakte",
+        "Anvuite kuai zo ta hi",
+        "An kaikhawm khin ni hong tum the",
+        "Lungdamin na ciah ding hi"
+      ]
+    }
+  ]
+}

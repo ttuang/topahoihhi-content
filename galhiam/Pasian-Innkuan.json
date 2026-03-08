@@ -1,0 +1,38 @@
+{
+  "title": "PASIAN INKUAN",
+  "key": "Key: G",
+  "galHiam": "Gal Hiam: 95",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Ka nuam hi, Pasian innkuan sungah ka om zo.,",
+        "A sisan siangtho in kei hongsil siangzo,",
+        "Zeisu tawh luahkhawm zo, Hih mun ka om lai hang,",
+        "Ka nuam hi Pasian innkuan sungah ka om zo."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Ka sanggampa ka sanggamnu ci in ih kisam,",
+        "Eite Pasian sungah innkuan khat ih hih man in,",
+        "Gimthuak khat ih omciang, ih kithuakpih ciat a,",
+        "A gualzo khat ih omciang, ih ki lungdampih hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Tagah te innpan kipan in, Kumpi inn dong in,",
+        "Hong ki deidan tuanlo in, lathak kasa theihi,",
+        "Siatna pan hoihna ah. Zawnna pan hauhna ah",
+        "Kilawm lopi'n hiah ka om, Ka Pasian min kaphat."
+      ]
+    }
+  ]
+}

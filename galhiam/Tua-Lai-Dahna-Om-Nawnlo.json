@@ -1,0 +1,58 @@
+{
+  "title": "TUA LAI DAHNA OM NAWN LO",
+  "key": "Key: A",
+  "galHiam": "Gal Hiam: 162",
+  "ZBC": "ZBC: 437",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Vantung ka ngaihsun hi,",
+        "Topa Pasian omna;",
+        "A kham maitang nisim mu ding,",
+        "Nop kicing man ngahna."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Dahna kipelhna mun,",
+        "Dahna kipelhna mun;",
+        "Itna kicing vantung khamgam,",
+        "Dahna kipelhna mun."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Vantung ka ngaihsun hi,",
+        "Hong teel Topa omna;",
+        "Hong itna pha phat nading la,",
+        "Kisa tawntung ding hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Vantung ka ngaihsun hi,",
+        "Vantung mihingte in;",
+        "Puanpak silh in a om uh hi,",
+        "Ei zong i om ding hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Vantung ka ngaihsun hi,",
+        "A tungsa i lawmte;",
+        "Mu a kikhen nawn lo ding a,",
+        "Nuam tawntung ding hi veh."
+      ]
+    }
+  ]
+}

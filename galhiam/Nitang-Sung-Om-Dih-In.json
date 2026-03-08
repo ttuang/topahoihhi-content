@@ -1,0 +1,45 @@
+{
+  "title": "NITANG SUNG OM DIHIN",
+  "key": "Key: G",
+  "galHiam": "Gal Hiam: 174",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Leitungah khua mial lungkham na dim a",
+        "Khua vaakin nitaan na zong om ta",
+        "Lungkhamna khuamial sung na om khakle",
+        "Nitaang sung zong om thei ding hi teh",
+        "Chorus",
+        "Nitaang sung om dih in",
+        "Tawntung nitaang sung om in",
+        "Nitaang sung ah nungta dih in",
+        "Tawntung nuam na sa ding hi",
+        "Na lam hong taang sak ding hi",
+        "Sanggam aw nitaang sungah om dih in"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Huihpi'n ih kimkot teng a nuai hang in",
+        "Lametna teng hong bei sak hang in",
+        "Huihpi leh guahpite veng pak na ve",
+        "Khuamial in lau na tam hang sa ni"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Lametna tawh nisim in lasa ni",
+        "Khuamial in lau na tam hang sa ni",
+        "Tawntung Honpa mai ih muak den kei le",
+        "I vekpi in honghuai ding hi veh."
+      ]
+    }
+  ]
+}

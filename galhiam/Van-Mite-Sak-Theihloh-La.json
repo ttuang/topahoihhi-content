@@ -1,0 +1,38 @@
+{
+  "title": "VAN MITE SAK THEIH LOH LA",
+  "key": "Key: E",
+  "galHiam": "Gal Hiam: 36",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Van mite’n ka lungdam lam hong theipih kei,",
+        "Sisan tawh a maumawhna sawp kullo pi,",
+        "Vantungah la a sak uh hangin khat vei,",
+        "Lamdang itna la ka sak ciang daitak ngai ding uhhi."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Tua siangtho van mite saktheihloh la in,",
+        "Lamdang itna ke’n ngaih lua sa’ng,",
+        "Tua siangtho van mite sak theihloh la in,",
+        "Hong kimu zo ka gam man hang."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Van mite’n la a sa Topa siangtho hi,",
+        "Pasian tokhom mai-ah lasa den keei veh,",
+        "Amau la ka sakpih ding bel lamdang kei,",
+        "Hong it manin la ka sak pih lam bel thei kei unteh."
+      ]
+    }
+  ]
+}

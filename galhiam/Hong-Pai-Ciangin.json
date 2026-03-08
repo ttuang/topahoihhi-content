@@ -1,0 +1,48 @@
+{
+  "title": "HONG PAI CIANGIN",
+  "key": "Key: E",
+  "galHiam": "Gal Hiam: 185",
+  "ZBC": "ZBC: 382",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Hong pai ciangin hong pai ciangin",
+        "Suangmanpha khawm dingin",
+        "A ma it te a ma aa te",
+        "A suangmanpha te"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Zingsang aksi sol bangin",
+        "A taang ciat ding uh hi",
+        "A kumpi lukhu tungah",
+        "Te diam diam ding hi"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Hong khawm ding hi hong khawm ding hi",
+        "A gam sung om ding mi",
+        "A siangtho te, a taangpha te",
+        "A suangmanpha te"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Naupangnote naupangnote",
+        "Hong Tanpa a it te",
+        "A ma aa hi, a ma it hi",
+        "A suangmanpha hi"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "title": "OM HITHIAT NING",
+  "key": "Key: C",
+  "galHiam": "Gal Hiam: 285",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Na kha nuai kei hong seel in,",
+        "Hong huai in, avanglian na khut tawh"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Tuipi hong khangin van hong gin ciang",
+        "Lauhuai huihpi kheng, i lengkhawm ding",
+        "Dahna tuihual te tung Thuneipa",
+        "Pasian kong neih main om hithiat ning"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Khris sung bekah ka tawldam hi,",
+        "Avangliat ka theih teh ka muang hi.",
+        "Coda: Pasian kong neih ma'n om hithiat ning."
+      ]
+    }
+  ]
+}

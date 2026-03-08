@@ -1,0 +1,48 @@
+{
+  "title": "AMAUTE IN LA THAK A SA UH HI",
+  "key": "Key: C",
+  "galHiam": "Gal Hiam: 343",
+  "ZBC": "ZBC: 421",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Vantung inn sungah i lawmte'n lasa hi",
+        "Hong gum Topa a min a phatna uh hi",
+        "Leitungah lungkhamna teng mangngilh khin a",
+        "Mi siangthote'n lungdamna la thak a sa"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Zeisu min phatni",
+        "Kalani mualtung si zo hi",
+        "Zeisu min phat hi",
+        "Sihna zo a hing kik ta hi"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Hong hehpihna phat na'ng la thak om kim hi",
+        "A um ta ding thuphabel a hi ding hi",
+        "Topa si a a piang kik a minthanna",
+        "Ka gennasa nuambel hi Pasian kiangah"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Tuni sipha tawh a kisil lote in",
+        "tua la thak kuamah in sa thei lo ding hi",
+        "Mawhnei te mawhna phel a hong hehpihna",
+        "Phatna lungdamin limtakin la sa ni"
+      ]
+    }
+  ]
+}

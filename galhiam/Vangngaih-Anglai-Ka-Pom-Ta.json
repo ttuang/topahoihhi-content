@@ -1,0 +1,53 @@
+{
+  "title": "Vangngaih anglai ka pomta",
+  "key": "",
+  "galHiam": "Gal Hiam: 229",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Vangngaih anglai ka pomta,",
+        "Sanmun muang nunnuam sawlbang ka hei ta",
+        "Vangngaih bel ka To Zeisu ka neih khit teh",
+        "Gual in nuihciam hong lel zong",
+        "Naubang kah, heh nong nem Pa",
+        "Hong lamsak ka To Zeisu ken nei hi veng"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Zaila in ka awih cimlo, va bang in ka laam cimlo",
+        "Vangngaih bel ka To Zeisu ka neih khit teh",
+        "Ziin in gi-bang hong khen zong, anglai naubang ka pom sa",
+        "Vangngaih Jesu tawh sambang khen nawnlo ding"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Simlei ah mi zatam ten na pallai",
+        "Zubang in hong nial zong leh",
+        "Sanggah ken, anglai naubang ka pom cimlo",
+        "Kua tawh tanbang kong teh diam, nong itna thukin sang ee",
+        "Sanggah ken, na pal ningtui ka dawn cimlo"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Mubang kong ngaih luat man maw",
+        "Ka pallai nang ading hong pia ing ee",
+        "Lungmawl kei, anglai naubang hong pom in la",
+        "Hong sang aw ka duang nemno",
+        "Ka luankhi tui bek mah hi",
+        "Nang ading kum sawt tangbang hong damsak aw"
+      ]
+    }
+  ]
+}

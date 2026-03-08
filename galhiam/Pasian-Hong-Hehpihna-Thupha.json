@@ -1,0 +1,69 @@
+{
+  "title": "Pasian hong hehpihna thupha",
+  "key": "Key: Eb",
+  "galHiam": "Gal Hiam: 121",
+  "ZBC": "ZBC: 185",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Pasian hong hehpihna thupha,",
+        "Kei kiang hongtun theihna,",
+        "Ka kilawmlohpi hong deihna,",
+        "Banghang hiam theizo keng."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Ahih hang ka uppa ka thei hi,",
+        "Amah muanhuai hi,",
+        "Ke’n ka thei zo hi,",
+        "Ama tung ka piaksate zong,",
+        "Kemzo ding hi, tua ni dong."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Hong honkhia zo thei hih upna,",
+        "Kei tung a hong piakna,",
+        "A thu um leng lungnop theihna,",
+        "Bangci bang hiam thei keng."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "KhaSiangtho in mi lungsim hei,",
+        "Mawhna hong phawksak thei,",
+        "Jesuh hong musak umsak thei,",
+        "Bangci bang hiam thei keng"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Topa mai ken ka muh ma-in,",
+        "A pha a sia tuah ding,",
+        "Gentheih nading nopsak nading,",
+        "Bang ka sunsiah thei keng,"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 5",
+      "lines": [
+        "Topa cikciang hong pai ding hiam,",
+        "Ka sih kiht hizaw diam?",
+        "Vankim lai-ah ka dawnzaw diam?",
+        "Bangmah kei-in thei keng"
+      ]
+    }
+  ]
+}

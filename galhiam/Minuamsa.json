@@ -1,0 +1,48 @@
+{
+  "title": "MI NUAMSA",
+  "key": "Key: E",
+  "galHiam": "Gal Hiam: 6",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Mi nuamsa in mi nuam sa in,",
+        "Sun leh zan in Topa thu Lungngai mi hi,",
+        "A nopsak na in Topa thu sung bek hi,",
+        "A tawntungin Topa tungah lungdam hi."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Gungei a kisuan singkung bang hi a,",
+        "A teh vul lo, a gah hunin gah dena,",
+        "A sepna peuh ah tangtung in nuamsa hi,",
+        "Sun leh zan in a thungai leng nuam kasa,"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Ih Topa hoih hi, ih Topa hoih hi,",
+        "Thupha hong pia ka khatha hongdimsak hi.",
+        "Kei hong damsak hi, hauhna tawh hongtuam hi,",
+        "Gual zo te' tung'h gualzo pente ih hihi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Lungdam kohna tawh, lungdam kohna tawh",
+        "Tatsat lo in Topa hoihna gengen ning",
+        "A thu lungngai leng lungngai leng nuam sem sem,",
+        "A hoihna gen, gen gen ning phat tawntung ning"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "title": "HALELUJAH TUUNO CI'N",
+  "key": "Key: G",
+  "galHiam": "Gal Hiam: 224",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Mi honpite lai zang ka ding Topa",
+        "Minam tuamtuam pau dangdang lakah",
+        "Si tawh Nong tatsa mi ki hi Topa",
+        "Sihna panin nong hon khia",
+        "Kam in cin kei, nuam sin'ng cih ding lo ngal",
+        "Kam in cin kei phat taak cih lo ngal",
+        "A hih hang ka aw sangkhan in",
+        "La ka sa ding hi ka hihtheih zah in"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Halelujah Halelujah Halelujah",
+        "Tuuno ci'n",
+        "Halelujah Halelujah Halelujah",
+        "Na Si sung kiptak ka ding",
+        "Leii teng in nam teng in",
+        "Mi khempeuh in",
+        "Gam khempeuh in minthang sak ni",
+        "Tawisang ciat ni minphatna pia ni",
+        "Pasian Tuuno"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Nong hehpihna sung kiptak ka ding",
+        "Nong sawp tuuno Sisan tawh",
+        "Ka tate aw ci'n ko nong sam hi",
+        "Na mai khukdin thu kong ngen",
+        "Vangliatna khahkhia'n",
+        "Ko sung na kasep nang",
+        "Nang tawh kibang nuam zaw kan lai ing",
+        "Nam teng in Nang hong muh na'ng",
+        "Na minthan lakin kong bia ding hi"
+      ]
+    },
+    {
+      "type": "bridge",
+      "label": "Bridge",
+      "lines": [
+        "Khuk khempeuh khukdin leitung in",
+        "Nang Topa hi ci'n pulak ding",
+        "Zeisu in Topa hi"
+      ]
+    }
+  ]
+}

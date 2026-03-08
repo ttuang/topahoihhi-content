@@ -1,0 +1,45 @@
+{
+  "title": "LEIBAT DANG NEINAWN KENG",
+  "key": "Key: G",
+  "galHiam": "Gal Hiam: 18",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Vang liatna kangah khin a,",
+        "Pasian ta ka hih | nung sang",
+        "Lungdam na koh ding sim loh,",
+        "Leibat dang ke'n neinawn keng."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Honghon ding khat zong neilo,",
+        "Khitui luang kaom laitak, kakhitui hong nulsak a.",
+        "A ang sung ket hong pom ta."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Natna in kei hong tuam in,",
+        "Hong vehding ka neih loh lai, Thoto in nadam zo hi.",
+        "Hong cih man ka damsiang ta."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Tu'n kei pawh patau nawn ke'ng.",
+        "Mawh maisak pa nei zo ing, Mawhna in keihong zol hang",
+        "Zeisu hang gupna ngah tang."
+      ]
+    }
+  ]
+}

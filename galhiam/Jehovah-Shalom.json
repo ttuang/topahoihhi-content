@@ -1,0 +1,47 @@
+{
+  "title": "JEHOVAH SHALOM",
+  "key": "Key: E",
+  "galHiam": "Gal Hiam: 64",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Ka mai ah lungkham buaina, Bawlsiatna gensiatna ahi,",
+        "Dawimangpa leh Satan khut in hong pom hang",
+        "Jehovah Shalom ka hong ngak ee,"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Jehovah Shalom ka lungmuanna,",
+        "Jehovah Jireh ka hauhna,",
+        "Kisap ding bang mah lau keing",
+        "Topa’n hong ompih den hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Hong bawlsia Dawimangpa leh,",
+        "Hong khemna dan ka telsiang ta,",
+        "Sihna ih pawl hilo hi, panpih kei un,",
+        "Jehovah Shalom in hong om pih."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Aw Topa Pasian in ah,",
+        "Lau ken sihna zong lau ken,",
+        "Lungmuantak in om phot mai in,",
+        "Na mai-ah ka ding zel ding a ci."
+      ]
+    }
+  ]
+}

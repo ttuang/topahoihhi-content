@@ -1,0 +1,68 @@
+{
+  "title": "TUA BANG NGEINGEI",
+  "key": "Key: G",
+  "galHiam": "Gal Hiam: 42",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Tuivot ciim in dangtak mite a lungdam sak bangin,",
+        "Bawlsiatna thuak lungtamkham mite,",
+        "Hotkhiatna lampi tawnin hong paikhiat pih tak ciangin",
+        "Lungdam luan’n a manguh bang liang ee,"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Tua bang ngeingei, tuan bang ngeingei",
+        "Sihna leh hell panin Topa’n hong honkhia,",
+        "Na mite hauhna kham leh ngun tawn na paikhiatpih bang ngei,",
+        "Kei a dingin Zeisu hong kipia."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "San tuipi kantansak in leikeu tawn na paipih a,",
+        "Sun in meiipi zanin mei khuampi,",
+        "A puansilhte uh sialo, a khe uh zong bawklo a,",
+        "Cidam in a zawngkhal omlo hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Bawlsiatna thuakin thumin nakpi’n hong kiko ciang un,",
+        "Na kamciam thute na phawk kik a,",
+        "Na nasem Abraham leh nangma min na khualna in,",
+        "Amaute hehpih in na honkhia."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Amaute vakvai in khualmi bangin a omlai un,",
+        "Top’n kuamah nenniam saklo hi,",
+        "Kumpite thuhilh in ka kamsangte sukha kei un,",
+        "Ci in a mite hu in kem hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 5",
+      "lines": [
+        "Sa ngen in vamim sa pia vantung an lumte khiat a,",
+        "Neek ding kitasam sak ngei lo hi,",
+        "Dawn ding tui suangpi pan phul guntui bangin luang sak a,",
+        "Lungdam lasa kawm in paipih hi."
+      ]
+    }
+  ]
+}

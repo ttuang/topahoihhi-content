@@ -1,0 +1,43 @@
+{
+  "title": "DAWN UN, ZEISU' MIN VANGLIANNA",
+  "key": "Key: Bb",
+  "galHiam": "Gal Hiam: 313",
+  "ZBC": "ZBC: 149",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Dawn un, Zeisu min vanglianna",
+        "Vantung mite bok un",
+        "Vantung mite bok un",
+        "Kumpi lukhu hong la unla",
+        "Kumpi ..... lian",
+        "Kumpi, Kumpi, Kumpi, Kumpi lianbel pia un"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Pasian biak man thahna thuakte'n",
+        "amah Kumpi pia un, Amah Kumpi pia un",
+        "Zise suan in phatna ngah hen",
+        "Kumpi ..... lian",
+        "Kumpi, Kumpi, Kumpi, Kumpi lianbel pia un"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Teeltuam Itazilate aw",
+        "Tawmkha na hih hangun",
+        "Tawmkha na hih hang un",
+        "Hong tan zo hi hehpihna tawh",
+        "Kumpi ..... lian",
+        "Kumpi, Kumpi, Kumpi, Kumpi lianbel pia un"
+      ]
+    }
+  ]
+}

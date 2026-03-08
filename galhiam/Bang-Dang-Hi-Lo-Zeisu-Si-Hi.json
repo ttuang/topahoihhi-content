@@ -1,0 +1,58 @@
+{
+  "title": "BANG DANG HILO ZEISU SI HI",
+  "key": "Key: G",
+  "galHiam": "Gal Hiam: 142",
+  "ZBC": "ZBC: 206",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Bang in ka mawh sawp siang thei",
+        "Bang dang hi lo Zeisu Si in",
+        "Bang in hong dam sak kik thei",
+        "Bang dang hi lo Zeisu Si in"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Manpha hi hong luang Si",
+        "Vuk bang hong ngo sak Si",
+        "Tui dang ka thei kei hi",
+        "Bang dang hi lo Zeisu Si hi"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Ka sian' nading hih ka muh",
+        "Bang dang hi lo Zeisu Si hi",
+        "Ka mawhna kiphel na'ng thu",
+        "Bang dang hi lo Zeisu Si hi"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Mawh mai sak bang dang hi lo",
+        "Bang dang hi lo Zeisu Si hi",
+        "A pha ka bawl hang hi lo",
+        "Bang dang hi lo Zeisu Si hi"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Kei lam etna lung nopna",
+        "Bang dang hi lo Zeisu Si hi",
+        "Kei in dikna ka ngahna",
+        "Bang dang hi lo Zeisu Si hi"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "title": "AW HIHMAH LAMDANG PEN SANG",
+  "key": "Key: C",
+  "galHiam": "Gal Hiam: 112",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Nitak a ni a tum lamdang sa ing",
+        "Nisuah zong lamdang sasem ing",
+        "Ka lungsim hong khoih kha",
+        "A lamdang pen in",
+        "Pasian in kei hong itna thu hi"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Aw hihmah lamdang pen sa'ng",
+        "Hihmah lamdang pen sang",
+        "Pasian in kei hong it zen zen",
+        "Aw hihmah lamdang pen sa'ng",
+        "Hihmah lamdang pen sang",
+        "Pasian in kei hong it zen zen"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Tukhun anlak hunte lamdang si ee",
+        "Vantung aksi nite zong e",
+        "Ka lungsim ong khoihkha",
+        "A lamdang pen in",
+        "Hih kaphawk thak hong itna thu hi"
+      ]
+    }
+  ]
+}

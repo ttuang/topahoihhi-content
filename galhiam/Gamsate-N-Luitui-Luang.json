@@ -1,0 +1,28 @@
+{
+  "title": "GAMSA TE'N LUITUI LUANG",
+  "key": "Key: C",
+  "galHiam": "Gal Hiam: 72",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Gamsa te'n luitui lung a lunggulh bang",
+        "Topa Nang kong lunggulh hi",
+        "Nang mah bek ka lungsim deihna leh",
+        "Biak dingin kong lunggulh hi"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Nang mah bek ka hatna ka lum",
+        "Nang kiang bek ah ka hong kipia hi",
+        "Nang mah bek ka lungsim deihna leh",
+        "Biak ding in kong lunggulh hi"
+      ]
+    }
+  ]
+}

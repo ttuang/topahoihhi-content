@@ -1,0 +1,62 @@
+{
+  "title": "OMNA OM LAI HI",
+  "key": "Key: F",
+  "galHiam": "Gal Hiam: 285",
+  "ZBC": "ZBC: 229",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Omna om lai, Tuuno innpi sungah",
+        "Avang lianpi tawh nang hongsam ta hi.",
+        "Tum in, tu-in tum in, omna omlai."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Nitang beidek zo, ni-in liap ta hi",
+        "Hong liapta hi manlang in ah pai-in,",
+        "Omna om lai, tumin tu in tum in."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Mopina pawisung zin akhoplai-in,",
+        "Hong sapmi na hihleh tum in tum in.",
+        "Omna om lai, tum in tu in tum in."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Dim khin dekhi, lung damna in sungah",
+        "Manlang a na lut leh ngahlai ding hi",
+        "Omna om lai, tum in tu in tum in."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 5",
+      "lines": [
+        "Omna om lai kong kihon laitak hi,",
+        "Pai in tum lecin na lap lai ding hi.",
+        "Omna om lai, tum in tu in tum in."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 6",
+      "lines": [
+        "Tum in tum in tua pawi nang aading hi,",
+        "Kii t tawntung na hai kidawn ding hi.",
+        "Tum in tum in, omna om lai."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "title": "GUPNA BUKIM",
+  "key": "Key: E",
+  "galHiam": "Gal Hiam: 4",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Gupna bukim ong pia Jehovah Pasian",
+        "Dikna tawh hong tuam Jehovah Tsidkenu",
+        "Hong ompih tawntung Jehovah Shamah",
+        "Lungnopna Jehovah Shalom"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Hong hausak hi",
+        "Ka sapna teng hong sik Jehovah Jireh",
+        "Hong damsak Pasian Jehovah Rapha",
+        "Ama min ading thuman lampi ah",
+        "Hong kha Jehovah Ra-ah",
+        "Gualzawhna hong pia",
+        "Ka Topa Jehovah Nissi"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Topa'n hiteh hong cih leh hipah hiteh",
+        "Topa'n neiteh hong cih leh a nei hiteh",
+        "Topa'n bawlthei hong cih leh hi pah hi",
+        "Vangliatna khempeuh hong pia zo"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Topa'n damteh hong cih leh a dam hi teh",
+        "Topa;n hauteh hong cih leh a hau hi teh",
+        "Sihding natding lau na pan hong gum hi",
+        "Singlamteh tung'h hong thuaksak zo"
+      ]
+    }
+  ]
+}

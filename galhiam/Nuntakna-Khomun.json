@@ -1,0 +1,48 @@
+{
+  "title": "NUNTAKNA KHOMUN",
+  "key": "Key: Eb",
+  "galHiam": "Gal Hiam: 136",
+  "ZBC": "ZBC: 205",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Nuntakna khomun kei, Hong pia'n Topa,",
+        "Galile tuili gei, Na hih bangmah",
+        "Ka lungsim vah zo kei, Lai simna tawh;",
+        "Nangmah tak ka lung deih, Hin na thu aw."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Thuman thutak hong pia'n, Ka Topa aw,",
+        "Khomun Na piak bang zia'n, Na thupha tawh;",
+        "Tua hi leh kol teng kia'n, Ka suak ta ding",
+        "Thu man in hong khai khien ka lung ngam ding."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Kei ading, Topa, Nang, Nuntak khomun;",
+        "Keimah ka suahtak na'ng, Nangma Thugun;",
+        "Nang tawh vantung luah na'ng,",
+        "Nong vaak ding hi; Hong it sak in thuman, Itna na hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Topa aw, Kha siangtho, Kei hong puak in,",
+        "Keima mit khua mu lo, Vaak sak dingin;",
+        "Na thu thuk Laisiangtho, Hong tel sak ding,",
+        "Na Thu sung pan Nang, ko, Hong mu sak ding."
+      ]
+    }
+  ]
+}

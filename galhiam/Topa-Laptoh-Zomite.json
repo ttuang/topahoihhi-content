@@ -1,0 +1,46 @@
+{
+  "title": "Topa Laptoh Zomi te",
+  "key": "",
+  "galHiam": "",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Topa lap toh Zomi te, Minam lian in nong bawl a",
+        "Topa lap touh Zomi te, Gual tawh tan bang kim ding in",
+        "pilna siam na te nong pia, Inn leh lo te nong pia a..",
+        "Topa lap toh Zomi te, Minam lian aw Zomi te"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Hong makaih a, hong hilh pa, Lei vui pan hong lam Topa",
+        "Tagah inn pan hong dom to, Kumpi inn dong ah hong kha"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Zomi te thupha hong pia in, Minam lian in hong bawl a.",
+        "Zomi te hong lam sang in, Gual tawh tan bang kim ding in.",
+        "Mi pil tampi nong pia a, Mi siam tampi zong nong pia",
+        "Topa lap toh Zomi te, Mipil mi siam zomi te"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Zomi te hong dom sang in, Minam lian in nong bawl a.",
+        "Zomi te thupha hong pia in, Gual tawh tan bang kim ding in.",
+        "Mihau tampi nong pia a, Milian tampi zong nong pia.",
+        "Topa lap toh Zomi te, Mihau, Milian Zomi te."
+      ]
+    }
+  ]
+}

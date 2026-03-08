@@ -1,0 +1,56 @@
+{
+  "title": "ZEISU SIN IN",
+  "key": "Key: B",
+  "galHiam": "Gal Hiam: 232",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Lungnopna zong khinteh namtampi in,",
+        "Leitungin tua nopna piathei lo,",
+        "Na sumte kawhkholna hiam kidawm in,",
+        "Lam hong pi ding khat kisam tei tei."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Ciampello Zeisu sin in, Siatna pan itna honglak",
+        "Nitang in huihnung taleh, Ciampello Zeisu sin in."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Na nite gualnopna tawh kidim in,",
+        "Lawpin kipahna khuabang taang,",
+        "Tua zawhteh dahna khuamial in tuam a,",
+        "Khuamial vengsak ding kisam teh nang."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Lungzuangin nangkia lam napai lai tak,",
+        "Guallelhna vive tawh ki dim in,",
+        "Lungkia in lungsim tamkham dek lai tak,",
+        "Tuihual daisak pa kisam teh nang."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Hun leh nite meng meng in bei veh,",
+        "Lungnopna sum tawh leitheih hilo,",
+        "Zongin thumin tauin na om lai tak,",
+        "Na mawhna sawp ding mi kisam teh nang."
+      ]
+    }
+  ]
+}

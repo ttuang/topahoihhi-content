@@ -1,0 +1,35 @@
+{
+  "title": "VAN A PA AW Kong Pah Tawi Uh Hi",
+  "key": "Key: D",
+  "galHiam": "Gal Hiam: 50",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "(Van a Pa aw nang kong pahtawi uh hi)2",
+        "Hong it ung, hong bia ung, Na mai ah hong kun ung,",
+        "Van a Pa aw nang kong pahtawi uh hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "(Pasian Ta aw na min hong liansak ung)2",
+        "Mawhna pan nong sawp a, Kha siangtho nong guanhi,",
+        "Pasian Ta aw na min hong lian sak ung."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "(Kha Siangtho lamdang hehnem pa na hi)2",
+        "Ka lampi nong hilh a, Ka sungah nong teng hi,",
+        "Kha siangtho lamdang hehnem pa na hi."
+      ]
+    }
+  ]
+}

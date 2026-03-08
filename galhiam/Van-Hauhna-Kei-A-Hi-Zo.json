@@ -1,0 +1,52 @@
+{
+  "title": "VAN HAUH NA KEI AA HI ZO",
+  "key": "Key: G",
+  "galHiam": "Gal Hiam: 96",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Vantungah innkhat nei-ing ni sangin taang zaw hi veh,",
+        "Khatvei ciang ka tung ding, Tua ciang bel ka khualzin hun,",
+        "Bei ding a tawlnga ta ning,",
+        "Aw tua niciang van ah thaman sang ning."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Van hauhna kei a hi zo,",
+        "A dang bang ka ngen nawn diam,",
+        "Pasian ta tu’n ka hizo, ka honpa Zeisu hang,",
+        "Lei ah ka hih thilthial hang,",
+        "Mite’n ka hauh lam thei lo,",
+        "Aw ka honpa hang mihaupi ka hita."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Lukhu a kihawm niciang,",
+        "Hih leitung phawknawn kei ning,",
+        "Bangzah a nuam zen diam,",
+        "Ka lutung te zial zial ding,",
+        "Leinunna phawknawn kei ning,",
+        "Aw tua niciang kamai nibang tang ding."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Ka lam etna mikim in hong theihpih leh ut singmaw,",
+        "Pasian ta ka suahna,",
+        "Ka honpa hang kisa thei ing, van mite khat ka hizo,",
+        "Aw tua niciang aksi bang ka tang ding."
+      ]
+    }
+  ]
+}

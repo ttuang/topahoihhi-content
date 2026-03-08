@@ -1,0 +1,58 @@
+{
+  "title": "PAI-IN SEEM IN",
+  "key": "Key: C",
+  "galHiam": "Gal Hiam: 320",
+  "ZBC": "ZBC: 387",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Tapidaw ihmu nawn ken",
+        "Mi ngah na'ng sep theih lai seem",
+        "Khut zepin ding mawk ding maw",
+        "Topa in thu hong pia leh."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Pai in seem! ding kipan in",
+        "Pai in zong A mangte gum",
+        "Khuamialna sung mawh nei mi",
+        "Tua pawi-ah hong paipih in."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Topa min na it ding hiam",
+        "Hong ciamna na um zo diam",
+        "Sapna teng A kiang ngen in",
+        "Hong sapna na nial ding maw."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Na san'sa bangin um in",
+        "Hong hilh bangin nungta in",
+        "Ama a bek hi den in",
+        "Sepna tawh upna lak in."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Singlamteh i puak ding om",
+        "Kham lukhu na khuk nop leh",
+        "Thathak tawh ma i sawt ding",
+        "A hun tom, a nite tom."
+      ]
+    }
+  ]
+}

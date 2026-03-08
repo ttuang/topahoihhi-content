@@ -1,0 +1,54 @@
+{
+  "title": "TUA KHUAPI TEE ZEIZAI",
+  "key": "Key: G",
+  "galHiam": "Gal Hiam: 217",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Vantung kongkhakte taang pempam.",
+        "A Sabuaite kiphah dimdem .",
+        "Kong honsa gei-ah mi khat ding veh.",
+        "A tee zialzial gun ka mu a,",
+        "Ka ten nading mun hita,",
+        "Hih zah liangin, Inn lunggulh ngei ke'ng."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Tua khuapi tee zeizai, Inn ka tu'n ding zong hong nai,",
+        "Ka pa'n kongkhak gei-ah, hong ngak zen veleh,",
+        "Hih leitung gam simtham pan, Suakta ding kiging zo tang,",
+        "Hih zah liangin Inn lunggulh ngei ke'ng,"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Ainnkuankuan in kikhawm uh,",
+        "A mai tai thei mahmah uh,",
+        "A dahmai cihbang kimu lo hi,",
+        "Lunggulhna tawh ka khi luang a,",
+        "Kha nei leng ka leng nuam ta,",
+        "Hih zah liangin Inn lunggulh ngei ke'ng."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Puanpak silhin lasa ziahziah,",
+        "Tuuno pahtawina la hi,",
+        "Kham gawsem tumin misiang honpi,",
+        "Phat khawm veni amau bangmah,",
+        "Tatsa misiangte hi hang,",
+        "Hih zah liangin Inn lunggulh ngei ke'ng."
+      ]
+    }
+  ]
+}

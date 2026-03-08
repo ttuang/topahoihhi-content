@@ -1,0 +1,56 @@
+{
+  "title": "AKSI TAANG A OM DIAM",
+  "key": "Key: A",
+  "galHiam": "Gal Hiam: 256",
+  "ZBC": "ZBC: 218",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Tu ni-in ah tua gam nuam",
+        "Ke'n ka ngaih sun hi",
+        "Nitum iangin ah ka tung ding hi",
+        "Hehpihna tawh Honpa kiang",
+        "Ka din ciangin ah",
+        "Ka lutung aksi taang a om diam?"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Ka lutung aksi taang",
+        "Aksi taang a om diam?",
+        "Nitak a ni atum ciangin ah",
+        "Tawldamna inn sungah",
+        "Ka khanlawh ciangin ah",
+        "Ka lutung aksi taang a om diam?"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Topa hatna sungah",
+        "Naseem in thungen ding",
+        "Ka ngah mi bang kei hong hi sak in",
+        "Minthan ni'n aksi taang",
+        "Kei aading hi kha ding",
+        "Amah phatna tuihual bang om ciang"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Ama mai ka et ciang",
+        "Bang zah in lungdamna ding",
+        "A khe phungah suang manpha koih ding",
+        "Kham khuapi sungah",
+        "Lungdamna hong khangsak ding",
+        "Ka lutung aksi taang a om diam?"
+      ]
+    }
+  ]
+}

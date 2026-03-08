@@ -1,0 +1,46 @@
+{
+  "title": "TOPA MITE TOPA A TE",
+  "key": "Key: G",
+  "galHiam": "Gal Hiam: 54",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Topa mite, Topa a te, lei pian mapek a keteel sa te,",
+        "Topa mite, Topa a te, lei pian mapek a keteel sa te,"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Ni dangin gamlapi ah ka om ngei hangin,",
+        "Tu’n Zeisu sisan hangin Pasian kiang tung zo,",
+        "Zeisu singlamteh hangin khualmi zong hilo,",
+        "Pasian inn kuanpih khat ka hi zo"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Na kha a ding huihdik in thungen tawntung in,",
+        "Na kha a ding an ahi Lai Siangtho sim in,",
+        "Na kha a ding thasan in Topa’ nasem in,",
+        "Tua in Christian nuntakna ai ve."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Kha thupha ngahna dingin, hehpih phatna te,",
+        "Kha thupha luanna dingin, thupha bawlna te,",
+        "Kha sung suahtakna dingin, laamna dianna te",
+        "Tua te’n damna zatui bang ai ve."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "title": "LAI LEN TAWN",
+  "key": "Key: E",
+  "galHiam": "Gal Hiam: 175",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Anopin bang a nuam pen hiam",
+        "Topa phat a laam mah nuam pen",
+        "Khat leh khat khut kilen in",
+        "Topa'n thupha hong pia tahen ki ci leng.",
+        "Chorus",
+        "Hei! Anopin nuam, Gupngah ka ki tel ni buang pawh",
+        "Hei! Anopin nuam, kamtuam ka pau theih ni buang pawh",
+        "Hei! Anopin nuam, lai len tawn a ih tawn deudeu buang pawh",
+        "Hei! Anopin nuam, Zeisu lam bang ih paak buang pawh."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Topa phat in khut beng ziahziah",
+        "Etlawm maitai nuih mai siusiau,",
+        "Khat leh khat khut ki van in",
+        "Ha le-luijah, Ha le-lujah ki ci leng."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Topa phat in khut van ziahziah",
+        "Zeisu lian bellian bel ci-in",
+        "Avangliatna phawk kawmin",
+        "Shalom-shalom shalom shalom ki ci leng"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Topa phat in diang khawm ziah ziah",
+        "Taksa deih na teng sing khia in",
+        "Zeisu lianbellianbel ci-in,",
+        "Zeisu'n Zeisu'n Zeisu'n hong it kici leng."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "title": "AW A LAMDANG ITNA LIAN",
+  "key": "Key: D",
+  "galHiam": "Gal Hiam: 40",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Mi mawh ka hih laitak in",
+        "Galte ka hih lai tak in",
+        "A sipha tawh kei hong lei in",
+        "Hong dom sang",
+        "Ka vangik teng hong zang",
+        "ka lungdam na hong ki dang",
+        "Aw a lamdang itna lian kei sungah"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Aw a lamdang itna lian",
+        "Aw a lamdang itna lian",
+        "Calvary pan in hong luang",
+        "Hallelujah praise the Lord",
+        "Ih lungdamna tangthu",
+        "Ih gualzawhna sut ding ni",
+        "Aw a lamdang itna lian kei sungah"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Ka mawhna a tam hangin",
+        "Ka khialh na a tam hang in",
+        "Tua te sangin hong hehpihna",
+        "Lian zaw lai",
+        "Hih thumah khumpen sang",
+        "Hih thu mah mah ngaihpen sang",
+        "A khumpen pen khuaizu sang in",
+        "Khum zaw lai"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "ka lamet na kip sem sem",
+        "Ka luangmaunna kho sem sem",
+        "Zeisu hoihna tawh nisim in",
+        "Kei hong zem",
+        "Hih thu ka theih nung sang",
+        "Upna tawh ka san nungsang",
+        "Kei sungah hong dim sem sem",
+        "Ka tel sem sem"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Pasian minthang sem sem hen",
+        "Pasian gam zai sem sem hen",
+        "Vantung nopna mikim sungah",
+        "Hong tung hen",
+        "Tua lamdang lungnopna",
+        "Ih gual zawh na la ngaih pen",
+        "Leitung mimal tungah hong",
+        "Kizeel ta hen"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "title": "HONG PAI IN, THUPHA NAMKIM NAK",
+  "key": "Key: Eb",
+  "galHiam": "Gal Hiam: 298",
+  "ZBC": "ZBC: 8",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Hong pai in thupha namkim Nak",
+        "Ka lungsim hong puahsakin",
+        "Kang ngeilo Nong hehpihna Nak",
+        "Nakpi'n hong phat thei sak in",
+        "Vantung mite phatna la ngaih",
+        "Kei zong hong sa thei nuam ing",
+        "Nong itna tung kip ka lungngaih",
+        "Tua itna mual ka phat ding"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Nong huhna tawh hih ciang kong tung",
+        "Huhna mualsuang hiah phut ing",
+        "Nong deihsakna hangin tunung",
+        "Lungmuangin inn hong tung ning",
+        "Lam khial a Pasian ka nusia",
+        "Ahih hang Zeisu'n hong zong",
+        "A si manpha tawh hong tankhia",
+        "Gimna lauhuai pan hong hon"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "A ni simin hong hehpihna",
+        "A tampi hong ba sak den",
+        "Na hehpihna'n hong khih in la",
+        "Na kiang pan hong pial sak ken",
+        "Topa kong aksan dek zeel hi",
+        "Ka it Pasian hong kem in",
+        "Hiah! ka lungsim Nang sung seel in",
+        "Nang ading na ciamteh in"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "title": "PASIAN MIN THANG TA HEN",
+  "key": "Key: Ab",
+  "galHiam": "Gal Hiam: 86",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Pasian minthang ta hen na lianpi bawi hi.",
+        "Leitung a itluat ma'n a Ta hongpia hi.",
+        "Mawhna pan suah tak nang a nunna pia hi,",
+        "Mi khempeuh a ding nunna kong hong hon hi."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Phat ve un, phat ve un, A thun leitungzelhen,",
+        "Phat ve un, phat un, Mikhempeuh lungdam hen,",
+        "Topa Jesu minsuang in Pa kiangzuan un,",
+        "Na lianpi bawizo hi aminthangsak un."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Sisan tawh hong leizo tatkhiatna manzo,",
+        "A um mi tading Pasian kamciam omzo,",
+        "Mimawh pen nangawn in Zeisu a up leh,",
+        "A up phet in a mawh maipah ding hiveh."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Na lianpi honghilh a, na lianpi bawl hi.",
+        "Pasian ta hangin nopna cing ih ngah hi.",
+        "Hi hang lamdang Honpa Jesu ih muh tehno",
+        "Lungdamna, nuamna lianzaw kan ding hiveh."
+      ]
+    }
+  ]
+}

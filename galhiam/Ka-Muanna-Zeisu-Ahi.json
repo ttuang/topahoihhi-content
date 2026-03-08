@@ -1,0 +1,51 @@
+{
+  "title": "KA MUAN' NA ZEISU AHI",
+  "key": "Key: G",
+  "galHiam": "Gal Hiam: 74",
+  "ZBC": "ZBC: 320",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Keimah ka muana a bulpi",
+        "Zeisu' si leh siangthona hi",
+        "Adang thu teng ka um ngamkei,",
+        "zeisu a minbek ka um thei.",
+        "Chorus",
+        "Keima dinna Zeisu suangpi",
+        "(Omma dangteng sehnel bang hi)2"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Khuamial in A mailiah ciangin",
+        "A hong hehpihna ka muang ding,",
+        "Huihpi nakpi a nun ciangah,",
+        "Munliahna sungah sikkip khia."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "A thuciam nate A ma si,",
+        "Tuipi kanlai ka muang ding hi,",
+        "Ka kimkot teng asiat ciangah,",
+        "Kamuan na in Zeisu Topa."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Pengkul aw tawh a pai ciangin,",
+        "Ama mai - ah ka ding nuam hi,",
+        "A hong siangtho sak khit ciangin",
+        "Mawhnei loin ka om dinghi."
+      ]
+    }
+  ]
+}

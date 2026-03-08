@@ -1,0 +1,49 @@
+{
+  "title": "JERUSALEM THAK AH",
+  "key": "Key: G",
+  "galHiam": "Gal Hiam: 66",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Mittaw khuamial pi sungah om ingh",
+        "Leitung nop sakna te mu loh mah leng",
+        "To Zeisu kiang ah ka tun hun ciangin",
+        "Mit taw khel bai om lo Jerusalem thak ah"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Ki pak in lasa ding Haleluijah ci-in",
+        "Aw ken ngah lah lua in tua mun nuam bel",
+        "To Zeisu kiang ah ka tun hun ciang in",
+        "Mit taw khel bai om lo Jerusalem thak ah"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Khel bai khut bui in mel siam gawp in",
+        "Bengngongin pauthei lo-in ommah lengzong",
+        "Hong honpa kiangah ka tun hun ciang in",
+        "Mi poi mi phak om lo Jerusalem thak ah"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Git loh tawh ki dim hih leitung hi",
+        "Ka mel in ni sangin tang zaw mah leh",
+        "Tawntung nuntak na munnuam ka luah ciang",
+        "Git loh huai ham na te",
+        "Ken ngai ngei nawn kei ning"
+      ]
+    }
+  ]
+}

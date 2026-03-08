@@ -1,0 +1,50 @@
+{
+  "title": "ITNA SIANGTHO ITNA KICING",
+  "key": "Key: Bb",
+  "galHiam": "Gal Hiam: 312",
+  "ZBC": "ZBC: 131",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Itna siangtho itna kicing",
+        "vantung nuamna hong tuaksuk",
+        "Nong hehpihna tung khup nading",
+        "Ko sung hong lamin na buk",
+        "Zeisu aw hehpihna na dim",
+        "Itna siang kicing na hi",
+        "Lawp a ling ko khempeuh lungsim",
+        "Hotna tawh nong veh ding hi"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Lung himawh mi’ lungsim sungah",
+        "Itna nangmah kha guan in",
+        "Kote khempeuh nangma sungah",
+        "Tawldamna hong luah sakin",
+        "Ko mawhnopna lungsim paikhian",
+        "Alpha leh omega in",
+        "Upna pan a cingsak Pasian",
+        "Ko lungsim hong khahkhia in"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Hong pai in a hon zopen pa",
+        "Nang nuntakna hong guan in",
+        "Na inn ah hong tum meng inla",
+        "Paikhia nawn peuhmah kei in",
+        "Thupha kong piapia ding uh a",
+        "Na na kasem ding uh hi",
+        "Na itna sungah kipakta",
+        "Tawlnga lo kong phat ding hi"
+      ]
+    }
+  ]
+}

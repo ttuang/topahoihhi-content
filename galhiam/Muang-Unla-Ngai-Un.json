@@ -1,0 +1,57 @@
+{
+  "title": "MUANG UN LA NGAI UN",
+  "key": "Key: F",
+  "galHiam": "Gal Hiam: 269",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Thupha khuavak sungah, Zeisu tawh pai lai ah,",
+        "Eite paina lam hong taangsak hi.",
+        "A deih bang zuih ciangin, Amah tawh paikhawm in,",
+        "Athu ngai a muang a om ding hi."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Muang un,ngai un, Lampi dang omlo hi.",
+        "Zeisu kiang nuam ngah dingin",
+        "Muangina thu ngai un."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Van a gikte pua a, Gimna tawlna thuakna",
+        "Topa hong hehpihna kicing hi.",
+        "Eite launa ding a, Dawimangpa hong khemna,",
+        "Zeisu thu ngai in muang leeng bei hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Ni liim ahih hang in, Meiikai ahih hang in,",
+        "Zeisu in thakhat a hawl khia hi.",
+        "Launa leh kihtakna, Tau na leh kahna te,",
+        "Zeisul muan lai in om thei kei."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Ki-itna pha tawh mah, Topa Zeisu mai ah,",
+        "Kikhawm ciangin lam pai khawm ding hi.",
+        "Thu hong piakna ngai a, Hong sawlna pai ding a,",
+        "Cik mah hun laulo in nuam ding hi."
+      ]
+    }
+  ]
+}

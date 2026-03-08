@@ -1,0 +1,58 @@
+{
+  "title": "HUIHPI NUN CIANG A KIDALNA",
+  "key": "Key: F",
+  "galHiam": "Gal Hiam: 82",
+  "ZBC": "ZBC: 45",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "I bukna suangpi Topa hi",
+        "Huihpi nun ciang a kidalna",
+        "A sia namkim a ding bit hi",
+        "Huihpi nun ciang a kidalna"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Gimna gamsungah Zeisu suangpi a hi",
+        "Belh ding suangpi belh ding Suangpi",
+        "Gimna gamsungah Zeisu suangpi a hi",
+        "Huihpi nun ciang a kidalna"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Sun in ni liim zanin kulhpi",
+        "Huihpi nun ciang a kidalna",
+        "Galte bangmah patau lo hi",
+        "Huihpi nun ciang a kidalna"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Huihpi'n i kimkot nuai hangin",
+        "Huihpi nun ciang a kidalna",
+        "Nusia loding cik mah hun in",
+        "Huihpi nun ciang a kidalna"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Pasian Suangpi belh ding ithuai",
+        "Huihpi nun ciang a kidalna",
+        "Tawntung hongnai hongkem honghuai",
+        "Huihpi nun ciang a kidalna"
+      ]
+    }
+  ]
+}

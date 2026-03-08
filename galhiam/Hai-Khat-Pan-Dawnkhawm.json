@@ -1,0 +1,51 @@
+{
+  "title": "HAI KHAT PAN IN DAWN KHAWM",
+  "key": "Key: G",
+  "galHiam": "Gal Hiam: 179",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Up leh zuih ki khat hi hang",
+        "Taang misiang te bang in ah",
+        "Kha Siangtho khat bek sung ah",
+        "Hai khat pan ih dawn khawm hi"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Eite pumkhat hi hang Zeisu sung ah",
+        "Eite pumkhat hi hang Zeisu sung ah",
+        "Eite pumkhat hi hang Zeisu sung ah",
+        "Zeisu sung ah Zeisu sung ah",
+        "Eite pumkhat hi hang Zeisu sung ah"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Itna'n khau bang hong khih Zeisu sung ah",
+        "Itna'n khau bang hong khih Zeisu sung ah",
+        "Itna'n khau bang hong khih Zeisu sung ah",
+        "Zeisu sung ah Zeisu sung ah",
+        "Itna'n khau bang hong khih Zeisu sung ah"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Khut kilen in sem ni Zeisu sung ah",
+        "Khut kilen in sem ni Zeisu sung ah",
+        "Khut kilen in sem ni Zeisu sung ah",
+        "Zeisu sung ah Zeisu sung ah",
+        "Khut kilen in sem ni Zeisu sung ah"
+      ]
+    }
+  ]
+}

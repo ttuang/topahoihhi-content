@@ -1,0 +1,46 @@
+{
+  "title": "I GUAL ZAWHDAN HIH BANG HI",
+  "key": "Key: C",
+  "galHiam": "Gal Hiam: 285",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Dahna khuamial bei in",
+        "Nopna khua hong vaak hi",
+        "Keugaw sehnel gamah",
+        "Thupha guah hong zu hi"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Ka kahna lamna tawh nong heisak hi",
+        "Ka dahna nopna'n nong hei sak hi"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Na khut tawh nong lamto",
+        "Sangzaw mun nong tun hi",
+        "Nang kong phatna aw in",
+        "HIh mual kuam teng thawn hi"
+      ]
+    },
+    {
+      "type": "bridge",
+      "label": "Bridge",
+      "lines": [
+        "I gual zawhdan hih bang hi",
+        "I gual zawhdan hih bang hi",
+        "I gual zawhdan hih bang hi",
+        "I gual zawhdan hih bang hi"
+      ]
+    }
+  ]
+}

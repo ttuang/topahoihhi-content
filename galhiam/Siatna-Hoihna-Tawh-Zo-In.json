@@ -1,0 +1,45 @@
+{
+  "title": "SIATNA HOIHNA TAWH ZO IN",
+  "key": "Key: Eb",
+  "galHiam": "Gal Hiam: 209",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Siatna te'n ih nunna hong zo nuam in,",
+        "Ihkampau ah hong siah tawntung hi;",
+        "In khelh theih na'ngin, ih puk theih na'ngin,",
+        "Hong zol hong khem hong tah tawntung hi.",
+        "Chorus",
+        "Hong hamsiatte samsia kik lo-in,",
+        "Thupha tawh thuk in la,",
+        "Hong bawlsia te ading thu ngetsak in;",
+        "Siatna leh gitlohna te'n",
+        "Kizo sak peuhmah kei in la.",
+        "Thu hoih le thupha tawh zo tawntung in."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Na galte a gilkial leh an pia in,",
+        "A dang a taak leh zong tui suah in;",
+        "Siatnate siatna tawh thuk kik lo-in.",
+        "Thu hoih thupha tawh zo tawntung in."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Hong sam hi eite thupha luah dingin,",
+        "Thuman sang thuhoih len tawntung in;",
+        "Anamtui pen leh a deihhuai penin,",
+        "Dikna puan bangin silh, tawntung in."
+      ]
+    }
+  ]
+}

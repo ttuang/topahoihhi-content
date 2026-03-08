@@ -1,0 +1,44 @@
+{
+  "title": "A NI NI IN NUAM SEM SEM",
+  "key": "Key: G",
+  "galHiam": "Gal Hiam: 102",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "A tawntung ka Kumpipa",
+        "A tawntung ka lawmpa",
+        "A tawntung gualzawhna hong pia",
+        "Nisim lamhonglak a",
+        "Nisim tha hong dim hi",
+        "Nisim gualzawhna hong pia"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Buaina veng mang veh",
+        "Buaina veng mang veh",
+        "Ka lawmpa ka kumpipa",
+        "Ka phat tak teh",
+        "Pasian gam leh Ama dikna zong masa leng",
+        "A ni ni in nuam sem sem"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Vantung gam kham khuapi nuam",
+        "A tawntung taang zih ziah",
+        "It leh ngaih te'tuallen na gam",
+        "Eite hong dawn ding in",
+        "Nisim kiging den uh",
+        "Nuam zen si'n teh tua munnuam"
+      ]
+    }
+  ]
+}

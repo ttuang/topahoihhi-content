@@ -1,0 +1,59 @@
+{
+  "title": "HONG LEENG ING EE",
+  "key": "Key: G",
+  "galHiam": "Gal Hiam: 181",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Lei vui pan in hong laam to",
+        "Niin phual pan in hong dom to",
+        "A sang na lam ka tung to",
+        "Lung mawl kei ka nuntakna hong lam to",
+        "A zawng khal pen kei bang lel",
+        "A lungmawl pen kei bang lel",
+        "Na min ading nong lam to",
+        "Gual lai ah Sian aw Na minphat ka lo"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Hong leeng ing ee Sianmang Zeisu",
+        "Na zalna leh na ang lim ngai ing ee",
+        "Khu va bang hong khawl sak aw"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Lai kawi khat zong theilote",
+        "Lai pai khat zong nei lo te",
+        "Lung mawl genthie mang bang te",
+        "Luai nau bang hong muam in hong pantah a",
+        "an zong ne thei nai lo te",
+        "Puan zong silh thei nai lo te",
+        "Gal leh sa bang melma te",
+        "Sian in hong itna dam tui hong luan ta"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Tun sung khat pan laizom te",
+        "Itna melma lung mawl te",
+        "Suith lung dawm bang ih tuak diam",
+        "Sin lai siangtho va bang pil ding hong siam",
+        "Hong leeng aw hong leeng aw",
+        "Sianmang Zeisu hong leng aw",
+        "Nang kiang lo koi ka pai diam",
+        "Na min phat lo maimit ka sing thei diam"
+      ]
+    }
+  ]
+}

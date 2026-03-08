@@ -1,0 +1,38 @@
+{
+  "title": "HONG LUNGDAM SAK HI",
+  "key": "Key: G",
+  "galHiam": "Gal Hiam: 119",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Lungdam kohna tawh Ama kong pi ah lut unla",
+        "Ama huang sungah tum ta un",
+        "Tuni pen Topa' hong piak sa ninpha hi a",
+        "Hong lungdam sak manin ka kipak hi"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Hong lungdamsak hi hong lungdamsak hi",
+        "Hong lungdamsak manin ka kipak hi",
+        "Hong lungdamsak hi hong lungdamsak hi",
+        "Hong lungdamsak manin ka kipak hi"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Topa hoih hi a itna kipin kho tawntung hi",
+        "Tua a hihma'n a minphat un",
+        "Ama thumanna a khang a khang in kip hi",
+        "Hong lungdamsak manin ka kipak hi"
+      ]
+    }
+  ]
+}

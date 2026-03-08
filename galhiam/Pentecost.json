@@ -1,0 +1,48 @@
+{
+  "title": "PENTECOSTA",
+  "key": "Key: G",
+  "galHiam": "Gal Hiam: 101",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Pasian kamciam na ngak un,",
+        "Khasiangtho hong kumsuk dong,",
+        "Vangliatna nangah khit tak ciang un,",
+        "Ka teci pangun leimong dongin."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Nitawpni naita, Topa hongkum ding,",
+        "Vang liatna tawh hong makai in aw,",
+        "Huhpa khasiangtho aw, pawlpi tha pia in,",
+        "Pentecost vang liat natawh."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Pitazuh'n thu a hilh lai,",
+        "Khasiangtho in ompih a,",
+        "Zeisu thawhkikna thu honggen lai,",
+        "Mitampi'n suahtakna hong ngahta."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Topa keimah nong tatsa,",
+        "Na deihna bang hongzang in,",
+        "Nang tawh lo in kalawhcing thei kei,",
+        "Bangkim ah Topa hong makaih in."
+      ]
+    }
+  ]
+}

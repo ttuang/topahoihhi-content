@@ -1,0 +1,38 @@
+{
+  "title": "Nial Zo Keng",
+  "key": "Key: E",
+  "galHiam": "Gal Hiam: 215",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Deidan neilo simlei vannuai mi khempeuh,",
+        "Lainat na aw nemno tawh hong sam lai,",
+        "Calvary tulsinglel tungah khattang vontawi,",
+        "Duang kikhai-in nang leh kei itna hong lak."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "(Nial zo keng)2 Zeisu hong itna,",
+        "Kata aw hong ciah in, hong ciah in,",
+        "Lainatna awnem tawh hong samsam lai ve,",
+        "Nial zo keng, nial zo ken gee."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Thei hi leh nang zong nial kei ni teh maw,",
+        "Theihloh kal hong it takpi Zeisu hi,",
+        "Mipilte leh sum haute’n zong mu zo tuan lo,",
+        "Ke’n nei tangh ee lungnopna taktak Zeisu."
+      ]
+    }
+  ]
+}

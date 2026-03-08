@@ -1,0 +1,60 @@
+{
+  "title": "LUNGDAM HUAI HI, NANG KONG TEEL NI",
+  "key": "Key: G",
+  "galHiam": "Gal Hiam: 138",
+  "ZBC": "ZBC: 202",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Lungdam huai hi, Nang kong teel ni,",
+        "Keimah hong hon ka Pasian aw,",
+        "Keima lungdamna-a lianpi,",
+        "Mi tung gen lo-om thei ding maw."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Ka nuam hi, ka nuam hi,",
+        "Zeisu'n ka mawh hong phel zo hi,",
+        "Thu nget na-ziaa hong hilh hi,",
+        "Ni simin hong lungdam sak hi",
+        "Ka nuam hi, ka nuam hi,",
+        "Zeisu'n ka mawh hong phel zo hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Nasep pi bel kikhin zo hi,",
+        "Kei Topa-aa ka hizo ta.",
+        "Hong kaih na-na ke'n ka zui hi,",
+        "Ama thu gen leng nuam ka sa."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Ka lungsim aw, lungka nawn ke'n",
+        "Hih thu pha-ah kip tak khawl ta'n",
+        "Topa kiang pan lung leeng nawn ke'n",
+        "A pha khempeuh nei hi, A mah'n."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Lungsim takpi tawh ka ciamsa",
+        "Ni simin ka ciam phapha ding;",
+        "Lungdam huai bel hih kiciamna",
+        "Ka sih ciangin thupha pia ning."
+      ]
+    }
+  ]
+}

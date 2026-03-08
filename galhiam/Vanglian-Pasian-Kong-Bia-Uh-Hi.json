@@ -1,0 +1,26 @@
+{
+  "title": "VANGLIAN PASIAN KONG BIA UH HI",
+  "key": "Key: G",
+  "galHiam": "Gal Hiam: 241",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Vanglian Pasian kong bia uh hi",
+        "Nang bang omlo hi",
+        "Nopna Pasian kong bia uh hi"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Pahtawi dingin Na kilawm",
+        "Kong phat uh hi, Nangmah ka dikna Pasian. ..",
+        "Vanglian Pasian kong bia uh hi Nang bang omlo hi."
+      ]
+    }
+  ]
+}

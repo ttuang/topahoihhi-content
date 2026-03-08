@@ -1,0 +1,52 @@
+{
+  "title": "NANG OM NA PEUH",
+  "key": "Key: G",
+  "galHiam": "Gal Hiam: 30",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Topa nang om na peuh ah, ka kha in zong nuansa hi,",
+        "Vul in kun kun khakun cih om ngei lo,",
+        "Zingdai momlai paak palh bang lungtai etlawm nuihmai in,",
+        "Nang om na peuh kakha in nuamsa hi.",
+        "Chorus",
+        "Nang om napeuh ka kha in nuamsa hi,",
+        "Sun leh Zan a tawntung in,",
+        "Kei khamuan na nang na hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Topa nang om napeuh ah lungnop suahtak na om hi,",
+        "Huatna, en na, kitot na om ngei lo,",
+        "Sun kim ka lunggulh pen nang,",
+        "Zanciang ka zalmang na hi, Nang om na peuh ka kha in nuamsa hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Topa nang om napeuh ah, lawm hoih khat nei gi ge ing",
+        "Nangma sung lo bukna ding dang omlo,",
+        "Sepna peuhah lungkim na, hei napeuh ah mai taina",
+        "Nang om na peuh ka kha in nuamsa hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Kagumpa leh ka Topa, ka belh suangpi nang na hi,",
+        "Nisim hongliah hongdal ka suangpi aw,",
+        "Cimawh meigong tagah te aa ding lawmhoih pen na hi,",
+        "Nang om na peuh ka kha in nuamsa hi."
+      ]
+    }
+  ]
+}

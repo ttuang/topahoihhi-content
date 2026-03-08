@@ -1,0 +1,43 @@
+{
+  "title": "KA NUNNA HONG BAWLHOIH SAK",
+  "key": "Key: E",
+  "galHiam": "Gal Hiam: 48",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Lam etbeika om lai, lungmuan na hong tung a,",
+        "Ka mai ah melivompi hong kai in ka lampi,",
+        "Mial in a lauhuai hang khuavak ni hongtang ta,",
+        "Kei a ding hongpai Zeisu kumpi.",
+        "Chorus",
+        "Kei tang aa ding hong sihlawh ka Topa'n",
+        "Tawntung nunna lampi hong tun zo,",
+        "Kei tang aading hong suplawh ka Topa'n",
+        "Ka nuntakna hong bawl hoih sakzo."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Pheiphung suan kha in bah, Mitguite kham in zeu.",
+        "Khat veivei leigawtak tui om loh na gam ah,",
+        "Singkung bang kanuna huihkhi damseem in keu,",
+        "Ka om laitak Zeisu'n hong delh pah."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Keitang dingin hongding, keitang ding hong kithawi.",
+        "Keithuak ding teng hongthuak, kei septangin hong sem.",
+        "Kei aa ding hong thumsak keitangin mawhlawh tawi.",
+        "Siattut nateng a ma'n tual in lem."
+      ]
+    }
+  ]
+}

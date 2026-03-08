@@ -1,0 +1,49 @@
+{
+  "title": "CARMEL MUAL AH",
+  "key": "Key: E",
+  "galHiam": "Gal Hiam: 56",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Carmel mual ah Pasian gualzawhna te muding in",
+        "Hongpai mite Topa'n thupha hong pia hen",
+        "Elijah bang Pasian gualzawhna te muding in",
+        "Carmel mualah Topa'n thupha hong pia hen"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Sa un Hallelujah lasa un",
+        "Carmel Pasian mite gualzawhna",
+        "Sangpen Topa gualzawhna hang in",
+        "Na lungdam leh",
+        "Nuam un Hallelu Hallelujah"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Kha khanlawh na meibang in hong tawh kik in Topa",
+        "Khasiangtho aw hihmun ah kong muak uh hi",
+        "Ko aa dingin na lamdang leh na vangliat nate",
+        "Hong musak in na thupha kongmuak uh hi"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Topa ading khut kilen in nasem khawm veni",
+        "Na septheih bang Topa'n thupha hong pia hen",
+        "Elijah bang Pasian gualzawhna te mu ding in",
+        "Topa gamzai na dingin pang ciat ve ni"
+      ]
+    }
+  ]
+}

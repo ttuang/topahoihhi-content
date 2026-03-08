@@ -1,0 +1,60 @@
+{
+  "title": "Thuciamna Pha Muang Ning",
+  "key": "Key: Bb",
+  "galHiam": "Gal Hiam: 78",
+  "ZBC": "ZBC: 321",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Topa thuciamna pha muang tak in om ning,",
+        "A tawn tungin hong gum Topa vaang um ning",
+        "A min thang hi ci in ah ka ki ko hi",
+        "A thu ciam na pha ka muang ding hi."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Muang in (a thuciamna pha muang ning),",
+        "Om ning (a thuciamna pha muang ning,",
+        "Hong gum Topa Pasian thu ciamna pha muang ning",
+        "Muang in (a thuciamna pha muang ning),",
+        "Om ning (a thuciamna pha muang ning),",
+        "Hong gum Topa Pasian thuciam muang ning"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "A sia thei lo Topa thu ciamna ka muang,",
+        "Up khialh man a launa huih bang hong nun’hang",
+        "Nun tak na’ng a a thupha bel tawh zawh na’ng",
+        "A thuciamna pha ka muang ding hi"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Tu in a thu ciam na muang in ka om hi",
+        "A si pha tawh hong sawp leh ka siang ding hi",
+        "Mawhna sung pan suah tak ding thu ka ngah hi",
+        "A thu ciam na pha ka muang ding hi"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Topa Jesuh na thu ciam na ka muang hi",
+        "A thupha tawh khau bang in hong hen ding hi",
+        "Kha singtho tawh dawi mangpa ka zo ding hi",
+        "A thuciam na pha ka muang ding hi"
+      ]
+    }
+  ]
+}

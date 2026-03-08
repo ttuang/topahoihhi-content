@@ -1,0 +1,38 @@
+{
+  "title": "ZION TEMBAW",
+  "key": "Key: E",
+  "galHiam": "Gal Hiam: 117",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Tuipi geiah kading a, a galkhat lam ka gal-et leh,",
+        "Tuipi geiah tembaw khat a khawl ding mu ing a,",
+        "A maute a dawn dingin, alawmte tampi om veh,",
+        "It teng tawh kikhen lohna vantung hong phawk sake."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Inn lam kazuan hi, zion tembaw tungtuang in,",
+        "Galkhat pekah meiilum lakah a taang ka gal muh ta,",
+        "Tembaw khawlna ciangdong,",
+        "Hoihtakin katun mateng in, Vantungmi te aw kei hong kha aw."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Kanu in nunna huihpi thuakin hong paisan khinzo a",
+        "Tawntung mun hong pi dingin, Honpa neiteh hongci",
+        "Tu’n ka telsiang khinta hi, kei zong tua mun lam kazuan ta,",
+        "Ka nu’n galah hong ngak hi, nuikawm hong dawnta ding."
+      ]
+    }
+  ]
+}

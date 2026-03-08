@@ -1,0 +1,30 @@
+{
+  "title": "VANGLIAN PASIAN TOPA",
+  "key": "Key: G",
+  "galHiam": "Gal Hiam: 240",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Vanglian Pasian Topa Na min kong phat den ding hi",
+        "Vanglian Pasian Topa Na min kong phat den ding hi",
+        "Zingsang simin Nang kong zong ding",
+        "Nong thuhilhna bang mangin hong zui ning"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Kal khat khit khat Aman hong kha",
+        "Nisim in Topa nung ka zui den ding",
+        "Nisim in Topa ka zui den ding",
+        "Nisim in Topa nung ka zui den ding",
+        "Kal khat khit khat Aman hong kha",
+        "Nisim in Topa nung ka zui den ding"
+      ]
+    }
+  ]
+}

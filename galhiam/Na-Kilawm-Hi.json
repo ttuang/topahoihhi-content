@@ -1,0 +1,47 @@
+{
+  "title": "NA KILAWM HI",
+  "key": "Key: E",
+  "galHiam": "Gal Hiam: 92",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "A kipatcil a om ka Pasian",
+        "Na khempeuh pianna kong biak",
+        "Pasian Minthanna vangliatna nei",
+        "Pasian Van misiang te phatden Pasian."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "(Na kilawm hi Topa)2 Na kilawm phat dingin Topa",
+        "(Na kilawm hi Topa)?",
+        "Na kilawm biak dingin Topa"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Huihpi leh tuihual daisak thei Pa,",
+        "Zawdan gunpi khawlsak thei Topa,",
+        "Lungkham buaina teng vengsak thei Pa,",
+        "Husang thei khempeuh phatden Pa."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Tapa khat neihsun a hongpia Pa,",
+        "Ka suahtak nang lam honghon sak Pa,",
+        "Damna hauhna nopna hongpia Pa,",
+        "Nuntakna hong thahat sak Pa."
+      ]
+    }
+  ]
+}

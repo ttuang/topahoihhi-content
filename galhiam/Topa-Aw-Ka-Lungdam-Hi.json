@@ -1,0 +1,49 @@
+{
+  "title": "TOPA AWKA LUNGDAM HI",
+  "key": "Key: G",
+  "galHiam": "Gal Hiam: 16",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Van leh lei piangsak Pasian, Ni leh kha piang sak",
+        "Pasian, Ka nuntak na a hong bawl ka Pasian,",
+        "Nitaang leh guahtui hongpia, tuk ciangin an hongla sak,",
+        "Na vangliatna kong phat hi ka Pasian,"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Topa aw ka lungdam hi, nisim nong lungdam sak hi,",
+        "Ka hin lai teng namin kaphat den ding,",
+        "Tumging tawh nang kong phat ding,",
+        "Lam na tawh nang kong phat ding,",
+        "Hallelujah na minthang den ta hen."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Tu ni in kei a dingin hunhoih hun nuam hong ki pia,",
+        "Topa' tung'h lungdamna ka ko ding hi,",
+        "Lungdamkoh biakna pia in Topa ka pahtawi ding hi.",
+        "Ka hatna teng tawh a min kaphat ding."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Khat vei vei neekding neilo, khat vei veei silhding nei lo.",
+        "Ahi zong Topa hoihna kaphawk hi,",
+        "Van a leng vasa te leh gamlak unok paak te in,",
+        "Ka nunna nisim in tha hongdim zel."
+      ]
+    }
+  ]
+}

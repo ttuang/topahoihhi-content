@@ -1,0 +1,48 @@
+{
+  "title": "GUAM TE'N MUAL TE KIPSAK THEI AI VE",
+  "key": "Key: C",
+  "galHiam": "Gal Hiam: 207",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Mual tungah ih din teh nuam mah si ee",
+        "Ih khan zong suak ta in nuam sa veh",
+        "Pasian tawh a kinai pha diak tawh kibang ee",
+        "A bawl sa a khutmaa ih muh teh"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Guam te'n mual te kipsak thei bek ai ve",
+        "Sang kah leng hong hat sak semsem ta",
+        "Topa lunggulh hun te lungdam huai gige",
+        "Guam sung ih tot ciang hong nuam sak se"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Mual te guam tawh kidim ih nun sung teng",
+        "Nop hun leh lung kiat hun ih thuak zel",
+        "Nop sak hun lungkiat hun phu kha mah ta se leng",
+        "Tua hun ciang na ngawn in hong kem lel"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Khat vei ciang guam cih bang om nawn ke'n teh",
+        "Zion mual tung ah ih kah tak ciang",
+        "A etlawm vantung gam ih muh ciang nuam se'n teh",
+        "Hun in hong su vet lo ding tua ciang"
+      ]
+    }
+  ]
+}

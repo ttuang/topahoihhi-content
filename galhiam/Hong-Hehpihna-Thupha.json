@@ -1,0 +1,67 @@
+{
+  "title": "HONG HEHPIHNA THUPHA",
+  "key": "Key: G",
+  "galHiam": "Gal Hiam: 307",
+  "ZBC": "ZBC: 117",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Hong hehpihna thupha,",
+        "Lungsim khauh zo thei hi.",
+        "Leitung a it mana",
+        "A Tapa hong pia hi."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Kuamah peuhmah in thu um leh,",
+        "Hin' tawntungna pha ngah ding hi,",
+        "Hin' tawntungna pha ngah ding hi,"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Gamlakah gul kikhai,",
+        "A noptuam mah bangin,",
+        "Topa Zeisu kikhai,",
+        "Nuntak tawntung na'ng hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Mawhneite si kik ding,",
+        "Thukhenna i thei hi.",
+        "Na thupha zui lo leng,",
+        "Kisia takpi ding hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Leitung mawhsak dinga,",
+        "Zeisu hong pai lo hi.",
+        "A minthan' mah bangah,",
+        "Leitung hong gum ding hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 5",
+      "lines": [
+        "A um lote hehpih,",
+        "Um na'ng lungsim guan hi.",
+        "Thupha bel hong tun' veh,",
+        "Hong um phasak ta hen."
+      ]
+    }
+  ]
+}

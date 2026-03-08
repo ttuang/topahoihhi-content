@@ -1,0 +1,41 @@
+{
+  "title": "A TAWN TUNG",
+  "key": "Key: G",
+  "galHiam": "Gal Hiam: 283",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Ka nuntak na nong kem den hi",
+        "Phalbi, khua khal , tuk hun sung",
+        "Na khut tawh nong huai hi",
+        "Thuman na ah kei nong kha hi",
+        "Nang kong lam en hi",
+        "Nang kong ngak den hi"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Nong itna la in kasa ding hi",
+        "Kei tungah nong muan huai hi",
+        "Na ang sungah kei nong pom den hi",
+        "Nong khah ngei keing ding hi",
+        "A tawn tung"
+      ]
+    },
+    {
+      "type": "bridge",
+      "label": "Bridge",
+      "lines": [
+        "Hallelujah",
+        "Hallelujah",
+        "Hallelujah",
+        "Hallelujah"
+      ]
+    }
+  ]
+}

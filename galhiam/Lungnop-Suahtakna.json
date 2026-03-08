@@ -1,0 +1,28 @@
+{
+  "title": "Lungnop Suah Tak Na",
+  "key": "Key: F",
+  "galHiam": "Gal Hiam: 239",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Lungnop suah tak na",
+        "Ka Topa'n hong pia ka sung pan in",
+        "Nuntakna ciktui hong luang khia",
+        "Lungnop suah takna ka Topa'n hong pia."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Nuntak nalai bu sung ka min ki gelh zo",
+        "Nuntak nalai bu sung ka min ki gelh zo",
+        "Nuntak nalai bu sung ka min ki gelh zo",
+        "Haleluijah!"
+      ]
+    }
+  ]
+}

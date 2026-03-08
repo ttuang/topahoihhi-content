@@ -1,0 +1,61 @@
+{
+  "title": "AN LATE KAWH OM",
+  "key": "Key: G",
+  "galHiam": "Gal Hiam: 272",
+  "ZBC": "ZBC: 216",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Mawhna lolai a ahoih teng buh lom",
+        "A kaikhawm ding an late koi a om",
+        "Nasep nadingin thumaan phiaukawi keng",
+        "Kua mah khawl lo ding an lak khit mateng"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "an late kaw'h om",
+        "Kua hong kuan nuam",
+        "An lak pawi sungah",
+        "Kua hong lungdam khawm nuam",
+        "Kua'n hong koppih ding",
+        "Buhlom hoih teng",
+        "Mawhna losunga om buh lom teng"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Zawineu zong zui in zong in pha takpi",
+        "Lopa asau hang buh om thei ding hi",
+        "lamlian zong zui inla nusiat nei ke'n",
+        "Vantung innpi sung hong tum khin uh hen"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Lo teng khempeuh ah an minkhin ta hi",
+        "Leitung khempeuh in lak ding bek ngak hi",
+        "A hih hang a la ding tawm lak ding tam",
+        "La meng meng kei leenglah asia ding tam"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Tua ahih ciang hong pai un phiaukawi tawh",
+        "An pha kaikhawm un no mihing te aw",
+        "An nei Topa hong pai mateng sem un",
+        "Tua ciang an lak pawi ah lungdam khawm un"
+      ]
+    }
+  ]
+}

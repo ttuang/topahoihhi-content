@@ -1,0 +1,39 @@
+{
+  "title": "KAMCIAM NONG PIA NGAM DIAM?",
+  "key": "Key: D",
+  "galHiam": "Gal Hiam: 287",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Khat vei ni ciangin ah kikhen cih om nawn lo ding,",
+        "Ih leitung khualzinna hong bei ding,",
+        "Hi zong mangpha kikhak ma'n, Ih nuntakna a bei ma'n,",
+        "Kamciam na nong pia ngam diam tuni'n.",
+        "Chorus",
+        "Khat khatin gun gal khatah i kantan dinga,",
+        "Ki-hal-lo-in a kan ih om zelta,",
+        "Tua man kiptak nong kamciam diam,",
+        "Gunpiau ah Ih kimu ding hiam?",
+        "Ke'n bel tung ning cih hong kamciam ingh.",
+        "Verse2",
+        "Ke'n bel hong kamciam ing,",
+        "Gunpiau ah kimu ding, A dum dildial gunpiau ah teeng ding,",
+        "Lungkiatna cih om nawn lo, singteh zong vul ngeilo,",
+        "A paisa lawmte mu ding hizo."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Ih nunna ah sihna tung peelmawh ding cih thei hang,",
+        "Bang lokal hun sungin bei thei ding,",
+        "Khat vei ni teitei ciangin, ei tung hong tung veve ding,",
+        "Tua ni aading na kha muang nai hiam?"
+      ]
+    }
+  ]
+}

@@ -88,7 +88,7 @@ for (const f of fs.readdirSync(GALHIAM_DIR)) {
   }
 }
 
-// 7) Fix typos: file exists with different spelling (e.g. a-sagna-... vs a-sangna-...) -> rename file to match index slug
+// 7) Fix typos: file exists with different spelling -> rename file to match index slug
 if (stillMissing.length) {
   const filesByNorm = {}; // lowercase base -> actual filename
   for (const f of fs.readdirSync(GALHIAM_DIR)) {
@@ -119,37 +119,81 @@ if (stillMissing.length) {
         fs.renameSync(fromPath, toPath);
         delete filesByNorm[best.norm];
         fixedSlugs.push(slug);
-        console.log('Fixed typo (file -> slug):', best.filename, '->', slug + '.json');
+        console.log('Fixed (renamed file to match slug):', best.filename, '->', slug + '.json');
       }
     }
   }
 }
 
-// Re-read state after fixes
+// 8) For any still missing after renames: update index slug to match existing filename (if one orphan is a close match)
+let indexUpdated = false;
+const stillMissingAfterTypo = index.songs
+  .map((s, i) => ({ slug: s.slug, i }))
+  .filter(({ slug }) => !fs.existsSync(path.join(GALHIAM_DIR, slug + '.json')));
+if (stillMissingAfterTypo.length) {
+  const filesByNorm = {};
+  for (const f of fs.readdirSync(GALHIAM_DIR)) {
+    if (!f.endsWith('.json') || f === 'index.json') continue;
+    const norm = f.replace(/\.json$/i, '').toLowerCase();
+    if (!filesByNorm[norm]) filesByNorm[norm] = f;
+  }
+  const usedSlugs = new Set(slugs);
+  for (const { slug, i } of stillMissingAfterTypo) {
+    const slugNorm = slug.toLowerCase();
+    let best = null;
+    for (const [norm, filename] of Object.entries(filesByNorm)) {
+      if (usedSlugs.has(norm)) continue;
+      if (Math.abs(norm.length - slugNorm.length) > 5) continue;
+      let diff = 0;
+      const maxLen = Math.max(norm.length, slugNorm.length);
+      for (let j = 0; j < maxLen; j++) {
+        if ((norm[j] || '') !== (slugNorm[j] || '')) diff++;
+      }
+      if (diff <= 4 && (!best || diff < best.diff)) best = { norm, filename, diff };
+    }
+    if (best) {
+      const newSlug = best.filename.replace(/\.json$/i, '').toLowerCase();
+      index.songs[i].slug = newSlug;
+      usedSlugs.add(newSlug);
+      fixedSlugs.push(slug + ' -> ' + newSlug);
+      indexUpdated = true;
+      console.log('Fixed (updated index slug to match file):', slug, '->', newSlug);
+    }
+  }
+  if (indexUpdated) {
+    fs.writeFileSync(INDEX_PATH, JSON.stringify(index, null, 2) + '\n', 'utf8');
+  }
+}
+
+// Final state: use current index (already updated in memory if we fixed slugs)
+const slugsFinal = index.songs.map((s) => s.slug);
 const finalFiles = fs.readdirSync(GALHIAM_DIR).filter((f) => f.endsWith('.json') && f !== 'index.json');
-const matching = slugs.filter((slug) => fs.existsSync(path.join(GALHIAM_DIR, slug + '.json')));
-const missingAfter = slugs.filter((slug) => !fs.existsSync(path.join(GALHIAM_DIR, slug + '.json')));
+const matching = slugsFinal.filter((slug) => fs.existsSync(path.join(GALHIAM_DIR, slug + '.json')));
+const missingAfter = slugsFinal.filter((slug) => !fs.existsSync(path.join(GALHIAM_DIR, slug + '.json')));
 const uppercaseAfter = finalFiles.filter((f) => /[A-Z]/.test(f));
 
-// Summary
-console.log('\n--- Summary ---');
-console.log('Total songs in index:', slugs.length);
-console.log('Total matching files (exact slug.json):', matching.length);
+// --- Summary (requested format) ---
+console.log('\n========== Gal Hiam validation summary ==========');
+console.log('Total songs in index:', slugsFinal.length);
+console.log('Total song files (galhiam/*.json excluding index):', finalFiles.length);
+console.log('Slugs fixed:', fixedSlugs.length === 0 ? 'None' : fixedSlugs.length);
 if (fixedSlugs.length) {
-  console.log('Slugs fixed (file renamed or corrected):', fixedSlugs.length);
-  fixedSlugs.slice(0, 30).forEach((s) => console.log('  -', s));
-  if (fixedSlugs.length > 30) console.log('  ... and', fixedSlugs.length - 30, 'more');
+  fixedSlugs.forEach((s) => console.log('  -', s));
 }
-if (removedCopy) console.log('Removed duplicate " - Copy" files (not in index):', removedCopy);
+if (removedCopy) console.log('Removed " - Copy" files (not in index):', removedCopy);
 if (missingAfter.length) {
   console.log('Still missing (no file for slug):', missingAfter.length);
   missingAfter.forEach((s) => console.log('  -', s + '.json'));
 }
 if (uppercaseAfter.length) {
-  console.log('Filenames still with uppercase:', uppercaseAfter.length);
+  console.log('Filenames with uppercase:', uppercaseAfter.length);
   uppercaseAfter.forEach((f) => console.log('  -', f));
 }
+console.log('');
 if (missingAfter.length === 0 && uppercaseAfter.length === 0) {
-  console.log('OK: Every slug has an exact matching lowercase file.');
+  console.log('Confirmation: Every slug in index.json now resolves to a file at galhiam/{slug}.json');
+} else {
+  console.log('Confirmation: Some slug/file pairs are still missing or invalid (see above).');
 }
+console.log('=================================================');
 process.exit(missingAfter.length > 0 ? 1 : 0);

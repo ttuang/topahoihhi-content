@@ -39,7 +39,8 @@ for (const slug of slugs) {
 }
 
 // Two-step rename to handle case-insensitive filesystems (e.g. Windows)
-const tempPrefix = '_norm_';
+// Step 1: current -> tmp-{slug}.json   Step 2: tmp-{slug}.json -> {slug}.json
+const tempPrefix = 'tmp-';
 for (const { from, to } of renames) {
   const fromPath = path.join(GALHIAM_DIR, from);
   const tempPath = path.join(GALHIAM_DIR, tempPrefix + to);
@@ -47,15 +48,15 @@ for (const { from, to } of renames) {
   fs.renameSync(fromPath, tempPath);
   if (fs.existsSync(toPath)) fs.unlinkSync(toPath);
   fs.renameSync(tempPath, toPath);
-  console.log(from, '->', to);
+  console.log(from, '->', tempPrefix + to, '->', to);
 }
 
-// Remove temp files if any left (safety)
+// Remove any stray temp files (safety)
 const afterFiles = fs.readdirSync(GALHIAM_DIR);
 for (const f of afterFiles) {
-  if (f.startsWith(tempPrefix)) {
+  if (f.startsWith(tempPrefix) && f.endsWith('.json')) {
     fs.unlinkSync(path.join(GALHIAM_DIR, f));
-    console.log('Removed temp:', f);
+    console.log('Removed stray temp:', f);
   }
 }
 
@@ -91,5 +92,16 @@ if (missing.length) {
   if (missing.length > 20) console.error('  ... and', missing.length - 20, 'more');
 } else {
   console.log('All', slugs.length, 'slugs have a matching file.');
+}
+
+// Verify no uppercase/case-mismatch filenames remain (slug filenames must be exactly lowercase)
+const finalFiles = fs.readdirSync(GALHIAM_DIR).filter((f) => f.endsWith('.json'));
+const uppercase = finalFiles.filter((f) => f !== 'index.json' && /[A-Z]/.test(f));
+if (uppercase.length) {
+  console.error('\nFilenames with uppercase (must be lowercase for GitHub Pages):', uppercase.length);
+  uppercase.slice(0, 20).forEach((f) => console.error('  -', f));
+  ok = false;
+} else {
+  console.log('No uppercase or case-mismatch filenames in galhiam/.');
 }
 process.exit(ok ? 0 : 1);

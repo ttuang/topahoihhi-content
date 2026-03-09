@@ -1,0 +1,43 @@
+{
+  "title": "Dai Dide, Zan Siangtho",
+  "key": "Key: Bb",
+  "ZBC": "ZBC: 089",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Dai dide…. zan siangtho….",
+        "Thakhat in…theih kholh loh",
+        "Tuucingte kiim",
+        "tang pempam",
+        "Vantung pan phatna puakkham",
+        "(Khazih hongsuak zo hi)2"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Dai dide…. zan siangtho….",
+        "Mipilte’n …van en to..",
+        "Lam hilh aksi",
+        "tang zui in",
+        "Lut uh hi biakna lui in",
+        "(I Kumpi hong suak hi)2"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Dai dide…. zan siangtho….",
+        "Aksi pi’n.. Hong tan hen",
+        "Vantung mite bang",
+        "in ah",
+        "Sa un Kumpi phatna la",
+        "(Hong honpa hong suak hi)2"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "title": "Hong Pai Meng In, Emmanuel",
+  "key": "Key: G",
+  "ZBC": "ZBC: 080",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Hong pai meng in Emmanuel, honkhia in saltang Israel;",
+        "Pasian Tapa kilat ngak mi, nilkhiat thuak",
+        "lung zuang a thuum mi;"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Nuam un, nuam un, no Israel,",
+        "Hong pai ding hi,",
+        "Emmanuel."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Hong pai meng in Jessi suan aw, Satan khut pan honkhia meng aw",
+        "Hell khuk",
+        "sung pan honkhia ta in, Sihna tungah gualzo sak in;"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Hong pai meng in zingkhua vak aw, Ka",
+        "lungsim uh hong nuamsak aw;",
+        "Zankhuamialpi hawlkhia ta in, Meii pai letin khuavak sak",
+        "in;"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "David tawhtang hong pai meng in, Vantung kongpi hong honsak in;",
+        "Vantung lampi ah",
+        "hong kha aw, Siatna lampi khaktan ta aw."
+      ]
+    }
+  ]
+}

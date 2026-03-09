@@ -1,0 +1,53 @@
+{
+  "title": "Naupangte Tangkote",
+  "key": "Key: D",
+  "ZBC": "ZBC: 384",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Naupangte in tatkhiatna tangkote hithei dinga,",
+        "Amaute’n Tanpa’ singlamteh thu gen",
+        "ding uh hi;",
+        "Nipi sumpi tawh Lai Siangtho a puakkhia ding uha,",
+        "Tua in tuipi gal a mite lungdamsak",
+        "ding hi."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Naupangte in Honpa itna thupha tangko nuam a sa mahmah uh hi;",
+        "Naupangte",
+        "in, mite van inn tun na’ng lungdam takin lamlak ding uh hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Naupangte in sep ding",
+        "nei hi, Topa’ nasepna ah,",
+        "Lungkham, dahnate zong nuamna suaksak ding uh hi;",
+        "Dahna in a",
+        "netcip lungkhamna kha khamvei mite,",
+        "Khuavak bang mi gitna kam khum tawh hopih ding",
+        "hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Naupangte kiphawk hi, Topa’ hong kamciamna sungah,",
+        "Hehpihna thupha midangte",
+        "hawmsawn ding uh hi;",
+        "Topa’n a maute limtak kemin lungmuangsak dinga,",
+        "Amaute in vanah Pasian",
+        "mai mu ding uh hi."
+      ]
+    }
+  ]
+}

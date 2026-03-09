@@ -1,0 +1,44 @@
+{
+  "title": "Na Hoihna Thupha Kigen",
+  "key": "Key: F",
+  "ZBC": "ZBC: 184",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Zion khua kongpi suak dingin, Lai Siangtho genzo hi;",
+        "Ciampel ngeilo i Topa in, A omna ding hong",
+        "bawl hi.",
+        "A kip tawntung suangpi tungta, A kiling zo kei ding hi;",
+        "Gupna ding thu tawh omkhawm a,",
+        "gal-etin kilawm thei hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "A hong it tawntung na panin, a hong luang hinna luitui;",
+        "Tanu",
+        "tapate in tua tui, lungdam taka dawn uh hi.",
+        "Tua bang luitui om ngei hileh, kuamah tha kiamlo ding",
+        "hi;",
+        "Thupha hong pia Pasian bangin, Khang khat pan khang khat kip hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Mihing omna",
+        "kiimkot tengah, meii le meikhuam hong langsak;",
+        "Hong ompihna lah na’ngin ah, a vangliatna hong",
+        "musak.",
+        "Amau’ an ding manna pia a, Amau’ thuumna a za hi;",
+        "Hosanna ci-a kiphatna,",
+        "vantung dongin kiza hi."
+      ]
+    }
+  ]
+}

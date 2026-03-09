@@ -1,0 +1,62 @@
+{
+  "title": "ZAN CIH OM NGEILO HI",
+  "key": "Key: Eb",
+  "ZBC": "ZBC: 445",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Kiu li nei khuapi om a,",
+        "Ni tum ngeiloh na-hi;",
+        "Cik mah ciang sia lo ding a,",
+        "Zan cih om",
+        "ngeilo hi."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Pasian in khitui nul a,",
+        "Sihna, natna om lo hi;",
+        "Hun le kum cih om",
+        "lo a,",
+        "Zan cih om ngeilo hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Kiu li nei khupi om a,",
+        "A kongpi kep a hi;",
+        "A",
+        "kong zing-te kham hi a,",
+        "Zan cih om ngeilo hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Tua kiu li nei khuapi-ah,",
+        "Kong",
+        "kikhak ngei lo hi;",
+        "Nuntakna tui luanna-ah,",
+        "Zan cih om ngeilo hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Tua kiu li nei",
+        "khua sungah,",
+        "Nitang kisam lo hi;",
+        "Tuuno ni bang tanna ah,",
+        "Zan cih om ngeilo hi."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "title": "Hong Paipihna Peuh-ah",
+  "key": "Key: F",
+  "ZBC": "ZBC: 376",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Topa hong sapna ka za hi,",
+        "Topa hong sapna ka za hi,",
+        "Topa hong sapna ka za",
+        "hi,",
+        "“Singlamteh pua in hong zui in” ci"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Hong paipihna peuh-ah zui",
+        "ning,",
+        "Hong paipihna peuh-ah zui ning,",
+        "Hong paipihna peuh-ah zui ning,",
+        "Lam tawntungah Amah",
+        "zuizui ning."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Lunggimna huanah zong zui ning,",
+        "Lunggimna huanah zong zui",
+        "ning,",
+        "Lunggimna huanah zong zui ning,",
+        "Lam tawntungah Amah zuizui ning."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Thukhenna",
+        "munah zong zui ning,",
+        "Thukhenna munah zong zui ning,",
+        "Thukhenna munah zong zui ning,",
+        "Lam",
+        "tawntungah Amah zuizui ning."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Minpha le hehpih hong pia ding,",
+        "Minpha le hehpih hong",
+        "pia ding,",
+        "Minpha le hehpih hong pia ding,",
+        "Lam tawntungah hong tonpihpih ding."
+      ]
+    }
+  ]
+}

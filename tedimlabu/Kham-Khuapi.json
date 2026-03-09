@@ -1,0 +1,54 @@
+{
+  "title": "KHAM KHUAPI",
+  "key": "Key: Ab",
+  "ZBC": "ZBC: 440",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Sihna kuam gal khat-ah khua lianpi khat om hi,",
+        "Minthan nate kigen khin zo lo;",
+        "Tua mun-ah",
+        "ni tum lo, singteh vul ngei lo,",
+        "Tua Pasian kham khuapi hoih sungah."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Tua munah ni",
+        "tum lo,",
+        "Singtehte vul ngei lo;",
+        "Tua munah thuman mi’ maitang Topa’n en ding,",
+        "Tua",
+        "Pasian kham khuapi hoih sungah."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Tua mun i it kumpi hong tanpa Topa om,",
+        "Thuman",
+        "mite’n lungdam en uh hi;",
+        "Tua munah thuman mite aksi bang tang ding hi,",
+        "Tua Pasian kham",
+        "khuapi hoih sungah."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Singlamteh phung i tunpih khit sa kha khempeuh,",
+        "Tuu buk sung i",
+        "tutsa tuu khempeuh;",
+        "Lukhu zep nading suang manpha bang kikem hi,",
+        "Tua Pasian kham khuapi hoih",
+        "sungah."
+      ]
+    }
+  ]
+}

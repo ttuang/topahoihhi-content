@@ -1,0 +1,65 @@
+{
+  "title": "Vantung Mite’n Paipih",
+  "key": "Key: Ab",
+  "ZBC": "ZBC: 317",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Sum haupa a innpha bel kongkhak kiangah,",
+        "Topa Pasian ta khat atu hi;",
+        "Leitungah gimna,",
+        "tawlna khempeuh a ngah,",
+        "A sih khit ciang a nuam bel ngah hi."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "A nopna sungah",
+        "vantung mite’n paipih,",
+        "Vankim lai-ah lasa aw dim hi,",
+        "Vantung inn nuam sungah Topa in la",
+        "hi,",
+        "A itte tawh nopna a ngah hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Gimna bei-in si leng, bang i piang ding",
+        "hiam?",
+        "Eimah in sin sungah ngaihsun ni;",
+        "Leitungah nuntakna vangik pua bang hi,",
+        "Dahna khitui",
+        "luannate om hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Jesuh nungzuite in sum a tawm hangin,",
+        "Vantung khua-ah om sum lamdang",
+        "hi;",
+        "Ze-et bawlsiatna teng i paisan ding hi,",
+        "Nungciang kikhel ding lungdamna",
+        "hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Topa ading hanciamin mainawt ciat ni,",
+        "I hun, i siamna i zangkhin",
+        "ding;",
+        "Nasepna a tawm hang za ngahna lian hi,",
+        "Singlamteh pua kham lukhu khu ding."
+      ]
+    }
+  ]
+}

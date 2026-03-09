@@ -1,0 +1,76 @@
+{
+  "title": "Jesuh’ Galkapte’n Ah",
+  "key": "Key: F",
+  "ZBC": "ZBC: 179",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Khazih galkapte’n ah, galsim ding kuan un;",
+        "Eite mai a masa, Jesuh mitsuan un;",
+        "Khazih",
+        "eite Mangpa, makai hilo maw;",
+        "En un a dialpaina, galphual lam",
+        "manawh!"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Jesuh’ galkapte’n ah, galkap ding kuan un;",
+        "Singlamteh pua un",
+        "la, Na mailam nawt un."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Jesuh min a zak ciang, dawi mite tai uh;",
+        "Nawt un, tua ahih",
+        "ciang, Na mualsuah dong uh;",
+        "Phatna aw kizak ciang, dawi gam kiliing hi;",
+        "Lawmte tua ahih ciang,",
+        "awng un phatna pi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Galkap honpi bangin, Pawlpi’n masot hi;",
+        "Tang mi siangte",
+        "bangin, I totna khat hi;",
+        "Eite kikhen lo-in, pum khat bek i hi;",
+        "Lawp le zuih kikhat-in, hong",
+        "ki-itsak hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Kumpi za sia thei hi, Kumpi gam kip kei;",
+        "Hih hang Jesuh Pawlpi,",
+        "cikmah’n sia thei kei;",
+        "Dawi in Pasian’ Pawlpi, Cikmah’n zo ngei kei;",
+        "Khazih hong",
+        "ciamsa hi, A ciampeel ngei kei."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 5",
+      "lines": [
+        "Tua hi a hong pawm un, mi khempeuh in-ah;",
+        "Ko tawh",
+        "hong sa khawm un, galzawh nuamna la;",
+        "A minthang pahtawi un, leitung vantung ah;",
+        "Tatsat lo-in phat",
+        "un, Khazih Kumpipa."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "title": "At Hun Ciang Bang A Ci Diam?",
+  "key": "Key: C",
+  "ZBC": "ZBC: 281",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Ki-itna khaici zingsang vawh un,",
+        "Ni sun laitakin zong na suan un;",
+        "Nitak lamin zong na",
+        "hahkat un,",
+        "Zan ciangin zong khai na vawh un,",
+        "At hun ciang banga ci diam?",
+        "At hun ciang banga",
+        "ci diam? (a ci diam?)"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Sun ahi zong, zan ahi zong vawh un,",
+        "Tha khauh lai bang,",
+        "thaneem lai zong vawh un,",
+        "Nuntak sung hi leh, sih khit hileh,",
+        "A khop hun khatvei tung ding",
+        "hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Khaici kim khat lampi ah kia hi,",
+        "Khaici kim khat suang lakah kia hi;",
+        "Khaici",
+        "kim khat linglak ah kia hi,",
+        "Khaici kim khat lei hoih-ah kia hi,",
+        "At hun ciang banga ci",
+        "diam?",
+        "At hun ciang banga ci diam? (a ci diam?)"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Gimna thuakin khaici pha vawh",
+        "un,",
+        "Lungsim siat hang khaici na vawh un;",
+        "Mimal siat thuak hangin hahkat un,",
+        "Maizumna thuak",
+        "hangin lungkia ke’n,",
+        "At hun ciang banga ci diam?",
+        "At hun ciang banga ci diam? (a ci diam?)"
+      ]
+    }
+  ]
+}

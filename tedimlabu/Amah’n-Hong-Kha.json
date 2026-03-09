@@ -1,0 +1,51 @@
+{
+  "title": "AMAH’N HONG KHA",
+  "key": "Key: D",
+  "ZBC": "ZBC: 046",
+  "sections": [
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "A mah’n hong kha Amah’n hong kha,",
+        "Ama khut tawh A mah’n hong kha,",
+        "A",
+        "nung mantak ka zui ding hi,",
+        "Ama khut in kei hong kha hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Khatvei leh Eden bang nuamna,",
+        "Khatvei leh khuamialna thukpi,",
+        "Bang ka tuak hang muanna",
+        "launa,",
+        "Ka Pasian in kei hong kha hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Phunlo puamlo lungkim takin,",
+        "Topa na khut ka len nuam hi.",
+        "Bangbang tuak zong bang",
+        "lungkhamna,",
+        "Ka Pasian in kei hong kha hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Na hehpihna tawh galzo a",
+        "Nasep ka khit ciang a vekpi’n;",
+        "Sih ding lau lo Pasian in",
+        "ah,",
+        "Jordan gungal ah hong kha hi."
+      ]
+    }
+  ]
+}

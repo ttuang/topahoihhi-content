@@ -1,0 +1,64 @@
+{
+  "title": "I LUNG NUAM HI, JESUH MUANG LENG",
+  "key": "Key: Ab",
+  "ZBC": "ZBC: 296",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "I lung nuam hi Jesuh muang leng",
+        "A ma hong gen bang um leng",
+        "A ma hong thu ciam na muang",
+        "leng",
+        "Topa’ hong cih na thei leng"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Jesuh Jesuh ke’n ka muang hi",
+        "A",
+        "muan huai na thei zo ing",
+        "Jesuh Jesuh man pha Jesuh",
+        "A mah muang sem sem nuam",
+        "ing"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "I lung nuam hi Jesuh muang leng",
+        "Hong sap na a Si muang leng",
+        "Hong dam hong",
+        "siang sak thei A’ Si",
+        "Sung ah upna tawh bual leng"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "I lung nuam hi Jesuh muang",
+        "leng",
+        "Mawh na pum pi nu sia leng",
+        "Nun tak lung nop tawl dam nuam na",
+        "Jesuh khut tung pan saang",
+        "leng"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Jesuh kong muan’ theih ka nuam hi",
+        "A manpha Lawmpa Na hi",
+        "Hong honpa aw",
+        "a tawp dong in",
+        "Nong om pih ding ka thei hi"
+      ]
+    }
+  ]
+}

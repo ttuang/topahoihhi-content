@@ -1,0 +1,62 @@
+{
+  "title": "Bang Ngak Na Hiam, Sanggam Aw?",
+  "key": "Key: A",
+  "ZBC": "ZBC: 219",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Bang ngak na hiam, sanggam aw?",
+        "Bang hang khawlkhawl lai na hi hiam?",
+        "Misiangte kiang hong",
+        "sam hilo maw?",
+        "Topa in hong ngak hilo hiam?"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Pai lo ding maw? Amah zuan lo ding",
+        "maw?",
+        "Pai lo ding maw? Amah zuan lo ding maw?"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Zekai lecin sanggam aw?",
+        "Bang",
+        "phattuamna ngah ding na hiam?",
+        "Jesuh lo a dang Honpa om maw?",
+        "Amah lo lampi dang om",
+        "hiam?"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Phawk lo na hiam, sanggam aw?",
+        "Kha Siangtho in hong sawl lo hiam?",
+        "Hong",
+        "hotkhiatna san sawm nai lo maw?",
+        "Na vangik khiat sawm lo na hiam?"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Bang ngak na hiam,",
+        "sanggam aw?",
+        "An lak hun hong bei dekta hi;",
+        "Honpa’n thupha hong pia nuam veh aw,",
+        "Na zekai",
+        "leh na si ding hi."
+      ]
+    }
+  ]
+}

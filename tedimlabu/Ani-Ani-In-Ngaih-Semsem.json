@@ -1,0 +1,64 @@
+{
+  "title": "ANI ANI-IN NGAIH SEMSEM",
+  "key": "Key: D",
+  "ZBC": "ZBC: 455",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "A deihhuai tangthu Hon pa itna thu,",
+        "Ani ani-in ngaih semsem;",
+        "Hong khap sa van inn hang",
+        "lung-muanna thu,",
+        "Ani ani-in ngaih semsem."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "A ni (ani) simin, Amah (amah) phatna",
+        "la sasa ni,",
+        "Hun zong nuam semsem (nuam semsem);",
+        "Van a Pasian i phatna la,",
+        "Ani a ni-in ngaih",
+        "semsem."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Nuntakna khuavak pan a vang tangpi,",
+        "Ani ani-in tang semsem;",
+        "Dahna hong",
+        "hehnem kamciam na aksi,",
+        "Ani a ni-in tang semsem."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Huihpi nung ciang a hong len",
+        "sikkippi,",
+        "Ani ani-in kip semsem;",
+        "Nuntak tawntungna thu i theita hi,",
+        "Ani ani-in thei",
+        "semsem."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Jesuh in eite hong piak lungnopna,",
+        "Ani ani-in nuam semsem;",
+        "Khristiante",
+        "a’ ding kihong lam-etna,",
+        "Ani ani-in nuam semsem."
+      ]
+    }
+  ]
+}

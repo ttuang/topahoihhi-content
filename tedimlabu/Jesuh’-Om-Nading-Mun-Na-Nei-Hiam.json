@@ -1,0 +1,64 @@
+{
+  "title": "Jesuh’ Om Nading Mun Na Nei Hiam",
+  "key": "Key: C",
+  "ZBC": "ZBC: 230",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Na mawhna tang a thuak Jesuh,",
+        "Omna ding mun a om hiam?",
+        "Kong khak kiu-in lut ding hong",
+        "tu,",
+        "Mawh neite’n a ngai na diam?"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Topa Jesuh minthang Kumpi!",
+        "A",
+        "omna’ng mun tu’n bawl ini!",
+        "Na lungsim kongkhak tanzau in!",
+        "Hong in na lutsak ding",
+        "hi!"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Na lung sunggah na omsak leh,",
+        "Nuamna hong bawlsak ding hi;",
+        "Omna’ng na",
+        "omsak loh hangin,",
+        "Na mawhna tang ding si hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Topa Ejsuh in a hun ciang,",
+        "A thupha",
+        "tawh hong sam ding;",
+        "Tuni’n a thupha sang inla,",
+        "Zing iang ngak kei leteh",
+        "pha."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Omna’ng mun le hun na pia in,",
+        "A nuam ding ni khengsak",
+        "ke’n;",
+        "Sawt lo-in hong sam pakkha leh,",
+        "Na lungsim khauhsak kei in."
+      ]
+    }
+  ]
+}

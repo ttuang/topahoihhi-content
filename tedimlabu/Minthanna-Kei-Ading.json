@@ -1,0 +1,53 @@
+{
+  "title": "MINTHANNA KEI A’DING",
+  "key": "Key: Ab",
+  "ZBC": "ZBC: 441",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Ze-etna le nasep nate bei ciang,",
+        "A hoih tuipi gei-ah muangtak om ding;",
+        "Ka it mahmah Topa",
+        "kiang nai om ding,",
+        "Tanglai pek pan minthanna kei a’ding."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Aw kei a’",
+        "ding tua minthanna,",
+        "Tua minthanna, tua minthanna;",
+        "Hong hehpih na, A mai ka en dingta,",
+        "Tua",
+        "minthanna in keima a’ ding hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "A bei ngei lo hehpihna hong piak ciang,",
+        "Vantung",
+        "khua ah omna khat ka nei ding;",
+        "Topa maitang tua mun ka mu den ding,",
+        "Tanglai pek pan minthanna kei",
+        "a’ding."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Sawtpi a muh nop lawm te na om ding,",
+        "Tua mun-ah lungdamna guntui luang",
+        "ding;",
+        "Gumpa mai-ah nuih mai bek om ka thei,",
+        "Tanglai pek pan minthanna kei a’ding."
+      ]
+    }
+  ]
+}

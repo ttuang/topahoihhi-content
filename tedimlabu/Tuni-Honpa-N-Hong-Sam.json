@@ -1,0 +1,43 @@
+{
+  "title": "Tuni Honpa’n Hong Sam",
+  "key": "Key: F",
+  "ZBC": "ZBC: 222",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Tuni Honpa’n hong sam, “Hong pai in” ci.",
+        "“Vantung lam theilo mi, Ka",
+        "hilh ding hi.”"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Tuni Honpa’n hong sam, Tu-in ngai in,",
+        "Jesuh Topa mai-ah,",
+        "Nangmah pai in."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Tuni Honpa’n hong sam, Ama kiangah,",
+        "Nangmah na pai kei leh, sih",
+        "ding lauhuai."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Kha Siangtho in hong sam, Amah nial ke’n,",
+        "A hong hehpih nuam hi,",
+        "pai khiasak ke’n."
+      ]
+    }
+  ]
+}

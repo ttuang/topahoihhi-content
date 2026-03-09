@@ -1,0 +1,66 @@
+{
+  "title": "NGUN HI LO, KHAM ZONG HI LO",
+  "key": "Key: D",
+  "ZBC": "ZBC: 156",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Ngun hi lo, kham zong hilo, hong kitatkhiatna,",
+        "Leitung hauhnate in kei hong tan zo lo;",
+        "Kei",
+        "muanna bulpi Jesuh si san bek hi a,",
+        "Ka Topa’ sihna in kei hong damsak",
+        "zo."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Hong kitanzo, hih hang ngun hi kei,",
+        "Hong kilei zo, kham tawh",
+        "hilo;",
+        "Jesuh sisan in keimah hong lei,",
+        "Hong itna genzawh hi lo."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Ngun hi lo, kham",
+        "zong hilo, hong kitatkhiatna,",
+        "Ka lungsim mawhna vangik puakhin zo hi;",
+        "Kei muanna bulpi Jesuh si",
+        "san bek hi a,",
+        "Ka Topa’ sihna bek in hong tan thei hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Ngun hi lo, kham zong",
+        "hilo, hong kitatkhiatna,",
+        "Thukham in Pasian hong naihsak thei lo hi;",
+        "Kei muanna bulpi Jesuh si san",
+        "bek hi a,",
+        "Ka Topa’ sihna in launa beisak hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Ngun hi lo, kham zong hilo, hong",
+        "kitatkhiatna,",
+        "Vantung lampi lah kilei thei tuan lo hi;",
+        "Kei muanna bulpi Jesuh si san bek hi",
+        "a,",
+        "Hong Honpa’ sihna bek in hong leizo hi."
+      ]
+    }
+  ]
+}

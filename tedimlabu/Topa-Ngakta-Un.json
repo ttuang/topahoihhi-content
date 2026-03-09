@@ -1,0 +1,53 @@
+{
+  "title": "Topa Ngakta Un",
+  "key": "Key: Eb",
+  "ZBC": "ZBC: 167",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Topa ngakta un, kam hong ciam khinzo hi;",
+        "Topa ngakta un, van pan hong tung ding hi;",
+        "Topa",
+        "ngakta un, upna tawh saan ding hi;",
+        "Inndei tungah ngakta un."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Vangliatna!",
+        "Vangliat!",
+        "Mawhna tung gualzawhna le lungsim sianthona;",
+        "Vangliatna! Vangliat!",
+        "Pentecost Ni a",
+        "vangliatna"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Topa ngakta un, Jesuh tung ki-ap in;",
+        "Topa ngakta un, mawhna a sian",
+        "dongin;",
+        "Topa ngakta un, van huih dam nun dongin;",
+        "Inndei tungah ngakta un."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Topa",
+        "ngakta un, a sangzaw kahna’ngin;",
+        "Topa ngakta un, deihna lianpi nei in;",
+        "Topa ngakta un, van",
+        "pan mei ngah nangin;",
+        "Inndei tungah ngakta un."
+      ]
+    }
+  ]
+}

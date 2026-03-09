@@ -1,0 +1,51 @@
+{
+  "title": "Lungdamna Ni",
+  "key": "Key: Db",
+  "ZBC": "ZBC: 067",
+  "sections": [
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Lungdamna ni, hong tungta ding,",
+        "Tua la ke’n ka sa thei ta ding;",
+        "Tua la ngaihpi",
+        "ka sa ding hi",
+        "Jesuh kiang ka tawlnga ding hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Ni khat ni’n ka tawlnga dinga,",
+        "Leitung bei-in vankip idnga;",
+        "Lam haksa teng",
+        "ke’n ka khin ding,",
+        "Honpa Pasian’ mai ka mu ding."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Ni khat ni ciang ka ngak kongpi,",
+        "Hong kihong ding kham kong khakpi;",
+        "Tua ni hong tung baih",
+        "thei kha ding,",
+        "Tawlngak tawntungna hita ding."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Ka van inn lam theilo pi-in,",
+        "Ka pai ding hun hong tun ciangin,",
+        "Pasian’ khut sung ka",
+        "kinga hi,",
+        "Amah’n inn hong tunpih ding hi."
+      ]
+    }
+  ]
+}

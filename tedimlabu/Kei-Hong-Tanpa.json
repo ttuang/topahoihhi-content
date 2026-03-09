@@ -1,0 +1,53 @@
+{
+  "title": "KEI HONG TANPA",
+  "key": "Key: Ab",
+  "ZBC": "ZBC: 007",
+  "sections": [
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Topa phat (na sak ding la) na sak ding la pha (ding la pha),",
+        "Asipha (tawh hong sawp",
+        "hi)",
+        "tawh hong sawp hi (tawh hong sawp hi)",
+        "Singlamteh tung sihna thuak a,",
+        "Ka mawh hong phel",
+        "sakzo hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Vantung inn nuampi luah nading,",
+        "A lamdang thupha gen hi;",
+        "Hong hehpih hong it luat",
+        "manin,",
+        "Ka mawh hong phel sak zo hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Hong gum Topa A min thang hi,",
+        "Nisim la sa in phat ning;",
+        "Sih ciang mawh tanna meikuang",
+        "sung,",
+        "Hong tung sak nuamlo ding hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Hong gum Pa le A hong itna,",
+        "La-in ka sasa ding hi;",
+        "Sihna pan hong suak ta sak a,",
+        "Amah",
+        "tawh ka om ding hi."
+      ]
+    }
+  ]
+}

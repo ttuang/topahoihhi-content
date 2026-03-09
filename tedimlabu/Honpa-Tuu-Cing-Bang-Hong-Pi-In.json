@@ -1,0 +1,63 @@
+{
+  "title": "HONPA TUU CING BANG HONG PI IN",
+  "key": "Key: Eb",
+  "ZBC": "ZBC: 395",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Honpa tuu cing bang hong pi in",
+        "Nong huai na ko ki sam pha",
+        "An tam gam nuamah hong vak",
+        "in",
+        "Hong bawl kholhsak in omna"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Thupha Jesuh, Thupha Jesuh",
+        "Nong lei zo ko te",
+        "nang a,",
+        "Thupha Jesuh, Thupha Jesuh",
+        "Nong lei zo ko te nang a."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Hong pawl in, Nang",
+        "neihsa kote",
+        "Ko paina lampi cing in",
+        "Hong kem, hong hu in Na tuu te",
+        "Lam khialh ciang hong zong",
+        "kik in"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Mi zawng, mi mawh ka hih uh hang",
+        "Nong ciam zo hong sang dingin",
+        "Mawhna",
+        "phel nang sian nang dal nang",
+        "Hehpihna na nei cing in"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Ka neu lai un nangma",
+        "pahtak",
+        "Na awi bang hong tasak in",
+        "Hong hon Topa aw, dimtak",
+        "Nangma itna hong guan in"
+      ]
+    }
+  ]
+}

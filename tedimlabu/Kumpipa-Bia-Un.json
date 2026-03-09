@@ -1,0 +1,40 @@
+{
+  "title": "003A. KUMPIPA BIA UN",
+  "key": "Key: A",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Nong kep nong huaina kigen zo lo-a,",
+        "Huih bang hong nung a, Khuavak bang tang ta,",
+        "Mualtung",
+        "pan hong luang in, zang lei teng zel hi,",
+        "Daitui bang hong kia-in, guah bang hong zu hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Leivui tawh kibawl thanem mite in,",
+        "Nang kong muang uh hi, Nong huh den man in;",
+        "Nong",
+        "hehpihna nuam in a tawntung kip hi,",
+        "Hong bawl, hong keem, hong tan, Lawmpha bel Na hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Kote Pa Pasian nong itna lian a,",
+        "Van-mite’n Nang mah hong phatna la sa;",
+        "Leitung mite",
+        "in thanem mite hi ung,",
+        "Hih hang lungsim tak tawh Nang kong phat uh hi."
+      ]
+    }
+  ]
+}

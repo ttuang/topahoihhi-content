@@ -1,0 +1,32 @@
+{
+  "title": "Hong Liah In",
+  "key": "Key: Ab",
+  "ZBC": "ZBC: 075",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Mawhna kuam sung tu’n lohna ding, Hong liah in!",
+        "Topa aw ka lungmuanna ding, Hong liah",
+        "in.",
+        "Leitung minthannate inah, Ka mawhna’ng in hong zolzol a;",
+        "A kip tawntung Sungpi pha aw,",
+        "Hong liah in."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Dahna khua a hong mial lai teng, Hong liah in!",
+        "Minthan ni zing khuavak mateng, Hong liah",
+        "in.",
+        "Jordan gunpi gei ka nai ciang,",
+        "Na ang muanhuai sung kong tun ciang;",
+        "A kip tawntung",
+        "Suangpi pha aw, Hong liah in."
+      ]
+    }
+  ]
+}

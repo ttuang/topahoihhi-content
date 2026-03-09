@@ -1,0 +1,56 @@
+{
+  "title": "Tuni Hikha Leh Maw?",
+  "key": "Key: D",
+  "ZBC": "ZBC: 171",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Jesuh leitungah hong kumkik ding, Tuni hikha leh maw?",
+        "Itna tawh hong uk ding hong pai ding,",
+        "Tuni hikha leh maw?",
+        "Kikhen a om leitung teng a, A tatsa a sianthosaksa,",
+        "Hong la ding Ama lawm",
+        "teelsa, Tuni hikha leh maw?"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Nuam si’ng! nuam si’ng! Hong lungdamsak ding",
+        "hi;",
+        "Nuam si’ng! nuam si’ng! Amah Kumpi ding hi;",
+        "Nuam si’ng! nuam si’ng!",
+        "Lampi puah mengmeng ni;",
+        "Nuam si’ng! nuam si’ng! Jesuh hong pai ding",
+        "hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Dawimangpa’ ukna beita ding hi, Tuni hita leh maw?",
+        "Dahna khuisatna beita",
+        "ding hi, Tuni hita leh maw?",
+        "A si mite Khris sung tho ding, Vankim lai-ah Amah dawn ding,",
+        "Cik ciang",
+        "hihte eite’n mu ding, Tuni hikha leh maw?"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Lungkip thumanin hong mutam maw, Tuni-in",
+        "hong pai leh?",
+        "Laulo kipakin hong mutam maw, Tuni-in hong pai leh?",
+        "Hong pai ding lim tam semsem ta,",
+        "Zing khuavak ding mual kiseem ta,",
+        "Vil giugiau un ahun naita, Tuni hong hi kha leh?"
+      ]
+    }
+  ]
+}

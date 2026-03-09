@@ -1,0 +1,40 @@
+{
+  "title": "Vantung Mite’ La",
+  "key": "Key: Ab",
+  "ZBC": "ZBC: 076",
+  "sections": [
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "A sangbel ah minthang hen aw,",
+        "Lei-ah mite tung nopna om hen,",
+        "Khangsawnte’n tuu",
+        "bang cing hen aw,",
+        "Lei in pahtawi kikkik hen."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Tuucing mite’n tua vangtang mu,",
+        "Vantung mite’ thu puak za uh hi;",
+        "Ganbuk sungah",
+        "biakna pia uh,",
+        "Huih lak khempeuh thawnin la kisa."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Khazih Honpa, Pa’ sathau nilh,",
+        "Leitbat lauhuai loh ding hong paizo;",
+        "Dahna thuakte",
+        "nialna thuakte,",
+        "I mawhna puakhia Pasian Tuuno."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "title": "Mitam Kisam Tawntung",
+  "key": "Key: G",
+  "ZBC": "ZBC: 270",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Topa Pasian, Na na sem ding",
+        "Mi tam kisam tawntung",
+        "Tuate in sem kimzo lo ding;",
+        "Huhna",
+        "puak kei le ung."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Topa Nangmah kong it manun,",
+        "Nasep nading inah,",
+        "Kong piak uh",
+        "zang in Nangmah thu’n;",
+        "Jesuh min ding inah"
+      ]
+    }
+  ]
+}

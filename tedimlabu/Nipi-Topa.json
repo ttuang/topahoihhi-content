@@ -1,0 +1,40 @@
+{
+  "title": "Nipi Topa",
+  "key": "Key: Bb",
+  "ZBC": "ZBC: 200",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Nong piak Nipi ni ka it uh,",
+        "Tua sang ni thupi zaw omlo;",
+        "Nasep nusia-in hong bia",
+        "ung,",
+        "Nangmah phat nopna lungsim tawh."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Lungkham, sinkham om nawnlo-in,",
+        "Mawhna gimna om nawnlo-in;",
+        "Thuumna, tauna om nawn",
+        "lo-in,",
+        "Na min phat ding thadah lo-in."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "I lam-et ni hong tung zota,",
+        "Khuavakpi in ei hong tanzo;",
+        "Gimna lampi nusia ta",
+        "ding,",
+        "Pasian sungah tawldam ngah ding."
+      ]
+    }
+  ]
+}

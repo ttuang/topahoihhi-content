@@ -1,0 +1,54 @@
+{
+  "title": "A Kigelh Hiam Ka Min?",
+  "key": "Key: Ab",
+  "ZBC": "ZBC: 330",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Topa hauhna ngaihsun ke’ng, kham le ngun lunggulh ke’ng;",
+        "Vantung gam cian masa",
+        "ning, Tuu huang sung lut nuam ing;",
+        "Vantung gam laipi sungah, Na ciamtehna sungah;",
+        "A kigelh hiam,",
+        "keima min? Jesuh aw hong gen in."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Gam ciamtehna sungah, nuntakna lai",
+        "sungah,",
+        "Vantung ka tun theih na’ngin, A kigelh hiam ka min",
+        "(v3 Kigelh mah hi, ka",
+        "min)"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Gungei-a sehnel bangin, ka mawhna tam hangin,",
+        "Topa aw, Nong tatna si, kei ading",
+        "kicing hi;",
+        "Na thuciamtehna laipi, mual theilo ding taang hi;",
+        "“Na mawhsi bang san hangin,",
+        "paaksak ning vuk bangin”"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "A siangtho khuapi sungah, Innpite taang",
+        "mahmah;",
+        "Vangliatna ngah a mite, a puansilh uh a tee;",
+        "Tua a phate siasak ding, bangmah tum theilo",
+        "ding;",
+        "Vantung mite’ cinna ah, ka om ding hi, keimah."
+      ]
+    }
+  ]
+}

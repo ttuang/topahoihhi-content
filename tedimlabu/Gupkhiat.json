@@ -1,0 +1,51 @@
+{
+  "title": "Gupkhiat",
+  "key": "Key: Eb",
+  "ZBC": "ZBC: 113",
+  "sections": [
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Gupkhiat, gupkhiat, gupkhiat, gupkhiat,",
+        "Tuuno’ si tawh gupkhiat ka",
+        "hi;",
+        "Gupkhiat, gupkhiat, gupkhiat, gupkhiat",
+        "A tawntung, A ma ta ka hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Gupkhiat ka hi, Jesuh’n hong gum,",
+        "Ka lawpna genzo kam om kei;",
+        "Ama ompihna khuavak",
+        "pha,",
+        "Kei sung hong tang den ding ka thei."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Thupha gumpa ka ngaihsun a,",
+        "Ngaihsunsun ing sun niloh in;",
+        "Om mawk theilo-in la ka",
+        "sa,",
+        "Hong itna sa ing, la pi in."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "A bawlsa na khempeuhte in,",
+        "Kumpite’ Kumpipa phat in;",
+        "Mi tul tampi’n phatin",
+        "awng hi,",
+        "Amah phatna lasa uh hi."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "title": "I Thei Nading Hi",
+  "key": "Key: F",
+  "ZBC": "ZBC: 029",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Buaina haksatna, i tuah ciangin ah,",
+        "Bang hang hizahta ke’n thuakse a;",
+        "Ka kiim ka",
+        "paam a, misiate in lah,",
+        "Bangmah thuakse lo, lamdang ka sa."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Nung ciang a",
+        "vekpi’n i thei nading hi,",
+        "Nung ciang a hang i telna ding hi;",
+        "Na lung nuamsak in, nitang sung",
+        "om in,",
+        "Nung ciang a vekpi’n i tel ding hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "It le ngaihte tawh sihna’n",
+        "hong khen ciang,",
+        "I inn sung hawmin i lung zuang a;",
+        "A gilo mite, a dau a pai ciang,",
+        "Bang hang",
+        "tua ci hiam? lamdang i sa."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Sih dong thuman in, Topa in hong ci,",
+        "Tawl khat sung ngak",
+        "in, thuak lai leteh;",
+        "Na gim na tawlna, gentham lo ding hi,",
+        "Et lawm kongpi sung na luttak",
+        "teh."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Min thannapi tawh vantung inn panin,",
+        "Jesuh hong kumsuk i mu ding hi,",
+        "A tang",
+        "inpi sung i omkhop ciangin,",
+        "Telloh khempeuh i telta ding hi."
+      ]
+    }
+  ]
+}

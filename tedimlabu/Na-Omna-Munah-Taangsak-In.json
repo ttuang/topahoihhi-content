@@ -1,0 +1,53 @@
+{
+  "title": "NA OMNA MUNAH TAANGSAK IN",
+  "key": "Key: Eb",
+  "ZBC": "ZBC: 391",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Na sepna lian bel sem dingin lawm aw zekai ke’n,",
+        "Khuavak na tangsak dingin khawl",
+        "ke’n;",
+        "Na hih ding ngeina om bangin thupha omsak in,",
+        "Na omna munah tangsak",
+        "in."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Na omna munah tangsak in, Na omna munah tangsak in.",
+        "A kisia ding a om mi",
+        "khat peuhmah gupna ding,",
+        "Na omna munah tangsak in."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Na kiimah huh theih ding lunggim",
+        "mi tampi om hi,",
+        "Nangma ang sung ding bek khual kei in;",
+        "Na lasak bekin zong a dahte hehnem thei",
+        "hi,",
+        "Na omna munah tangsak in."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Lai Siangtho simin, Topa in hong makaih ding",
+        "hi,",
+        "Na mawhna mai khaksak kei in;",
+        "Topa na theihna na mai suah tawh kitheisak in,",
+        "Na omna",
+        "munah tangsak in."
+      ]
+    }
+  ]
+}

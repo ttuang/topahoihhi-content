@@ -1,0 +1,62 @@
+{
+  "title": "NUNG CIANGIN I ZO DING HI",
+  "key": "Key: G",
+  "ZBC": "ZBC: 434",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Topa Jesuh’n hong sam hi,",
+        "I mai-ah koih khin zo hi,",
+        "Thaman la ding pai un ci,",
+        "Vantung pan;",
+        "Itna kamkhum tawh hong sam,",
+        "Mawhna khuamial sung om mi,",
+        "Dam takin Topa’n",
+        "hong sam, Hong nai hi."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Nung ciang a kiang kimu ding, Nung ciang a kiang kimu",
+        "ding,",
+        "Nung cianga Topa Jesuh tawh mang ding hi.",
+        "Nung ciang a kiang kimu ding, Nung ciang a kiang",
+        "kimu ding,",
+        "Nung cianga Topa Jesuh tawh mang ding hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Lam hong hilh bang zui ding",
+        "hi,",
+        "I tun nading inn nuam ah,",
+        "Hong zui un, ci’n hong sam hi,",
+        "Vantung pan Tua ciang",
+        "kikhen nawn lo ding,",
+        "Lawp a i lam-etna bang,",
+        "Upna bangin khial lo-in, Hong nai",
+        "hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Ze-et bawlsiat i thuak zong,",
+        "I inn ding Vantung om hi,",
+        "Jesuh’n hong it",
+        "veve hi, Vantung pan;",
+        "Topa’ muanhuaina lian hi,",
+        "A kamciam peel ngei lo hi,",
+        "A tawntung i",
+        "phat ding hi, Hong nai hi."
+      ]
+    }
+  ]
+}

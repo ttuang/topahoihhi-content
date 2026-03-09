@@ -1,0 +1,73 @@
+{
+  "title": "A NUNG CIANGIN KIMUKIK DING",
+  "key": "Key: A",
+  "ZBC": "ZBC: 448",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "I kimuh na’ng gun galkhat ah,",
+        "Nung ciangin, nung ciangin;",
+        "Khuamial hun om ngei",
+        "loh-na ah,",
+        "Nung ciangin, nung ciangin;",
+        "Khuazin gimna bei khin a,",
+        "Minthanna tawh galzo",
+        "in;",
+        "Ni bangin i tang ding hi,",
+        "Nung ciangin, nung ciangin."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Minthanna guasem i tum",
+        "ding,",
+        "Nung ciangin, nung ciangin;",
+        "Ei hong gupna la i sa ding,",
+        "Nung ciangin, nung",
+        "ciangin;",
+        "A kisia ngeilo vantung,",
+        "Lungdam nopsak den-na mun;",
+        "Gun gal thawm in la sa",
+        "ding,",
+        "Nung ciangin, nung ciangin."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Jesuh mu in kibang ta ding,",
+        "Nung cingin, nung",
+        "ciangin;",
+        "Kisia thei lo lukhu ngah ding,",
+        "Nung ciangin, nung ciangin;",
+        "A kisia ngei lo",
+        "vantung,",
+        "Vantung mi nasemte in;",
+        "Ei’ na hong sep sak ding hi,",
+        "Nung ciangin, nung",
+        "cingin."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Khitui luanna om nawn lo ding,",
+        "Nung ciangin, nung ciangin;",
+        "Lungdamna",
+        "nuam pen hi ta ding,",
+        "Nung ciangin, nung ciangin;",
+        "A paisa mi siangthote,",
+        "Nuntakna gam nuam",
+        "tungta;",
+        "Amau tawh awng ding eite,",
+        "Nung ciangin, nung ciangin."
+      ]
+    }
+  ]
+}

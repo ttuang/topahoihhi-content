@@ -1,0 +1,53 @@
+{
+  "title": "Tuute Hong Paipih In",
+  "key": "Key: Ab",
+  "ZBC": "ZBC: 203",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Ngai un, gamlak khuamial sungah,",
+        "Tuucingpa aw kiza thei hi;",
+        "Tuukhumna sung pan a",
+        "pusuak,",
+        "A mang tuute a samkik hi."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Hong paipih’n, hong",
+        "paipih’n!",
+        "Khialhna mun panin hong paipih’n;",
+        "Hong paipih’n, Hong",
+        "paipih’n,",
+        "A mangte Jesuh kiang pai pih’n."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "A mang tuute a zonna",
+        "ding,",
+        "Tuucingpa kua in huh ding hiam?",
+        "Khuadam om lo tuukhumna sung,",
+        "Kua in tuute hong tumsak",
+        "hiam."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Gampa lak le mual tung tengah,",
+        "Amau kahna aw hong ngai in;",
+        "Topa in nangma",
+        "kiangah ci,",
+        "“Keima tuute na zong ding hi.”"
+      ]
+    }
+  ]
+}

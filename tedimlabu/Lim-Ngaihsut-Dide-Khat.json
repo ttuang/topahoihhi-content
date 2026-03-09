@@ -1,0 +1,63 @@
+{
+  "title": "LIM NGAIHSUT DIDE KHAT",
+  "key": "Key: Bb",
+  "ZBC": "ZBC: 430",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Lim ngaihsut dide khat,",
+        "Lungsim hong phawng pahpah;",
+        "Inn lam ka naih zaw hi,",
+        "tuni’n,",
+        "A beisa nite sang."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Inn tawh naizaw’ng, Inn tawh",
+        "naizaw’ng,",
+        "Inn tawh naizaw’ng tuni’n, tuni’n,",
+        "A beisa nite",
+        "sang."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Omna tampi omna,",
+        "Ka Pa inn lam naihzaw’ng;",
+        "Kumpi tokhom",
+        "naihzaw’ng, tuni’n,",
+        "Suang pak tuipi naihzaw’ng."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Van gikte",
+        "kingakna,",
+        "Nuntak gam gi naihzaw’ng;",
+        "Singkhuam ngak ding nai zaw’ng,",
+        "tuni’n,",
+        "Lukhu ngah ding naihzaw’ng."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Lampam ka sik khialh ciang,",
+        "Ka",
+        "kiang ah hong nai in;",
+        "Inn tawh ka kinai zaw tuni’n,",
+        "Ka ngaihsut sang in-ah"
+      ]
+    }
+  ]
+}

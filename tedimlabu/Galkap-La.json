@@ -1,0 +1,59 @@
+{
+  "title": "Galkap La",
+  "key": "Key: Bb",
+  "ZBC": "ZBC: 463",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Tho un, no hotkhiatsa tate, lutang Khazih beel khempeuh;",
+        "Tho un, no minam vangliante, Zion ah",
+        "gal hong paima’n."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "A vanglian la gingsak ta un,",
+        "Tuipi nakpi ging",
+        "bangin;",
+        "Ei hong tatna Khazih si hang,",
+        "Gualzo pente i hi hi, Gualzo pente i hi hi,",
+        "Gualzo",
+        "pente i hi hi,",
+        "Ei hong tatna Jesuh si hang, gualzo pente i hi hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Eima a misiang",
+        "galhangte, hih thu bekah kip uh hi;",
+        "I tunga dial kipei mu un, Jesuh hang gualzote",
+        "hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Si lo-in i lau kei ciat hi, nuntakna Pasian sung om;",
+        "Ama hong kilat zingsang",
+        "ciang,",
+        "Minthanna tui hong luang khia."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "I vekpi’n Amai i ding ding, minthang i",
+        "Topa mu ding;",
+        "Lungdamin Amah phat baih ding, Thaman ciat ding sang ciat ding."
+      ]
+    }
+  ]
+}

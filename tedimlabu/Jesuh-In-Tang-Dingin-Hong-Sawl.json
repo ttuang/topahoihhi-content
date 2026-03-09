@@ -1,0 +1,42 @@
+{
+  "title": "Jesuh in Tang Dingin Hong Sawl",
+  "key": "Key: G",
+  "ZBC": "ZBC: 380",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Jesuh in eite khuaimei vak bangin,",
+        "Zan khuamialna sungah tangin hong sawl hi;",
+        "Hih leitung",
+        "khuamial sungah i tang ding,",
+        "Nang na omna kiim ah, kei, kei’ kiim",
+        "ah."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Jesuh’n hong tangsak Ama adingin,",
+        "I meivak a mial ciang Amah’n hong",
+        "mu hi;",
+        "I meivak tang van pan Amah’n ensuk,",
+        "Nang na omna kiim ah, kei, kei’ kiim",
+        "ah."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Jesuh’n hong tangsak miteng adingin,",
+        "Khuamialna tampi tawh kidim hih",
+        "leitung;",
+        "Mawhna, dahna, natna sung i tang ding,",
+        "Nang na omna kiim ah, kei, kei’ kiim ah."
+      ]
+    }
+  ]
+}

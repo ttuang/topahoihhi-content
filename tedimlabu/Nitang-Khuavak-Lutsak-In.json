@@ -1,0 +1,54 @@
+{
+  "title": "Nitang Khuavak Lutsak In",
+  "key": "Key: Ab",
+  "ZBC": "ZBC: 267",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Na galte in hong zo ding ci’n na lau hiam?",
+        "Pualam khuamial sangin sunglam mialzaw",
+        "hiam?",
+        "Khuavakna kongvangte khempeuh hong inla,",
+        "Nitang khuavak lutsak",
+        "in."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Nitang khuavak lutsak in,",
+        "Nitang khuavak lutsak in;",
+        "Khuavak kongvangte",
+        "khempeuh hong inla,",
+        "Nitang khuavak lutsak in."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Na nasep laitak na upna a kiam",
+        "hiam?",
+        "Nangma thungetnate hong dawng lo a hiam?",
+        "Khuavakna kongvangte khempeuh hong",
+        "inla,",
+        "Nitang khuavak lutsak in."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Nuntak sanna lamzuan in na pai nuam",
+        "hiam?",
+        "Khuamial lohna khuavak sung na om nuam hiam?",
+        "Khuavakna kongvangte khempeuh hong",
+        "inla,",
+        "Nitang khuavak lutsak in."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "title": "JESUH HONG TUN MA TENG",
+  "key": "Key: F",
+  "ZBC": "ZBC: 214",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Gimna sung pan lam-et gam nuam",
+        "cik ciang ka tung ding hiam?",
+        "Cik ciang gal van ka koih ding",
+        "hiam?",
+        "Lai lung ka muang ding hiam?"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Jesuh hong tun ma teng,",
+        "Jesuh hong tun",
+        "ma teng,",
+        "I na sep zawh ciangin",
+        "Inn nuam sung om khawm ding"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Sim leitung lai",
+        "lungdam om lo",
+        "Lum bang sung om lo tawh",
+        "Sim leitung sau nuam a hi lo",
+        "Gam bang daihna",
+        "ahi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Lim bel siangtho ngah ding in ah",
+        "Lam bang na pial ke’n ci leng",
+        "Van",
+        "siang nuam ka tun ma teng",
+        "Nuamna ong pia ding hi"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Lim bel nen ah khawl zo ta",
+        "in",
+        "Lam sawn ka pial kei ding",
+        "A mah bang a ka pham nung ciang",
+        "Leng van siang nuam tung ning"
+      ]
+    }
+  ]
+}

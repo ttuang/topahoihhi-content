@@ -1,0 +1,52 @@
+{
+  "title": "AMAH MANPHA",
+  "key": "Key: A",
+  "ZBC": "ZBC: 019",
+  "sections": [
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "A umte khempeuh ading Amah manpha,",
+        "A sangte khempeuh ading Amah manpha,",
+        "Topa’",
+        "min a kikhop ciang,",
+        "Genkhia ni Ama thupha,",
+        "I thungetna hong dawng ding."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Ama min thanna khuavakpi hong tang suk hi,",
+        "I lam-etna a neu ciang;",
+        "A tate ngah ding itna",
+        "lian tampi om hi,",
+        "Amah tawh i tonkhop ciang"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Hong paipihna peuh zui leng Amah’n hong paakta,",
+        "I lung sung nopna dim hi;",
+        "I kimkot",
+        "tengah tawntung khut in hong huai a,",
+        "I upna tawh i thei hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Kumpi inn sungah lungnop tawntungna munah",
+        "Lungdamna khutbet ma teng;",
+        "Thutak thei tel in",
+        "khangcing ni hehpihna ah,",
+        "Nopna kicing luah khawm leng."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "title": "Nuihna le Kahna Gal Khat-ah",
+  "key": "Key: Bb",
+  "ZBC": "ZBC: 418",
+  "sections": [
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Nong it-na pha, inn-pi ah,",
+        "A om dingin,",
+        "Hong kha in Topa aw."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Palhna le vul-na kheng gal khatah,",
+        "Manlang in-ah ka tung ding hi.",
+        "khuavak le khuamial",
+        "kheng gal khatah,",
+        "Lawp-na le lau-na kheng gal khatah,",
+        "Manlang in-ah ka tung ding hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Khuadam le khualum kheng gal khatah,",
+        "Manlang in-ah ka tung ding hi.",
+        "Suangmual-te le gunte",
+        "gal khatah, Tawntung le tawntung lo gal khatah,",
+        "Manlang in-ah ka tung ding hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Ki-muh-na le ki-khenna gal-ah,",
+        "Manlang in-ah ka tung ding hi.",
+        "Ki-muak-na le ki-khakna",
+        "gal-ah, Dip-kuat-na le ngaih muanna galah,",
+        "Manlang in-ah ka tung ding hi."
+      ]
+    }
+  ]
+}

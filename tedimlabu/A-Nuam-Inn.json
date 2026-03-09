@@ -1,0 +1,53 @@
+{
+  "title": "A NUAM INN",
+  "key": "Key: G",
+  "ZBC": "ZBC: 439",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Vantung gam lam i zuat nadingin,",
+        "Jesuh in lam hong sialsak zo ta;",
+        "I gal khempeuh a",
+        "vekpi’n zo khin,",
+        "Hih lam-ah hong pai un u le nau."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Gam nuamah om ding in,",
+        "om dingin, om dingin,",
+        "Hih lam-ah hong pai un u le nau,",
+        "Gam nuamah om dingin, om dingin, om",
+        "dingin,",
+        "Hih lam-ah hong pai un u le nau."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Tu-inah hehpihna lam zong un,",
+        "Tua hi",
+        "leh khuamialna bei ding hi;",
+        "A umte in vantung gam zuan un,",
+        "Na up leh vantung na tung ding",
+        "hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Jesuh in hong hehpih in hong sam,",
+        "A um lo mite umsak ding hi;",
+        "Hehpihna",
+        "thupha ngah ding hong sam,",
+        "Pasian gam sung hong lutpih ding hi."
+      ]
+    }
+  ]
+}

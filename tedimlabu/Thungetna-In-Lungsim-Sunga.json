@@ -1,0 +1,53 @@
+{
+  "title": "Thungetna In Lungsim Sunga",
+  "key": "Key: G",
+  "ZBC": "ZBC: 302",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Thungetna in lungsim sunga, lunggulh takna ahi;",
+        "Mei bang hong lumsak awm sunga, deihna lian pen",
+        "ahi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Khasiatna, khitui luanna zong, thungetna mah ahi;",
+        "Pasian’ lam-et tohna bek",
+        "zong, thungetna mah ahi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Mawhnei mi khat lungsim tak tawh, kisikin thuum peuh",
+        "leh;",
+        "Vantung mite’n nuamin kiko, “En aw, thungen taveh”"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Thuzui ta",
+        "ding thungetna in, hinna hu bang ahi;",
+        "Thungetna tawh sih kong panin, vantung khua ah lut",
+        "hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 5",
+      "lines": [
+        "Nangmah hinna thuman lampi, pa kiang tunna dingin;",
+        "Nangma totsa thunget lampi,",
+        "kote zong hong hilh in."
+      ]
+    }
+  ]
+}

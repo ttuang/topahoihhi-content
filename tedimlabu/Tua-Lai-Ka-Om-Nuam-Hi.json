@@ -1,0 +1,64 @@
+{
+  "title": "Tua Lai Ka Om Nuam Hi",
+  "key": "Key: Eb",
+  "ZBC": "ZBC: 425",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "A sap mi gam nuam ah om nuam ing,",
+        "A nopna kam in gen zawh hi lo;",
+        "Ni sangin a tangzaw gam",
+        "nuam ah,",
+        "Jesuh tawh a tawntung om nuam ing."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Hih lamah, Hih lamah,",
+        "Jesuh",
+        "tawh a tawntung om nuam ing;",
+        "Hih lamah, Hih lamah,",
+        "Jesuh tawh a tawntung om nuam",
+        "ing"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Lai Siangtho sung thu ka theih ciangin,",
+        "Tawntung nuntak nopna thu hi",
+        "ding;",
+        "Gimna tawlna dangtak na khempeuh,",
+        "Tua gam i tun ciang om nawn lo ding."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "A",
+        "nuam a hoihna gam nuam sungah,",
+        "Sihna lungkhamna om nawn lo ding;",
+        "Kahna khitui luanna om nawn",
+        "lo,",
+        "Sihna om lo nun nop gam nuam ah."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Tua gam nuam sungah om thei dingin,",
+        "Pasian",
+        "in mawhnei mi hong hehpih;",
+        "A thuciam bang a um khempeuhte,",
+        "A tawntung tua gam ah om ding hi."
+      ]
+    }
+  ]
+}

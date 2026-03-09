@@ -1,0 +1,63 @@
+{
+  "title": "Vuuk Sang Ngozaw",
+  "key": "Key: Ab",
+  "ZBC": "ZBC: 097",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Topa Jesuh aw, kei ka siangtho nuam hi,",
+        "Keima lungsim sung nong om tawntung ding hi;",
+        "Gal",
+        "khempeuh nawtkhia in hoih lote paai in,",
+        "Nong sawp leh ka ngozaw ding hi, vuuk",
+        "sangin."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Vuuk sang ka ngo zawk thamna dingin,",
+        "Topa aw Nangma sipha tawh hong sawp",
+        "in."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Topa Jesuh aw, keimah nong sawp siang hi,",
+        "Na sipha tawh Nong sawp ciang mawhna",
+        "bei hi;",
+        "Mawhna khempeuh paisan siangtho ngah dingin,",
+        "Nong sawp leh ka ngozaw ding hi, vuuk",
+        "sangin."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Topa Jesuh aw, Na kiang kong thum nuam hi,",
+        "Na khut nuai panin ka na ngakngak",
+        "ding hi;",
+        "Upna tawh na si buakna ka mu zo hi,",
+        "Nong sawp leh ka ngozaw ding hi, vuuk",
+        "sangin."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Ngak a thuaknate, Topa in na mu hi,",
+        "Lungsim thak ka sung ah nong guansak zo",
+        "hi;",
+        "Topa kiang hong pai khempeuh na nial kei hi,",
+        "Nong sawp leh ka ngozaw ding hi, vuuk sangin."
+      ]
+    }
+  ]
+}

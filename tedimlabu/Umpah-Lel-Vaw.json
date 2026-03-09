@@ -1,0 +1,54 @@
+{
+  "title": "Umpah Lel Vaw!",
+  "key": "Key: Db",
+  "ZBC": "ZBC: 481",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Lau ke’n, tuuhonte, sihna pan hinna ah,",
+        "Nangma adingin, Topa paizo tah;",
+        "Vangliatna",
+        "khempeuh, leitung le vantungah,",
+        "Amah kipiazo nangma adingin ah."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Um pah lel vaw!",
+        "Um pah lel vaw!",
+        "Na khempeuh piang thei hi, um pah lel vaw!",
+        "Um pah lel vaw! Um pah lel vaw!",
+        "Na",
+        "khempeuh piang thei hi, um pah lel vaw!"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Lau ke’n, tuuhonte, Topa ma pai",
+        "zota,",
+        "Nang hong cing Topa’n, na lam nawk zota;",
+        "Tui kha om khempeuh, Aman khumsak ding",
+        "hi,",
+        "Tuikha khempeuhte Aman dawn khinzo hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Lau ke’n, tuuhonte, bangbang piang",
+        "tase leh,",
+        "Kong kikhak khempeuh, Topa’n hong zo veh!",
+        "Hong don khial ngei lo, hong kinusia",
+        "ngei lo,",
+        "Khuamial, khuavak ah hong ompih khial ngei lo."
+      ]
+    }
+  ]
+}

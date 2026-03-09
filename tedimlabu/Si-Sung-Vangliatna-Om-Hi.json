@@ -1,0 +1,65 @@
+{
+  "title": "Si Sung Vangliatna Om Hi",
+  "key": "Key: Bb",
+  "ZBC": "ZBC: 139",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Na mawh vangik pan na suak ta ding hiam?",
+        "Si sung, si sung vang liatna om hi; Siat na tungah",
+        "nangna gualzo ding hiam?",
+        "Si sung vanglian lam dang om hi."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Si sung vanglian (A",
+        "vanglian)",
+        "Vanglian lamdang om,",
+        "Tuunosi (Tuuno si) san sungah ( San sungah)",
+        "Si sung vanglian",
+        "(vanglian) vanglian lam dangom,",
+        "Amanpha Tuuno si sungah."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Kiphat sakna pan na suakta",
+        "ding hiam?",
+        "Si sung, si sung vangliatna om hi;",
+        "Siangtho ngah ding Kalvary tui zuan in,",
+        "Si sung",
+        "vanglian lamdang om hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Vuk sangin na pak zaw mahmah ding hiam?",
+        "Si sung, si sung",
+        "vangliat na om hi;",
+        "Nuntak na tui sung mawh na ninsiang ta,",
+        "Si sung vanglian lamdang om",
+        "hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Na Kumpi Jesuh’na na sem ding hiam?",
+        "Si sung, si sung vangliatna om",
+        "hi;",
+        "Nisim Amah phat na na sa ding hiam?",
+        "Si sung vanglian lamdang om hi."
+      ]
+    }
+  ]
+}

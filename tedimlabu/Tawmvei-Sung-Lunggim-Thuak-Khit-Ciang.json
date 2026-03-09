@@ -1,0 +1,40 @@
+{
+  "title": "Tawmvei Sung Lunggim Thuak Khit Ciang",
+  "key": "Key: A",
+  "ZBC": "ZBC: 065",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Cho",
+        "Hunte bei hanhan a, I tawlnga baihta ding;",
+        "Lunggimna teng bei dinga, Inn i tung ding"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Tawmvei sung kahna khitzawh ciang, Inn i tung ding",
+        "Tawmvei sung i ngak khit zawh ciang, Inn i",
+        "tung ding",
+        "Mawhna tungah i gualzawh ciang, buhphal pawlkhat i kaikhawm ding;",
+        "Tawmvei sung lunggim",
+        "thuak khit ciang, Inn i tung ding"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Tawmvei sung i kikhen khit ciang, Inn i tung ding",
+        "Tawmvei sung i kiho khit ciang, Inn i tung",
+        "ding",
+        "Tawmvei sung lunggim thuak khit ciang, Kanaan lam i zuanta ding;",
+        "Tawmvei sung lunggim thuak",
+        "khit ciang, Inn i tung ding"
+      ]
+    }
+  ]
+}

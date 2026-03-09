@@ -1,0 +1,53 @@
+{
+  "title": "Khatvei-in Cingkhin HI",
+  "key": "Key: Eb",
+  "ZBC": "ZBC: 263",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Thukham sung pan suahtak nuam mahmah hi,",
+        "Jesuh in a si tawh a hong sawp hi;",
+        "Thukham sung",
+        "pan ka suahtakna ding,",
+        "Hong itna tawh hong gumzo hi."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Cing ding hi, mawh",
+        "neite’n umta un,",
+        "Cing ding hi, ute naute’n um un;",
+        "Singlamteh beel leng mawhna kia",
+        "ding,",
+        "Khatvei tatna tawh cingkhin hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Mawhsakna pan i suakta zo a,",
+        "Jesuh’n",
+        "gupna kicing hong pia zota;",
+        "Aw khum in hong sam “Hong pai un” ci,",
+        "Khatvei tatna tawh",
+        "kicing hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Pasian’ Tapa cihna i ngah zo ta,",
+        "A pukte itna tawh hong phong zo",
+        "ding;",
+        "Hong sap ciang sihna pan hingkik ding,",
+        "Khatvei tatna tawh kicing hi."
+      ]
+    }
+  ]
+}

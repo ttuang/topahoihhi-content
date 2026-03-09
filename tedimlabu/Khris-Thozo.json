@@ -1,0 +1,54 @@
+{
+  "title": "Khris Thozo",
+  "key": "Key: C",
+  "ZBC": "ZBC: 145",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Han thuk sung ah lum hi",
+        "Kei Honpa Zeisuh",
+        "A ni tunding ngak hi",
+        "Kei To",
+        "Zeisuh’n"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Han sung pan hong thoto zo (Tho to zo)",
+        "Vanglian pi tawh gal te zo",
+        "gawp zo",
+        "Khuamial gampan galzo in hong tho to hi",
+        "A misiang te manpih ding hing kik zo hi",
+        "Hing",
+        "kikzo, Hing kikzo",
+        "Halleluijah hing kik zo"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Cin’ hangin mawkna hi",
+        "Hong Hon",
+        "Zeisuh han",
+        "Ciamteh hang mawkna hi",
+        "Kei To Zeisuh’n"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Sihna’n len zolo",
+        "hi",
+        "Hong Honpa Zeisuh",
+        "Dalna te sugawp hi",
+        "Kei To Zeisu’n"
+      ]
+    }
+  ]
+}

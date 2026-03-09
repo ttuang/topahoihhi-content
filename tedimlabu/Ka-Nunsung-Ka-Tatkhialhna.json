@@ -1,0 +1,64 @@
+{
+  "title": "Ka Nunsung Ka Tatkhialhna",
+  "key": "Key: G",
+  "ZBC": "ZBC: 256",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Ka nun sung ka tatkhialhna tam zo a,",
+        "Ka lungsim mawhna tamzaw semta;",
+        "Ka kahna in khua mulo",
+        "pi,",
+        "Kong honsa ka va zuan ding hi."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Ka mawhna ka ginat lohna,",
+        "Tampi ka phawk",
+        "semsemta;",
+        "Ahih hang Jesuh’n hong sap ciang inn sungah,",
+        "Ka tum ding kongpi",
+        "honsa."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Ama itna lakah kei a neu pen,",
+        "Thungetna ah zong a zawngkhal pen;",
+        "Hong sap",
+        "bang ke’n ka zuan mawk hi,",
+        "Amah in hong nial lo ding hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Ka khialhnate",
+        "hehpihna’n siin ding hi,",
+        "Ka mawhna Amah’n silkhia ding hi;",
+        "Meidawi a kiplo keima",
+        "khe,",
+        "A tang kongpi lam zuan gige."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Ka nunsung ka tatkhialhna tamzo a,",
+        "Mawhna hang",
+        "ka lungsim gim lua ta;",
+        "Ka kahna in khua mu lopi,",
+        "Hong Honpa’n hong tumsak ding hi."
+      ]
+    }
+  ]
+}

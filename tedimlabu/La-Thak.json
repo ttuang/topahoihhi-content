@@ -1,0 +1,64 @@
+{
+  "title": "LA THAK",
+  "key": "Key: Bb",
+  "ZBC": "ZBC: 450",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Jesuh mai-ah mi tampi kikhawm uh a,",
+        "A min phatna la sa in, gawsem tum uh",
+        "hi."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Ei hong it a,",
+        "I mawhna hong phelsak Topa,",
+        "Ama min thang tawntung ta",
+        "hen!",
+        "Amen, Amen."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Mawhna nei ngeite tua mihon maitang ah,",
+        "Puanpak silh in, sa uh",
+        "hi,",
+        "Ama minphatna la."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "A galte, siampi le kumpi suaksak hi,",
+        "A sipha tawh lei in,",
+        "la thak a sa sak hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Hong tatkhiatna om kha zenzen lo hi leh,",
+        "Mawh nei mite bangzah",
+        "in, i cimawh ding hiam."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 5",
+      "lines": [
+        "Amah phatna aw nakpi in gingsak ni,",
+        "Midangte zong um a la",
+        "thak a sak na’ng hi."
+      ]
+    }
+  ]
+}

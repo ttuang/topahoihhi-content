@@ -1,0 +1,52 @@
+{
+  "title": "Hong Paipihna Peuh-ah",
+  "key": "Key: G",
+  "ZBC": "ZBC: 356",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "A migi tuucingpa en un,",
+        "Tuikhuk kiang a din lai-in;",
+        "Tui le an a duhte pai un,",
+        "Gam",
+        "hoihna vantung khua-ah."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Hong paipihna peuh zui un,",
+        "Hong paipihna peuh zui",
+        "un;",
+        "Hallelujah, Hallelujah,",
+        "Hong paipihna peuh zui un."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Nuntakna lam a zuite",
+        "bek,",
+        "Pasin in lungdampih ding;",
+        "Topa Jesuh’ sihna hangin,",
+        "Nuntak thak hong pia ding",
+        "hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Tuukhumna buk sungah omte,",
+        "Ama tuu taktakte hi;",
+        "Pa Pasian tapa a",
+        "umte,",
+        "I nungta tawntung ding hi."
+      ]
+    }
+  ]
+}

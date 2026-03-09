@@ -1,0 +1,63 @@
+{
+  "title": "254(B). En In, Hingta In",
+  "key": "Key: Ab",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Kalvary ah Honpa en dih vaw,",
+        "Nang le kei ading thuak hilo maw;",
+        "Itna tawh hong sap lai ngai",
+        "dih vaw,",
+        "En in, hingta in."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "En in, hingta in, En in, hingta in.",
+        "Nang ading",
+        "sing tung sihna en in,",
+        "En in, hingta in."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Na kha vangik hong honkhia zo",
+        "hi,",
+        "Nuntak tawntungna na ngah ding hi;",
+        "Mawhna tatman Jesuh’n piazo hi,",
+        "En in, hing ta",
+        "in."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Han pan a tho Jesuh na en ding,",
+        "Omna omlai na zuan mengmeng ding;",
+        "Amai taang",
+        "in hong lungnuamsak ding,",
+        "En in, hingta in."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Hong thumsak ding Jesuh vanah",
+        "om,",
+        "Mawhneite’ gimna thei-in hong dom;",
+        "Na paina peuh hong kha dingin om,",
+        "En in, hingta",
+        "in."
+      ]
+    }
+  ]
+}

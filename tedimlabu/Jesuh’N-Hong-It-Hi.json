@@ -1,0 +1,52 @@
+{
+  "title": "Jesuh’n Hong It Hi",
+  "key": "Key: Eb",
+  "ZBC": "ZBC: 381",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Jesuh’n hong it ka thei hi",
+        "Lai Siangtho in hong gen hi",
+        "A neu a hat lo mite",
+        "A",
+        "mah hat hong huh na ve"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Jesuh’n hong it hi",
+        "Jesuh’n hong it",
+        "hi",
+        "Jesuh’n hong it hi",
+        "Lai Siang-tho in gen hi"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Jesuh’n hong it man si",
+        "a",
+        "Van tung kong hong hon sak ta",
+        "Ka mawh na hong sawp sak ding",
+        "Van tung ah hong lut sak",
+        "ding"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Jesuh’n hong it manin ah,",
+        "Hong nai ka omna peuh a,",
+        "Amah it leng ka",
+        "sih ciang,",
+        "Hong lato ding, Ama kiang"
+      ]
+    }
+  ]
+}

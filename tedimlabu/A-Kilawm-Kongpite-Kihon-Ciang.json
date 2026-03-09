@@ -1,0 +1,65 @@
+{
+  "title": "A KILAWM KONGPITE KIHON CIANG",
+  "key": "Key: G",
+  "ZBC": "ZBC: 449",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Zan khuamialna ah i vakthap nawn kei ding,",
+        "A kilawm kong pi kihon ciang;",
+        "Pasian khuavak a",
+        "hihna khua i pai ding,",
+        "A kilawm kongpi kihon ciang."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "A kilawm kongpi kihon",
+        "ciang,",
+        "A kilawm kongpi kihon ciang;",
+        "Tua mun-ah Topa mu in i lung nuam ding,",
+        "A kilawm kongpi",
+        "kihon ciang."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Natna, satna dahnate om nawn lo ding,",
+        "A kilawm kongpi kihon",
+        "ciang;",
+        "A pai sa I lawm itte tawh kikhawl ding,",
+        "A kilawm kongpi kihon ciang."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Gen",
+        "khiat zawh loh lawpna kei aa hi ta ding,",
+        "A kilawm kongpi kihon ciang;",
+        "Amah en in a sianthona ka mu",
+        "ding,",
+        "A kilawm kongpi kihon ciang."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Leitung vangik te’n hong nawngkai sak lo",
+        "ding,",
+        "A kilawm kongpi kihon ciang;",
+        "Lungdam tawntungna ah Khris tawh i teng ding,",
+        "A kilawm",
+        "kongpi kihon ciang."
+      ]
+    }
+  ]
+}

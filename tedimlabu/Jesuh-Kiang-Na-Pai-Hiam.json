@@ -1,0 +1,65 @@
+{
+  "title": "JESUH KIANG NA PAI HIAM?",
+  "key": "Key: Ab",
+  "ZBC": "ZBC: 251",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "A siangtho ngah ding Jesuh kiang na pai diam?",
+        "Tuuno si tawh na ki sawp zo hiam?",
+        "A thupha",
+        "kicing ding in na um nai hiam?",
+        "Tuuno si tawh na ki sawp zo hiam?"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Tuuno a (Tuuno",
+        "a) sipha tawh (sipha tawh)",
+        "Nangmah in na kisawp siang zo maw? (siang zo maw?)",
+        "Na puansilh vuk bang",
+        "in-ah na ngah zo hiam?",
+        "Tuuno si tawh na ki sawp zo hiam?."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Nisim in Topa kiangah lam",
+        "na zui hiam?",
+        "Tuuno si tawh na kisawp zo hiam?",
+        "Thahna a thuak Topa kiang na beel ta",
+        "hiam?",
+        "Tuuno si tawh na ki sawp zo hiam?"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Mopipa hong pai ciang na puan siang",
+        "dingin,",
+        "Tuuno si tawh na kisawp zo hiam?",
+        "A bawl innpi nuam ah lut theih na dingin,",
+        "Tuuno si",
+        "tawh na kisawp zo hiam?"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Mawhna khialhna a baang na puansilh pai in,",
+        "Tuuno si tawh na",
+        "kisawpzo hiam?",
+        "A siang lo na lungsung ciktui luang sak in,",
+        "Tuuno si tawh na ki sawp zo hiam?"
+      ]
+    }
+  ]
+}

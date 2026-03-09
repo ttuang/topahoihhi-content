@@ -1,0 +1,64 @@
+{
+  "title": "Keimah Hong Zong Hi",
+  "key": "Key: G",
+  "ZBC": "ZBC: 112",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Hong gum Topa Betlen khua hong suak a,",
+        "Bawng an neekna kuang sung kisial zota;",
+        "Aw a",
+        "lamdang nuamna minpha mahmah,",
+        "Keimah a hong zong hi."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Keimah a hong zong",
+        "hi,",
+        "Keimah a hong zong hi;",
+        "Maw lamdang nuamna a minpha mahmah",
+        "Keimah a hong zong",
+        "hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Topa Jesuh in singlamteh tungah,",
+        "Kei’ mawhna tang dingin si zota;",
+        "Maw",
+        "a lamdang keima lung a damta,",
+        "Kei tang ding hong si hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Topa Jesuh ni dang bangmahin",
+        "ah,",
+        "Huang sung pan lamkhial tuute a zongta;",
+        "Sau veipi damtakin a hong sam hi,",
+        "Keimah a hong",
+        "sam hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Jesuh vantung pan hong pai kik ding hi,",
+        "Kum tampi kheng zo hih thu ka um",
+        "hi;",
+        "Van pan hong kumsuk ke’n ka mu ding hi,",
+        "Kei a ding hong kum hi."
+      ]
+    }
+  ]
+}

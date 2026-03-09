@@ -1,0 +1,67 @@
+{
+  "title": "NI TAMPI KHENG ZOTA HI",
+  "key": "Key: A",
+  "ZBC": "ZBC: 457",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "A lungmangte hong hehpih hi",
+        "Ni tampi kheng zo ta hi",
+        "Gimna lungkhamna thuakna in",
+        "Ni",
+        "tampi khengzo ta hi",
+        "Khualzinna leh kikal a",
+        "Nuamna lungdamnate tawh",
+        "Thu a pha ka bawl uh",
+        "maw",
+        "Nitampi khengzo ta hi."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Ni tampi kheng zo hi,",
+        "Ni tampi kheng zo",
+        "hi",
+        "Thupha gamtat theih nading",
+        "Ni tampi kheng zo ta hi"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Mawhna in na hun bei sak",
+        "ke’n",
+        "Ni tampi kheng zo ta hi",
+        "Na mai zingsang khuavak bang hen",
+        "Ni tampi kheng zo ta",
+        "hi",
+        "Leitung ah dahna sung ah",
+        "Lungkhamna kahna om a",
+        "Na unaute phong in la",
+        "Ni tampi kheng",
+        "zo ta hi"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Itna tawh a kikhih khempeuh",
+        "Ni tampi kheng zo ta hi",
+        "Eite in i nusia ta",
+        "hi",
+        "Ni tampi kheng zo ta hi",
+        "Khaici pha kituh khempeuh",
+        "A vak pha a lim nuai ah",
+        "Hong po a,",
+        "i lungdamna",
+        "Ni tampi kheng zo ta hi"
+      ]
+    }
+  ]
+}

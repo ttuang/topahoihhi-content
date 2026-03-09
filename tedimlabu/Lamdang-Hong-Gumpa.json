@@ -1,0 +1,84 @@
+{
+  "title": "Lamdang Hong Gumpa",
+  "key": "Key: D",
+  "ZBC": "ZBC: 108",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Jesuh in mawhna hong phelzo,",
+        "Hong gum Topa lamdang hi!",
+        "Hong tatna a man pia",
+        "khinzo;",
+        "Hong gum Topa lamdang hi!"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Jesuh in hong gumpa hi, a lamdang gumpa",
+        "hi!",
+        "Keima Topa Jesuh, a lamdang gumpa hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Pasian tawh hong kilemsak hi;",
+        "Hong gum",
+        "Topa lamdang hi!",
+        "Hong silsiang si ka phat ding hi;",
+        "Hong gum Topa lamdang",
+        "hi!"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Lungsim sung mawhna a phel hi;",
+        "Hong gum Topa lamdang hi!",
+        "I lung sungah om a",
+        "uk hi;",
+        "Hong gum Topa lamdang hi!"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Amah tawh lam ka paikhawm hi;",
+        "Hong gum Topa",
+        "lamdang hi!",
+        "Nisimin hong kemsuak ding hi;",
+        "Hong gum Topa lamdang",
+        "hi!"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 5",
+      "lines": [
+        "Gualzawhna’ng vanliatna hong pia;",
+        "Hong gum Topa lamdang hi!",
+        "Nisim,",
+        "naisim zawhna hong pia;",
+        "Hong gum Topa lamdang hi!"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 6",
+      "lines": [
+        "Lungsim khempeuh Amah pia",
+        "ning;",
+        "Hong gum Topa lamdang hi!",
+        "Leitung in hong tang kha lo ding;",
+        "Hong gum Topa lamdang hi!"
+      ]
+    }
+  ]
+}

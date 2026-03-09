@@ -1,0 +1,43 @@
+{
+  "title": "HONG SUPLAWH ZEN MAW!",
+  "key": "Key: Ab",
+  "ZBC": "ZBC: 072",
+  "sections": [
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "A tul gemgam sing tung ah, khut le khe khet a thuakna,",
+        "Keimah bek hong it ma’n hi",
+        "zen maw! (hi zen maw!)",
+        "Kei tang sihna hong thuak man , Suahtakna ka ngah thei pan,",
+        "Jesuh bek in",
+        "hong suplawh zen maw! (sum zen maw!)"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Lungkhamna’n hong tuum laitak, Jesuh’n ka van hong puaksak,",
+        "Kua dang kei tangin si",
+        "ngam ding maw! (ngam ding maw!).",
+        "Ka nuntakna sung phat den ning, lungdamin lasak den ning,",
+        "Lamdang",
+        "hehpihna’n hong honkhia maw! (honkhia maw!)"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Mawhna teng sawp siang zo a, a kha kasung hong teng ta,",
+        "Nisim ka kha tawh teci pang hi. (hong",
+        "pang hi)",
+        "Khualmi bang ka vakthap hang, ka inn nuam nai semsem tang,",
+        "Minthanna dimin ka mu ding hi.",
+        "(mu ding hi.)"
+      ]
+    }
+  ]
+}

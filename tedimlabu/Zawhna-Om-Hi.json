@@ -1,0 +1,54 @@
+{
+  "title": "ZAWHNA OM HI",
+  "key": "Key: Ab",
+  "ZBC": "ZBC: 103",
+  "sections": [
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Zawhna om hi a tawntung,",
+        "Ka honpa Jesuh sung,",
+        "A si tawh kei mimawh, hong zongin hong",
+        "lei zo,",
+        "Ka theih ma’n hong it zo a,",
+        "Ken zong ka etkik thei ta,",
+        "Gualzawhna ka ngah",
+        "nading,",
+        "A si sung hong phum ta."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "A damsak theih thu ka za,",
+        "Ama vangliatna langsak a,",
+        "Khebaite hoih tak lam paisak",
+        "hi,",
+        "Mittaw khua musak hi,",
+        "Tua ciang ka it Jesuh kiang,",
+        "Kei hong damsak in ka cih",
+        "ciang,",
+        "Amah ka kiangah hong pai a,",
+        "Zawhna a hong pia hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Van a inn nuam thu ka za,",
+        "Topa’n kei a ding bawlzo ta,",
+        "Kongzing khempeuh ah khambek",
+        "kiphah,",
+        "Limlang tuipi gal ah,",
+        "Vantung mite lasakna,",
+        "A hong tatkhiatna thu ka za,",
+        "Khatvei",
+        "ciang ken zong,",
+        "Tualai-ah ka sa ding zawhna la."
+      ]
+    }
+  ]
+}

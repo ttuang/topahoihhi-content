@@ -1,0 +1,72 @@
+{
+  "title": "Muang Un La, Ngai Un",
+  "key": "Key: F",
+  "ZBC": "ZBC: 335",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Thupha khuavak sung ah",
+        "Jesuh tawh pai lai ah",
+        "Eite pai na lam hong taang sak hi",
+        "A deih",
+        "bang zuih ciang in",
+        "A mah tawh pai khawm in",
+        "A thu ngai a muang a om ding",
+        "hi"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Muang un, ngai un, Lampi dang om lo hi",
+        "Jesuh kiang nuam ngah ding",
+        "in",
+        "Muang in a thu ngai un"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Van a gik te pua a",
+        "Gim na tawl na thuak na",
+        "Topa",
+        "hong heh pih na ki cing hi",
+        "Eite lau na ding a",
+        "Dawimangpa hong khem na",
+        "Jesuh thu ngai in muang",
+        "leeng bei hi"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Ni lim a hih hang in",
+        "Meii kai a hih hang in",
+        "Jesuh in tha khat a",
+        "hawl khia hi",
+        "Launa leh kihtakna",
+        "Tau na leh kah na te",
+        "Jesuh i muan’ lai in om thei",
+        "kei"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Ki-itna pha tawh mah",
+        "Topa Jesuh mai ah",
+        "Kikhawm ciangin lam pai khawm ding",
+        "hi",
+        "Thu hong piakna ngai a",
+        "Hong sawlna pai ding a",
+        "Cikmah hun lau loin nuam ding hi"
+      ]
+    }
+  ]
+}

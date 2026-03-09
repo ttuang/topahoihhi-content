@@ -1,0 +1,65 @@
+{
+  "title": "Tuni’n Jesuh Topa Hingkik",
+  "key": "Key: D",
+  "ZBC": "ZBC: 144",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Jesuh hingkik hi tuni, Hallelujah!",
+        "Nuamna pha hi, lungdam un, Hallelujah!",
+        "Singlamteh tung",
+        "sizo hi, Hallelujah!",
+        "A mite hong teelzo hi, Hallelujah!"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Van-ah i Topa Kumpi,",
+        "Hallelujah!",
+        "Amin phat in la sa ni, Hallelujah!",
+        "Mawh neite a phel na’ngin,",
+        "Hallelujah!",
+        "Si in han-ah kivui hi, Hallelujah!"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Gimna a na thuak manin,",
+        "Hallelujah!",
+        "Eimah hong gumkhin zo hi, Hallelujah!",
+        "Van pan hong uk tawntung hi, Hallelujah!",
+        "La",
+        "sa tawntung vantung mi’n, Hallelujah!"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Minthang Kumpi hingkik zo,",
+        "Hallelujah!",
+        "Sihna na gu koi-ah om? Hallelujah!",
+        "Khatvei si in hong gumzo, Hallelujah!",
+        "Hankhuk",
+        "na zawhna koi om?"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 5",
+      "lines": [
+        "Minthang Kumpi Kha Kumpi, Hallelujah!",
+        "Nuntak tawntungna Na hi,",
+        "Hallelujah!",
+        "Nangmah theihna Vangliatna, Hallelujah!",
+        "Nangmah phatna, kong itna, Hallelujah!s"
+      ]
+    }
+  ]
+}

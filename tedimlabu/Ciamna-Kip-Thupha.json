@@ -1,0 +1,53 @@
+{
+  "title": "CIAMNA KIP THUPHA",
+  "key": "Key: D",
+  "ZBC": "ZBC: 340",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Ciamna kip thupha Jesuh kei a",
+        "Pasian vanglian bang hong ciamsakna pha",
+        "Hot khiatna luah pa",
+        "Pasian leisa",
+        "Kha siangtho a suak si a sawpsa"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Ka gengen ding hi, Ka sasa",
+        "ding",
+        "Hong honpa phat na sun niloh in",
+        "Ka gengen ding hi ka sasa ding",
+        "Hong honpa phatna sun",
+        "niloh in"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Thumanna cing a, cing hi nuamna",
+        "Ka mit kha’n ka mu hi lianpi",
+        "nuamna",
+        "Vantung mite in ka bil sungah",
+        "Hehpihna itna hong gen ka za"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Thu manna cing",
+        "hi tawlnga khin hi",
+        "Hong honpa sung lung nuamin ka om hi",
+        "Vil kawm,ngak kawmin ka en to hi",
+        "A ma",
+        "hoihna itna hong dim hi"
+      ]
+    }
+  ]
+}

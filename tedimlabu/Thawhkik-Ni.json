@@ -1,0 +1,43 @@
+{
+  "title": "Thawhkik Ni",
+  "key": "Key: D",
+  "ZBC": "ZBC: 143",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "I Topa hong thawhkik ni, lungdam paisan pawipi;",
+        "Pasian paisan pawipi in, sihna pan hinna",
+        "hi.",
+        "Leitung aw, genkhia dih in, lei pan vantung dong ah;",
+        "Gualzawh lungdamna la tawh, Jesuh’n",
+        "hong tunpih ta."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Amanin i muh theih na’ng, i lungsim siangsak ni;",
+        "Jesuh’n",
+        "thawhkikna khuavak, hong tangsak khinta hi.",
+        "Ama thugen ngai le hang, teltakin i thei ding;",
+        "A",
+        "kiphatna awgingte, teltakin i za ding."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Vantungte lungdam hen la, leitung in lasa",
+        "hen;",
+        "Leitung le a sunga te’n, gualzawhna gen uh hen.",
+        "Muh theih muh mawh khempeuh in, aw",
+        "kikhat-in gen hi;",
+        "Jesuh thokik khinta a, kilungdam tawntung hi."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "title": "AMAH MUANG IN",
+  "key": "Key: G",
+  "ZBC": "ZBC: 242",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Mawhna a neite hong pai in",
+        "Topa in hong hehpih",
+        "A ma thupha bel up ciang in",
+        "Nuamna i",
+        "ngah ding hi"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "A mah muang in, A mah muang la",
+        "Tu in ah muang in",
+        "Hong gum ding",
+        "hi, hong gum ding hi",
+        "Tu in hong gum ding"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Nuamna a hong pia ding Jesuh",
+        "A si pha",
+        "bel luang sak",
+        "Vuk sang in hong ngo zaw sak thei",
+        "A si sung hong phum",
+        "ta’n"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Nop na sung tun’ na ding",
+        "Jesuh Thumaan lam pi a hi",
+        "Topa na um",
+        "ding khawl kei leh",
+        "Lung dam na ngah ding hi"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Mi siang tho kikhopna mun leh",
+        "Min",
+        "thanna mun pai ni;",
+        "Lung dam om tawn tung na sung ah",
+        "Nuamna i ngah ding hi"
+      ]
+    }
+  ]
+}

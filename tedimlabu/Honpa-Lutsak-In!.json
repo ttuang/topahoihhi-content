@@ -1,0 +1,57 @@
+{
+  "title": "Honpa Lutsak In!",
+  "key": "Key: Ab",
+  "ZBC": "ZBC: 240",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Zinpa kong kiangah om hi, lutsak in! (Honpa, lutsak in!)",
+        "Tamveipi hong paizo hi, lutsak in!",
+        "(Honpa, lutsak in!)",
+        "Apaima’n lut na’ng pia in, Siangtho Topa lutsak in;",
+        "Pa Pasian a",
+        "Tapa hi, lutsak in! (Honpa, lutsak in!)"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Lungsim kongkhak tu’n hon in, lutsak in!",
+        "(Honpa, lutsak in!)",
+        "Ngak leh Amah paikhia ding, lutsak in! (Honpa, lutsak in!)",
+        "Lutsak in nang ma",
+        "lawmpa, Nangma lungsim kem dinga;",
+        "A tawp dong hong gum dingpa, lutsak in! (Honpa, lutsak",
+        "in!)"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "A kam khum na ngai inla, lutsak in! (Honpa, lutsak in!)",
+        "Tu’n piangsak in",
+        "nang teelpa, lutsak in! (Honpa, lutsak in!)",
+        "Kong khak kiang ding hi, Amah khangsak ding na",
+        "lungdamna;",
+        "Ama min na phat dinga, lutsak in! (Honpa, lutsak in!)"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Tu-in vantung khua",
+        "zinpa, lutsak in! (Honpa, lutsak in!)",
+        "Nang vakna pawi khawm dinga, lutsak in! (Honpa, lutsak",
+        "in!)",
+        "A hong phel ding na mawhna, lawmte tawh kikhen ciangin;",
+        "Hong kha ding vantung inn-ah, lutsak",
+        "in! (Honpa, lutsak in!)"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "title": "A Aw Ka Thei",
+  "key": "Key: Ab",
+  "ZBC": "ZBC: 204",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Honpa ka muh theihloh hangin,",
+        "Hong hehpih den hi, nisimin;",
+        "Amah ka teel tu-in ka",
+        "nei,",
+        "Topa phat un, A aw ka thei."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "A aw ka thei, Honpa’ aw hi;",
+        "Ka",
+        "lungsim sung hong nuamsak hi;",
+        "Hun simin kei hong hoph hi,",
+        "A aw ka thei Topa phat",
+        "ni!"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "A mel ka muh loh hangin ah,",
+        "Huihpi lak pan A aw ka za;",
+        "Tuihual kham in dai",
+        "pah hilhial;",
+        "Ni hong tangin nuam pah silsial."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Thuman, thutak hong genkhia-a,",
+        "Muh",
+        "batloh tawldamna nopna;",
+        "Itna, kilemna thugen hi,",
+        "Van innpi thu zong hong gen hi."
+      ]
+    }
+  ]
+}

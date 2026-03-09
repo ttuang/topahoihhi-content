@@ -1,0 +1,64 @@
+{
+  "title": "To Jesuh Thahatna",
+  "key": "Key: G",
+  "ZBC": "ZBC: 472",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "To Jesuh’ thahatna suang inla,",
+        "Ham bang hong huai in, hong huh ding hi;",
+        "Hong itna",
+        "thu na phawk dennak leh,",
+        "Phatna la sak nuam ding."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "A hatna le hong itna muang",
+        "in,",
+        "Ahatna le hong itna kicing,",
+        "A hatna le, van mite en in,",
+        "Hong Tanpa na mu ding",
+        "hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "To Jesuh’ thahatna suang inla,",
+        "Lam hong tangsak ding, tangsak ding",
+        "hi;",
+        "Hong paipihna peuh lungdam zui in,",
+        "A aw nemno ngai in."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "To Jesuh’",
+        "thahatna suang inla,",
+        "Na buaina khempeuh Amah pia in;",
+        "Na vakgik lelin na kun zongin,",
+        "Jesuh",
+        "kiang thungen in."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "To Jesuh’ thahatna suang inla,",
+        "Na neih teng pia in, bang kim",
+        "pia in;",
+        "Itna le hehpihna tawh kidim,",
+        "Hong ensan lo ding hi."
+      ]
+    }
+  ]
+}

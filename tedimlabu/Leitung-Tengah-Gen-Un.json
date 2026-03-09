@@ -1,0 +1,63 @@
+{
+  "title": "LEITUNG TENGAH GEN UN",
+  "key": "Key: Db",
+  "ZBC": "ZBC: 410",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Leitung teng Jesuh thu gen un,",
+        "Gun gal khat pan gal khat ah;",
+        "Jesuh thu mawhneite gen",
+        "un,",
+        "A khuavak pha tangsak un."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Thangsak un, Leitung tengah, lungdam",
+        "Thu",
+        "Gungal khat ah; Leitung teng Jesuh thu gen un,",
+        "A tawntung A min phat",
+        "un."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Lungdam Thu’n gam-la-pi zeel hen,",
+        "Khuamialna mun gam",
+        "khempeuh;",
+        "Lungdamna khuavak thei-sak un,",
+        "Thangsak un khuamial gam-ah."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Tuipi tung",
+        "le mualtung tengah,",
+        "Lungdamna Thu thang sak un;",
+        "Mun khempeuh Jesuh Thugen un,",
+        "Hong sapna Thu",
+        "thangsak un."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Mi khempeuh a’ding thungen in,",
+        "Lungdamna tawh huh ciat un;",
+        "I",
+        "gam a’ ding zong thungen un,",
+        "Jesuh ei gam a’ ding in."
+      ]
+    }
+  ]
+}

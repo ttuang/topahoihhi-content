@@ -1,0 +1,40 @@
+{
+  "title": "NA THU MAAN NA LIAN HI",
+  "key": "Key: Eb",
+  "ZBC": "ZBC: 042",
+  "sections": [
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Na thumaanna lian hi Na thumaanna lian hi",
+        "Zingsang simin hehpihna thak ka mu",
+        "Ka sapna",
+        "teng Na khut in hong guan tawntung",
+        "Na thumaanna lian hi Topa kei tung."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Ni kha le aksite ngeina bang ciat in",
+        "Khuakhal le tuk hunte phalbi ni pi",
+        "Ngeina bang zui a",
+        "hunhun a piang te in",
+        "Na thumaan hehpih itna hong lak hi"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Mawhna maisakna le a kip lungnopna",
+        "Nong ompih lungdamna lam nong hilhna",
+        "A nisim Nong kepna",
+        "mailam lungmuan’na",
+        "A pha tampite zong Nangma thupha"
+      ]
+    }
+  ]
+}

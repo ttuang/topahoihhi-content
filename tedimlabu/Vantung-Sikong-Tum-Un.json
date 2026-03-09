@@ -1,0 +1,54 @@
+{
+  "title": "Vantung Sikong Tum Un",
+  "key": "Key: Bb",
+  "ZBC": "ZBC: 333",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Vantung siklong tum un! Lungdam ni hi a,",
+        "Mawh nei mi khat hong ciahkik ta hi;",
+        "Apa’n",
+        "a ta lampi ah na dawn tuah a,",
+        "A taimang a ta a ciahpih hi."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Vantung mite’n",
+        "phatna la sa in,",
+        "Gawsem tumin nuamna tawh phat hi;",
+        "Tatsa mi honpite’n tuipi ging",
+        "bangin,",
+        "Suahtakna lapi sa zuahzuah hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Vantung siklong tum un! Lungdam ni",
+        "hi-a,",
+        "Ta taimang tu’n kisangkik ta hi;",
+        "A mawhna pan mi khat kihonkhia zo a,",
+        "Tatkhiatna",
+        "ngah mithak hong suak hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Vantung siklong tum un! Pawi kham ni hi-a,",
+        "Vantung",
+        "mite’n zawhna la sa hi;",
+        "Lungdam thu tangko un, gamla pi dongah,",
+        "A manpha mi khat suak thakzo",
+        "hi."
+      ]
+    }
+  ]
+}

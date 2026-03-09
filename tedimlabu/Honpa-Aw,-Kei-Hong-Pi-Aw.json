@@ -1,0 +1,33 @@
+{
+  "title": "Honpa AW, Kei Hong Pi Aw",
+  "key": "Key: Bb",
+  "ZBC": "ZBC: 039",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Nu in nau a khim bangin,",
+        "Tuipi lauhuai daisak in;",
+        "Tuihual in na thu mang hi",
+        "Dai un na",
+        "cih ciang dai hi;",
+        "Huihpi tuipi Ukpa aw,",
+        "Hong pi aw, kei hong pi aw."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Gungal ka tun ding ciangin,",
+        "Tuihual hong lauhuai ciangin;",
+        "Na ang sung hong beelsak",
+        "aw,",
+        "Lungmuang tak hong omsak aw;",
+        "Lau kei in! Nang hong pi ning",
+        "Nong cihna aw za nuam ing."
+      ]
+    }
+  ]
+}

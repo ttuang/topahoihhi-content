@@ -1,0 +1,78 @@
+{
+  "title": "Leitungah Ka Tawl Hi",
+  "key": "Key: F",
+  "ZBC": "ZBC: 250",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Khialhan a nei gimna thuak mi ka hi,",
+        "Vantung lam ka et leh ka tung nuam hi;",
+        "Hih hang tua",
+        "sungah khial nei om thei kei,",
+        "Hih hang, “Hong pai in” cih aw khat ka",
+        "thei."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Nisim ka pai lai vantung khua lampi,",
+        "A tawntung mawhna khialhna’n hong",
+        "khem hi;",
+        "Hih hang “Pulak in, na kisikkik leh,",
+        "Mawh kiphel ngah ding” cih thu ka thei",
+        "hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Kihhuai mi ka hih ciangin bang ci-in,",
+        "Tua khua siangtho sungah ka lut ding",
+        "hiam?",
+        "Pasian tokhom mai-ah ding thei ding hiam?",
+        "Hih hang, “Hong nai in” khut tawh hong",
+        "sam hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Jesuh Topa a aw, ke’n ka za hi,",
+        "Ama khut in kei hong naisak thei",
+        "hi;",
+        "Ama si in ka mawhna ka khialhna,",
+        "Hong phel thei vantungah hong",
+        "lutsakta."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 5",
+      "lines": [
+        "Topa aw ka hong thuumna hong ngai in,",
+        "Na hehpihna kei ading kicing;",
+        "Na",
+        "linglukhu in kei kumpi lukhu,",
+        "Ka nuntakna ding Nang nunna Nong pia."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 6",
+      "lines": [
+        "Neihsa bangmah",
+        "nei keng, Nang kong puak ding,",
+        "Ka lungsim pumpi’n Nang kong kipia khin;",
+        "Ka lungsim teng bang",
+        "ci’n kong pia thei diam,",
+        "Mawh phelna ding thu’n ka lung hong nuamsak."
+      ]
+    }
+  ]
+}

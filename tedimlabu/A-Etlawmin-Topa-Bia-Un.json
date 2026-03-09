@@ -1,0 +1,40 @@
+{
+  "title": "A ETLAWMIN TOPA BIA UN",
+  "key": "Key: Bb",
+  "ZBC": "ZBC: 013",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "A khe phungah na lungkhamnate va nga in,",
+        "Amah’n nang tangin hong puaksak ding hi;",
+        "Na",
+        "thumna hong dawngin nang hong lungnuamsak in,",
+        "Ahoih penin hong vaihawmsak ding hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Na neihsa piak tawm lua, ci-in kisuang ken la,",
+        "A tokhom zuat ding lau ngaihsut kei in;",
+        "A",
+        "etlawm thumanna le a siangtho itna,",
+        "Ama tau ah biakpiakna cing hikhin"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Lau kawm, liing kawmin tuate i va puak ciangin,",
+        "Lungkim takin Topa’n hong sang ding",
+        "hi;",
+        "Dahna, kahnate khempeuh lungdamna suakin,",
+        "Launa teng zong lawpna, muanna suak hi."
+      ]
+    }
+  ]
+}

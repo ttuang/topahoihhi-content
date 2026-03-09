@@ -1,0 +1,52 @@
+{
+  "title": "Kalvary",
+  "key": "Key: Bb",
+  "ZBC": "ZBC: 126",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Kalvary ah Jesuh a si,",
+        "Hong gum Topa, tua kithat hi;",
+        "Tua khuam tungah, a si bua",
+        "hi,",
+        "Mawh phelna’ngin a hong lei hi."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Aw Kalvary, aw Kalvary,",
+        "Topa",
+        "Jesuh’n sihna thuak hi,",
+        "Aw Kalvary, aw Kalvary,",
+        "Hong gum Topa kei ading",
+        "si."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Suangpi kitam khua hong mial hi,",
+        "Hong gum Topa, lusu’n si hi;",
+        "A",
+        "kiliahna puan kikeek a,",
+        "Vantung nopna, hong musak ta."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Topa Jesuh, bangci a",
+        "hiam,",
+        "Topa nang in hihna nong pia;",
+        "Singlamteh pua haksa thuak hi,",
+        "Launa sungah Kalvary ah"
+      ]
+    }
+  ]
+}

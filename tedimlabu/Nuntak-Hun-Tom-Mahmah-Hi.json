@@ -1,0 +1,67 @@
+{
+  "title": "NUNTAK HUN TOM MAHMAH HI",
+  "key": "Key: Eb",
+  "ZBC": "ZBC: 385",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Nuntak hun tom mahmah hi, singteh pulh tawh kibang hi",
+        "Buhlom hen tawh kibang hi, hun lap",
+        "in!",
+        "Hun bei hanhanin hong lak, a site kipaai baih ding,",
+        "Launa hun hong tung baih ding, hun lap",
+        "in!"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Hun lap in! hun lap in!",
+        "Jesuh in nang hong sap lai in, hun lap",
+        "in!",
+        "Mawhna sung sawtna tham leh, kong honsa’n mu kei niteh,",
+        "Na kikona zekai ding, hun lap",
+        "in!"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Paak hoih pen zong vulpak hi, khangno hoihna bei pak hi,",
+        "Sauvei na om kei ding",
+        "hi, hun lap in!",
+        "Pasian Kha Siangtho sap lai, mawh nei aw, mawkvak nawn ke’n,",
+        "Na siat",
+        "na’ng bawl nawn ke’n, hun lap in!"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Hunte hong bei hanhan hi, sihna thukhenna",
+        "nai hi,",
+        "Jesuh ang na zuan ding hi, hun lap in!",
+        "Lawm aw a man ding tuat in, lauhuai hun hong tung",
+        "kha ding,",
+        "Hell khuk sung na tung kha ding, hun lap in!"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Mawh nei hong hilh ngai inla,",
+        "Topa nang teel in bawl in,",
+        "Tua ciang vantung lungdam ding, hun lap in!",
+        "Khuamial pan khuavak zuan",
+        "in, Jesuh kibawlphasak in,",
+        "Vantung zuan ding kipan in, hun lap in!"
+      ]
+    }
+  ]
+}

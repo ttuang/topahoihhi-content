@@ -1,0 +1,61 @@
+{
+  "title": "HONG SIANGSAK TUIKHUK",
+  "key": "Key: Ab",
+  "ZBC": "ZBC: 138",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "En in thuk in a zai tuikhuk,",
+        "A luang tawntung tuikhuk;",
+        "Vang nih panin hong luang",
+        "khia-a,",
+        "Vuk bang hong ngosak ding,",
+        "Vuk bang hong ngosak ding."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Hong pai un",
+        "tuikhuk hong luang hi, tu ni’n,",
+        "Hong pai khempeuh man ngen lo in,",
+        "Na mawh hong sawp sak",
+        "ding."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Kalvary khuam tungah Lung kham,",
+        "Natna thuak in hong si, Lamdang sisan guntui",
+        "hong luang,",
+        "Vuk bang hong ngosak ding, Vuk bang hong ngosak ding."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Mi khempeuh damna",
+        "ding hong luang,",
+        "Tua thupha tuikhuk pan! Upna tawh A si sung bual leng,",
+        "Vuk bang hong ngosak ding,",
+        "Vuk bang hong ngosak ding."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Lungdamna thupha na zak ciang, Hong pai in, ci’n hong",
+        "sam,",
+        "Upna tawh A si sung bual leng,",
+        "Vuk bang hong ngosak ding, Vuk bang hong ngosak ding."
+      ]
+    }
+  ]
+}

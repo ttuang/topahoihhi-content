@@ -1,0 +1,58 @@
+{
+  "title": "AW VANGLIAN BEL HALELUIAH",
+  "key": "Key: D",
+  "ZBC": "ZBC: 476",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Aw vanglian bel Hallelujah,",
+        "Kong phat uh hi.",
+        "Emmanuel Pah tawi na leh liatna khempeuh Kum",
+        "khua in nang aa hi den hi."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Halelujah Hallelujah, A men (Amen )",
+        "Hallelujah",
+        "Hallelujah, Amen (Amen )"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Leitung mihing namcin vontawi, Vantungmitawh lungkituak",
+        "in",
+        "Nong tatna sisan phahangin, Sa lemthak tual nuamah leng khawm"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Aw tuibangthuk",
+        "gamsing bangsang,",
+        "Na pilna le nong hehpihna",
+        "Laukha sim lei a ging kilawm,",
+        "Van leh lei",
+        "kamte’n gen zo lo"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Aw hong hilhin a thuknathu,",
+        "Gan ankuang leh hamsiat",
+        "tulsing",
+        "Van Kumpi lukhu kizom,",
+        "Lei Eden leh Salem thak tawh"
+      ]
+    }
+  ]
+}

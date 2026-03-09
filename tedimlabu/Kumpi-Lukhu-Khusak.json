@@ -1,0 +1,52 @@
+{
+  "title": "KUMPI LUKHU KHUSAK",
+  "key": "Key: G",
+  "ZBC": "ZBC: 014",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Kumpi lukhu, Jesuh khu sak un,",
+        "Khang tawntungin Ama minphat un;",
+        "Amin thanna lian hong",
+        "pahtawi un,",
+        "Tu leh atawntungin."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Kumpi lukhu, kumpi lukhu",
+        "Minthanna gamah",
+        "khusak ding hi;",
+        "Lukhu, Kumpi lukhu",
+        "Khusak in phat den ni."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Phatun, phatun, van",
+        "mihonpi aw,",
+        "A tokhom zuan un, phatna la tawh,",
+        "Phat un, phatun, leimi khempeuh aw,",
+        "Kumpite",
+        "kumpipa."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Gualzo pa hi, Mawhna zo pa hi;",
+        "Ama kha i lungsim uksak ni.",
+        "Amin tawh ei",
+        "zong i zo ding hi.",
+        "Tu leh a tawntungin."
+      ]
+    }
+  ]
+}

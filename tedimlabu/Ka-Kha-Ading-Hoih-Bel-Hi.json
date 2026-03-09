@@ -1,0 +1,74 @@
+{
+  "title": "Ka Kha Ading Hoih Bel HI",
+  "key": "Key: Db",
+  "ZBC": "ZBC: 332",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Gunpi taanglo bang nuam na'ng nong hilhna in",
+        "Dahna tui bangin hong leet hi;",
+        "Topa hong",
+        "hilhna pha hi ka kha ading",
+        "Hoih bel hi kha ading, hoih bel hi"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Hoih bel hi, hoih",
+        "bel hi, kha ading",
+        "Hoih bel hi, hoih bel hi, Kha ading"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Dawi in hong khem a bawlsiatna",
+        "hong tun hang,",
+        "Ka up ding a thuciam om hi;",
+        "Topa Jesuh in ka thaneem hong en hi,",
+        "Hoih bel hi,",
+        "kha ading, hoih bel hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Hong it a, anuam i ngaihsut ciang in-ah,",
+        "Ka mawh ka khialhna",
+        "sung panin;",
+        "Ka suahtakna ding singlamteh tung si hi,",
+        "Ka lungsim in ka phat hi",
+        "Topa."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Topa Jesuh tunung ciang hong pai ding hi,",
+        "Ka lungkhamna teng bei ding",
+        "hi;",
+        "Topa hih leitung ah hong pai ding in-ah;",
+        "Ka Kha Siangtho ading apha hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 5",
+      "lines": [
+        "Topa",
+        "aw nong pai ding hun kong ngak uh hi,",
+        "Han hi lo, van hi, ko tupna;",
+        "Topa’ aw le van mite",
+        "pengkul aw hi,",
+        "Ka lam-etna le ka tawl damna."
+      ]
+    }
+  ]
+}

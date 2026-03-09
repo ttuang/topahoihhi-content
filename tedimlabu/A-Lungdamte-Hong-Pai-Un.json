@@ -1,0 +1,56 @@
+{
+  "title": "A LUNGDAMTE HONG PAI UN",
+  "key": "Key: G",
+  "ZBC": "ZBC: 458",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "A lungdamte hong pai un, An lakna la hong sa un;",
+        "Phalbi guahsia zukma in, An khempeuh",
+        "kikaikhawm khin;",
+        "I kisapna khempeuhte, Pasian in hong pia eite;",
+        "Biakinnpi ah hongpai un, An-lakna",
+        "la hong sa un."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Leitung khempeuh Pasian’lo, Amah phatna’ng ankung po;",
+        "Tang",
+        "le tahum hong pokhawm, Nuamna, dahna hongkhang khawm;",
+        "Teh neih khit ciang hong gah a, A nung ciangin",
+        "hong tak sa;",
+        "An nei Topa in Na lo, Ko nong hah ding kong ngen zo."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Lo ah Topa hongkuan",
+        "ding, Inn-ah ante ciahpih ding;",
+        "Tua ni ciang i Topa in, An si seep ding lo panin;",
+        "Van-mite thupia",
+        "inah, Tahumte kikhul ding a;",
+        "A taksa teng kaikhawm ding, A tawntungin nuamsa",
+        "ding."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Hong pai meng in Topa aw, Innah hong ciahpih ta aw;",
+        "Na mite hong kaikhawm in,",
+        "Mawhna dahna pan khah in;",
+        "A tawntung a siangtho ding, Nangmah tawh omkhawm den ding;",
+        "Van mite tawh",
+        "hong pai aw, Innah hong ciah pih ta un."
+      ]
+    }
+  ]
+}

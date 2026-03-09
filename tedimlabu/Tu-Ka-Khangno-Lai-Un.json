@@ -1,0 +1,56 @@
+{
+  "title": "TU KA KHANGNO LAI UN",
+  "key": "Key: Eb",
+  "ZBC": "ZBC: 389",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Tu ka khangno lai-in, hun hoih zat theih lai in,",
+        "Topa ko lungsung hong om in, vekpi’n",
+        "hong kipia ung;",
+        "Kong kipiakna bangun, kilawm bang hong sang in,",
+        "Nuntak sung teng sepna peuhah, pa",
+        "deihna bang hihen."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Hong hilh in na deih bang, ka gamtat theih na’ng uh,",
+        "Nang",
+        "deih bangbang gamtat theih na’ng, ka lungdam ding uh hi;",
+        "A lian pen teel tuanlo, a neu pen paai",
+        "tuanlo,",
+        "Ko sepnate, Nang sep bangin, hong thupi khinsak in."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Thu hoih thupha deihna,",
+        "kote hong hilhhilh in,",
+        "Hun tomcik no khat sung bek zong, ka siat khak loh na’ng uh;",
+        "Ko tha",
+        "tawh din zawh na’ng, Nang hong panpih ta in,",
+        "A siangtho nate bek deih ung, a siate deih kei",
+        "ung."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Ka suah tung bangmah un, Kha Siangtho hong pia in,",
+        "Itna gamtat hoih neih theih",
+        "na’ng, lungnop hithiatna tawh;",
+        "Kum tampi sung man ding, ka kigin kholh na’ng",
+        "uh,",
+        "Tawntung nuntakna hun nuampi, ka zong den ding uh hi"
+      ]
+    }
+  ]
+}

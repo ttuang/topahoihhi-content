@@ -1,0 +1,54 @@
+{
+  "title": "A Nisimin Khum Semsem",
+  "key": "Key: Bb",
+  "ZBC": "ZBC: 213",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Nisim ka nuntakna Jesuh tawh kinai semsem veng,",
+        "Ngun le kham sang siangzaw tang zaw, A hoihna",
+        "genzo keng;",
+        "Ka lungsim mit kha in Ama hoihna teng ka mu hi,",
+        "Nisim hunsim khangto Jesuh itna khum",
+        "semsem hi."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Kim khat beek kigenzo kei,",
+        "Tua galkhat kham khua thu;",
+        "Jesuh hong",
+        "itna khumzaw tham lai ding hi, tua mun ah."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "A gamla pek pan ka mu hi, A vangliatna hong",
+        "tang,",
+        "Unok pak sang hoihzaw tham lai, zingsol bangin hong taang;",
+        "Ka lunggulhnate hong pia in, kei",
+        "hong lungkimsak hi,",
+        "Nisim hunsim khangto Jesuh itna khum semsem hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Lungkhamna ka",
+        "thuakzelzel hang, Amah’n hong suakta sak,",
+        "A ang sung hong pom hong dal in, ka lungkhamna",
+        "beisak;",
+        "Kei tang ding A pumpi’n hong thuakna hang Khris ka it hi,",
+        "Nisim hunsim khangto Jesuh",
+        "itna khum semsem hi."
+      ]
+    }
+  ]
+}

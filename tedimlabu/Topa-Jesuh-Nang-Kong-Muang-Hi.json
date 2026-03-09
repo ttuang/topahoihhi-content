@@ -1,0 +1,73 @@
+{
+  "title": "Topa Jesuh Nang Kong Muang Hi",
+  "key": "Key: Bb",
+  "ZBC": "ZBC: 319",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Topa Jesuh, Nang hong muang ing,",
+        "Nang bek kong muang hi;",
+        "Gupna ngah na’ng, Nang hong",
+        "muang ing,",
+        "Kong muang hi."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Ke’n hong muang ing,",
+        "Nang bek kong muang",
+        "hi;",
+        "Ke’n hong muang ing, muang ing,",
+        "Nang bek kong muang hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Mawh mai",
+        "nading, Nang hong muang ing,",
+        "Na mai kong kun hi;",
+        "Na hehpihna le na thupha, kong muang",
+        "hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Thahatna ding, Nang hong muang ing,",
+        "Na lel ngei kei hi;",
+        "Kei nong piak na",
+        "kamciamte in, gualzo hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Topa Jesuh, Nang hong muang ing,",
+        "Hong puksak ngei",
+        "ke’n;",
+        "Vai khempeuh ah Nang hong muang ing,",
+        "Tawntung in."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 5",
+      "lines": [
+        "Hong sawp siang",
+        "ding, Nang hong muang ing,",
+        "Sisan gunpi sung;",
+        "Na si tawh hong silsiang sak dingin,",
+        "Kong muang",
+        "hi."
+      ]
+    }
+  ]
+}

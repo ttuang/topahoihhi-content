@@ -1,0 +1,54 @@
+{
+  "title": "TOPA AW HONG LEN IN",
+  "key": "Key: Ab",
+  "ZBC": "ZBC: 030",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Ka lampi lauhuai ciang, Hong nai in keima kiang,",
+        "Ka sih dek laitak Topa;",
+        "Ka thuumna hong",
+        "ngai aw, ka puk ding hong len aw,",
+        "Innpi ah hong kha in maw, Topa."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Hong phong in,",
+        "hong len aw, hong kai in, Topa aw,",
+        "Kei ka gim, kei ka tawl, kei ka bah;",
+        "Huihpi in hong nuai hang,",
+        "khuavak ah hong pi in",
+        "Innpi ah hong kha in maw, Topa."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Sunni hong tumta hi, khua hong",
+        "mui semsem hi,",
+        "Zan khuamial in hong tuamta;",
+        "Gun gei-ah ka dingkhin, hong len in, hong pi",
+        "in,",
+        "Innpi ah hong kha in maw, Topa."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Khualzin hun bei dek hi, Topa nong pi ding",
+        "hi,",
+        "Kei hong hatsak in Topa;",
+        "Nang aa ka hi khinzo, kei kia bek hi nawnlo,",
+        "Innpi ah hong kha",
+        "in maw, Topa."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "title": "Khris le Pawlpi Ading",
+  "key": "Key: F",
+  "ZBC": "ZBC: 187",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Khris le A Pawlpi ading, lung kituakin i ding;",
+        "Kam le muk tawh phat ni, A thanemte huh",
+        "ni;",
+        "Khe tawh mangthang zong ni, Khris le Pawlpi ading."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Khris le A Pawlpi ading,",
+        "lung kituakin i ding;",
+        "I nuntakna i kipiata, Khris le Pawlpi ading."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Khris le A Pawlpi",
+        "ading, thungen in sem den ding;",
+        "Lawpna, hanna thak tawh, Na khat peuh sem pel mawh;",
+        "Thuciam man",
+        "zuihna tawh, Khris le Pawlpi ading."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Khris le A Pawlpi ading, “Hosanna”",
+        "ci’n sa ding;",
+        "Hong suakta sak khin a, zawhna hong ciam man’ ah;",
+        "I thu bulphuh inah,",
+        "Khris le Pawlpi ading."
+      ]
+    }
+  ]
+}

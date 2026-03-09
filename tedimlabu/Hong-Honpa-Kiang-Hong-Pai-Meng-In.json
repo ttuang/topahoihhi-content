@@ -1,0 +1,53 @@
+{
+  "title": "HONG HONPA KIANG HONG PAI MENG IN",
+  "key": "Key: Bb",
+  "ZBC": "ZBC: 223",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Hong honpa kiang ah hong pai meng in,",
+        "Lai Siangtho-ah lam hong lah bangin,",
+        "Ei te lai",
+        "zangah tu ni’n ding in,",
+        "Hong pai ve, ci’n hong sam"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Mawhna khial nate",
+        "siantho nung ah,",
+        "Topa mai ah kikhop ciangin ah,",
+        "Tawntung inn nuam vantung khua sungah,",
+        "Nuam",
+        "pha mahmah ding hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Ngai sin, Naute hong pai ve vua ci,",
+        "I vek pi in ki pakin",
+        "diangni,",
+        "Eite in ,A mah va teel tawm ni,",
+        "Ze kai ke’n pai",
+        "ni,tu’n."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Ngaih sun phain,tu ni’n hiah omlai,",
+        "Hong thupiak na phalim tak",
+        "in ngai,",
+        "Migi mah-mah tu’n zong hongsam lai",
+        "Nong pai nai uh hia, ci"
+      ]
+    }
+  ]
+}

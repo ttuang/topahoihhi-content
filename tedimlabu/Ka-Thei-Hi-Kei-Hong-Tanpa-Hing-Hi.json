@@ -1,0 +1,53 @@
+{
+  "title": "Ka Thei Hi, Kei Hong Tanpa Hing Hi",
+  "key": "Key: Db",
+  "ZBC": "ZBC: 146",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Ka thei hi, kei hong Tanpa hing hi",
+        "Leitung ah hong pai kik ding hi",
+        "Ka thei hi, nuntakna",
+        "hong pia",
+        "Hehpihna vang a khut sung om"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Ka thei ka thei To Zeisuh hing",
+        "hi",
+        "Leitung ah hong paikik ding hi",
+        "Ka thei ka thei nuntakna hongpia",
+        "Hehpihna vaang a khut sung",
+        "om"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Ka thei hi, hong thuciam peel ngei kei",
+        "A gensa thu bei ngeilo ding",
+        "A gilo",
+        "sihna pan ka suakta",
+        "Amah muding nungciang in ah"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Ka thei hi, ka om nang mun",
+        "bawlkhol",
+        "A omna peuh kei zong om ning",
+        "Alamdang Amah’n kei hong kem hi",
+        "Kei a dingin",
+        "hongpai kik ding"
+      ]
+    }
+  ]
+}

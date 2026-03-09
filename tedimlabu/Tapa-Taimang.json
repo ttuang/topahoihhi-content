@@ -1,0 +1,58 @@
+{
+  "title": "Tapa Taimang",
+  "key": "Key: Eb",
+  "ZBC": "ZBC: 241",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Inn hong zuan in, Na lungsim gimzo hi;",
+        "Na lami mialzo hi, lauhuai lua hilo maw;",
+        "A taimang",
+        "ta aw, inn ah hong ciah in"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Inn ah (inn ah)",
+        "Hong ciah meng in (meng",
+        "in)"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Inn hong zuan in, hong gal-et lailai ung;",
+        "Kongpi ah dingding ung,",
+        "Khuamialta",
+        "hilo maw;",
+        "A taimang ta aw, inn ah hong ciah in"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Inn hong zuan in, mawhsakna dahna",
+        "pan;",
+        "Mawhna le zumna pan, dawi mangpa khemna pan;",
+        "A taimang ta aw, inn ah hong ciah",
+        "in."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Inn hong zuan in, An tampi tak om hi;",
+        "Vaitutna nuam om hi, kipawlna nuam om",
+        "hi;",
+        "A taimang ta aw, inn ah hong ciah in."
+      ]
+    }
+  ]
+}

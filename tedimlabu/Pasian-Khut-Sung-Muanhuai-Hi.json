@@ -1,0 +1,40 @@
+{
+  "title": "PASIAN KHUT SUNG MUANHUAI HI",
+  "key": "Key: C",
+  "ZBC": "ZBC: 056",
+  "sections": [
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "A khut kuak sung muanhuai hi,",
+        "A khut kuak sung muanhuai hi,",
+        "Bangbang hong kimvel hang",
+        "lau om nawmlo,",
+        "A khut kuak sung muanhuai hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Itna tawh a ang sung kei hong pom ciang,",
+        "Kilemna thu Kha Siangtho’ hong hilh",
+        "a;",
+        "Pasian khut in kei hong kiplet zawh ciang,",
+        "A khut kuak sung muanhuai hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Ka kha kem, kei hong nusia nawnlo ding,",
+        "Hong itna khau tatsak zo om nawnlo;",
+        "Ka thei hi A",
+        "mah in hong kem den ding,",
+        "A khut kuak sung muanhuai hi."
+      ]
+    }
+  ]
+}

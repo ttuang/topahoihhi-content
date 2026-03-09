@@ -1,0 +1,55 @@
+{
+  "title": "JESUH KEI AA DING HI",
+  "key": "Key: D",
+  "ZBC": "ZBC: 099",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Mi a haute ka eng kei hi",
+        "Jesuh kei aa ding hi",
+        "Leitung sum ke’n ka deih kei",
+        "hi",
+        "Jesuh kei aa ding hi.",
+        "Leitung hauhna kip lo ding hi",
+        "Na khempeuh kisia gawp ding",
+        "hi",
+        "Kei nuamna bei thei lo ding hi",
+        "Jesuh kei aa ding hi"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Zawng a gimna ka thuak hangin",
+        "Jesuh kei aa ding hi",
+        "Ka thum nop loh Topa’n thei",
+        "hi",
+        "Jesuh kei aa ding hi",
+        "Ka sum khempeuh ka zang zong in",
+        "Leitung sum a sia khin zong",
+        "in",
+        "Ganhing teng a si khin zong in",
+        "Jesuh kei aa ding hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Galte khut sung ka tung zongin",
+        "Jesuh kei aa ding hi",
+        "Kisiatna in hong um hangin",
+        "Jesuh",
+        "kei aa ding hi",
+        "Leitung gal a kido hang in",
+        "Ka kha in a kap hang in ah",
+        "Topa min tawh ka zo ding",
+        "hi",
+        "Jesuh kei aa ding hi."
+      ]
+    }
+  ]
+}

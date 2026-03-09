@@ -1,0 +1,70 @@
+{
+  "title": "TOPA AW, KA NUNTAKNA",
+  "key": "Key: G",
+  "ZBC": "ZBC: 372",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Topa aw, ka nuntakna,",
+        "Tang in, siangtho tak zang in;",
+        "Itna tawh Nangma sawlna,",
+        "Ka khut",
+        "mang sak, sem sak in,",
+        "Ka khut mang sak, sem sak in,"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Ka phei phung hong zang in",
+        "la,",
+        "Nang a’ ding ngal hatsak in;",
+        "Ka aw zong Nang tang inla,",
+        "Ngaihtak Na min phat sak",
+        "in,",
+        "Ngaih tak Na min phatsak in."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Ka kam ka muk hong zang in,",
+        "Na thupha gen theih",
+        "na ding;",
+        "Ka sum ka paai tang khin in,",
+        "Neu kha beek hong it kei ning,",
+        "Neukha beek hong it kei",
+        "ning,"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Ka lungsim le ka pilna,",
+        "Nangma deih bangin zang in;",
+        "Ka utna, ka",
+        "hanciamna,",
+        "Nangmah in hong uk ta in,",
+        "Nangmah in hong uk ta in."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 5",
+      "lines": [
+        "Ka itna teng hong",
+        "sang in,",
+        "Na khe mai ah hong sung ning;",
+        "Ka pumpi in hong tang in,",
+        "Nang aa bek hi khin den",
+        "ning,",
+        "Nang aa bek hi khin den ning."
+      ]
+    }
+  ]
+}

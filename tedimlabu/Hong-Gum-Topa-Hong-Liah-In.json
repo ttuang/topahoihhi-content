@@ -1,0 +1,41 @@
+{
+  "title": "Hong Gum Topa Hong Liah In",
+  "key": "Key: Ab",
+  "ZBC": "ZBC: 054",
+  "sections": [
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Hong liah ta in",
+        "Hong gum Topa hong liah in",
+        "Lau lohna na kiang",
+        "Kei mah hong om",
+        "sak in",
+        "Hong liah hong liah ta in ta in"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Nun’tak na huihpi a nun’ lai",
+        "Kei hong liah ta in",
+        "Tuipi tungah va khu bang",
+        "in",
+        "Nang kiang hong lut sak in"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Dahna tawh ka lung kitam lai",
+        "Lungdamna hong pia’n",
+        "Khitui tawh nuamna ka zon’",
+        "lai",
+        "Keimah hong liah ta in."
+      ]
+    }
+  ]
+}

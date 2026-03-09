@@ -1,0 +1,64 @@
+{
+  "title": "Mawhneite Jesuh’n Ngai Hi",
+  "key": "Key: D",
+  "ZBC": "ZBC: 239",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Mawh neite Zeisu’n ngai hi",
+        "Hi thupha na thang sak un",
+        "Tawntung lam khial aa puuk",
+        "mi",
+        "Lung hei nei mi va hilh un"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Sa sa un, sa kikkik un",
+        "Mawhneite",
+        "Zeisu’n ngai hi",
+        "Hih thu tel tak tang ko un",
+        "Mawh neite Zeisu’n ngai",
+        "hi"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Hong pai in, hong damsak ding,",
+        "Na muang in, a thutak hi",
+        "Asia bel pen zong",
+        "saang ding,",
+        "Mawh neite Jesuh’n ngai hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Tu’n sin sung kisuang nawn",
+        "lo,",
+        "Thukham mai-ah ka siangta;",
+        "Amah’n hong siangsak khinzo,",
+        "Thukham kalhna cinkhin",
+        "ta."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Mawhneite Jesuh’n ngai hi,",
+        "Kei nangawn a mawhpi mah;",
+        "Vantungah hong",
+        "lutpih hi,",
+        "Mawhna teng siangta inah."
+      ]
+    }
+  ]
+}

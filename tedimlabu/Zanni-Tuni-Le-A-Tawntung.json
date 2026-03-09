@@ -1,0 +1,52 @@
+{
+  "title": "Zanni, Tuni, le A Tawntung",
+  "key": "Key: Bb",
+  "ZBC": "ZBC: 485",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Upna bek tawh i ngah theih thupha lamdang lua hi;",
+        "Zan ni, tuni, a tawntung Jesuh kikhel lo",
+        "hi;",
+        "Mawh neite gum nuam, cinate zong damsak nuam den;",
+        "Adah mite lung nuamsak hi, A minthang",
+        "tahen!"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Zanni, tuni le a tawntung Jesuh kikhel lo,",
+        "Na dang khempeuh a kikhel hang",
+        "Jesuh kikhel lo!"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Mawhneite lawm bawlin gum nuam a, a hong zong Pa;",
+        "Tu’n zuan",
+        "in, kisikna tawh kuunin A khe phungah;",
+        "“Thu hong khen kei ning, na mawh nawn ke’n”",
+        "aci Pa in;",
+        "Na mawhna hong maisak nuam hi tanglai mah bangin."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Leitunga om lai,",
+        "Jesuh’n cinate damsak hi;",
+        "I natnate A thupiakna tawh dam thei lai hi;",
+        "Numei khat in A puan",
+        "mong a lawn ciang dampah hi;",
+        "Tua bang upna mah tawh nang zong hong damsak thei hi."
+      ]
+    }
+  ]
+}

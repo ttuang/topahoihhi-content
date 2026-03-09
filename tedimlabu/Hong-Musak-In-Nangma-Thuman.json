@@ -1,0 +1,57 @@
+{
+  "title": "Hong Musak In Nangma Thuman",
+  "key": "Key: Ab",
+  "ZBC": "ZBC: 284",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Hong musak in, Nangma thuman,",
+        "Keima a ding Na koihsate;",
+        "Ka khut sungah hong pia in,",
+        "Nangmah’n",
+        "Hong khahkhia thei kol sutnate;",
+        "Nangma deihna muh theih nading,",
+        "Kong ngak hi,",
+        "Topa Pasian aw,",
+        "Hong musak in, hong vaak sak in,",
+        "Kha Siangtho aw."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Hong zasak in,",
+        "Nangma thuman,",
+        "Teltak a n ginsak thute;",
+        "Tua hileh thu tampi ka zak hang,",
+        "Lengmang ding hi",
+        "aman lote;",
+        "Nangma deihna tel theih nading,",
+        "Kong ngak hi, Topa Pasian aw,",
+        "Hong zasak in, hong",
+        "vaak sak in,",
+        "Kha Siangtho aw."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Hong zasak in, Nangma thuman,",
+        "Mun khempeuh ah",
+        "lungdam takin;",
+        "Ka lungsim hong puahsak, honsak ta’n,",
+        "Nangma mite ka it",
+        "na’ngin;",
+        "Nangma deihna hih theih nading,",
+        "Kong ngak hi, Topa Pasian aw,",
+        "Ka lungsim sung",
+        "hong vaak sak in,",
+        "Kha Siangtho aw."
+      ]
+    }
+  ]
+}

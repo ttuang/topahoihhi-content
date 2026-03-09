@@ -1,0 +1,51 @@
+{
+  "title": "Lai Siangtho Beel In!",
+  "key": "Key: Bb",
+  "ZBC": "ZBC: 194",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Lai Siangtho beel in, na dang teng na taan zong,",
+        "Hong thuhilhna manphate khahsuah",
+        "ke’n;",
+        "A ihmute tua lungdamna thupha’n phong,",
+        "Tawntung nunna hong ciamteh zo tel khial",
+        "ke’n."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Lai Siangtho beel in, Lai Siangtho beel in,",
+        "Lai Siangtho beel in,",
+        "Lam hilh meivak hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Lai Siangtho beel in, vangil manpha pen hi,",
+        "Pukte phongin",
+        "tawntung nunna pia a;",
+        "A manphatna genkhit zawh ding hilo hi.",
+        "Na zon theih lai-in zong in, tua",
+        "thupha"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Lamkhial mite khe ading khuavak hi-a,",
+        "A puk thei ding khangnote lenkip",
+        "hi;",
+        "A phengtat mawhneite ading lam-etna,",
+        "Teekte’ ciangkhut, laibu hoih pen ahi."
+      ]
+    }
+  ]
+}

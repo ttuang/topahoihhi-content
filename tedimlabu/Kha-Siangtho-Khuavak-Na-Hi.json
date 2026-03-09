@@ -1,0 +1,53 @@
+{
+  "title": "Kha Siangtho, Khuavak Na Hi",
+  "key": "Key: Bb",
+  "ZBC": "ZBC: 173",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Kha Siangtho meivak pi aw,",
+        "Keima lungsim hong taan aw;",
+        "Khuamialna na hawlkhia",
+        "in,",
+        "Khuamialna khuavak sak in."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Kha Siangtho vangliatna aw,",
+        "Kei lungsim hong sawp",
+        "siang aw;",
+        "Khialhna in hunsawt veipi,",
+        "Ka lung sung hong ukzo hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Kha",
+        "Siangtho",
+        "Lungdamna aw,",
+        "Ka lungsim sung nuamsak aw;",
+        "Gimna khempeuh hawlkhia in,",
+        "Dahna",
+        "lungsim damsak in."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Kha Siangtho a dik mi aw,",
+        "Ka lungsim sung hong om aw;",
+        "Milim",
+        "khempeuh susia in,",
+        "Nangmah guak bek hong maang in."
+      ]
+    }
+  ]
+}

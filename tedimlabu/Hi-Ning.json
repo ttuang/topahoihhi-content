@@ -1,0 +1,62 @@
+{
+  "title": "Hi Ning",
+  "key": "Key: A",
+  "ZBC": "ZBC: 201",
+  "sections": [
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Hi ning! Hi ning! Pasian aw nong huh hi,",
+        "Nang aa bek hong hi ning,",
+        "Nong",
+        "tatkhiatna’ng, Na si manpha luang hi,",
+        "Nang aa bek hong hi ning."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Tu-in Topa, Nang kong sang nuamta hi,",
+        "Na itna’n hong zota;",
+        "Khris Topa aw, Nang kong",
+        "beel nuamta hi,",
+        "Nangmah bek kong muangta."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Ka thanemna, lam pial ding ka launa,",
+        "Topa aw nong thei hi;",
+        "Na nasep na’ng hong guan",
+        "in thahatna,",
+        "Nang bek kong mitsuan hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Na hehpihna tu’n hong pia in, Topa,",
+        "La-in ka sasa ding;",
+        "Lungdam takin tu’n ka",
+        "genkhia dinga,",
+        "“Khris aa bek hi’ng” ci ning."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 5",
+      "lines": [
+        "Leitung na om lai-a hong zuante in,",
+        "“Topa nong sem diam” ci;",
+        "“Kong sem",
+        "nuam hi” ci-a Na dawnna in,",
+        "Kote’ lungmuanna hi."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "title": "Topa’ Hong Sapna Ngai In",
+  "key": "Key: Ab",
+  "ZBC": "ZBC: 215",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Topa’ hong sapna tu-in ngai in,",
+        "Buh at dingin hong sam;",
+        "Buh at ding tampi in hong",
+        "ngakzo,",
+        "Hih hang a at ding tawm."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Topa minin na mailam nawt un,",
+        "Itna",
+        "deihsakna tawh;",
+        "Ei hong gupkhiatna thupha letsong,",
+        "Leitung teng thangsak",
+        "un."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Mawhna khuamial sung om mite kiang,",
+        "Ai in va khahkhia un;",
+        "Pai in mawhna kol",
+        "va sutkhia un,",
+        "Mawhna hencip mi kiang."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Lunggim mite lungdamna sungah,",
+        "Itna tawh",
+        "va zol un;",
+        "Amah nuntak tawntungna khomun,",
+        "Tua lai ei hong dawn ding."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Kuan in,",
+        "khuakhal hun bei dekta a,",
+        "Ni hong tum dekta hi;",
+        "Zan khuamial hun hong tung pak dinga,",
+        "Nasep",
+        "hun bei ding hi."
+      ]
+    }
+  ]
+}

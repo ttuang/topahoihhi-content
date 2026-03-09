@@ -1,0 +1,43 @@
+{
+  "title": "Kumpipa Hong Makai In",
+  "key": "Key: D",
+  "ZBC": "ZBC: 180",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Kumpipa hong maikai in, uan ding ni hong tungzo;",
+        "Tu a kipan gal sungah, Nang buk ko inn",
+        "hizo;",
+        "Kigin sung nong hehpihna’n, kote hong hatsak a;",
+        "Hing tawntung Kumpipa tawh, galdo la",
+        "ka sa ta."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Kumpipa hong makai in mawhna gal bei mateng;",
+        "Gal kilemna nuam om a,",
+        "sianthona’n zawh mateng;",
+        "Thau, tei le nam, khuangging tawh Pasian’ gam piang hi",
+        "kei;",
+        "Ki-it kihehpihna tawh, Pasian gam hong tung thei."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Kumpipa’n hong makaih",
+        "in, lau lo kong zui uh hi;",
+        "Na mai kimuhna peuh-ah, lungdamna khuavak hi;",
+        "Na singlamteh ko tungah,",
+        "lam pai na’ng hong taan aw;",
+        "Galzawh lukhu’n hong ngak hi, Hong pi in Pasian aw."
+      ]
+    }
+  ]
+}

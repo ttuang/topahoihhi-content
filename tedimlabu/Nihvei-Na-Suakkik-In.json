@@ -1,0 +1,65 @@
+{
+  "title": "Nihvei Na Suakkik In",
+  "key": "Key: Eb",
+  "ZBC": "ZBC: 249",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Upa khat zanlai Jesuh kiangah pai-a,",
+        "Gupna ngah nading khuavak lampi dong hi;",
+        "Topa in a",
+        "tel takin a hilh in-ah,",
+        "“Nihvei na suak in,” ci (in ci)"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Nihvei na",
+        "suakkik in! (kik in!)",
+        "Nihvei na suakkik in! (kik in!)",
+        "Aman takin kong ci hi, kong hilh kik",
+        "hi,",
+        "Nihvei na suakkik in! (kik in!)"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Topa Jesuh thu hilh kikna a pha hi,",
+        "Leitung",
+        "mihingte ngaihsut ding kilawm hi;",
+        "A thupiakna a mawkna hilo ding hi,",
+        "“Nihvei na suak",
+        "in,” ci (in ci)"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "A teel mite tawh lungdamin la sa ta,",
+        "Miphate’n a minthang",
+        "lungdamin nuam a;",
+        "Hin tawntung lungdam nuamna na ngah nop leh,",
+        "“Nihvei na suak in,” ci",
+        "(in ci)"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Na muhnop mihingte vantung khuapi ah,",
+        "A siangtho kong biangah nang hong ngak",
+        "uh hi;",
+        "Tua bang na muh nang hih thupiakna ngai in,",
+        "“Nihvei na suak in,” ci (in ci)"
+      ]
+    }
+  ]
+}

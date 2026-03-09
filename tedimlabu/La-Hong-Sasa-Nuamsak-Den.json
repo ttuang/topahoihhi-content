@@ -1,0 +1,59 @@
+{
+  "title": "La Hong Sasa Nuamsak Den",
+  "key": "Key: Ab",
+  "ZBC": "ZBC: 158",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Ka lung sungah la ngaih hong kisa, Jesuh hong hopihna hi;",
+        "Lau ke’n nang kong ompih",
+        "tawntung na,",
+        "Lungmaung takin om in, ci."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Jesuh, Jesuh, Jesuh,",
+        "Min teng pan",
+        "ngaih pen;",
+        "Lunggulh teng kicinna,",
+        "La hong sasa nuamsak den."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Ka nuntakna",
+        "mawhna’n su gawp zo, Lungsim sia, natna dimsak;",
+        "Jesuh’n asia teng hong lepsak zo,",
+        "A",
+        "ngaih la khanglo kiksak."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Hong hehpihna pha tawh kivakin, A kha nuai ka beelzo ta;",
+        "A",
+        "maitai ka muh tawntung manin,",
+        "Awngin la ka sa thei ta."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "A sawt lo-in hong pai kik ding",
+        "hi, Van ah hong la to dingin;",
+        "Theih loh gamah ka leeng to ding hi,",
+        "Amah tawh mangkhawm dingin."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "title": "254(A). A MIN THANG TA HEN",
+  "key": "Key: Ab",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Jesuh sihna singlamteh phungah,",
+        "Mawhna hong phel na’ng kaki ko a;",
+        "Tua lai-ah sisan",
+        "in hong sawp ta,",
+        "A minthang ta hen."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "A minthang ta hen,",
+        "A minthang ta",
+        "hen;",
+        "Tua lai ah sisan in hong sawp ta,",
+        "A min thang ta hen."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Mawhna pan hong hotna",
+        "lamdang hi,",
+        "Jesuh’n nuam tak-in hong om pih hi;",
+        "Tua sing lamteh ah kei hong sam hi,",
+        "A",
+        "minthang ta hen."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Mawh sawp siang na tui nak manpha a,",
+        "Ka tun man in kei ka nuam lua",
+        "a;",
+        "Jesuh’n hong hon hong siang sak zo ta,",
+        "A min thang ta hen."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Tua cik tui",
+        "man-pha ah hong pai un,",
+        "Jesuh khe phungah hong ki-ap un;",
+        "Ki bual un-la, kisawp siang sak",
+        "un,",
+        "Amin thang ta hen."
+      ]
+    }
+  ]
+}

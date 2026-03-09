@@ -1,0 +1,54 @@
+{
+  "title": "Topa Tawh Kibang Nuam Ing",
+  "key": "Key: Db",
+  "ZBC": "ZBC: 375",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Top tawh kibangzaw sem nuam lai ing,",
+        "A kiniamkhiat bang, a migit luat bang;",
+        "A thanop",
+        "bangin, a thuman mah bangin,",
+        "Hong vaikhak mah bang, kipia in sem nuam ing."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Kei",
+        "hong sang in, Nang aa bek hi nuam ing,",
+        "Kei hong sang in, Nang aa bek hi nuam ing;",
+        "Ka hong thuum",
+        "hi, Topa hong siangsak in,",
+        "Hong sawp inla, hong kem tawntung ta in."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Topa bang nisim",
+        "thu ngenngen nuam ing,",
+        "Thahat nuam lai ing, singlamteh pua ding;",
+        "Hanciam nuam lai ing, Ama gam",
+        "adingin,",
+        "Kha Siangtho sap lai, a vakthapte ading."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Topa bangin nungta in khang nuam",
+        "ing,",
+        "Amah bang mi dang itna lak nuam ing;",
+        "Galilee gam ah pumpi deihna nial bang,",
+        "Topa tawh a",
+        "tawntungin kibang nuam ing."
+      ]
+    }
+  ]
+}

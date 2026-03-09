@@ -1,0 +1,54 @@
+{
+  "title": "Damna Tui A Luanna-ah Ka Teeng Hi",
+  "key": "Key: A",
+  "ZBC": "ZBC: 357",
+  "sections": [
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Ka teenna gam nuam nuntakna tui gei-ah,",
+        "“Damna tui a luanna ah ka teeng",
+        "hi;”",
+        "Ka teenna gam nuam nunna tui a luanna,",
+        "“Damna tui a luanna ah ka teeng hi.”"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Israel mite tawh lungnuam takin ka paikhawm hi,",
+        "“Damna tui a luanna ah ka teeng",
+        "hi;”",
+        "A muanhuai meikhuam in ka paina ding lam hong laka,",
+        "“Damna tui a luanna ah ka",
+        "teeng hi.”"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Tunglam pan a Manna hangin, ka gilkial nawn kei ding,",
+        "“Damna tui a luanna ah ka teeng",
+        "hi;”",
+        "Suangpi pan phul itna tui hangin dangtak nawn kei ning,",
+        "“Damna tui a luanna ah ka",
+        "teeng hi.”"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Suakta zo ing, Hallelujah ci-in la ngaihsa ing,",
+        "“Damna tui a luanna ah ka teeng",
+        "hi;”",
+        "Ama kamciam muang in, A sisan hangin, suakta ing,",
+        "“Damna tui a luanna ah ka teeng",
+        "hi.”"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "title": "Ka Hun Na Khut Sngah",
+  "key": "Key: Bb",
+  "ZBC": "ZBC: 299",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Ka hun Na khut sungah, Topa kong ap khin hi;",
+        "Ka lawmte le ka pum ka kha, Topa kong ap khin",
+        "hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Ka hun Na khut sungah, Nang deihna bang hihen;",
+        "Khuamial khuavak nopna dahna, Nang",
+        "hoihsak bang hihen."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Ka hun Na khut sungah, patauh na’ng om ding hiam?",
+        "Ka",
+        "pa’n a mawkna-in Ata, khitui a luangsak diam?"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Ka hun Na khut sungah, kong ap",
+        "tawntung ding hi;",
+        "Ka sih khit ciang na tak lamah, ka om tawntung ding hi."
+      ]
+    }
+  ]
+}

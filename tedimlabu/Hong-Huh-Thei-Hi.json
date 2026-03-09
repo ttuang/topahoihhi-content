@@ -1,0 +1,40 @@
+{
+  "title": "HONG HUH THEI HI",
+  "key": "Key: Bb",
+  "ZBC": "ZBC: 051",
+  "sections": [
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Amah in nang a hong gum theilai hi.",
+        "Ama khut in gal liahna hi ding hi,",
+        "Amah nang hong",
+        "gum thei lai ding hi.",
+        "Tua hi-a lau kei in."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Lungmang mi aw, gal tam hanginah,",
+        "Gal nanna le thu-upna liansak ta’n;",
+        "Topa",
+        "vangliatna tawh na do dinga,",
+        "Galzo na hi ding hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Lungmang mi aw, lam haksat ciangin,",
+        "Topa’n kihtakna a paihkhiatsak ding;",
+        "Huhna na",
+        "deih leh Amah’n nei lai ding,",
+        "A minpha sakta in."
+      ]
+    }
+  ]
+}

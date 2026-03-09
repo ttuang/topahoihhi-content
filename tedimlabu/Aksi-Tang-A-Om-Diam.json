@@ -1,0 +1,54 @@
+{
+  "title": "Aksi Tang a om diam?",
+  "key": "Key: A",
+  "ZBC": "ZBC: 218",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Tu ni-in ah tua gam nuam ke’n ka ngaihsun hi,",
+        "Ni tum ciangin ah ka tung ding hi",
+        "Heh",
+        "pih na tawh Honpa kiang ka din’ ciangin ah",
+        "Ka lu tang aksi taang a om",
+        "diam?"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Ka lu tung aksi taang, aksi taang a om diam?",
+        "Ni tak a ni a tum ciang-in-ah",
+        "(ciang-in-ah)",
+        "Tawl dam na inn sung ah ka khan lawh cianginah",
+        "Ka lu tung aksi taang a om diam (a om",
+        "diam)"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Topa hatna sungah na seemin thungen ding",
+        "Ka ngah mi bang kei hong hi sak",
+        "in,",
+        "Min than’ ni’n aksi taang kei aa ding hi kha ding",
+        "A mah phatna tui hual bang om",
+        "ciang"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "A ma mai ka et ciang bangzahin lungdam ding,",
+        "A khe phung ah suangmanpha koih",
+        "ding",
+        "Kham khuapi sungah lungdamna hong khang sak ding,",
+        "Ka lu tung aksi taang a om diam?"
+      ]
+    }
+  ]
+}

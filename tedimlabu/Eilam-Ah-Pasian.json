@@ -1,0 +1,71 @@
+{
+  "title": "Eilam ah Pasian",
+  "key": "Key: G",
+  "ZBC": "ZBC: 359",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Topa sung nuam un, A hehpihna phat un,",
+        "Hong hencip khempeuh phelkhia hi",
+        "Si tawh hong",
+        "tanzo",
+        "Lau nawn peuhmah kei un,",
+        "Jesuh ah deihna teng cing hi."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Eilam ah",
+        "Pasian, ei lamah Pasian,",
+        "Eilam hong om leh",
+        "kua i lang pang zo ding?",
+        "Kua? ..... Kua?....",
+        "Kua?....",
+        "Kua i langpang zo, kua pang zo ding?"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Topa sung hat un,",
+        "A tha hat na",
+        "suangun,",
+        "Ni sim thuman in ci tak ni",
+        "Siatna’n hong nawk ciang,",
+        "Thu man ah ding kip",
+        "un,",
+        "Amah I tha I bukna hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Topa thu muang un,",
+        "A ciampeel ngei lo hi,",
+        "Khris",
+        "sung ah “amen” hi khin ta:",
+        "Lei a bei zongin,",
+        "A thu bei lo ding hi,",
+        "Lai Siangtho",
+        "in gen khinzo ta."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Topa sung kip un, A ang muanhuai sungah,",
+        "Tawntung nuntak kipatna",
+        "hi;",
+        "A thanem pen zong, a khut sung panin ah,",
+        "Kuamah in sut zolo ding hi."
+      ]
+    }
+  ]
+}

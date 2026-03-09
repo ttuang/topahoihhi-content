@@ -1,0 +1,64 @@
+{
+  "title": "Hong Honpa Hong Pai IN",
+  "key": "Key: C",
+  "ZBC": "ZBC: 262",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Kong sapna ngai in, tu’n hong hehpih in,",
+        "Hong Honpa hong pai in!",
+        "Ka lunggim zo, Nang",
+        "kong ngaita tu-in,",
+        "Hong Honpa hong pai in!"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Ka va gammang mualtung khuadam",
+        "lakah,",
+        "Inn pan gamlapi ka pial khin;",
+        "Tu’n hong la in, hong ciahpih’n Na inn",
+        "ah",
+        "Hong Honpa hong pai in!"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Zan khuamial sung ka belh ding ka nei lo,",
+        "Hong Honpa",
+        "hong pai in!",
+        "Khatvei Nong et hinna khuavak hizo,",
+        "Hong Honpa hong pai in!"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Lam",
+        "gamdai a ka khe zong gimzo ta,",
+        "Hong Honpa hong pai in!",
+        "Ka dak leh Na it mai mu zenzen a,",
+        "Hong",
+        "Honpa hong pai in!"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Na nial ngei kei, lung tamkhamte’ thuumna,",
+        "Hong Honpa hong",
+        "pai in!",
+        "Na ngai in lung niamkhiat a kong thumna,",
+        "Hong Honpa hong pai in!"
+      ]
+    }
+  ]
+}

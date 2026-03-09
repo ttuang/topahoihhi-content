@@ -1,0 +1,62 @@
+{
+  "title": "KA MUANNA JESUH A HI",
+  "key": "Key: G",
+  "ZBC": "ZBC: 320",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Keima ka muanna a bulpi,",
+        "Jesuh si le siantho na hi;",
+        "A dang thu teng ka um ngam",
+        "kei,",
+        "Jesuh a min bek ka um thei."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Keima dinna Jesuh Suangpi,",
+        "Omna dang teng",
+        "sehnel bang hi.",
+        "Omna dang teng sehnel bang hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Khuamial in a mai liah ciangin,",
+        "A",
+        "hong hehpihna ka muang ding;",
+        "Huihpi nakpi a nunciang ah,",
+        "Munliahna sungah sikkip",
+        "khia."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "A thuciamna le Ama si,",
+        "Tuipi kanlai ka muang ding hi;",
+        "Ka kiimkot teng a",
+        "siat ciangah,",
+        "Ka muanna in Jesuh Topa."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Pengkul aw tawh hong pai ciangin,",
+        "A ma",
+        "mai ah ka ding nuam hi;",
+        "A hong siangtho sak khit ciangin,",
+        "Mawhnei loin ka om ding hi."
+      ]
+    }
+  ]
+}

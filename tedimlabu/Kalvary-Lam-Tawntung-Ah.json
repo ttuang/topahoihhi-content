@@ -1,0 +1,54 @@
+{
+  "title": "Kalvary Lam Tawntung Ah",
+  "key": "Key: G",
+  "ZBC": "ZBC: 122",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Ka lungsim hong tuam khuamial zing mahmah a,",
+        "Hong Honpa thuak dahna lian lua a;",
+        "A thupha",
+        "khuavak in kei hong taan ciangin,",
+        "Khuamialna bei-in khua hong vakta."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Kei ading",
+        "Kalvary lam tawntungah pai,",
+        "Kei ading pai, kei ading pai,",
+        "Kei ading Kalvary lam tawntungah",
+        "pai,",
+        "Kei suahtak na’ng si hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Mawh nei kei mah liingin Amai ka kun",
+        "hi,",
+        "Mawh mai hehpihna ka theihloh pi;",
+        "Aw khum takin hong ci, “Dah peuhmah kei in,",
+        "Na",
+        "mawhna leiba kong lohsak khin.”"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Honpa hong lah itna lamdang mahmah a,",
+        "Tokhom",
+        "nusia’n Kalvary zuanta;",
+        "Amah bek in sisan luangin hong tan hi,",
+        "A min pahtawi-in thangsak ve",
+        "ni."
+      ]
+    }
+  ]
+}

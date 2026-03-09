@@ -1,0 +1,66 @@
+{
+  "title": "Anlate Kawh Om?",
+  "key": "Key: G",
+  "ZBC": "ZBC: 216",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Mawhna lo lai a ahoih teng buhlom,",
+        "A kaikhawm ding an late koi ah om;",
+        "Nasepna dingin",
+        "thuman phiaukawi keng,",
+        "Kuamah khawl lo ding an lak khit mateng."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "An late kawh om,",
+        "kua hong kuan nuam?",
+        "An lak pawi sung ah kua hong lungdam khawm nuam?",
+        "Kua’n hong khoppih",
+        "ding, buhlom hoih teng,",
+        "Mawhna lo sunga om buhlom teng."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Zawi neu zong zui-in zongin",
+        "pha takpi,",
+        "Lopa a sau hang buh om thei ding hi;",
+        "Lam lian zong zui inla nusiat nei",
+        "ke’n,",
+        "Vantung innpi sung hong tum khin uh hen."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Lo teng khempeuh ah an min",
+        "khinta hi,",
+        "Leitung khempeuh in lak ding bek ngak hi;",
+        "Ahih hang a la ding tawm lak ding",
+        "tam,",
+        "La mengmeng kei leng lah a sia ding tam."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Tua ahih ciang hong pai un phiaukawi",
+        "tawh,",
+        "Anpha kaikhawm un, no mihingte aw;",
+        "An nei Topa hong pai mateng sem un,",
+        "Tua ciang anlak",
+        "pawi-ah lungdam khawm un."
+      ]
+    }
+  ]
+}

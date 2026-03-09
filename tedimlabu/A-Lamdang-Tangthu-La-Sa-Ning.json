@@ -1,0 +1,62 @@
+{
+  "title": "A Lamdang Tangthu La Sa Ning",
+  "key": "Key: Eb",
+  "ZBC": "ZBC: 098",
+  "sections": [
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "A lamdang tangthu lasa ning",
+        "Jesuh si hi kei tang ding",
+        "Lim lang tui thuk gei ki khop",
+        "ciang",
+        "Mi siangtho te tawh sa ning"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "A gammangte Jesuh’n zong hi",
+        "Lam a khial tuu te zong hi",
+        "A khut tawh kei mah hong pom",
+        "hi",
+        "Lampi ah hong kha kik hi"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Cinate Jesuh’n dam sak a",
+        "A kipukte zong phong hi",
+        "Mittaw in a lau na tam a",
+        "A hih",
+        "hang hong gum ding hi"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Khuamial kei tungah hong tung ta",
+        "Dahna lampi ka zui ta",
+        "Kei hong ompih in Topa aw",
+        "Hong",
+        "keem in lam hong hilh ta"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 5",
+      "lines": [
+        "Sihna gun gal kah mateng in",
+        "Topa in hong cing ding hi",
+        "I itte tawh kimu ding in",
+        "Gungal",
+        "ah hong kha ding hi"
+      ]
+    }
+  ]
+}

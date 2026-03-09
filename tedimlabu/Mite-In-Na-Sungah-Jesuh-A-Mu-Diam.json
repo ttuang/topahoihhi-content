@@ -1,0 +1,53 @@
+{
+  "title": "Mite In Na Sungah Jesuh A Mu Diam?",
+  "key": "Key: Bb",
+  "ZBC": "ZBC: 495",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Topa deihna bangin i gamta hiam,",
+        "Pai kawikawi a na i sepna peuhah;",
+        "Midangte in ei’",
+        "sungah a mu diam?",
+        "Kalvary mual a Mipa!"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Kei’ sung Jesuh a kimu",
+        "diam?",
+        "Nang sung Jesuh a kimu diam?",
+        "Na heina teng khempeuh ah na itna kilang hiam?",
+        "Ei sung",
+        "Jesuh a kimu diam?"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Ki-itna takpi eite’n i nei hiam,",
+        "Topa’ bawlsa mi",
+        "mangthang khempeuhte;",
+        "Bangbang i tuak zong eite’n i sem diam?",
+        "Kaikhawm dingin mawh",
+        "neite!"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Hong kisim thei dingin laimal bangin,",
+        "Gamtat kampaute nisim kidawm",
+        "ni;",
+        "Jesuh kiang mite’n a zuat theih na’ngin,",
+        "Nisim ki-itna nei ni."
+      ]
+    }
+  ]
+}

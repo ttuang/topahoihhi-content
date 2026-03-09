@@ -1,0 +1,68 @@
+{
+  "title": "Kikhopna Lian!",
+  "key": "Key: C",
+  "ZBC": "ZBC: 489",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Mihing Tapa hong paikik na’ng tua khuavak pha zingsang le,",
+        "A minthanna tangpha",
+        "eite’n i mu ding;",
+        "Micin namin lak panin Ama’ mite hong ciahpih",
+        "teh,",
+        "Hotkhiatsate’ kikhopna lianpi hi ding!"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Kikhopna lian! Kikhopna",
+        "lian!",
+        "Hotkhiatsate’ kikhopna lian itna gam sungah;",
+        "Kikhopna lian! Kikhopna",
+        "lian!",
+        "Hotkhiatsate’ kikhopna lian vantung ah!"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Ama sunga ihmusa mi Jesuh’n",
+        "A thawhsak hun ciang,",
+        "A gamdai hankhuk le tuipi sung panin;",
+        "Siangtho pumpi nei-in vanah kilato",
+        "ding Ama kiang,",
+        "Hotkhiatsate’ kikhopna lianpi hi ding!"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "“Omna tampi”",
+        "a omna mun tua khuapi lian i et ciang,",
+        "A khawnkhong a luang nuntakna gun mu ding;",
+        "Sihna in hong",
+        "khensa lawmte nuamna tawh i muh hun ciang,",
+        "Hotkhiatsate’ kikhopna lianpi hi",
+        "ding!"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Kumpipa hong pai laitak ding, a hun hong nai khinzo ta,",
+        "Hong naizo hong ciamsa ni",
+        "thupi mu ding;",
+        "“Mit phiat kal sung hun tomno ah” eite i kikhel khin",
+        "ding,",
+        "Hotkhiatsate’ kikhopna lianpi hi ding!"
+      ]
+    }
+  ]
+}

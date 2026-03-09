@@ -1,0 +1,53 @@
+{
+  "title": "Amah Ka It Hi",
+  "key": "Key: D",
+  "ZBC": "ZBC: 114",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Leitung nopnate lunggulh nawn kei i ng,",
+        "Sisan hangin launa pan suakta",
+        "ta’ng;",
+        "Singlamteh phungah ka lungsim nga ing,",
+        "Jesuh si in vuk bangin hong ngosak zo",
+        "hi."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Ka it hi, ka it hi,",
+        "Amah’n hong it masa,",
+        "Kalvary khuam tung gupna",
+        "hong leisak hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Mawhna sungah khatvei ka mangthang hi,",
+        "Mawhna sila-in ka om khinzo",
+        "hi;",
+        "Pasian ka hehsak ding ka lau ngei hi,",
+        "Ahih hang Jesuh si in mawhna teng sil",
+        "hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Kol bulhna thuak ngei ha’ng tu’n suakta ing,",
+        "Khuamil sung om ngei",
+        "hang tu’n khuavak mu’ng;",
+        "Si ngei zo, hih hang tu’n Khazih sung hing,",
+        "Hong",
+        "piakkhiat kilemna leitung teng ka gen ding."
+      ]
+    }
+  ]
+}

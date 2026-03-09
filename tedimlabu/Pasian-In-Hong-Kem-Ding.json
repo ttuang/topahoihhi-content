@@ -1,0 +1,40 @@
+{
+  "title": "PASIAN IN HONG KEM DING",
+  "key": "Key: Db",
+  "ZBC": "ZBC: 023",
+  "sections": [
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Pasian in hong kem ding a tawp dong in,",
+        "Lamdang pa le lawm hoih pen hon pa hi,",
+        "Na sap",
+        "sim in Jesuh hong dawng ding hi",
+        "Na khempeuh ah muang in hong kem ding hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Pasian in hong kem ding a tawntungin,",
+        "Lampi hong hilh hi na kalsuan simin,",
+        "Hong cing hong",
+        "kem hong makah",
+        "Topa hi, tuidam luan na mun ah hong kha ding hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Pasian in hong kem dingnuntak hun sung,",
+        "Kuamah neih loh thupha hong pia tawn tung",
+        "Hun bei",
+        "ciang zong nang hong kem lai ding hi",
+        "Lungnuam takin a gam hong tun ding hi."
+      ]
+    }
+  ]
+}

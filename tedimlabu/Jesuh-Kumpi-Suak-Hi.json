@@ -1,0 +1,56 @@
+{
+  "title": "Jesuh Kumpi Suak Hi",
+  "key": "Key: Eb",
+  "ZBC": "ZBC: 272",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Jesuh Kumpi suak a, van tokhom tung tu hi;",
+        "Kumpi lukhu kikhusak a, mi siangte’n pahtawi",
+        "hi."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Tat (khiat) sa mi siangte tawh,",
+        "Lung (sim) muangin Honpa tawh,",
+        "I lung a",
+        "kim ding hi, Nung (nung) ciangin!",
+        "Nung ciangin! Nung ciang!",
+        "I lung a kim ding hi, nung",
+        "ciangin!"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Sim zawh loh mi honpi’n, puanpaak silh tee zihziah;",
+        "Pahtawina nisuh",
+        "hiang tawi-in, phatna la sa ziahziah."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Amau ading sipa, Tuuno a phat uh",
+        "hi;",
+        "Tuuno’ sisan hang kilemna, lukhu khu ciat uh hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Kha Siangtho hehpihna, Ko",
+        "ading nong pia hi;",
+        "Gualzo mi siangte tawh van-ah, Nong kipawl khawmsak hi."
+      ]
+    }
+  ]
+}

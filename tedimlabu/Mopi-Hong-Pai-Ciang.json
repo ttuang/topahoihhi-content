@@ -1,0 +1,76 @@
+{
+  "title": "Mopi Hong Pai Ciang",
+  "key": "Key: E",
+  "ZBC": "ZBC: 166",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "I meivakte baihsa’n om diam? Mopi hong pai ciang,",
+        "I meivakte tangsa’n om diam? Mopi",
+        "hong pai ciang,",
+        "Tua zan-ah, tua zan dai ah,",
+        "I meivak tang pha’n om diam? Mopi hong pai",
+        "ciang."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "A baihsa’n om a baihsa’n om,",
+        "A baihsa’n om, Mopi hong",
+        "pai ciang,"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Vaitutna aw i za ding hiam? Mopi hong pai ciang,",
+        "Nuamna otna aw i za diam?",
+        "Mopi hong pai ciang,",
+        "Tua zan-ah, tua zan dai ah,",
+        "I meivak tang pha’n om diam? Mopi hong pai",
+        "ciang."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Kikhenna a om kei na diam? Mopi hong pai ciang,",
+        "Na kithawina aw i za diam?",
+        "Mopi hong pai ciang,",
+        "Tua zan-ah, tua zan dai ah,",
+        "I meivak tang pha’n om diam? Mopi hong pai",
+        "ciang."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Dah hun a hi kha kei na diam? Mopi hong pai ciang,",
+        "Meitui sap hun a hi kha",
+        "diam? Mopi hong pai ciang,",
+        "Tua zan-ah, tua zan dai ah,",
+        "I meivak tang pha’n om diam? Mopi",
+        "hong pai ciang."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 5",
+      "lines": [
+        "Kimuhna nuam hita ding hi, Mopi hong pai ciang,",
+        "Hallelujah i ci ding",
+        "hi, Mopi hong pai ciang,",
+        "Tua zan-ah, tua zan dai ah,",
+        "I meivak tang pha’n om diam? Mopi hong",
+        "pai ciang."
+      ]
+    }
+  ]
+}

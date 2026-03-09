@@ -1,0 +1,53 @@
+{
+  "title": "Topa Aw Nang Hong Zui Nuam Ing",
+  "key": "Key: Eb",
+  "ZBC": "ZBC: 370",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Topaw aw, Nang hong zui nuam ing,",
+        "Nangmah bangin mi huh nuam ing;",
+        "Haksatnate thuakzo",
+        "dingin,",
+        "Na thusimte kei hong hilh in."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Lungsim tuantual huhzawh nading,",
+        "A",
+        "vakthapte khoh zawh nading;",
+        "Inn ah ciahpih theih nadingin,",
+        "Itna kamsiam kei hong guan",
+        "in."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Nangma lungduaina hogn hilh in,",
+        "Nang tawh sem khawm pang khawm dingin;",
+        "Upna",
+        "kipsak, sepna, bawlna,",
+        "Hon pia’n gualzawhna le muanna."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Khuavak a tangsak",
+        "lam-etna,",
+        "Mai nawtzawhna ding khuavakna;",
+        "Nang bekmah in nong pia thei hi,",
+        "Nong ompih den ding",
+        "ka ut hi."
+      ]
+    }
+  ]
+}

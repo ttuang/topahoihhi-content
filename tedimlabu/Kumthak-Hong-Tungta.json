@@ -1,0 +1,43 @@
+{
+  "title": "KUMTHAK HONG TUNGTA",
+  "key": "Key: Eb",
+  "ZBC": "ZBC: 454",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Tu-in kum thak hong tung ta, Topa nong piaksa hi;",
+        "Sep ding bawl ding kum hi a, Nang tawh sep",
+        "khop ding hi;",
+        "Mainawtna ding kum hi a, Kong phat ding kum a hi;",
+        "Nisim a nong ompihna, Theih telna",
+        "ding kum hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Hehpihna kum thak hi a, Cihtak na’ng kum zong hi;",
+        "Na maipha muh",
+        "kum hi a, Lung damna’ng kum thak hi,",
+        "Nong hehpihna ang-sung a, Kong ki ap kum a hi;",
+        "Lungnuam",
+        "tawl dam hit-hiat a, Kong muan na’ng kumthak hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Nong itna thu gen khia a, Nasep",
+        "na’ng kumthak hi;",
+        "Nasep siangtho sem ding a, Kipattah kum a hi;",
+        "Tu-in kum thak hong tung ta,",
+        "Topa nong piaksa hi;",
+        "Leitung leh vantung teng a, Na minthan ding kum hi."
+      ]
+    }
+  ]
+}

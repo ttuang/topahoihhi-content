@@ -1,0 +1,64 @@
+{
+  "title": "I OM DIAM TUA LAI AH?",
+  "key": "Key: F",
+  "ZBC": "ZBC: 402",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "A minthang mahmah innpi nuam khat om hi,",
+        "Van sang dawn pek pek ah;",
+        "Tatsa te Jesuh tawh",
+        "teen nading mun hi,",
+        "I om diam tua lai-ah?"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "I om diam tua lai-ah?",
+        "I om diam",
+        "tua lai-ah?",
+        "Tatsate Jesuh tawh teen na ding mun hi,",
+        "I om diam tua lai",
+        "ah?"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Puakpaak silh in kham kong zing zui ding uh hi,",
+        "mei thenna van",
+        "gam-ah;",
+        "Pasian’ itna khuavak ah pai ding uh hi,",
+        "I pai diam tua",
+        "lai-ah?"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Eite hong it Jesuh i muh ciang in-ah,",
+        "Pelh lo i zui ding hi;",
+        "Tua a nuam",
+        "innpi ah hong khop ciangin-ah,",
+        "Ei zong i om ding hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Topa Jesuh singlamteh i belh",
+        "ciangin,",
+        "Sisan in hong gawm hi;",
+        "Leitung nuntak na i nusiat ciangin,",
+        "A kiang i tung ding hi."
+      ]
+    }
+  ]
+}

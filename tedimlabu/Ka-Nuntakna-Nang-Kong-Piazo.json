@@ -1,0 +1,52 @@
+{
+  "title": "Ka Nuntakna Nang Kong Piazo",
+  "key": "Key: F",
+  "ZBC": "ZBC: 371",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Kei tang ding si, Pasian Tuuno,",
+        "Ka nuntakna Nang kong piazo;",
+        "Nang tungah kong thuman",
+        "nuamzo,",
+        "Hong Honpa Pasian aw."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Kei tang dingin, Nang nong si hi,",
+        "Nang ading",
+        "ka nungta ding hi;",
+        "Ka lung a dam tawntung ding hi,",
+        "Hong Honpa Pasian aw."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Keima",
+        "nong sana tu’n ka um hi,",
+        "Ka nuntakna ding nong si hi;",
+        "Tu a kipan kong muang ding",
+        "hi,",
+        "Hong Honpa Pasian aw."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Keima suahtak nading inah,",
+        "Nang nong si zo, Kavary",
+        "ah;",
+        "Ka nuntakna kong ap khinpah,",
+        "Hong Honpa Pasian aw."
+      ]
+    }
+  ]
+}

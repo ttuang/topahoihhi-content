@@ -1,0 +1,73 @@
+{
+  "title": "Hallelujah! Khinzo",
+  "key": "Key: G",
+  "ZBC": "ZBC: 318",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Gupkhiatna ngah ding Pasian in thu hong ciamzo,",
+        "Ama Topa Jesuh min a um",
+        "khempeuhte."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Hallelujah! Khinzo, Tapa min ka um zo;",
+        "Ama sisan in kei hong gumkhia",
+        "khinzo ta!",
+        "Hallelujah! Khinzo; Tapa min ka umzo;",
+        "Ama sisan in kei hong gumkhia khinzo",
+        "ta."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Tua l amp gam dai-in a lauhuai hangin ah,",
+        "Topa Jesuh in kei hong paipih zo ding",
+        "hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Ka it ka ngaih tampi vantung gam sung tungzo,",
+        "Lungmuang tak tua gamah hih lapi sa",
+        "uh hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Naupang note Ama kiangah ding uh ka mu,",
+        "Gupkhiatna la sa uh Amah na nui",
+        "hiuhiau."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 5",
+      "lines": [
+        "Kikhopna sung kumpite kamsangte ka mu,",
+        "Kham kongzing lampite zui-in lasa uh",
+        "hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 6",
+      "lines": [
+        "Nang le kei adingin tua lai-ah la om hi,",
+        "A tawntung tua lai-ah i phat tawntung",
+        "ding hi."
+      ]
+    }
+  ]
+}

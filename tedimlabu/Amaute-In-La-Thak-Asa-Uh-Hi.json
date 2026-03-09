@@ -1,0 +1,40 @@
+{
+  "title": "Amaute in La Thak Asa Uh Hi",
+  "key": "Key: C",
+  "ZBC": "ZBC: 421",
+  "sections": [
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Jesuh min phat ni,",
+        "Kalvary mual tung sizo hi;",
+        "Jesuh min phat ni,",
+        "Sihna zo a,",
+        "hingkik ta hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Hong hehpihna phatna’ng la thak om kim hi,",
+        "A um tading thupha bel ahi ding hi;",
+        "Topa",
+        "si a a piangkik a minthanna,",
+        "Ka genna sa nuam bel Pasian kiangah."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Tuni sipha tawh a kisil lote in,",
+        "Tua la thak kuamah in sa thei lo ding hi;",
+        "Mawh neite",
+        "mawhna phel a hong hehpihna,",
+        "Phatna lungdamin limtakin la sa ni."
+      ]
+    }
+  ]
+}

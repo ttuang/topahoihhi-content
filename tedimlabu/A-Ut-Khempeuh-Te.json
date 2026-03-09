@@ -1,0 +1,60 @@
+{
+  "title": "A UT KHEMPEUH TE",
+  "key": "Key: D",
+  "ZBC": "ZBC: 238",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "A zate khempeuh in hih thu tangko un,",
+        "Leitung khempeuh ah hih thupha thangsak un;",
+        "Mi na",
+        "muh khempeuh hih nuamna thu ko un,",
+        "A ut khempeuh hongpai thei"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "“A ut",
+        "khempeuhte,” “A ut khempeuhte,”",
+        "Cih na thu a mual a guam va thawn sak un;",
+        "Hong",
+        "it i Pa in hong samkik lam khialte,",
+        "“A ut khempeuh hong pai un.”"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Hong",
+        "paite in zekai",
+        "nading thu om lo,",
+        "Lut theih lai in lut un,",
+        "Kong hon sa’n om",
+        "zo;",
+        "Jesuh lo thu man",
+        "hinna lampi om lo,",
+        "A ut khempeuh hong pai thei"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "A ut",
+        "khempeuhte",
+        "thuciam a man tak hi,",
+        "A ut khempeuhte",
+        "thuciam a kip ding hi;",
+        "A ut",
+        "khempeuh-te”",
+        "nuntak tawntung na hi,",
+        "A ut khempeuh hong pai thei"
+      ]
+    }
+  ]
+}

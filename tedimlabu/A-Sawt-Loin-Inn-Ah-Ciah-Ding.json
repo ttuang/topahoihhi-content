@@ -1,0 +1,65 @@
+{
+  "title": "A SAWT LOIN INN-AH CIAH DING",
+  "key": "Key: F",
+  "ZBC": "ZBC: 446",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Lampi ah hong lungnuam sak ding la khat sa ni,",
+        "A sawt loin ah inn ah ciah ding;",
+        "Zan",
+        "khuamial bei ding, ni tang tawntungna sungah,",
+        "A sawt loin ah inn ah ciah ding."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "A",
+        "sawt loin ah, a sawt loin ah,",
+        "Tuipi hual i kantan ding;",
+        "Eite kimu ding huihpi nung a ven ciang",
+        "in,",
+        "A sawt loin ah inn ah ciah ding."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Sep ding i muh peuh i khut in i sem ding",
+        "hi,",
+        "A sawt lo inah inn ah ciah ding;",
+        "Pasian hehpihna in i tha hong khauhsak ding,",
+        "A sawt lo",
+        "inah inn ah ciah ding."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "A gim khete a’ ding lam i sialsak ding hi,",
+        "A sawt loin",
+        "ah inn ah ciah ding;",
+        "Itna lungsim kizel kim in hoih na lawh hen!",
+        "A sawt loin ah inn ah ciah",
+        "ding."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Lungkhamna peng in tawldamna gal khat-ah om,",
+        "A sawt loin ah inn ah ciah",
+        "ding;",
+        "Tua khuapi nuam sungah khitui luanna om lo,",
+        "A sawt loin ah inn ah ciah ding."
+      ]
+    }
+  ]
+}

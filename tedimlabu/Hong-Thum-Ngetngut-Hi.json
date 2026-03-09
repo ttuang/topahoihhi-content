@@ -1,0 +1,73 @@
+{
+  "title": "Hong Thum Ngetngut Hi",
+  "key": "Key: G",
+  "ZBC": "ZBC: 224",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Hin gim a mang mi aw hong kihei in,",
+        "Tuucing hoihpa’n",
+        "Hong sam, ngai in tu",
+        "ni",
+        "Hong hon ding hong zong,",
+        "Sawpsiang ding hong ngak",
+        "Amah sang meng in uai kai nawn kei",
+        "in"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Hong sam hiuhiau hi,",
+        "Hong thum lailai hi",
+        "Tuucing hoihpa’n nang",
+        "hong sam za in,",
+        "Hong thum ngetngut hi",
+        "Hong sam lailai hi",
+        "Itna tawh hongsam, Hong pai in",
+        "ci",
+        "Hong ngak lai hive’n"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Banghang mangthang ding?",
+        "Tuubuk pan gamla na",
+        "vakkhit hangin",
+        "A nuntakna si tawh hong tan veve",
+        "Hong thuakpihna lian",
+        "Genzawhloh",
+        "lamdang"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "A thupha ngaihsun in",
+        "A thungai in, mawh nei lo pa’n",
+        "Sing tung",
+        "mawhna pua khia",
+        "Mawhmai na kician nuntak tawntung na",
+        "A sisan luanna tawh nangmah",
+        "hongpia"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Thuman lampi zui in tangtakpai-in",
+        "Jesuh sunglut in nu’ntakna",
+        "kongpi",
+        "Jesuh in lungnem takin hong sam hi",
+        "Pai in lutun a mangthang nawn lo ding"
+      ]
+    }
+  ]
+}

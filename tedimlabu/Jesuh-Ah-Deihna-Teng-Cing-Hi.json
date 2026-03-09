@@ -1,0 +1,55 @@
+{
+  "title": "JESUH AH DEIHNA TENG CING HI",
+  "key": "Key: Ab",
+  "ZBC": "ZBC: 100",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Jesuh ah deihna teng cing hi",
+        "Lungkham laitak ka lawm",
+        "Thupha deih in Amah zuan leng",
+        "A",
+        "man’n hong pia nawnnawn",
+        "Nitang le guahtui hong pia hi",
+        "Tuk ciangin an hong la sak",
+        "hi",
+        "Nitang guahtui le an",
+        "Hong pia keima lawm"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Jesuh ah deihna teng cing hi",
+        "A tung ka thumaan ding",
+        "Kei tungah hong thumaan ka",
+        "Lawm",
+        "Bang ci ka nial zo ding",
+        "Amah zui leng ka khial ngei kei",
+        "Sun le zan hong cing khial ngei",
+        "kei",
+        "Sun le zan in zui ning",
+        "Amah keima lawm"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Jesuh ah deihna teng cing hi",
+        "Lawmpha zaw deih tuan keng",
+        "Amah tu-in ke’n ka muang",
+        "a",
+        "Muang lai ding sih mateng",
+        "Hih bang lawm tawh nuntak a nuam",
+        "Bei ngei lo ding hin’na a",
+        "nuam",
+        "Bei ngei lo nuntakna nuam na",
+        "Keimah lawm"
+      ]
+    }
+  ]
+}

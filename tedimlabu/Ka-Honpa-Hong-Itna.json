@@ -1,0 +1,65 @@
+{
+  "title": "KA HONPA’ HONG ITNA",
+  "key": "Key: Ab",
+  "ZBC": "ZBC: 017",
+  "sections": [
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Lamdang lua e! (Aw lamdang lua e!),",
+        "Pian dang lua e! (Aw pian dang lua e!)",
+        "Ka sak",
+        "ding ka sak ding la; (Ka sak ding ka sak ding la)",
+        "Lamdang lua e (Aw lamdang lua e!),",
+        "Pian dang lua",
+        "e! (Aw pian dang lua e!)",
+        "Ka Honpa’n kei hong itna (Ka Honpa’n kei hong itna)."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Huan sungah thu hong ngetsak in,",
+        "“Nang deih bang hizaw hen” ci;",
+        "Ama adingin,",
+        "luang lo-in",
+        "Kei hang khua-ul, si luang hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Van mite’n hehpih huaisa in,",
+        "Khuavak gam pan en uh hi;",
+        "Dahna hong thuaksak tua",
+        "zanin,",
+        "Kei nem ding hong paisuk hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Ka mawh ka dahna teng la-in,",
+        "Ama tungah kisuan hi;",
+        "Kalvary ah tua van pua-in,",
+        "Amah",
+        "bek in sihlawh hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 5",
+      "lines": [
+        "Tatsate tawh minthang ding a,",
+        "Ama maitang ka mu ding;",
+        "Hong itna la ka sa dinga,",
+        "Khang",
+        "tawngtung ka lungdam ding"
+      ]
+    }
+  ]
+}

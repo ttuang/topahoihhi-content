@@ -1,0 +1,39 @@
+{
+  "title": "LAMPI KHIAL LO DING",
+  "key": "Key: Db",
+  "ZBC": "ZBC: 069",
+  "sections": [
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Lam hong hilh in,Topa lampi hong hilh in(hong hilh in)",
+        "Tui luang bang nun tak na ah(nun",
+        "tak na ah)",
+        "Hong gum Topa hong hilh in(hong hilh in)"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Tuipi ki lok lai tak in (laitak in)",
+        "Ka kha gal liah nading in (nading in)",
+        "Kei kiang ah na",
+        "om lai in (om lai in)",
+        "Na heh pih na ka muang ding (kamuang ding)"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Nun tak na huih nung ta a (nungta a)",
+        "Khitui kinul na khua ah (na khua ah)",
+        "Kei mah ka tun",
+        "mateng in (mateng in)",
+        "Topa aw lam hong hilh in (hong hilh in)"
+      ]
+    }
+  ]
+}

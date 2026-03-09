@@ -1,0 +1,33 @@
+{
+  "title": "Hong Gupna",
+  "key": "Key: C",
+  "ZBC": "ZBC: 105",
+  "sections": [
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Hong upna, hong gupna, thupha bel hong tung hi;",
+        "Hong gumta, hong tum ta, Topa Jesuh Kumpi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Mittawte aw Jesuh en un, Adahte lungdam un;",
+        "Jesuh in hong suahtakzo hi, Thong sung omte’n",
+        "sa un."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Hong it manin Jesuh si a, Phat huai lamdang bel hi;",
+        "Leitung mite’ nopsak nading, Pasian",
+        "hong itna hi."
+      ]
+    }
+  ]
+}

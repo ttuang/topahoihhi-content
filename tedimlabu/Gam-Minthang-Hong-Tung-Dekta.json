@@ -1,0 +1,55 @@
+{
+  "title": "Gamlapi ah Mual Khat Om hi",
+  "key": "Key: E",
+  "ZBC": "ZBC: 123",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Keima ading sihna athuak, Khuapi pualam oma;",
+        "Jesuh singlamteh na om hi, gamla mualpi",
+        "tungah."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Amah’n phatakpi hong it hi,",
+        "Amah i it kik hi;",
+        "A hong gum thei",
+        "asi um in,",
+        "Ama na i sem ding."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Amah in gimna a thuakna, i theizo kei ding",
+        "hi;",
+        "Ahih hang komau tang dingin, Amah in a thuak hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Eite kiphelna ngah dingin, Amah",
+        "in a si hi;",
+        "Asi pha tawh sawp saing manin, vantung i tung ding hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Khialhna man piak",
+        "nading inah,",
+        "Midang siangtho lo hi;",
+        "Amah bek in vantung khua-ah, a hong lutsak thei hi."
+      ]
+    }
+  ]
+}

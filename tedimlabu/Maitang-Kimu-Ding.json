@@ -1,0 +1,57 @@
+{
+  "title": "Maitang Kimu Ding",
+  "key": "Key: Bb",
+  "ZBC": "ZBC: 326",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Maitang kimu ding Honpa tawh,",
+        "Bangzah nopna kicing ding;",
+        "Kei tang hong si Jesuh’ maitang,",
+        "Laktoh ni ciang ka mu ding."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Ka Honpa maitang ka mu ding,",
+        "Aksite kheng galkhat ah;",
+        "A vangliatna ka tel siang ding,",
+        "Nung ciang ka mu ding, Amah."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Hong liah, hong dal khat om lai a,",
+        "Ka mu cian thei nai kei hi;",
+        "Lungdamna ni hong tung dinga,",
+        "A vangliatna ka mu ding."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Ama kiang nuam mahmah dinga,",
+        "Dahna, natna beita ding;",
+        "Lam kawite kitangsak ding a,",
+        "Khuamial teng khuavak suak ding."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Maitang kimu ding nuam si’n teh,",
+        "Khat le khat kitheita ding;",
+        "Keimah hong it Topa Jesuh,",
+        "Hong Tanpa mai ka mu ding."
+      ]
+    }
+  ]
+}

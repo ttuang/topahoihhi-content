@@ -1,0 +1,74 @@
+{
+  "title": "GUPKHIAT KA HIH NUNGSANG",
+  "key": "Key: G",
+  "ZBC": "ZBC: 153",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Ke’n nei khin tang, ka sak nop la,",
+        "Gupkhiat ka hih nungsang;",
+        "Ka Kumpi Honpa phatna",
+        "la,",
+        "Gupkhiat ka hih nung sang."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Gupkhiat ka hih nung sang, Gupkhiat ka hih",
+        "nungsang,",
+        "Ama min tawh vanglian ning; Gupkhiat ka hih nungsang,",
+        "Ka Honpa min in ka vanglian",
+        "ding."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Ke’n nei hong lungkimsak Khazih,",
+        "Gupkhiat ka hih nung sang;",
+        "Ama deih",
+        "bek ka bawl ding hi,",
+        "Gupkhiat ka hih nung sang."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Ke’n nei kitel teci",
+        "panna,",
+        "Gupkhiat ka hih nung sang;",
+        "Beisak launa le uplahna, Gupkhiat nung",
+        "sang."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Ke’n nei kei a’ding inn nuampi,",
+        "Gupkhiat ka hih nung",
+        "sang;",
+        "Tua’h a tawntung ka teng ding hi,",
+        "Gupkhiat ka hih nung",
+        "sang."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 5",
+      "lines": [
+        "Ke’n nei genzawhloh lungnopna,",
+        "Gupkhiat ka hih nung sang;",
+        "Muang",
+        "ing,A si le thumanna,",
+        "Gupkhiat ka hih nung sang."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "title": "Himah Lamdang Pen Sa’ng",
+  "key": "Key: Bb",
+  "ZBC": "ZBC: 477",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Nitak a ni a tum lamdang sa ing",
+        "Nisuah zong lamdang sa sem ing",
+        "Ka lungsim hong khoih kha a",
+        "lamdang pen in",
+        "Pasian in hong itna hi nuam sing"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "O himah lamdang pen",
+        "sa’ng",
+        "Himah lamdang pen sa’ng",
+        "Pasian in kei hong it zenzen"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Tuk-hun",
+        "an lak hunte lamdang si ee",
+        "Vantung, aksi, nite zong ee",
+        "Ka lungsim hong khoih kha a lamdang pen",
+        "in",
+        "Hih ka phawk thak hong it na thu hi"
+      ]
+    }
+  ]
+}

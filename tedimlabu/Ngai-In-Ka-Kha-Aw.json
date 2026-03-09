@@ -1,0 +1,51 @@
+{
+  "title": "NGAI IN, KA KHA AW!",
+  "key": "Key: D",
+  "ZBC": "ZBC: 012",
+  "sections": [
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Thuciamna cing kham vantung mihingte in",
+        "A aw zaknop huai-in lasa uh hi;",
+        "Nitak kap a,",
+        "zingsang ciang lungdamsak hi,",
+        "Sawtvei khuamial itna khuavak sak hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "La aw zak ciang mailam nawtin i pai hi,",
+        "Lungkham a gimte aw hong pai un ci;",
+        "Khuamial",
+        "sungah Topa Jesuh kiko hi,",
+        "Vantung inn lam hilhna thupha aw hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Gamlapi ah nitak siklong ging bangin,",
+        "Leitung, tui tung ah Jesuh’ aw ging hi;",
+        "Tul",
+        "then tham lo, a vanlel mi tampite,",
+        "Tuucing Topa aw Na kiang hong pai hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Tu laitak i lungkham a sawt hang in-ah,",
+        "Khuamial kheng leng nuam na'ng khuavak ding hi;",
+        "A",
+        "gimte zuihna lam a bei ciangin ah,",
+        "Kha Siangtho maang ding khamgam tung ding hi."
+      ]
+    }
+  ]
+}

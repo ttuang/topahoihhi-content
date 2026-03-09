@@ -1,0 +1,53 @@
+{
+  "title": "KIKHAWM DING, INNPI AH",
+  "key": "Key: Bb",
+  "ZBC": "ZBC: 426",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Vantung inn nuam ah kikhawm ding in-ah,",
+        "Ni nuam zing sang gungei cik khuk-ah;",
+        "Kikhawm ding",
+        "hong ngakte tawh kimu leng,",
+        "Lungdam nuamsa in la i sa ding."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Kikhawm ding innpi",
+        "ah,",
+        "A nuam gun pi le ciktui gei-ah;",
+        "Hong ngak i lawmte tawh,",
+        "Nuam in Topa min i phat ding",
+        "hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Hong tel Topa hong hehpihna pha a,",
+        "I lawmte ei hong ngak in om ta;",
+        "Dahna",
+        "tawh kipelh in i om ding hi,",
+        "Kimuh ciang lungdam in la sa ding."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Hong gum Topa Jesuh",
+        "tokhom tung ah,",
+        "Lawmte aw a mai kikhawm in-ah;",
+        "Hong itna hong hehpihna a pha a,",
+        "A minthanna",
+        "phat in la sa ni."
+      ]
+    }
+  ]
+}

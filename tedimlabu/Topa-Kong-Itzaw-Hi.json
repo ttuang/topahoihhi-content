@@ -1,0 +1,51 @@
+{
+  "title": "Topa Kong Itzaw Hi",
+  "key": "Key: C",
+  "ZBC": "ZBC: 074",
+  "sections": [
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Hong it hong ngaihna a thupha, (athupha)",
+        "Kim khat beek gen nai kei,",
+        "Hong sawp",
+        "siangtho na a thupha, ( a thupha)",
+        "Kim khat beek gen nai kei (gen nai kei)"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Leitung ka zawl khempeuh sangin,",
+        "Topa nai nuam zaw ingh;",
+        "Leitung ah la ngaih khempeuh",
+        "sang,",
+        "Thu ngaihna pha zaw hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Ka lung hong dam sak zo ta hi,",
+        "Cik mah’n bei lo ding hi;",
+        "Hong itna thupha om kei",
+        "leh,",
+        "Lungsim ki sia ding hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Hong om khawmpih ki thei lopi,",
+        "Hih zah lungdam na lian;",
+        "Topa mai i mu dingtak",
+        "pi,",
+        "Bangzah a nuamding hiam."
+      ]
+    }
+  ]
+}

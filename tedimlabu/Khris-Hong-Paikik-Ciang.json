@@ -1,0 +1,67 @@
+{
+  "title": "Khris Hong Paikik Ciang",
+  "key": "Key: D",
+  "ZBC": "ZBC: 163",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Zingsang, zingsol a tumma diak ahi zongin,",
+        "Khua hong vakin, ni a suah ciang ahi",
+        "zongin;",
+        "Minthanna tawh dimin, Jesuh hong pai mu ding,",
+        "Amah a umte hong khop",
+        "ciang."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Aw, Topa cikciang hi ding hiam?",
+        "Ko kiang Nong pai kik ding,",
+        "Hong",
+        "paikik ding,",
+        "Hallelujah, Hallelujah Amen,",
+        "Hallelujah, Amen."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Sun hun hita leh,",
+        "zankim laitak hita leh,",
+        "Zan khuamial sung ihsip laitak zong hita leh;",
+        "Pasian khuavak tawh minthang",
+        "Jesuh hong pai ding,",
+        "Amah a umte hong khop ciang."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Vantung mi in Hosanna ci’n a",
+        "otna aw,",
+        "Mun khempeuh ah kiza ding hi, vantung tun ciang;",
+        "Vantung mi siangthote in a cing ding uh",
+        "hi,",
+        "Amah a umte hong khop ciang."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Si lo-in lungdamin vantungah i pai ding,",
+        "Dahna,",
+        "gen theihna, natnate om nawnlo ding;",
+        "Pasian tawh meii tung tuangin vantung i pai ding.",
+        "Amah a umte",
+        "hong khop ciang."
+      ]
+    }
+  ]
+}

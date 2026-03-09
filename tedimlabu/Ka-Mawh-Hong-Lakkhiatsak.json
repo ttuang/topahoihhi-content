@@ -1,0 +1,65 @@
+{
+  "title": "Ka Mawh Hong Lakkhiatsak",
+  "key": "Key: Ab",
+  "ZBC": "ZBC: 474",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Dahna tawlna tawh Jesuh ka zuat leh,",
+        "Ka mawh hong lakkhiatsak, Ka mawh hong",
+        "lakkhiatsak;",
+        "Tu’n hong itna’n hong kipaksak taveh,",
+        "Ka mawh hong",
+        "lakkhiatsak."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Ka mawh hong lakkhiatsak, Ka mawh hong lakkhiatsak,",
+        "Ni simin la",
+        "hong sasa sak; Nuam lua ing,",
+        "Ka mawh hong lakkhiatsak, Ka mawh hong",
+        "lakkhiatsak."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Mawhna vangik ka puakzawh ding hilo,",
+        "A vekpin hong laksak, A vekpin hong",
+        "laksak;",
+        "Ka gimna teng Ama tung ka suanzo,",
+        "Ka mawh hong lakkhiatsak."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Hong",
+        "kimawhsak nang khat zong om nawnlo,",
+        "Ka mawh hong lakkhiatsak. Ka mawh hong lakkhiatsak;",
+        "Kha muanna",
+        "cing Kei tungah hong piazo;",
+        "Ka mawh hong lakkhiatsak."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Tuni Jesuh Khazih kiang na zuat",
+        "leh,",
+        "Na mawh hong lakhia ding, Na mawh hong lakhia ding;",
+        "A itna sung nisim nuamsa ni teh,",
+        "Na",
+        "mawh hong lakhia ding."
+      ]
+    }
+  ]
+}

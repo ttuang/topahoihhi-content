@@ -1,0 +1,50 @@
+{
+  "title": "A Nuam Kumpi Inn Sungah",
+  "key": "Key: Eb",
+  "ZBC": "ZBC: 399",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Anuam kumpi inn sungah i om zongin,",
+        "Ei inn sang a nuamzaw inn dang omlo hi;",
+        "“Hiah",
+        "inn nuam om hi” van pan hong ci zongin,",
+        "Ei inn sanga nuamzaw inn dang omlo",
+        "hi"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Inn nuam, inn nuam pen, ei inn kan om kei",
+        "Eima inn mah nuam",
+        "pen."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Gamlak ka vak kawmin khapi ka en a,",
+        "Ka nu’n a ta hong phawk lamtak ka thei",
+        "hi;",
+        "Kong gei paak kiang pan khapi na en-en a,",
+        "Tua paak namtui ka dikkha nawn kei ding",
+        "hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Inn pan taikhiat hang mun nuam dang omlopi,",
+        "Ka bukno khiukheu mahah hong tunkik",
+        "in;",
+        "Kei hong lungnuamsak vasate’n la sa hi."
+      ]
+    }
+  ]
+}

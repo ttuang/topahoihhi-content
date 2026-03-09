@@ -1,0 +1,64 @@
+{
+  "title": "Thungetna Hunpha HI",
+  "key": "Key: Eb",
+  "ZBC": "ZBC: 315",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Thungetna hunpha hi-a, lungsim i niamkhiat ciang,",
+        "I lawm le Honpa Jesuh kiang i kikhop",
+        "ciang;",
+        "Amah umin va zuan leng, Amah’n ei hong hupah,",
+        "Tua lai-ah va kihel leng, damna zatui",
+        "hipah."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Thungetna hun nuam, Hun nuam thungetna;",
+        "Tua lai-ah va kihel leng, damna",
+        "zatui hipah."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Thungetna hunpha hi-a, Honpa A hong nai ciang,",
+        "A mite lainatna tawh don",
+        "ding hong pai ciang;",
+        "I haksatnate khempeuh, I va puak ciang inah,",
+        "Tua lai-ah va kihel leng, damna",
+        "zatui hipah."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Thungetna hunpha hi-a, ze-etna i thuak ciang,",
+        "Honpa kiangah i dahna",
+        "khempeuh i puak ciang;",
+        "Amah in hong khasiat in, i dahna paikhia pah,",
+        "Tua lai-ah va kihel leng,",
+        "damna zatui hipah."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Thungetna hunpha hi-a, i up takpi nak leh,",
+        "I thunget thuphate peel",
+        "lo kingah ding hiveh;",
+        "Tua thuphate hanginah, lungkhamna teng beipah,",
+        "Tua lai-ah va kihel leng,",
+        "damna zatui hipah."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "title": "Lungdam Ni A’ding Na Kithawi Hiam?",
+  "key": "Key: D",
+  "ZBC": "ZBC: 420",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Vantung panin vangliatna tawh Topa hong paikik ding hun,",
+        "Lei le van mi a thei kuamah omlo",
+        "hi;",
+        "Mi siangthote’n Amah dawnin a mite hong sam dinga,",
+        "Tua ni ciang pengkul awging kiza ding",
+        "hi."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Na kithawi hiam? thawi hiam?",
+        "Kumpi dawn dingin,",
+        "Sem kawm, ngak kawm na",
+        "kigingzo hiam?",
+        "Na kithawi hiam? thawi hiam?",
+        "Kumpi dawn dingin,",
+        "Lungdam ni adingin na kithawi",
+        "hiam?"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Mitphiat kal tomno khat sungin i kikhel khinta ding a,",
+        "Si thei nawnlo dingin i",
+        "kikhel ding hi;",
+        "Amah ite’n Amah suun ding van pan hong kumsuk dinga,",
+        "Sun kim, zan kim,",
+        "zingsang zong hi thei ding hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "I mawhna si bang a san hang Kalvary pan hong",
+        "tanta,",
+        "Singlamteh liimnuai-ah damna va zuan ni;",
+        "Amah’n eite hong kem den a, vuk bang in hong",
+        "ngosak ta,",
+        "Meiipi tung tuangin hong paisuk kik ding hi."
+      ]
+    }
+  ]
+}

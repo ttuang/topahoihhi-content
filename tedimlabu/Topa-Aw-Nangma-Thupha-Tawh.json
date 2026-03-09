@@ -1,0 +1,49 @@
+{
+  "title": "TOPA AW, NANGMA THUPHA TAWH",
+  "key": "Key: Eb",
+  "ZBC": "ZBC: 015",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Topa aw Nangma’ thupha tawh",
+        "Dimin hong ki khensak in",
+        "Nangma itna bang neih na",
+        "tawh",
+        "Hehpih na hongphat sak in",
+        "Tha hong guan aw, tha hong guan aw,",
+        "Hih gammang sung zin lai",
+        "in."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Nangma lungdamna thu hangin ah",
+        "Nang kong phat uh Topa aw",
+        "Ko’ lungsung",
+        "le gamtat na ah",
+        "Na hotna gah langh leh maw",
+        "Nang thuman ah, Nang thuman ah,",
+        "Hong kip tawntung",
+        "le ung maw."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Leitung panin Nong sappeuh ciang",
+        "Sihna kihta hetlo in",
+        "Vantung",
+        "mite’n hong lenpih ciang",
+        "Hong mang ning lungdam tak In",
+        "Tawntung na kiang, tawntung na",
+        "kiang",
+        "Nangmah tawh hong maang sak in."
+      ]
+    }
+  ]
+}

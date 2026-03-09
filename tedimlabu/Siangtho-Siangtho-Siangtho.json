@@ -1,0 +1,32 @@
+{
+  "title": "SIANGTHO, SIANGTHO, SIANGTHO",
+  "key": "Key: E",
+  "ZBC": "ZBC: 011",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Siangtho, Siangtho, Siangtho!",
+        "Khuamial hong liah hangin",
+        "Mawhna mit in Na vaanglian hong mu",
+        "thei lo hang in",
+        "Nangmah bek na Siangtho, Kuamah’n hong ban zolo",
+        "Na vaang liatna, Itna le",
+        "sian’ thona"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Siangtho, Siangtho, Siangtho! Alian pen To Pasian!",
+        "Leitung, tuitung, vantungah Na min kiphat",
+        "ding hi",
+        "Siangtho, Siangtho, Siangtho! Hehpih thei a vaanglian!",
+        "Thum kigawmna Siangtho thupha",
+        "Pasian!"
+      ]
+    }
+  ]
+}

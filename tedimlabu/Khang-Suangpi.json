@@ -1,0 +1,63 @@
+{
+  "title": "KHANG SUANGPI",
+  "key": "Key: Bb",
+  "ZBC": "ZBC: 265",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Kei aa ding tam Khang Suangpi",
+        "Nangma sung kong beel ding hi",
+        "Na pang vang pan hong",
+        "kizui",
+        "Tha khat luang khia “si le tui”",
+        "Mawh ki phel thuap na hi hen",
+        "Hong sut hen",
+        "la hong sawp hen"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Ka khut in ka sep na tawh",
+        "Thukham deih na cin’",
+        "zolo",
+        "Hahkat den zo mah leng zong",
+        "Tawp lo khi tui luang hang zong",
+        "Mawhna ki phel zo sam",
+        "lo",
+        "Nangmah bek in Nong hon zo"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Khut sung bangmah keng lopi",
+        "Na sing lam teh kong",
+        "beel hi",
+        "Puan nei lo Nangmah’n Nong guan",
+        "Ci mawh heh pih na kong zuan",
+        "Kih huai tui nak",
+        "kong delh hi",
+        "Nong sil ke’h ka si ding hi"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Ka nuntak lai hi ta leh",
+        "Ka sih",
+        "lai tak hi ta leh",
+        "Theih loh gam ka kah ciang zong",
+        "Thu khenna mai kong tun’ dong",
+        "Kei",
+        "taang kitam Suangpi aw",
+        "Nang ma sung hong beel sak aw"
+      ]
+    }
+  ]
+}

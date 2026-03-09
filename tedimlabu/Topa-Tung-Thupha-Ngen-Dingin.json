@@ -1,0 +1,42 @@
+{
+  "title": "TOPA TUNG THUPHA NGEN DINGIN",
+  "key": "Key: Eb",
+  "ZBC": "ZBC: 016",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Topa tung thupha ngen dingin i kikhawm a,",
+        "Ama deihna i theih nangin hong hilh hi;",
+        "Dawi",
+        "nencipna pan suakta-in i lung nuamta,",
+        "Phat un, Topa’n a mite mangngilh lo",
+        "hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Topa in a gam a kipsak a puah dingin,",
+        "Eite hong sawl hong koppih hong makaih",
+        "hi;",
+        "Tua manin gal i zo, i kipatcil panin,",
+        "Minthannate khempeuh Topa a ding",
+        "hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Galzo makaipa aw, Na min kong phat uh a,",
+        "Hong makaih lai in ci-in kong thuum uh",
+        "hi;",
+        "Bawlsiatna pan Na mite suakta sak inla,",
+        "Hong kiphat den tahen hong Honpa Na hi."
+      ]
+    }
+  ]
+}

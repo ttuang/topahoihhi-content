@@ -1,0 +1,64 @@
+{
+  "title": "THUPHA GUAH BANG HONG ZU DING HI",
+  "key": "Key: Bb",
+  "ZBC": "ZBC: 329",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Thupha guah bang hong zu ding hi",
+        "It na tawh hong ciam bang in;",
+        "Thamalhna hun hong tung",
+        "ding hi",
+        "Hong puak suk ding Topa in."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Thupha guah zu bang,",
+        "Thupha guah i ki",
+        "sam hi;",
+        "Hehpihna mal hong kiat tei hang,",
+        "Hong zu suk hen a tampi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Thupha guah",
+        "bang hong zu ding hi;",
+        "Tha-hat kik na a man pha;",
+        "Hong ging zuazua ding hi tam pi,",
+        "Mualtung,",
+        "guam sung mun tengah."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Thupha guahbang hong zu ding hi",
+        "Hong buak sukin Topa",
+        "aw;",
+        "Thathak tu-in Nong guan ding hi,",
+        "Nong ciamsa hong tungsak aw."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Thupha",
+        "guahbang hong zu ding hi",
+        "Tu-ni’n hong zu ta leh maw;",
+        "Jesuh kiangah thu i ngen",
+        "hi,",
+        "Pu-lak in Pa kiang i mawh."
+      ]
+    }
+  ]
+}

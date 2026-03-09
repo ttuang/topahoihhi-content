@@ -1,0 +1,52 @@
+{
+  "title": "Nang A Ding Omna Om",
+  "key": "Key: F",
+  "ZBC": "ZBC: 085",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Cho.",
+        "Keima lungsim sung hong om in",
+        "Nang ading omna a om hi",
+        "Keima lungsim sung hong omta",
+        "in",
+        "Nang ading omna a om hi"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Jesuh in a hong kumsuk laitak in",
+        "Vantung miten pengkul tumhi",
+        "Hih hang gina lo bek tawh",
+        "hong suak a",
+        "Leitung hong kiniamsak ta hi"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Ngia in zong kua nei a vasa in zong",
+        "Singdawn ah buu a nei uh hi",
+        "Hih hang Galilee gam Jesuh",
+        "omlai",
+        "Alupna leitung bek a hi"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Jesuh in zawhna tawh hong paisuk ciang",
+        "Pengkul aw tawh hong pai ding hi",
+        "Amah’n a aw",
+        "tawh kei hong sam ding",
+        "Ka kiang om in hong ci ding hi"
+      ]
+    }
+  ]
+}

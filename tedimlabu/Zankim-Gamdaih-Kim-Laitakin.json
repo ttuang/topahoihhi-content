@@ -1,0 +1,55 @@
+{
+  "title": "Zankim Gamdaih Kim Laitakin",
+  "key": "Key: Bb",
+  "ZBC": "ZBC: 083",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Van kong pan hong pai lailai mah",
+        "Kilemna kha zak in",
+        "Gimna dimna hih leitung ah",
+        "Van",
+        "langaih kiza lai",
+        "Dahna lungkhamna kuam tung ah",
+        "Hong leng diaidiai uh a",
+        "Pau namtampi gamlum",
+        "lak ah",
+        "Vantung lapha hong sa."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Leitung nuntak vangik nuai ah",
+        "Vangik lel a gim te",
+        "Nuntak haksa lamto a kah",
+        "Pheiphung",
+        "suan kha mi aw",
+        "En un lungdam nuamna ding hun",
+        "Manlang va bang hong leng",
+        "Gimna lamgei ah na",
+        "khawl un",
+        "Vantung la ngai dih uh"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Thei un hong tung petmah ding ta",
+        "Tang kamsangte gensa",
+        "A kum a kha hong veei ding",
+        "a",
+        "Hong tung ding kham hunpha",
+        "Leitung ah nopna lemna pha",
+        "Avang hong tang ding ta",
+        "Vantung",
+        "mite hong sak lapha",
+        "Leitung mi’n dawng ding ta"
+      ]
+    }
+  ]
+}

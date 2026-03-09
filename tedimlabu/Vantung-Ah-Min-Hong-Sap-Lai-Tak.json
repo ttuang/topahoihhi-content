@@ -1,0 +1,63 @@
+{
+  "title": "Vantung ah min hong sap lai tak",
+  "key": "Key: Ab",
+  "ZBC": "ZBC: 164",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Topa Jesuh hong pai kik ciang,",
+        "vantung pengkul aw za a,",
+        "Zing tung khuavaak",
+        "tawntung",
+        "nuamtak tang ding hi",
+        "Kiphelna ngah mihingte in",
+        "gungal hong kikhop ciangin",
+        "Min",
+        "hong sap laitak kei mah zong om ding hi"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Vantung ah, min hong sap laitak",
+        "Vantung",
+        "ah, min hong sap laitak",
+        "Vantung ah, min hong sap laitak",
+        "Min hong sap laitak kei mah zong om ding",
+        "hi’ng"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Zing tung mei kai omlo khuavak",
+        "Jesuh min tawh si tho a",
+        "Topa tawh",
+        "nungta kik a nuam sung tum ni.",
+        "Sihna a ngah mihing te in",
+        "Vantung inn ah tum ciang in",
+        "Min hong",
+        "sap lai tak kei mah zong om ding hi"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Topa a na hong seem sak a",
+        "Zing ni tum dong mateng",
+        "in",
+        "Kidopna tawh a ma itna gensak ni",
+        "Leitung sihna hun hong kheng ding",
+        "Hih nasep na taang zo",
+        "in",
+        "Min hong sap laitak",
+        "Kei mah zong om ding hi’ng"
+      ]
+    }
+  ]
+}

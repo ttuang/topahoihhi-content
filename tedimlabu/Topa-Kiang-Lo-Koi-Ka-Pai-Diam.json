@@ -1,0 +1,54 @@
+{
+  "title": "Topa Kiang Lo Koi Ka Pai Diam?",
+  "key": "Key: G",
+  "ZBC": "ZBC: 486",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Mawhna dim hih lei-ah ka nuntakna,",
+        "Ka kha buk na’ng mun zong dingin,",
+        "Ze-etna lianpi",
+        "ke’n ka sunsiah hi,",
+        "Topa kiang lo, koi ka pai diam?"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Koi ka pai diam?",
+        "Oh!",
+        "Koi ah ka pai diam?",
+        "Ka kha buk na’ng mun zong dingin;",
+        "Nitawp niciang hong gum ding",
+        "kisam ing,",
+        "Topa kiang lo, koi ka pai diam?"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "I it lawmte khempeuhte ke’n it",
+        "ing,",
+        "I lung sung ah kingil thei lo;",
+        "Ka kha a’dingin kha an kisam ing,",
+        "Topa kiang lo,",
+        "koi ka pai diam?"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Nun in nuam e hiah i it lawmte tawh,",
+        "Pasian hong piak hehnepna",
+        "hi,",
+        "Sihna daitui ka tal-ah hong kai ciang,",
+        "Topa kiang lo, koi ka pai diam?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "title": "Hon Ding Zong Hi",
+  "key": "Key: Ab",
+  "ZBC": "ZBC: 102",
+  "sections": [
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Hon ding zong hi, hon ding zong hi,",
+        "A mangte Jesuh’n hon ding zong hi;",
+        "Hon ding",
+        "zong hi, hon ding zong hi,",
+        "A mangte Jesuh’n hon ding zong hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Citakin a zong hi, sum mansuah nu in;",
+        "Leivui lak khuamial lak, lungkia lo-in."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "It tawntung a pa in, nuamna tangko hi;",
+        "“A mangthangsa ka ta, hong tungzo hi.”"
+      ]
+    }
+  ]
+}

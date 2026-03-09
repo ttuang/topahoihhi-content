@@ -1,0 +1,51 @@
+{
+  "title": "Zogam La",
+  "key": "Key: G",
+  "ZBC": "ZBC: 470",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Tuan-a pupa lamtual saina, khawh lo phungpha tonkhuang saina;",
+        "Lungdeih sinthu khau bang",
+        "sutna,",
+        "Phuh bang kho hen, pianna Zogam"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Sianmang lum sun, lungtuak",
+        "vontawi,",
+        "Sian sinthu tawh mawng bang kikawi;",
+        "Nunnuam kisung, lungtuak zai awi,",
+        "Sian in siam",
+        "hen, pianna Zogam."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Tuan pupa’ ma bang i zopna, Siamsil min lian tuang i",
+        "tutna;",
+        "Tongdam siktui zu bang khumna,",
+        "Kil bang khang hen, pianna Zogam."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Aw Zogam",
+        "nuam huihdam semna,",
+        "Milun zata laitual lenna;",
+        "Lungtuak momno nga bang lenna,",
+        "Lawi bang thang",
+        "hen, pianna Zogam."
+      ]
+    }
+  ]
+}

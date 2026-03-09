@@ -1,0 +1,52 @@
+{
+  "title": "MIHINGTE IN LOLAI AH",
+  "key": "Key: Bb",
+  "ZBC": "ZBC: 459",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Eite in lo i kho a, Khaici pha i tuh hi;",
+        "Pasian in hong etsak a, Tui buakin khangsak",
+        "hi;",
+        "Phalbi daingo kaisak a, Khualum zong hong pia hi;",
+        "Huih nung in ni hong tang a, Guah in no",
+        "suaksak hi."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Kim leh pam na hoihte, Pasian hong piak sa hi;",
+        "Topa phat un, Topa",
+        "phat un, Hong it lua hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Na khempeuh a piangsak Pa, Amah bek a hi hi;",
+        "Lam gei-a pakte",
+        "zem a, Aksite tangsak hi;",
+        "Huih leh tui’n athu mang a, Vasate an vak hi;",
+        "Eite A ta i hi a, An",
+        "hong vakzaw hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Nong piak na hoihte hangin, Pa aw, kong phat uh hi;",
+        "Lo pawi, an lak",
+        "hunte in, Nuntak cidamna hi;",
+        "Nong itna thuhkik na’ng in, Bangmah dang om lo hi;",
+        "Hih hang",
+        "Nang deih lian pen in, Lungsim nuam khiatna hi."
+      ]
+    }
+  ]
+}

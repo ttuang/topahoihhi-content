@@ -1,0 +1,65 @@
+{
+  "title": "SINGLAMTEH AH",
+  "key": "Key: E",
+  "ZBC": "ZBC: 348",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Topa min le Ama thu ah,",
+        "Ka maizum ngei kei ding;",
+        "Ama thu le A Singlamteh,",
+        "Ka pahtawi",
+        "ngitnget ding."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Singlamteh, Singlamteh,",
+        "khuavak ka muh cilna,",
+        "Ka lung sunga",
+        "vangik teng bei khinta;",
+        "A thu ka up ciang khua ka mu thei ta,",
+        "Tu in ka lung a dam tawntung",
+        "ta."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Jesuh ka Pasian min ka thei,",
+        "Tua min bek hi kei’ muan;",
+        "Hong maizum sak",
+        "ngeilo ding kei,",
+        "Lam-etna A hong guan."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Ama thuciam kip tawntung a,",
+        "A khutsung ka",
+        "piak teng;",
+        "Amah’n phatak na kem dingta,",
+        "Ahun a tun’ mateng."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Tua",
+        "ciang A Pa Pasian’ mai-ah,",
+        "Ka min hong sam ding a;",
+        "Jerusalem khua thak sungah,",
+        "Omna",
+        "hong pia ding ta."
+      ]
+    }
+  ]
+}

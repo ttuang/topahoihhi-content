@@ -1,0 +1,54 @@
+{
+  "title": "Mangngilh Ken Sabbath Ni",
+  "key": "Key: C",
+  "ZBC": "ZBC: 500",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Sabbath mangngilh kei un, Pasian thupha piaksa,",
+        "Apha a nuam bel ni hi, ni sagih kal",
+        "sungah;",
+        "Gimna pan tawldam hong pia, lungnopna hong gen hi,",
+        "Vantung melhoihna pha tawh, a vang hong",
+        "tangsuk hi."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Dawn ni, dawn ni, dawn denden ni,",
+        "Thupha Sabbath ni;",
+        "Dawn ni,",
+        "dawn ni, dawn denden ni,",
+        "Thupha Sabbath ni."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Sabbath siangtho sak un, bia un Amah",
+        "tuni’n,",
+        "A nungzuite’ kiangah ci, “Hinna lampi ka hi;”",
+        "Hih leitungah hong",
+        "Honpa, kiniamkhiatin zui leng,",
+        "Nuntakna tui hong pia ding, a tawntunga luang den."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "A",
+        "nuam a siangtho ni! Zang ni ahun manpha,",
+        "Lawmpha bel Jesuh’ tungah, Sak ni lungdamna",
+        "la;",
+        "Midik hong it Honpa aw, Nangmah Na phabel hi,",
+        "Mi teng tungah teng dingin, Na thuciamna pha hi!"
+      ]
+    }
+  ]
+}

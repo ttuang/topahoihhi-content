@@ -1,0 +1,46 @@
+{
+  "title": "149(C). Kumpi Lukhu Khusak Un",
+  "key": "Key: F",
+  "ZBC": null,
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Dawn un Jesuh’ min vangliatna, Vantung mite bok un,",
+        "Kumpi Lukhu hong la un la, Kumpi lian",
+        "bel pia un;"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Kumpi lukhu, Kumpi lukhu,",
+        "Kumpi lukhu hong tan Topa khu sak",
+        "un;",
+        "Kumpi lukhu, Kumpi lukhu,",
+        "Kumpi lukhu khu sak un;"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Hih leitung a minam kim",
+        "in, Jesuh lian bel sak un,",
+        "Liatna khempeuh ama aa ci’n, Kumpi lian bel pia",
+        "un;"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Ama mi siang honpite tawh, A khe mai-ah bok un,",
+        "Phat khawm tawntung ni amau tawh,",
+        "Kumpi lian bel pia un;"
+      ]
+    }
+  ]
+}

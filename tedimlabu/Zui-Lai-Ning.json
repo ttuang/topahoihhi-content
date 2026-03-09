@@ -1,0 +1,55 @@
+{
+  "title": "Zui Lai Ning",
+  "key": "Key: Ab",
+  "ZBC": "ZBC: 283",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Paakte a palhna mun, tuidam a luanna mun,",
+        "Mualkuamah hong gum Topa tawh ka pai ding",
+        "hi;",
+        "Ama hong paiihna tengah ka zuizui ding hi,",
+        "Zawhna lukhu ngah dong ka zuizui ding",
+        "hi."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Ka zui ding hi! Jesuh ka zui ding hi,",
+        "Gamlapi gam khempeuh ke’n ka zui",
+        "ding hi!",
+        "Ka zui ding hi! Jesuh ka zui ding h i,",
+        "Hong makaihna mun tengah ka zui ding",
+        "hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Huihpi a nung a tuipi nakpi a luanna,",
+        "Mual kuamah hong gum Topa tawh ka pai",
+        "dinga;",
+        "Amah in ka khut hong let ciangin ka lau kei ding,",
+        "Topa in hong nai laitak ka lau thei",
+        "kei."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Guam thukpi ahi a, keen sang dawn ahi zong,",
+        "Hong hon Topa tawh ka om khawm dinga",
+        "tawp dong;",
+        "Ama totsa lampi tawnin kei hong ciahpih ding,",
+        "Pasian’ mual tung kikhopna hong",
+        "tunpih ding."
+      ]
+    }
+  ]
+}

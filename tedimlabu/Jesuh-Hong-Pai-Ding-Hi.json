@@ -1,0 +1,65 @@
+{
+  "title": "Jesuh Hong Pai Ding Hi",
+  "key": "Key: Bb",
+  "ZBC": "ZBC: 170",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "La sa un! “Jesuh in kong pai ding” ci,",
+        "A si tawh a gup mihing ta dingin;",
+        "Hong",
+        "kum a, hong uk ding a minthang hi,",
+        "Jesuh hong paikik ding hi!"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Jesuh hong pai",
+        "ding, hong paikik ding hi,",
+        "Jesuh hong paikik ding hi!",
+        "Lungdamin, la pha sa un nuam ding",
+        "hi!",
+        "Jesuh hong paikik ding hi!"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Jesuh hong pai ciang misite tho ding,",
+        "I it i",
+        "ngaih lawmte tawh kimu ding;",
+        "Vantung ah ei hong paipihna dingin,",
+        "Jesuh hong paikik ding",
+        "hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Jesuh hong pai ding a mi siangthote,",
+        "Leitung lungdamna nuam pia suk ding",
+        "hi;",
+        "Bei ding hi, lungkhamna sinkhamnate,",
+        "Jesuh hong paikik ding hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Jesuh hong",
+        "pai ding thuciamna om hi,",
+        "A teelsa mihingte la to dingin;",
+        "Ngak in, lawpin, a kisa-in om",
+        "in,",
+        "Jesuh hong paikik ding hi."
+      ]
+    }
+  ]
+}

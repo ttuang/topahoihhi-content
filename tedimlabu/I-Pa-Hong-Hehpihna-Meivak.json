@@ -1,0 +1,52 @@
+{
+  "title": "I PA HONG HEHPIHNA MEIVAK",
+  "key": "Key: Bb",
+  "ZBC": "ZBC: 407",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "I Topa hong hehpihna in,",
+        "Suum pempam in hong tang hi;",
+        "Tua khuavak eite hong pia",
+        "hi,",
+        "Tui tung teng ah tangsak in,"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Meivak teng a vek pi’n vaak",
+        "in,",
+        "Tuihual teng kimuh nading;",
+        "A cimawh tuikia om kha ding,",
+        "Gum khia in-la kaikhia",
+        "in."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Mawhna in khua hongmial sak hi,",
+        "Tui-hualpi hong kilok hi;",
+        "Hoih takin khuadak",
+        "pha in-la,",
+        "Tui dung teng phatak en in."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Na meivak phatak vak inla,",
+        "Tuihual in mi",
+        "taai kha ding;",
+        "Nop takin suahtak theih nading,",
+        "Tawl ngakna mun tun theih nang."
+      ]
+    }
+  ]
+}

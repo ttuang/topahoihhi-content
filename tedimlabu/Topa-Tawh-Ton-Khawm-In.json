@@ -1,0 +1,54 @@
+{
+  "title": "TOPA TAWH TON KHAWM IN",
+  "key": "Key: Db",
+  "ZBC": "ZBC: 388",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Topa tawh tonkhawm in bang bang piang ta leh",
+        "Na lampi khuamial hang Ama nung zui in",
+        "Na",
+        "galte’n hong neh in a lauhuai hang in",
+        "Jesuh tawh ton le teh Kih tak ding om",
+        "kei"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Ton khawm in, hang tak mainawt in",
+        "Na tha hong khauhsak ding hi",
+        "Ni simin",
+        "Amah tawh pai in",
+        "Na khualzinna lam hong pi ding hi"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Topa tawh ton khawm in na pai na",
+        "peuh ah",
+        "Khuamialna lim sung ah lam hong hilh ding hi",
+        "Ama vang in na lam pi hong taang sak",
+        "ding",
+        "Keugaw gam zong lono na hong piangsak ding"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Topa tawh ton khawmin nang",
+        "thu’n tawl nga ken",
+        "Hong thu piakna bang in na gam ta ding hi",
+        "Hong sawlna bang mangin Ama tha",
+        "muangin",
+        "Jesuh nung na zuih leh na khial ngei kei ding"
+      ]
+    }
+  ]
+}

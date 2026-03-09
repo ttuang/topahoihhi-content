@@ -1,0 +1,56 @@
+{
+  "title": "HUIHPI NUN CIANGA KIDALNA",
+  "key": "Key: F",
+  "ZBC": "ZBC: 045",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "I bukna suangpi Topa hi, Huihpi nun ciang a kidalna;",
+        "A sia namkim a’ ding bit hi, Huihpi",
+        "nun ciang a kidalna."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Gimna gam sungah Jesuh Suangpi a hi!",
+        "Belh ding Suangpi,",
+        "Belh ding suangpi;",
+        "Gimna gam sungah Jesuh Suangpi a hi,",
+        "Huihpi nun ciang a",
+        "kidalna!"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Sunin ni lim, zan in kulh pi, Huihpi nun ciang a kidal na;",
+        "Kihtak ding gal",
+        "om nawn lo hi, Huihpi nun ciang a kidal na."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Huihpi’n i kiimkot nuai hang in, Huihpi",
+        "nun ciang a kidalna;",
+        "Nusia lo ding cik mah hun in, Huihpi nun ciang a kidalna."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Pasian",
+        "Suangpi, belh ding it huai, Huihpi nun ciang a kidalna;",
+        "Tawntung hong nai, hong kem, hong huai, Huihpi",
+        "nun ciang a kidalna."
+      ]
+    }
+  ]
+}

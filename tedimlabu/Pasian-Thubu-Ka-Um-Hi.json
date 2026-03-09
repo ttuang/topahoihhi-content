@@ -1,0 +1,54 @@
+{
+  "title": "Pasian’ Thubu Ka Um Hi",
+  "key": "Key: D",
+  "ZBC": "ZBC: 499",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Pasian’ Thubu ka um hi, Jesuh’ thusim kisutna;",
+        "Vanzuatna tuang lam Lai",
+        "Siangtho,",
+        "Vangam ka tun theihna’ng."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Lai Siangtho! Lai Siangtho! Ka up ka",
+        "khiat lah pen hi;",
+        "Lai Siangtho! Lai Siangtho! Pasian’ Thubu ahi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Pasian’",
+        "lungsim athuk dan, mihing le mawhna omzia;",
+        "I damna zong hong telgen in, Thubul pen ahi",
+        "hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Jesuh’ thu kicinna hi, Pasian’ hong piak ahi hi;",
+        "Sihna thawhkikna",
+        "hong hilh hi, nuntakna bu ahi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Zan a meivak tang bangin, Na thu i n lungsim hong",
+        "taan;",
+        "Na dangte sangin manpha zaw hi, lungsim sung ka kem ding."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "title": "Muang Un",
+  "key": "Key: F",
+  "ZBC": "ZBC: 324",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Muang un! Thu-umte’n, muang un!",
+        "Galdona a sawt hang;",
+        "Nangma zawh theih nadingin,",
+        "Nanglam Topa pang hi."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Muang un! Muang un! Khuamial a lauhuai hang;",
+        "Muang un!",
+        "Muang un! Khua hong vak dekta hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Muang un! Gal a tam hangin, a lauhuai lampi",
+        "ah;",
+        "Ze-etna a tam hangin, lam hong hilh ding Topa’n."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Topa’n hong gumzo",
+        "ding hi, I Topa pha bel hi;",
+        "Muang un! A umte’n zo ding, I Topa phabel hi."
+      ]
+    }
+  ]
+}

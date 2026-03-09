@@ -1,0 +1,51 @@
+{
+  "title": "Topa in Hong Liah Ding",
+  "key": "Key: G",
+  "ZBC": "ZBC: 058",
+  "sections": [
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Gimna ka thuak loh na’ng munah,",
+        "Topa in kei hong kem ding hi;",
+        "Pa Pasian in a",
+        "khut sungah,",
+        "Kei hong kem tawntung ding hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Gimna hong thuaksak zel hangin,",
+        "Inn nuam hong tut nop man hi;",
+        "Heh man hilo, hong it",
+        "manin,",
+        "Gimna hong thuaksak thei hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Dawimangpa’ pawl i galte in,",
+        "Hong bawlsia nuam semsem hi;",
+        "Ahih hangin Pa Pasian",
+        "in,",
+        "Lungnopna suaksak ding hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Singlamteh ka puak laitakin,",
+        "Dahna huih bang nung thei hi;",
+        "Hih hang Jesuh’n kei hong",
+        "kem in,",
+        "Gal hong tuaksak lo ding hi."
+      ]
+    }
+  ]
+}

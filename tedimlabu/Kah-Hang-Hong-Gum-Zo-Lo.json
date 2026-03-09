@@ -1,0 +1,69 @@
+{
+  "title": "Kah Hang Hong Gum Zo Lo",
+  "key": "Key: Eb",
+  "ZBC": "ZBC: 234",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Kah hang hong gum zo lo!",
+        "Khitui in ka mai sawp zong,",
+        "Ka launa daisak tuam lo,",
+        "Mawhna",
+        "kum sawp siang thei lo;",
+        "Kah hang hong gum zo lo!"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Jesuh kap kei tang ding",
+        "si,",
+        "Sing khuam tungah khaina thuak;",
+        "Kei hong hon dingin hong ngak,",
+        "Amah bek hong hon",
+        "thei."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Sep hang hong gumzo lo!",
+        "A hoih pen ka sem thei zong,",
+        "A siang pen ka",
+        "ngaihsun zong,",
+        "Ka kha thak suaksk thei kei;",
+        "Sep hang hong gumzo lo!"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Ngak hang",
+        "hong gumzo lo!",
+        "Huh theih loh mawhna nei zong,",
+        "Ka bil sung hehpih’n hong sam,",
+        "Ngak lai",
+        "leng ka si ding hi;",
+        "Ngak hang hong gumzo lo!"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Khazih upna’n hong gum!",
+        "Hong",
+        "umsak in, Na Tapa,",
+        "A bawlsa nate um in,",
+        "A khut in kei hong pom ding;",
+        "Khazih upna’n hong",
+        "gum!"
+      ]
+    }
+  ]
+}

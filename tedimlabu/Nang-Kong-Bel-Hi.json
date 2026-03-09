@@ -1,0 +1,38 @@
+{
+  "title": "NANG KONG BEL HI",
+  "key": "Key: F",
+  "ZBC": "ZBC: 066",
+  "sections": [
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Nang kong bel hi, Nang kong bel hi",
+        "Nangmah kong bel hi",
+        "A kip thupha Suangpi"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Sunin gam dai-a dahin lungleng laitak",
+        "Ze-etna in a vaang tawh hong tuam ciangin",
+        "Nuntak",
+        "huihpi nung tuipi kihual laitak",
+        "Thupha Suangpi aw hong liahin bittakin"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Galdo lai takin gal in hong neh ciangin",
+        "Tai in kong ko zel hi ka belh Suangpi aw",
+        "Tuihual",
+        "bang ze-et gimna hong tun ciang in",
+        "Na sung kong bu hi, keima kha Suangpi aw"
+      ]
+    }
+  ]
+}

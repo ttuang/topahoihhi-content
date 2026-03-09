@@ -1,0 +1,75 @@
+{
+  "title": "Nasem Un",
+  "key": "Key: F",
+  "ZBC": "ZBC: 274",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Na sem un, na sem un!",
+        "Pasian sawltak hi hang,",
+        "Ih Topa totsa lampi mah a zui",
+        "hihang;",
+        "Ama thunuam in ei hong thahat sak dinghi,",
+        "Na sem ding I muh peuh",
+        "Thahatna tawh sem",
+        "ni"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Na sem un! na sem un! Na sem un!",
+        "Na sem un! Lam-en un, (muang",
+        "un)",
+        "Thungen un, (ngak un)",
+        "Topa hong pai mateng sem un."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Nasem un! Nasem un!",
+        "gilkialte anvak un",
+        "Nuntakna tuinak ah migimte paipih un;",
+        "Singlamteh leh lungdamna thu",
+        "tawh",
+        "Kipak ni, Tangko un, “Man ngenlo,",
+        "a khawnkhong hong hon hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Na sem",
+        "un! na sem un !",
+        "om hi mi kimsep ding",
+        "Theih khialhna khuamial",
+        "Gam hi ei te suk-mang",
+        "ding;",
+        "I Topa Pasian'min I pah",
+        "Tawi ding a hi, Tangko un,",
+        "\" Man ngen lo, a khawnkhong hong hon",
+        "hi\""
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Na sem un! Na sem un!",
+        "Topa’ tha tawh sem ding,",
+        "Kumpi puan leh lukhu",
+        "nuamna eite’n sang ding;",
+        "Tatkhiatsa midikte tawh eite’n I vekpi’n,",
+        "Sa khawm",
+        "ding, “Manngen lo,",
+        "A khawnkhong hong hon hi.”"
+      ]
+    }
+  ]
+}

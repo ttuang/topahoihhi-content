@@ -1,0 +1,62 @@
+{
+  "title": "Na Deihna Bang Hi Tahen",
+  "key": "Key: Ab",
+  "ZBC": "ZBC: 311",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Ka Topa aw, Nangma kiangah, lampi haksa paikhawm lai-ah;",
+        "Hong cisak thei in, “Na deihna",
+        "bang hi tahen!”"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Nangma deihna bang hi tahen!",
+        "Hong cisak thei in, “Na",
+        "deihna bang hi tahen!”"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Dahna ka thuak lawmte sita, hih hang na thu ngaihsun",
+        "lai-ah;",
+        "Hih bang gen ding hi’ng, “Na deihna bang hi tahen!”"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Na Kha",
+        "Siangtho in keima kha, na awi bang gamta dingin-ah;",
+        "Hih bang gen ding hi’ng, “Na deihna",
+        "bang hi tahen!”"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Nisimin hong puahpha inla, na awi bang gamta ding inah;",
+        "Gen",
+        "ding hong huh in, “Na deihna bang hi tahen!”"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 5",
+      "lines": [
+        "Leitungah keima nuntakna, bei a",
+        "vantung tun ciangin-ah;",
+        "Hih bang gen ding hi’ng, “Na deihna bang hi tahen!”"
+      ]
+    }
+  ]
+}

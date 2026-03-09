@@ -1,0 +1,56 @@
+{
+  "title": "Topa Hong Pai Ding",
+  "key": "Key: G",
+  "ZBC": "ZBC: 165",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Topa hong pai ding, nung ciangin: kithawi in hong pai ding!",
+        "Van inn nuam panin hong pai ding:",
+        "kithawi in hong pai ding!",
+        "Amah thuman i Topa hi, A teelsate thupha pia ding,",
+        "A Pa’ Kumpi",
+        "tokhom tu ding: kithawi in hong pai ding!"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Mopipa hong pai ciang na kithawi",
+        "diam?",
+        "Mopipa hong pai ciang na kithawi diam?",
+        "Zingsang, sun le zan hi zong, Na meivakte tangpha",
+        "in,",
+        "Mopipa hong pai ciang na kithawi diam?"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Amah leitung hong pai baih ding: kithawi",
+        "in hong pai ding!",
+        "Gualzawhna ding hun hong tung ding: kithawi in hong pai ding!",
+        "Hallelujah van pan",
+        "ging ding, Jesuh’ gupkhiatna hong puak ciang,",
+        "Meivak hoihte’n Topa mu ding: kithawi in hong",
+        "pai ding!"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "En in, nang le kei ading hi: kithawi in hong pai ding!",
+        "A sawtlo-in pengkul",
+        "za ding: kithawi in hong pai ding!",
+        "Ei hong sam ding thukhen ni ciang, Gam khempeuh panmun",
+        "khempeuh-ah;",
+        "A kumpi tokhom mai ding ding: kithawi in hong pai ding!"
+      ]
+    }
+  ]
+}

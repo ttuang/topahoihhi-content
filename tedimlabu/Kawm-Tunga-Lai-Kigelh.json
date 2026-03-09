@@ -1,0 +1,56 @@
+{
+  "title": "Kawm Tunga Lai Kigelh",
+  "key": "Key: F",
+  "ZBC": "ZBC: 038",
+  "sections": [
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Pasian’ khut in gelh, kawm tungah!",
+        "Pasian’ khut in gelh kawm",
+        "tungah!",
+        "“Tawi cing kei teh” hong ci kha diam?”",
+        "“Cing mah teh” hong",
+        "cizaw diam?",
+        "Hia khut in gelh lai hi, kawm tungah!"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Daniel zong hangsan takin, mipi mai-ah hong ding hi,",
+        "Kiphasak kumpipa taai-in, a khialhnate",
+        "pulak hi;",
+        "“Na vekpi un thuak nuteh” ci-in kigelh hi, lai sungah,",
+        "“Na kumpi gam a",
+        "bei hita” ci-in kigelh hi, kawm tungah!"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Daniel in upna tak tawh, thuman gen ngam, sem ngam hi,",
+        "Kha Siangtho piak hi, tua thusim, Amah",
+        "hatsak, theisak hi;",
+        "Judea gam a inn sung leh, a saltaanna inn sungah,",
+        "Amah in a khiatna thei khin,",
+        "Pasian’ laigelh kawm tungah!"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Eite gamtatnate zong, ciamtehin kigelhgelh hi,",
+        "Jesuh hong sawl bangbang mangin, Ama kiang va",
+        "zuan meng ni;",
+        "Thukhenni hong naizo hi, hong tung ding miteng tungah,",
+        "Mawh neite’ thuak ding",
+        "gimna lian, hong kigelh ding, kawm tungah!"
+      ]
+    }
+  ]
+}

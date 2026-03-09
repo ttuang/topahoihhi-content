@@ -1,0 +1,69 @@
+{
+  "title": "I Pasian’ Mai Nawt Hi",
+  "key": "Key: C",
+  "ZBC": "ZBC: 294",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Min thanna tawh Topa hong paina, Ka mit in mu khin zo",
+        "Amah in hehna leenggah kikoihna lo tuan",
+        "cil khinzo",
+        "Kihtak huai a zap tel khua phelep",
+        "Anam sau khah khin zo, I Pasian mainawt",
+        "hi"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Min thang, min thang, Hallelujah!",
+        "Min thang, min thang, Hallelujah!",
+        "Min",
+        "thang, min thang, Hallelujah!",
+        "I Pasian mai nawt hi"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Giahphual za khat kiim a mei taang",
+        "ah",
+        "Amah mu khin ing",
+        "Nitak dai nom lak ah biakna tau lam uh Ama aa ding",
+        "A ma thu khenna maan",
+        "te mei taang kiaukiau ah sim thei ing",
+        "I Pasian mai nawt hi"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Nungkik ding a, sam ngei",
+        "lo ding peengkul Amah’n mut hi",
+        "A thu khen na tokhom maiah mi hing te lungsim sit hi",
+        "Ka kha",
+        "aw, amah dawng meng in! nuam in, ka khe!",
+        "Nuam huai hi I Pasian mai nawt hi"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Tuipi gal",
+        "khat, unok paak hoih lakah Khazih suak khin hi.",
+        "Nang le kei hong kikheel sak A ang",
+        "sung",
+        "minthan’na tawi hi.",
+        "Mite siangsak ding hong sih bangin,",
+        "mi’ suahtak nang si",
+        "ni. Pasian mai nawt lai hi"
+      ]
+    }
+  ]
+}

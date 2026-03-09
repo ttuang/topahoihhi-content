@@ -1,0 +1,38 @@
+{
+  "title": "Vantung Gam Pan Vantung Mite",
+  "key": "Key: C",
+  "ZBC": "ZBC: 077",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Gampa lakah tuuhonte tawh, zan giak, no tuucingte aw;",
+        "Pasian le mi om khawmzo hi, En un,",
+        "Khuavak ngek tang hi.",
+        "Hong paita un, Hong bia ta un, Suak thak Khazih hong bia un."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Mipilte aw, lung geel nawn ke’n, a taangzaw khuavak en ve’n;",
+        "Mi namkim’ deih",
+        "lian pen zong in, A aksi, no muzo tu’n",
+        "Hong paita un, Hong bia ta un, Suak thak Khazih hong bia",
+        "un."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Thu khat in Topa A inn ah, hong kilang ding ci-in ah;",
+        "Ngak a, lawp a, lam-etna tawh, bia-a om",
+        "misiangte aw",
+        "Hong paita un, Hong bia ta un, Suak thak Khazih hong bia un."
+      ]
+    }
+  ]
+}

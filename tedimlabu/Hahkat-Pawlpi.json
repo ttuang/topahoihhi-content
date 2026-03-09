@@ -1,0 +1,46 @@
+{
+  "title": "HAHKAT PAWLPI",
+  "key": "Key: C",
+  "ZBC": "ZBC: 386",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Hahkat pawlpi, gamla nai pan, thu sin dingin, i kikhawm hi;",
+        "Tawpna a nuam, a omnate, I gen ding",
+        "hi, Pasian’ thupha,"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Hahkat pawlpite aw, Topa kiang kikhawm ni;",
+        "Lungsim",
+        "kituakpha tawh, aminphatna gen ni;",
+        "Topa le a gampi, adingin hahkat ni;",
+        "Pawlpi a hahkatte huhna",
+        "ding thungen ni."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Khazih Topa, phat dingin ah, la sa dingin, hong kikhawm",
+        "un;",
+        "Khangnote in, hih mun panin, hin tawntungna ngah ding uh hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Topa Pasian, nasem",
+        "dingin, kiciamna pha, a thak koih hi;",
+        "Vantung inn nuam, tun ma tengin, upna behlapin nasem ni."
+      ]
+    }
+  ]
+}

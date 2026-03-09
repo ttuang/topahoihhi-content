@@ -1,0 +1,65 @@
+{
+  "title": "HONG SIANG SAK SI",
+  "key": "Key: Bb",
+  "ZBC": "ZBC: 137",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "En un, mawhna khempeuh a puakhia Pa,",
+        "Sihna Kalvary mual tungah,",
+        "Singlamteh tunggim na",
+        "sihna thuak in,",
+        "Kei a’ dingin a sisan hong luang"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Hong gum Topa pang pan",
+        "in-ah,",
+        "Sisan le tui hong luang khia hi;",
+        "Ka lung sungah om tawntung hik,",
+        "Mawhna kisawp siang",
+        "zo."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Mawhna sawpsiang na’ng tui a hong luangzo hi,",
+        "Hong Gum Topa sih na mun",
+        "pan;",
+        "A tawntungin tua tui ah kisil in,",
+        "Hong Gum Topa kiang zuan in pai ni"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Tua si",
+        "sungah a kisil khempeuh te,",
+        "A mawhna teng vuk bang ngo ding;",
+        "Na mawhna khempeuh uh hong maisak",
+        "ding;",
+        "Ka kiang hong pai un, Topa’n hong ci."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Mawhna sungah ka paikik nawnkei",
+        "ding,",
+        "Jesuh’n kei hong suak ta sak ding;",
+        "A Kha Siangtho in kei hong pi ding a,",
+        "A",
+        "gamsung ah hong lutpih ding hi."
+      ]
+    }
+  ]
+}

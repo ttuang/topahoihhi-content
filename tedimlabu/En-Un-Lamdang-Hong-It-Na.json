@@ -1,0 +1,52 @@
+{
+  "title": "EN UN LAMDANG HONG IT NA",
+  "key": "Key: Db",
+  "ZBC": "ZBC: 068",
+  "sections": [
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "En un Topa Pasian in",
+        "“Tate aw” hong cih na Pasian tate,",
+        "I tang ding",
+        "hi",
+        "En un Topa Pasian in",
+        "Ei hong it thupha phatna."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Topa tawh kinai theih na ding",
+        "Jesuh a si luangsak,",
+        "“Ka ta it te aw” ci’n",
+        "hong sam",
+        "A ang sung i khawl ding."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Nung ciang i min bangci than ding",
+        "Tu’n ki thei nai lo hi",
+        "Topa Jesuh hong kumkik",
+        "ciang",
+        "A mah i sun ding hi"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Tua thu alawpte khempeuh in",
+        "I Topa bang ding hi",
+        "Sihna a zo min thang Topa",
+        "Mai mu",
+        "dingin a pha."
+      ]
+    }
+  ]
+}

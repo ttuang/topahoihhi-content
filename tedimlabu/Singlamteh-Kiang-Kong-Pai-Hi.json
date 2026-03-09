@@ -1,0 +1,75 @@
+{
+  "title": "Singlamteh Kiang Kong Pai Hi",
+  "key": "Key: G",
+  "ZBC": "ZBC: 260",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Singlamteh kiang kong pai hi",
+        "Tha le sum lo, mit taw pi",
+        "Na dang bangmah man lo",
+        "pi",
+        "Hotna cing ka zong ding hi."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Topa Nangmah kong muang zo",
+        "Singlamteh tung",
+        "si Tuuno",
+        "Na Singlamteh kong bel zo",
+        "Hong hon aw, tu’n hong hon aw."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Nang",
+        "kong lung gulhna sawt hi",
+        "Ka gitloh sawt lua zo hi",
+        "Jesuh in damtak hong ci",
+        "“Na mawhna",
+        "Kong sawp ding hi”"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Ka vekpi’n kong ki pia ta",
+        "Ka lawm, ka hun, ka",
+        "neihsa",
+        "Ka vekpi’n kapum kakha,",
+        "Nang’ a ka hi khin nuam ta."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Na",
+        "thuciamte ka muang hi",
+        "Na si pha tu’n ka phawk hi",
+        "Ka lungsim ka niam khiat hi",
+        "Nangmah",
+        "tawh ka si khawm hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 5",
+      "lines": [
+        "Jesuh ka lung sung tumzo,",
+        "Ama sung ka kicingzo;",
+        "Ka",
+        "pumpi’n ka dam siangzo,",
+        "Minthang hen, Pasian Tuuno."
+      ]
+    }
+  ]
+}

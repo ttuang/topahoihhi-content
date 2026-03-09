@@ -1,0 +1,53 @@
+{
+  "title": "Kiteenna La",
+  "key": "Key: Bb",
+  "ZBC": "ZBC: 468",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Pasian in kiteenna pawi bawlkhinzo hi,",
+        "A siangtho innkuan a suak dingin;",
+        "A kicing innkuan",
+        "khat a suah nadingin,",
+        "A siangtho nuntakna a nei ding."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Lungdam takin nuampih ciat",
+        "ve un,",
+        "I lawmte kiteenna pawi sungah;",
+        "Hih lungdamna thu vantung dong thangsak un,",
+        "Leitung",
+        "nuntakna a bei ciangin."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Jesuh in Tapidawte a it manin,",
+        "A nuntakna a hong piak",
+        "bangin;",
+        "Hih zi neipa in zong tua bangin hih hen,",
+        "A siangtho thu hilhna zui ta",
+        "hen."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Topa Nang khut sungah hihte omta hen,",
+        "Amau sungah khantohna om hen;",
+        "Kithu",
+        "tuahna lungsim om tahen,",
+        "Thahatna teng Nang ading zang hen."
+      ]
+    }
+  ]
+}

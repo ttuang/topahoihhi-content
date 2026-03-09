@@ -1,0 +1,48 @@
+{
+  "title": "Tuipi Luanglai Khawlsak",
+  "key": "Key: F",
+  "ZBC": "ZBC: 033",
+  "sections": [
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Tuipi luanglai khawlsak, Tuipi luanglai khawlsak;",
+        "Jesuh tawh om peuh leng, bangmah kihtak",
+        "nei keng,",
+        "Tuipi luanglai khawlsak."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Mawhna tui hual in hong tuum a,",
+        "Khemna’n hong zol laitak;",
+        "Topa in hong lungmuangsak",
+        "a,",
+        "Tuipi luanglai khawlsak."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Lungkiatna le launate in, ka lampi hong mialsak;",
+        "Kei hong kem hi, A itna in,",
+        "Tuipi",
+        "luanglai khawlsak."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Topa aw, ka hun beikuan a, Na gam kong zuat laitak;",
+        "Na khut in kei hong len inla,",
+        "Tuipi",
+        "luanglai khawlsak."
+      ]
+    }
+  ]
+}

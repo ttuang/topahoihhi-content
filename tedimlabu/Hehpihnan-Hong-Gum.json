@@ -1,0 +1,64 @@
+{
+  "title": "HEHPIHNA’N HONG GUM",
+  "key": "Key: F",
+  "ZBC": "ZBC: 444",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Hong tung ding leitung hin bei ni,",
+        "Tu’n ka theih bang la sa lo ding;",
+        "Ka thawh kik",
+        "ciang ka nuam ding hi,",
+        "Topa Kumpipa tawh om ning."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Ka mu ding hi, Topa’",
+        "maitang,",
+        "Gupna thu itna tawh hong gen;",
+        "Ka mu ding hi, Topa maitang,",
+        "Gupna thu itna tawh hong",
+        "gen."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Leitung ka inn puk ni om,",
+        "Cik ciang ding hiam gen thei lo hi;",
+        "Hih hang ka",
+        "thei kei a’-ding om,",
+        "Vantung ka om na’ng ka thei zo."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Ni a tang hong liap",
+        "sak ciangin,",
+        "Ni tum khua vangtang lim nuaiah;",
+        "Ka Topa’n kei pha ci-in,",
+        "Hong lut sak",
+        "ding hiam khawlna-ah."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Ni khat ni ding vil in ngak in,",
+        "Ka meivakte tang phasak",
+        "ning;",
+        "Hong Honpa’n kong hong hon ciangin,",
+        "Ama kiang zuan in lengto ning."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "title": "Jesuh’ A Galkapte Makaih",
+  "key": "Key: C",
+  "ZBC": "ZBC: 037",
+  "sections": [
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Jesuh’n dialkhai nuai-ah, galdo makaih hi;",
+        "Hih leitung gal khempeuh, thuman tawh zo",
+        "hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Pasian’ hotna muang in, gal i zawh mateng;",
+        "Satan zawh nadingin, galvan hoihte",
+        "keng;",
+        "A siangtho tupna ah, thumanin ding ni;",
+        "Pasian’ adingin ah, khut le khe zang ni."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Galkap honpite in, pai kawmin lasa;",
+        "Phat ni Kumpipa min, eite makaipa;",
+        "I tup lian kibang",
+        "hi, a nai a gamla,",
+        "I awging kiza hi, kuanin mainawt un."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "title": "JESUH THU THEI SEMSEM NUAM INGH",
+  "key": "Key: Ab",
+  "ZBC": "ZBC: 095",
+  "sections": [
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "A thu zaza nuam ing",
+        "A thu zaza nuam ing",
+        "Kei tang a si Pa hong itna",
+        "A cing zaw in",
+        "ka thei nuam ta."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Jesuh thu ken sinsin nuam ingh.",
+        "A deihna khen tel thei nuam ingh.",
+        "Pasian Kha Siangtho ka",
+        "sia pa’n",
+        "Khris zia le tong hong lak khia ta’n"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Jesuh kammal zaza nuam ingh.",
+        "Topa tawh holim den nuam ingh.",
+        "A aw ngai ning vai khempeuh",
+        "ah,",
+        "A gen teng ka pom nuam ta."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Van tokhom ah a tutna thu,",
+        "Van hauhna teng a neihna thu;",
+        "A gam zai na’ng leh hong",
+        "pai na’ng",
+        "Za nuam ing, Kumpi a suah na’ng."
+      ]
+    }
+  ]
+}

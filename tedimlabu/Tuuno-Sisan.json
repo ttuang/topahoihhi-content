@@ -1,0 +1,62 @@
+{
+  "title": "Tuuno’ Sisan",
+  "key": "Key: D",
+  "ZBC": "ZBC: 124",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Leitung mawhna pulak dingin,",
+        "A sipha minthang mahmah hi;",
+        "Pasian Tpa pha bel Jesuh,",
+        "A",
+        "liam manin i damta hi.",
+        "Tuukhum tawh i gamlat hangin,",
+        "Lam khial a gimna thuak hangin;",
+        "Vuk sang",
+        "ka ngosak nadingin,",
+        "Tuuno si tawh hong sawp siang in.",
+        "Sakik",
+        "Vuk sang ngozaw hi, Vuk",
+        "sang ngozaw hi;",
+        "Tuuno si tawh hong sawp siang leh,",
+        "Vuk sangin ka ngozaw ding",
+        "hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Ling tawh kigan lukhu khu a,",
+        "Singlamteh gik Topa’n pua hi;",
+        "Gimna",
+        "dahnate thuak zota,",
+        "Ahih hang mawkna hilo hi.",
+        "Leitung i mawh hong sawpsak ding,",
+        "Asi phualah",
+        "ei hong la-in;",
+        "Vuk sang ka ngo zawk nadingin,",
+        "Tuuno si tawh hong sawp siang",
+        "in."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Pa aw, ke’n lam ka khialzo hi,",
+        "Ka lungsim tamvei mawhzo hi;",
+        "Ka mawhna",
+        "in si bang san a,",
+        "Tui in kisawp siang zolo hi.",
+        "Keimah in na thuciam um leng,",
+        "Na si buakna",
+        "munah pai ning;",
+        "Vuk sang ka ngo zawk nadingin,",
+        "Tuuno si tawh hong sawp siang in."
+      ]
+    }
+  ]
+}

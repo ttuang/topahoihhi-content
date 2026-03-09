@@ -1,0 +1,65 @@
+{
+  "title": "Ko Teng Thum Ni Suahna Panin",
+  "key": "Key: G",
+  "ZBC": "ZBC: 093",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Ko teng thum ni suahna panin, mual le guam gamlapi kanin;",
+        "Letsong puakin kong pai uh hi, Hih",
+        "aksipi zui-in."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Aw, lamdang mahmah zan aksi,",
+        "Kumpi’ vang a tang",
+        "aksi,",
+        "Hong masuan in lam hong hilh in,",
+        "Khuavak thak phual hong tun in."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Kumpi",
+        "khat suakzo ngel hi a, A Kumpi lukhu dingin ah;",
+        "Ei tung hong mang den tahen, ci’n kong puak uh,",
+        "kham manpha."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Ke’n zong pak namtui kong keng hi, Pasian tawh kinaina lim",
+        "hi;",
+        "Thungetna le phatna biakna, van-a Pasian puak ni."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Kei aa pawh pak namtui kha hi,",
+        "lungkhamna le thuakna limi hi;",
+        "Dah in kapin, sisan luangin, han vot sung lum ding",
+        "hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 5",
+      "lines": [
+        "Min thanna tawh a kidim Pa, Kumpi, Pasian hong kipia Pa;",
+        "Hallelujah, Hallelujah,",
+        "lei le van in phatta."
+      ]
+    }
+  ]
+}

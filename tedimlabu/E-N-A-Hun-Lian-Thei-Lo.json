@@ -1,0 +1,54 @@
+{
+  "title": "E’n A Hun Lian Thei Lo",
+  "key": "Key: C",
+  "ZBC": "ZBC: 498",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Topa hong pai ding a hun lian kuamah’n thei lo,",
+        "Tua hun hong nai hi, ci-in limte’n",
+        "hong lakzo;",
+        "Hong pai kik ding hi cih kam ciamna thupha kho,",
+        "E’n a hun lian thei",
+        "lo."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Hong pai ding kigingsa-in om ciat ni,",
+        "Hong pai ding, Hallelujah!",
+        "Hallelujah!",
+        "Pasian vangliatna tawh meii tung tuangin hong pai ding,",
+        "E’n a hun lian thei",
+        "lo."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Hotkhiatna a zong mipil ta ding khuavak hi,",
+        "Topa thuhilhna Lai Siangtho sungah om",
+        "hi;",
+        "Hong hilhna thu in hun bei nading hong lak hi,",
+        "E’n a hun lian thei",
+        "lo."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Meivak tangsak in thungen kawmin i ngak ding,",
+        "Topa hong pai dong, ngakkawmin na i",
+        "sem ding;",
+        "Na lamdang pian sim hong naina thu phawk sem ding,",
+        "E’n a hun lian thei lo."
+      ]
+    }
+  ]
+}

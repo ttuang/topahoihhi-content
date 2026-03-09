@@ -1,0 +1,55 @@
+{
+  "title": "VUK A PAKNA MUALDAWN PAN",
+  "key": "Key: F",
+  "ZBC": "ZBC: 401",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Vuk a pakna mual dawn pan, khang lam leimong dongah;",
+        "A mual a guam a zang pan, Tui tung leitung",
+        "tengah;",
+        "A teeng mite khempeuh in, Pasian’ lam khial khin hi;",
+        "Tua khialhna kol sut ding-in,",
+        "Eite hong sam uh hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Khua lumna gam sunga nung, Huihvot nuam mahmah a;",
+        "Etlawm a tamna",
+        "gam sung, Mihingte sia khin ta;",
+        "Pasian hong hehpihna in, A mawkna suak khin hi;",
+        "Lawkite’n",
+        "mittaw bangin, Sing leh suang bia uh hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Vantung khuavak thu theisa, Khuavak ta eite",
+        "in;",
+        "Khuamial sunga mangthang sa, Mite khuavak puakin;",
+        "Gamlapi a om mite, Pasian meivak puak",
+        "ni;",
+        "Hotkhiatna thu thei lote lungdamna thu puak ni."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Ama lungdamna thupha, Huih aw va",
+        "lenpih in;",
+        "Mi khempeuh theih ding thupha, Tuipi’n va luan pih in;",
+        "Mawhneite tang ding sih",
+        "thuak, Tuuno A hong pai ding;",
+        "I kumpi dingin hong tuak, lungdamna tawh mang ding."
+      ]
+    }
+  ]
+}

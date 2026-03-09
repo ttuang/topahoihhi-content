@@ -1,0 +1,66 @@
+{
+  "title": "Khris Tawh Kigamla Semsem",
+  "key": "Key: G",
+  "ZBC": "ZBC: 258",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Hong sapsap hang Khris tawh kigamla semsem,",
+        "Tudong mahin nial lailai ding na hiam?",
+        "Leitung",
+        "nopsakna lam-en lailai ding maw?",
+        "Hong khem hihte muang lailai ding na",
+        "hiam?"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Jesuh zuan meng in! sinkham, lungkham mi aw,",
+        "Jesuh zuan in, hun omlai",
+        "in;",
+        "Nang hong sang dingin tu-in hong ngak lai hi",
+        "Tuni’n hong sam, A aw ngai",
+        "in."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Hon hoih napi Khris tawh kigamla semsem,",
+        "Zan hong naita nang bang cih ding na",
+        "hiam?",
+        "Khris tawh na kigamlat hang, omna omlai,",
+        "Nang ading hinna tui luang hilo",
+        "hiam?"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Hong zolzol hang Khris tawh kigamla semsem,",
+        "Na mawhna pan na kisikkik nop",
+        "leh;",
+        "Amah’n hong ngak hotkhiatna kong khakpi ah,",
+        "Hong maisak nuamin hong ngakngak lai",
+        "veh."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Hong it napi Khris tawh kigamla semsem,",
+        "Ama itna sang pak lo ding na",
+        "hiam?",
+        "Kinawh meng in, na upna aksi taanlai,",
+        "Kisikkikin umpah lo ding na hiam?"
+      ]
+    }
+  ]
+}

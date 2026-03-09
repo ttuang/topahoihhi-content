@@ -1,0 +1,64 @@
+{
+  "title": "Jesuh’ Min",
+  "key": "Key: C",
+  "ZBC": "ZBC: 116",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Jesuh min bang zahin ngaih hiam,",
+        "Ama’ late sasa nuam ing;",
+        "Ka lung hong kimsak mahmah",
+        "hi,",
+        "Jesuh A man manpha hi."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "‘Jesuh’ bangzah a ngaih",
+        "min,",
+        "‘Jesuh’ Nisimin tuamah;",
+        "‘Jesuh’ kici min manpha, phat tek ni,",
+        "A",
+        "tawntung in."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Ka lungsim le ka dahna teng,",
+        "A theikhin pa’ min ngaih ka",
+        "sa;",
+        "Launa lungmannate beisak,",
+        "Jesuh Amin ka it hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Tua min ngaih ka zaza nuam",
+        "hi,",
+        "Ka lungsim hong nopsak khial kei;",
+        "Ama late’n khitui nulsak,",
+        "Jesuh Amin thangsak",
+        "un!"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Kuamah’n gen thei ngei het lo hi,",
+        "Tua ka it min, bangzah’n ngaih",
+        "hiam;",
+        "Aw tua min phatna bek ging hi,",
+        "Jesuh A min phat ve un."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "title": "Hing Hi",
+  "key": "Key: Bb",
+  "ZBC": "ZBC: 142",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Ka biak ahingkik Honpa tu’n leitungah om a,",
+        "Mite’n bangbang genta leh, Ahin lam ka",
+        "thei ta;",
+        "Hong hehpihna ka thei a, A aw ka zaza hi,",
+        "Amah ka kisap laitak hongnai den",
+        "hi."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Hing hi, hing hi, tuni’n Honpa hing hi,",
+        "Hong tonpih a, hong hopih",
+        "hi,",
+        "Ka paina khempeuh ah, hing hi, hing hi,",
+        "Mihing honkhia Pa hi,",
+        "Bangci theih na hiam nong",
+        "cih leh,",
+        "Ka lung sungah hing hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Ka kiim ka paam leitung teng A hong itna",
+        "dima,",
+        "Lungman launa ka tuah ciang, A ang sung ka beel a;",
+        "Huihpi nun ciang A khut in kei hong len",
+        "gige hi,",
+        "Amah hong kilat ding ni, hong tung ding hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Nuam un, nuam un! Jesuh’",
+        "mi, sa un lungdamna la,",
+        "Hallelujah ci unla, phat un Khris kumpipa;",
+        "Amah a zongte’ muanpa a",
+        "gimte Huhpa hi,",
+        "Tua bang itna lian a nei mi om lo hi."
+      ]
+    }
+  ]
+}

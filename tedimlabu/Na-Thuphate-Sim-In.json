@@ -1,0 +1,69 @@
+{
+  "title": "NA THUPHATE SIM IN",
+  "key": "Key: Eb",
+  "ZBC": "ZBC: 354",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Nuntak na tuipi tungah huih nun ciang in",
+        "Si ding cih ngaihsun in",
+        "Na lungkiat",
+        "ciangin,",
+        "Thupha khat nungah thupha na ngaihsut leh",
+        "Nisim in a tawntung la na sa",
+        "dinghi"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Thupha khat nungah khat ngaihsun in,",
+        "A tampi hong pia hi thei ta",
+        "in",
+        "Thupha khat nung ah khat ngaihsun in",
+        "Pasian in a tampi hong pia thei ta",
+        "in"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Lungmanna vangik bangin Na lel ngei hiam",
+        "Singlamteh hong puasak in",
+        "A gik thei",
+        "hiam",
+        "Thupha khat nungah",
+        "Thupha na ngaihsun leh",
+        "Nisim in a tawntung la na sa ding",
+        "hi"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Mi dangte a sum apai na etciangin",
+        "Jesuh kiangah na ngahding sum ngaihsun",
+        "in,",
+        "Vantung khua sungah Na omna inn hi zong",
+        "Kuamah in leizo kei sum a om ding",
+        "hi"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Tua a hih ciangin gal kido laitak in,",
+        "Pasian in na khempeuh uk hi, lau kei",
+        "in",
+        "Vantung mihingte in Nang kiang ah om hi,",
+        "Lampi tawp dongin nanga hong huh ding hi"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "title": "HEHPIHNA A NGENTE",
+  "key": "Key: F",
+  "ZBC": "ZBC: 409",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Lungdamna thupha ngai in,",
+        "Gam la a nai gen in, Sihna thuak Topa Jesuh ,",
+        "Hong gup na thu",
+        "gen in; Om tawntung hi,",
+        "Ama thu, A thuciamkip ding hi,",
+        "Topa Jesuh a umte, A min thang sak ding",
+        "hi."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Topa Pasian kiangah, Hehpihna ngen te in,",
+        "Gupna thupha mantak a ngah thei",
+        "ding uh hi;",
+        "Topa Pasian kiangah, Hehpihna ngente in,",
+        "Gupna thupha mantak a ngah thei ding uh",
+        "hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Sawtvei khuamial a omte, Mawhna lam a zuite,",
+        "Topa Jesuh’n tanna pi, En in",
+        "thupha bel hi;",
+        "Lungsim na neihzah inah, A thuciamna umin,",
+        "Topa kiangah thungente, Kisia ngeilo",
+        "ding hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Leitungah vangik puate, Gimna tawlna thuakmi,",
+        "Na vangik a pua dingin, Topa",
+        "in hong ngak hi;",
+        "Thupha lamdang hong pia a,",
+        "Mi khempeuh hawmsak hi,",
+        "Topa Jesuh thu umte, Amin",
+        "thangsak ding hi."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "title": "Hong Pai Un",
+  "key": "Key: D",
+  "ZBC": "ZBC: 221",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "A zaknop huai penpen thu, thupha khat a om hi,",
+        "A lamdang thuciamna thu, kuama theih ngeiloh",
+        "thu!",
+        "Dah ta lehang nuamta leng, tua thu-um ta kei leng;",
+        "“Hong pai un” ci-in hong sam,",
+        "a singlamteh zuan ni."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Hong pai un ka kiang, hong pai un ka kiang,",
+        "Lungkham",
+        "vangik puate, ka kiang hong pai un;",
+        "Ka kiang hong pai un, ka kiang hong pai un,",
+        "Lungkham vangik",
+        "puate, ka kiang hong pai un."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Bang hangin hong it lawmpa kiang pan na taikhia",
+        "hiam?",
+        "Ama kiang beel mengmeng in, A tawntungin kip in,",
+        "Huh ding neilo-in ka om, mawhna sungah ka",
+        "om;",
+        "Amah ka taisan hangin, tu-in ka zuankik hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Ama hong sap mah bangin a kiang nai",
+        "semsem ning,",
+        "A aw neu kha za peuh leng, ka kinai semsem ding,",
+        "Tuipi galkhat mual pang khat, inn",
+        "tawh ka gamlat hang;",
+        "Na khut lenin hong zui ning, “Hong pai in” na cih bang."
+      ]
+    }
+  ]
+}

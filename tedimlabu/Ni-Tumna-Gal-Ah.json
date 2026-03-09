@@ -1,0 +1,53 @@
+{
+  "title": "NI TUMNA GAL-AH",
+  "key": "Key: Eb",
+  "ZBC": "ZBC: 432",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Ni tumna gal-ah, Aw a nuam zingsang,",
+        "Topa hong om ciang, Vantung hi zo;",
+        "Khualzin na bei",
+        "in, minthanna mu ding;",
+        "Ni tumna gal-ah, Lei bei ni ciang."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Ni tumna gal-ah, Meii kai",
+        "ngeilohna,",
+        "Huihpi om nawn lo, Launa bei ta;",
+        "Aw lungdam na ni, Aw bei ngei lo ni,",
+        "Ni tumna",
+        "galna gal-ah, tawntung nopna."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Ni tumna gal-ah, Khut tawh hong kha ding,",
+        "I biak i",
+        "Topa, Pasian kiangah;",
+        "A ma minthanna hong dawnna kamkhum,",
+        "Kei a’ ding hi ta, Tua",
+        "gungal-ah."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Ni tumna gal-ah, Lungdam kikholhna,",
+        "A tungsa i it, i lawmte tawh;",
+        "Tua",
+        "a nuam gam sung, Kikhen nawn lo ding,",
+        "Ni tumna gal-ah, a tawntung ah."
+      ]
+    }
+  ]
+}

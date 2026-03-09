@@ -1,0 +1,45 @@
+{
+  "title": "Zogam La",
+  "key": "Key: A",
+  "ZBC": "ZBC: 471",
+  "sections": [
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Zogam, Zomi, Zogam ei hong pia Pa Pasian thang hen!",
+        "Zogam, Zomi, Zogam ei hong pia Pa",
+        "Pasian thang hen!"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Beh le phung pawlpi ngeina pau kilamdang zong,",
+        "Tun sung khat pan",
+        "piang laizom sanggamte hihang,",
+        "Zogam kicinna, Zomite zawhna,",
+        "Jesuh in Topa ci’n phat",
+        "un.",
+        "Zogam ading Pasian, Zomi ading Pasian,",
+        "Lungsim khutte lamto-in Pasian liansak",
+        "un."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Thungen in nasem hanciam Zogam tate w,",
+        "Zomite i belh i suan in Pasian bek",
+        "hi,",
+        "Zogam kicinna, Zomite zawhna,",
+        "Jesuh in Topa ci’n phat un.",
+        "Zogam ading Pasian, Zomi",
+        "ading Pasian,",
+        "Lungsim khutte lamto-in Pasian liansak un."
+      ]
+    }
+  ]
+}

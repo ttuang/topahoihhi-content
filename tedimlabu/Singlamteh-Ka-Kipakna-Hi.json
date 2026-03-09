@@ -1,0 +1,53 @@
+{
+  "title": "Singlamteh Ka Kipakna Hi",
+  "key": "Key: C",
+  "ZBC": "ZBC: 135",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Singlamteh ka kipakna hi,",
+        "Hunsia khempeuh zawhna hi;",
+        "Siangtho tangthu khempeuhte’",
+        "vang,",
+        "Jesuh’ singlamteh kiim tang."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Nuntak dahna’n hong phak",
+        "ciangin,",
+        "Lawpna’n hong khem, lau ciangin;",
+        "Singlamteh’n hong khem ngeilo",
+        "hi,",
+        "Lungnop nuamna hong pia hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Lungdamna ni hong taan ciangin,",
+        "Itna khuavak",
+        "taan ciangin;",
+        "Singlamteh vang taang in ka ni,",
+        "Hong tangphasak semlai hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Thusia",
+        "thupha natna nopna,",
+        "Singlamteh in siansuah a,",
+        "Lungnopna tehzawh loh om hi,",
+        "Tua nuamna kip",
+        "tawntung hi."
+      ]
+    }
+  ]
+}

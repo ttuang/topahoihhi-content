@@ -1,0 +1,53 @@
+{
+  "title": "Na Mawh Phel Nading Om Hi",
+  "key": "Key: Ab",
+  "ZBC": "ZBC: 245",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Hong gum Topa min um in a kiang pai in,",
+        "Lungsiim hong bawl thaksak ding hi;",
+        "Apha a hong",
+        "bawl nop lai-in pial kei in,",
+        "Nang ading mawhphelna om hi."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Na mawh phelna ding om",
+        "hi (om hi),",
+        "Na mawhphel nading om hi (om hi);",
+        "Hong gum dingin Jesuh sizo hi,",
+        "Na mawh phel",
+        "na’ng thu hong pia hi"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Mawhna lampi zuihna in sihna ahi,",
+        "Nang zuizui lai ding na",
+        "hi hiam?",
+        "Itna tawh hong sapna, na nial lai ding hiam?",
+        "Mawhphelna thu nang hong pia",
+        "hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Hong tung ding gal peelin singlamteh bel in,",
+        "Singlamteh in nang hong phel",
+        "ding;",
+        "Kiniamkhiatna na thumna, Kha Siangtho in,",
+        "Hong dawngin, thupha hong pia ding."
+      ]
+    }
+  ]
+}

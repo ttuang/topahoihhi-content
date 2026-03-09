@@ -1,0 +1,40 @@
+{
+  "title": "Nunna Hong Pia’n Pasian",
+  "key": "Key: F",
+  "ZBC": "ZBC: 176",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Nunna hong pia’n Pasian,",
+        "Ka lungsiim sian’ dongin;",
+        "Nang tawh sin khat lung",
+        "khat suah dong,",
+        "Bawl khawm, thuak khawm dingin."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Nunna hong pia’n Pasian,",
+        "Nang mi ka hih khit dong;",
+        "Leitung na khat ahi kei",
+        "sung,",
+        "Na thu mei bang kuan dong."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Nunna hong pia’n Pasian,",
+        "Si ngei nawnlo dingin;",
+        "Hin tawntungna gam nuam",
+        "sungah,",
+        "Nang tawh omkhawm dingin."
+      ]
+    }
+  ]
+}

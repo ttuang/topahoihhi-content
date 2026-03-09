@@ -1,0 +1,73 @@
+{
+  "title": "Hong Honpa In Hong Kun",
+  "key": "Key: Eb",
+  "ZBC": "ZBC: 228",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Hong Honpa in hong kun,",
+        "“Na thahatna neu hi;",
+        "Thanemte’n thu hong ngen",
+        "un,",
+        "Cingtakna ngah ding” hong ci."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Jesuh’n lohkhin ta, Amah tung ka",
+        "ba;",
+        "Si bang sansa ka mawhna,",
+        "Vuk bang hong saw ngo ta."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Topa tu’n ka",
+        "theizo,",
+        "Nangma vang lian bek in;",
+        "Phak le lol zong damsakzo,",
+        "Suang lung nemsak tui",
+        "bangin."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Hehpih ka ngahna ding,",
+        "Phatna khat zong nei keng;",
+        "Ka puan vuk bang paak",
+        "nading,",
+        "Tuuno si sung hong sawp leng."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Sihna lupna tung pan,",
+        "Ka kha a kahto",
+        "ding;",
+        "“Jesuh in keimah hong tan,” ci-in lungdam kiko ding."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 5",
+      "lines": [
+        "Topa tokhom",
+        "mai-ah,",
+        "Kicingin ka din ciang;",
+        "Min phatna puak ning Amah,",
+        "Nga suk ning Jesuh’ khe",
+        "kiang."
+      ]
+    }
+  ]
+}

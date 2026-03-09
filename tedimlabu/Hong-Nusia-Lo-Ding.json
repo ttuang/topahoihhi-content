@@ -1,0 +1,57 @@
+{
+  "title": "Hong Nusia Lo Ding",
+  "key": "Key: Bb",
+  "ZBC": "ZBC: 059",
+  "sections": [
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Hong nusia lo ding, hong nusia lo ding",
+        "Topa Pasian kamciam kip hi,",
+        "Kei guak hong",
+        "nusia lo ding",
+        "Hong nusia lo ding, hong nusia lo ding"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Lauhuai huihpi hong nunga, ze-etna’n hong zol hi,",
+        "Hih hang tu’n ka lungmuang ta,",
+        "Topa’n kei hong ompih;",
+        "Lawmte’n hong nusiat ciang zong, Amah ka kiang ding ding;",
+        "Kei",
+        "guak hong nusia ngeilo ding,",
+        "Kei guak hong nusia lo ding."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Lunggimna kuampi sungah, Honpa’n kei hong kem hi,",
+        "Singlamteh gik cianginah, Amah’n",
+        "kei hong dawn hi;",
+        "Kiimkot mialin nopna bei, Hih hang ka lau kei h i;",
+        "Kei guak hong nusia ngeilo",
+        "ding,",
+        "Kei guak hong nusia lo ding."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Kalvary mual tung hong si, a pang tei tawh kisun,",
+        "Kei ading ciktui phul in, kei hong siangsak",
+        "zo tun;",
+        "Minthang Topa’n tokhom tung, kei hong ngakngak ding;",
+        "Kei guak hong nusia ngeilo",
+        "ding,",
+        "Kei guak hong nusia lo ding."
+      ]
+    }
+  ]
+}

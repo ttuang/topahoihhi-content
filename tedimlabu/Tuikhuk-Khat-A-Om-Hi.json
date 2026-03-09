@@ -1,0 +1,82 @@
+{
+  "title": "Tuikhuk Khat A Om Hi",
+  "key": "Key: C",
+  "ZBC": "ZBC: 133",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Sihkhuk adim in kihong a",
+        "Sisan tuibangh luang hi",
+        "Tua si tawh kiphum mawhnei te",
+        "Mawhna",
+        "tawh kipelh hi",
+        "(Mawhna tawh kipelh hi)2",
+        "Tua si tawh kiphum mawhnei te",
+        "Mawhna tawh kipelh",
+        "hi"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "A si mimawh pan tua sihkhuk",
+        "Amuh ciang a nuam a",
+        "Hih mibangh ka gitloh hang",
+        "in",
+        "Mawhna kiphel thei ta",
+        "(Mawhna kiphel theita)2",
+        "Hih mibangh ka gitloh hang in",
+        "Mawhna",
+        "kiphel thei ta"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "A liamma ah hong luang sipha",
+        "Upna kamuh man in",
+        "Hongphel nading",
+        "itna lapha",
+        "Ka sih mateng sa ning",
+        "(Ka sih mateng sa ning)2",
+        "Hong phel nading itna lapha",
+        "Ka",
+        "sih mateng sa ning"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Nung ciang hih a gik i pumteng",
+        "Sihhan sung omlai in",
+        "Topa hong",
+        "phel lungdamna teng",
+        "Vantung ah lasa ning",
+        "(Vantung ah lasa ning)2",
+        "Topa hong phel lungdamna",
+        "teng",
+        "Vantung ah lasa ning"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 5",
+      "lines": [
+        "It huai Tuuno Na si manpha",
+        "Bei hun nei ngeilo",
+        "ding",
+        "Gupna ngah miteng kikhawm ding",
+        "Mawh ngei nawnlo ding hi",
+        "(Mawh ngei nawnlo ding",
+        "hi)2",
+        "Gupna ngah miteng kikhawm ding",
+        "Mawh ngei nawnlo ding hi"
+      ]
+    }
+  ]
+}

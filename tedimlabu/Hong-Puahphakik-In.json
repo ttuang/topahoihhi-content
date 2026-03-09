@@ -1,0 +1,61 @@
+{
+  "title": "Hong Puahphakik In",
+  "key": "Key: G",
+  "ZBC": "ZBC: 269",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Hong phat ung Pasian, Kote nong it manin;",
+        "Sihna zo vankah, Jesuh Na hong piak",
+        "manin"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Hallelujah! Na min thang hi,",
+        "Hallelujah! Amen;",
+        "Hallelujah! Na",
+        "minthang hi,",
+        "Hong puahpha kik in."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Hong phat ung Pasian,",
+        "Na Kha Siangtho",
+        "hangin;",
+        "Honpa hong lak in,",
+        "Khuamial Nong vaksak manin,"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Thahna thuak",
+        "Tuuno,",
+        "Na minthang tawntung ta;",
+        "Ko mawhna teng puakhia in,",
+        "Hong siangsak",
+        "Topa"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Hong puahpha inla,",
+        "Na itna hong guan in;",
+        "Mi khempeuhte Na mei",
+        "tawh",
+        "Hong tawh kuang ta in."
+      ]
+    }
+  ]
+}

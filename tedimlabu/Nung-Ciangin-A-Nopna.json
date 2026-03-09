@@ -1,0 +1,53 @@
+{
+  "title": "NUNG CIANGIN A NOPNA",
+  "key": "Key: G",
+  "ZBC": "ZBC: 428",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Sun sanga phazaw gam nuam om a,",
+        "I upna in kigalmuh thei hi;",
+        "Ei a’ ding, tua gampha",
+        "vantung-ah,",
+        "I Pa’n omna hong bawl kholh sak hi."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Nung ciangin a",
+        "nopna,",
+        "Tua gam pha-ah i kimu ding hi;",
+        "Nung ciangin a nopna,",
+        "Tua gam pha ah i kimu ding",
+        "hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Eite in tua gun-gal gam pha-ah,",
+        "Thupha ngah mite’ la ngaih sa in;",
+        "Dah",
+        "ngei nawn lo ding I lung sungah,",
+        "Khuisa ngei nawn lo ding tawldam khin."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Hong piak sa",
+        "vanglian hong itna pi,",
+        "Hong siang sak thupha, pahtawina la;",
+        "Tawlnga lo phatna i sa ding",
+        "hi,",
+        "Hong it vantung Pa Pasian mai ah."
+      ]
+    }
+  ]
+}

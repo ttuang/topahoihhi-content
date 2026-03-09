@@ -1,0 +1,73 @@
+{
+  "title": "ZION KHUA I PAI HI",
+  "key": "Key: G",
+  "ZBC": "ZBC: 277",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Topa it teng pai ni",
+        "Lang sak ni i nuamna",
+        "Kituak takin la sa khawm ni",
+        "Kituak takin la",
+        "sa khawm ni",
+        "Topa tokhom kim ah",
+        "Topa tokhom kim ah"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Zion khua i pai hi",
+        "A",
+        "kilawm khua phapi Zion",
+        "I tun mateng kah toto ni",
+        "Kilawm Pasian khuapi Zion"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Ei",
+        "Pasian thei lo te’n",
+        "Phatnuam ta kei le uh",
+        "Ei vantung Kumpi pa ta te’n",
+        "Ei vantung",
+        "Kumpi pa ta te’n",
+        "Thangsak un nuamna thu",
+        "Thangsak un nuamna thu"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Vantung gam",
+        "sung tum ma",
+        "Kham khua sung sik ma in",
+        "Hong maleep hi siangtho nuamna",
+        "Hong maleep hi siangtho",
+        "nuamna",
+        "Zion mual kah lai in",
+        "Zion mual kah lai in"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Tua hi a lasa un",
+        "Nul un",
+        "dahna khitui",
+        "Vantung gam ah a nopna mun",
+        "Vantung gam ah a nopna mun",
+        "Tunna ding lam i",
+        "zui",
+        "Tunna ding lam i zui"
+      ]
+    }
+  ]
+}

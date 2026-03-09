@@ -1,0 +1,80 @@
+{
+  "title": "HUHPA HONG PAI KHIN TA!",
+  "key": "Key: C",
+  "ZBC": "ZBC: 174",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Lungdam thu zeel-sak un, mi omna ci tengah,",
+        "Mihing lungsim omna mihing gal tamna",
+        "ah,",
+        "Tapidaw leii khempeuh lungdam thugensak un.",
+        "Huhpa hong pai",
+        "khinta."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Huhpa hong pai khinta,",
+        "Vantung Kha Siangtho pen,",
+        "Pa’n piak",
+        "ding hong ciam pen,",
+        "Lungdam thu zeel sak un.",
+        "Mi omna ci tengah;",
+        "Huhpa hong pai",
+        "khinta."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Zan hun saupi beita, mi omna citeng ah,",
+        "Lungsim vangikpi teng, hehna huging",
+        "vengta;",
+        "Nitang khammual pan in hong suahkhiat tak ciang in,",
+        "Huhpa hong pai",
+        "khinta."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "A kha sung zatui tawh, kumpi te’ To hat pa’n,",
+        "Thongkia kha",
+        "khempeuh tung, hong puak, hotkhiat kicing;",
+        "Thongpi hawm sung teng ah, zawhna lapi hong ging;",
+        "Huhpa",
+        "hong pai khinta."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Genzawh loh itna siang! ka leii in bang ci-in,",
+        "Genzawh loh hehpihna,",
+        "mi vakvai tung gen ding;",
+        "A mah le A meel tang, sungah ka om theihna’ng;",
+        "Huhpa hong pai",
+        "khinta."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 5",
+      "lines": [
+        "Awging van khum dawnah, leng in thawn to sak un;",
+        "Vantung misiangte’aw,",
+        "leinuai mi dawng sak un;",
+        "Tatsat lo itna sung, a bei ngeilo ding la;",
+        "Huhpa hong pai khinta."
+      ]
+    }
+  ]
+}

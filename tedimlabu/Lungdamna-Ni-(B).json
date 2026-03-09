@@ -1,0 +1,49 @@
+{
+  "title": "LUNGDAMNA NI",
+  "key": "Key: Ab",
+  "ZBC": "ZBC: 202",
+  "sections": [
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Ka nuam hi Ka nuam hi.",
+        "Jesuh ka mawh hong phelzo hi.",
+        "Thungetna zia a hong hilh hi,",
+        "Nisim in hong lungdam sak hi",
+        "Ka nuam hi, Ka nuam hi",
+        "Jesuh ka mawh hong phel zo hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Na seppi bel kikhin zo hi.,",
+        "Kei Topa aa, ka hi zota",
+        "Hong kaih na na ke’n ka zui hi,",
+        "A ma thugen leng nuam ka sa"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Ka lungsim aw, lungka nawn ken",
+        "Hih thupha ah kiptak khawlta’n",
+        "Topa kiang pan lungleng nawn ke’n",
+        "A pha khempeuh nei hi A mah’n"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Lungsim takpi tawh ka ciamsa,",
+        "Nisim in ka ciamphapha ding",
+        "Lungdam huaibel hih kiciamna",
+        "Ka sih ciangzong thupha hi ding"
+      ]
+    }
+  ]
+}

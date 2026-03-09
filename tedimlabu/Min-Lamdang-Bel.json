@@ -1,0 +1,39 @@
+{
+  "title": "Min Lamdang Bel",
+  "key": "Key: C",
+  "ZBC": "ZBC: 086",
+  "sections": [
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "A min in Lamdang, Thulakpa!",
+        "A vanglian bel Pasian!",
+        "Tawntung Pa! Kilemna",
+        "Kumpi!",
+        "Tote’ Topa Pasian!"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Aw min vanglian van mite le misiangte’n pahtawi hi;",
+        "Min khempeuh tunga min lian",
+        "bel,",
+        "Eite’ bukna Kulhpi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Aw min manpha sang khan’ unla,",
+        "Vangliatna teng tang hen;",
+        "Hong huhna tawh mawhna",
+        "zo-in,",
+        "Vantung hong tunpih hen."
+      ]
+    }
+  ]
+}

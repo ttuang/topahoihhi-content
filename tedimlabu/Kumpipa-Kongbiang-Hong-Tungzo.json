@@ -1,0 +1,64 @@
+{
+  "title": "Kumpipa Kongbiang Hong Tungzo",
+  "key": "Key: G",
+  "ZBC": "ZBC: 497",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Kumpipa kong biangah om hi,",
+        "Mawh neite’ tang sihna thuak Mi;",
+        "Mi siangthote bekmah",
+        "tu-in,",
+        "Kaikhawm ding hong pai hi."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Kong biangah, kong biangah,",
+        "Kong biangah",
+        "hi, kong biang tungzo;",
+        "Hong paita hi, hong paita hi,",
+        "Kong biang nangawn hong",
+        "tungzo."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Hong pai ding nai na lak limte,",
+        "Kum simin kicing mengmeng hi;",
+        "Vantung",
+        "zingsang khuavak tawntung,",
+        "Sawt lo i mu ding hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Kidona, gimna veng lo",
+        "ding,",
+        "Leitung ah nopna zong kei in;",
+        "Honpa hong paikik ni ciangin,",
+        "Mawhna, sihna bei",
+        "ding."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Van le lei thak i tun ciangin,",
+        "A tawntungin i teng ding hi;",
+        "Sihna om",
+        "nawnlo nuntakna,",
+        "A tawntung hun zang ding."
+      ]
+    }
+  ]
+}

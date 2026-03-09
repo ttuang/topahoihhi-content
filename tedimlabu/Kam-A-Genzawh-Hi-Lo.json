@@ -1,0 +1,63 @@
+{
+  "title": "Kam-a Genzawh Hi Lo",
+  "key": "Key: G",
+  "ZBC": "ZBC: 132",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Jesuh in kei mah hong it-na,",
+        "Kei mah hong tatna dingin ah;",
+        "Singlamteh gilo hong",
+        "thuakna,",
+        "Kam a genzawh hilo."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Hong itna kam agenzawh hilo,",
+        "Hong itna kam",
+        "agenzawh hilo,",
+        "Jesuh in keimah hong itna,",
+        "Kam agenzawh hilo."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Ka nuntak tawntung",
+        "na’ng in ah,",
+        "Nakpi dah na A hong thuakna,",
+        "Lingki phan lukhu hong khukna,",
+        "Kam a genzawh",
+        "hilo."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Pasian kiang hong thumsak TOPA,",
+        "Ama sung ka ngah lungnop na,",
+        "Ama si hang",
+        "hong piang thupha,",
+        "Kam a genzawh hilo."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Hong nai ciang ka ngah lungdamna,",
+        "Launa",
+        "kihel lo tawldamna,",
+        "Ama hang lametna apha,",
+        "Kam a genzawh hilo."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "title": "Topa Ka Za Na Aw",
+  "key": "Key: Eb",
+  "ZBC": "ZBC: 257",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Topa ka za Na aw",
+        "Nang kiang a Nong sap na",
+        "Ka la ni Nasi manpha tawh",
+        "Kei mah hong sawp",
+        "nuam a"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Kong pai hi Topa",
+        "Kong pai hi tu in",
+        "Kalani a Nasi pha",
+        "Keimah",
+        "hong sawpna in"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Zawngkhal, kih huai hangin",
+        "Ka tha Nong khauhsak hi",
+        "Neng kha zong",
+        "kih bang nawn lo in",
+        "Mawhna Nong sawp sak hi"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Leitung vantung aa ding",
+        "Upna itna",
+        "lawpna",
+        "Lungnopna muan’na a ki cing",
+        "Jesuh hi hong guan’ Pa"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Thang hen,",
+        "mawh maina si",
+        "Thang hen, hong tan itna",
+        "Thang hen, Pasian’ hong piak Khazih",
+        "Eite’",
+        "Tha le Dikna"
+      ]
+    }
+  ]
+}

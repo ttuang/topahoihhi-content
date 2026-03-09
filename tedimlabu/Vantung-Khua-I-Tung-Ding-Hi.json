@@ -1,0 +1,64 @@
+{
+  "title": "VANTUNG KHUA I TUNG DING HI",
+  "key": "Key: C",
+  "ZBC": "ZBC: 438",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Jesuh’n an bang hong itna pha,",
+        "Lam bang pak zaila sa ni;",
+        "Thang van inn tang sau",
+        "siang nun nuam,",
+        "Ei a’ ding ngobang lang hi."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Thangvan dawng i tun",
+        "ciangin,",
+        "Deih teng le lai lung damna ngah ding hi;",
+        "Kum khua in la sa ni,",
+        "Topa Jesuh i phat",
+        "ding hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Thangvan tuanglam i zuih laitak,",
+        "Zaitha tawlna om ding hi;",
+        "Hi zong i",
+        "pai khit ciangin-ah,",
+        "Zaitha tawl om lo ding hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Zangni suah sim i um ding",
+        "a,",
+        "Limbelh sawl siang i leng ding;",
+        "Saumang nunnuam kuam bang luah na’ng,",
+        "Guabang hinlai",
+        "ngaih khua-ah."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "I mainopna lailung damna,",
+        "Va bang leng tung nuam ing ci;",
+        "Thangvan",
+        "kankil i tun ciangin,",
+        "Kham vang khuapi i mu ding."
+      ]
+    }
+  ]
+}

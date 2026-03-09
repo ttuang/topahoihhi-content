@@ -1,0 +1,43 @@
+{
+  "title": "Mawhnei Mi Aw, Hong Pai Un!",
+  "key": "Key: F",
+  "ZBC": "ZBC: 255",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Jesuh’n hong sam, hong pai in! Mawh nei mi aw;",
+        "Thu kong ngetsak, hong pai in! Mawh nei mi",
+        "aw.",
+        "Jesuh na neih hunzo ta, Mawh nei mi aw;",
+        "Amah na theih hunzo ta, hong pai meng",
+        "in."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Na vangik tawh hong pai in! Mawh nei mi aw.",
+        "Jesuh zuan ding hong pai in! Mawh nei",
+        "mi aw.",
+        "Jesuh’n nang hong khem lo ding, Mawh nei mi aw;",
+        "Jesuh’n nang hong sang lai",
+        "ding, hong pai meng in."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Hong sap ngai in, hong pai in! Mawh nei mi aw.",
+        "Thupha sang",
+        "ding hong pai in! Mawh nei mi aw.",
+        "Jesuh’n nang hong samsam lai, Mawh nei mi aw;",
+        "Thu hong",
+        "kingetsak lailai, Mawh nei mi aw."
+      ]
+    }
+  ]
+}

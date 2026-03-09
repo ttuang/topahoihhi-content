@@ -1,0 +1,58 @@
+{
+  "title": "Min Thak Khat Kigelh Hi",
+  "key": "Key: Bb",
+  "ZBC": "ZBC: 483",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Khatvei lai-in mawh nei ka hi a,",
+        "Mawh mai na’ng Topa ka zuat leh;",
+        "Hong kipia khong",
+        "hilhial na hi a,",
+        "A kammal kip den hiveh."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Van gam sungah min thak kigelh",
+        "hi,",
+        "Kei’ min hi, keima min hi!",
+        "Puanpak silh vantung mite’n lasa hi,",
+        "Mi mawh khat",
+        "hong tung ci;",
+        "Vantung gam sungah min thak khat kigelh hi,",
+        "Kei min hi, Keima min hi!",
+        "Ka mawhna",
+        "maizo a, vantung lam ka zuanta!",
+        "Nuam hit-hiat zen si!"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Pasian’ hehna thuak ding",
+        "launa tawh,",
+        "Singlamteh phung ka khukdin a,",
+        "Vantungte kihongin ka mit tawh",
+        "Ka min kigelh ka",
+        "muta!"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Hehpihna hang gupna kingah ta,",
+        "Thu bu sung ka mu nuam mah sing!",
+        "Telzo ing,",
+        "ka mawhna maizo ta!",
+        "Sisan hang dam siangzo ing."
+      ]
+    }
+  ]
+}

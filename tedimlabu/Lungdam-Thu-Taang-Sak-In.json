@@ -1,0 +1,53 @@
+{
+  "title": "LUNGDAM THU TAANG SAK IN",
+  "key": "Key: G",
+  "ZBC": "ZBC: 408",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Tangsak in, tangsak mengmeng in,",
+        "Tuipi kilok kantan in;",
+        "Hotkhiatna thu zeelsak",
+        "mengin,",
+        "Migi Gumkhia Pa’ min in."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Tangsak in, tangsak mengmeng",
+        "in,",
+        "Tuipi gal, tuikulhte dong;",
+        "Tangthu lamdang va zasak in,",
+        "Itna hehpihna",
+        "khawnkhong."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Tangsak in, kha te’ sihna ah,",
+        "Tua zan khuamialna mun-ah;",
+        "Hat",
+        "mengin hunte bei nei veh!",
+        "A nai, a nai in, bei ta."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Tangsak in, Topa’n hong sawl",
+        "hi,",
+        "Athu siangtho lim ngaih dih!",
+        "“Paikhia in, ka thu va gen in,",
+        "Hong om pih den",
+        "ning,” a cih."
+      ]
+    }
+  ]
+}

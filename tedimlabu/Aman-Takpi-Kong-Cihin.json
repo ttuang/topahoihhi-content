@@ -1,0 +1,64 @@
+{
+  "title": "Aman Takpi Kong Cihin",
+  "key": "Key: G",
+  "ZBC": "ZBC: 231",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Hong gum Topa kei tangin sizo hi,",
+        "Mawhna pan kei hong suaktasak hi;",
+        "Pasian Tapa a um",
+        "khempeuhte in,",
+        "Nungta tawntung ding hi."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "A mantak pi a nang kiangah kong cih",
+        "in,",
+        "A mantakpi a nang kiangah kong cih in;",
+        "Pasian Tapa a umte mantakin,",
+        "A hing tawntung ding",
+        "hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Topa tung mawhna teng ka nga zo hi,",
+        "Ka mawhna leiba teng hong lohsak",
+        "hi;",
+        "Topa thu a um mi khempeuhte in,",
+        "Hing tawntung ding uh hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Ka zawngkhal",
+        "hangin ah, thupha um ning,",
+        "Ka mawh, ka khial zong hong thupiak muang ning;",
+        "Pasian thu-umte lungdam",
+        "nadingin,",
+        "Hin tawntung ngah ding hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "A kilawm kei zong um khial ngei kei ning,",
+        "A",
+        "painuam pai un, hong ngai ding ci hi;",
+        "Na kiko un Topa thu a umte,",
+        "Hing tawntung ding uh hi."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "title": "PASIAN A MINTHANG HEN",
+  "key": "Key: Ab",
+  "ZBC": "ZBC: 001",
+  "sections": [
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Phat ve un! Phat ve un! Leitung teng kizel hen!",
+        "Phat ve un! Phat ve un!",
+        "Mi khempeuh",
+        "lungdam hen.",
+        "Jesuh’ min suangin a Pa kiang va zuan un;",
+        "A bawlsa na lianpi hangin phat ciat",
+        "un."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "A si in hong leizo, tatna kicing khin,",
+        "A umte a dingin, Pasian in ciam khin;",
+        "Mimawh pen",
+        "nangawn in Jesuh a up leh,",
+        "A mawhna mai ding hi, a up khit phet teh."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Na lianpi hong bawlsak in, ei hong hilh a,",
+        "Tapa Jesuh hangin, i lungdam lua ta;",
+        "A mai i",
+        "muh ciangin nuam zaw lai ding hi.",
+        "Sangzaw, siangzaw, lianzaw, lungdamzaw ding hi"
+      ]
+    }
+  ]
+}

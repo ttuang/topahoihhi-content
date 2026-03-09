@@ -1,0 +1,58 @@
+{
+  "title": "Jesuh Hong Pai Baih Ding",
+  "key": "Key: Eb",
+  "ZBC": "ZBC: 490",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Leitungah dahna tam, lungsim launa tam,",
+        "Mun tengah gal gin nam, bangcih khong ding?",
+        "Pasian",
+        "kiang zuan lecin, Ama hehna panin,",
+        "Tang misiangte bangin na suakta ding."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Jesuh",
+        "hong pai baih ding,",
+        "Sun lai maw, zan maw, zing,",
+        "Mi tampi’n gim thuak ding,",
+        "Pengkul mut",
+        "ciang;",
+        "Misite thokik ding,",
+        "Midikte’n van zuan ding,",
+        "Si kik ngei nawn lo ding, vantung",
+        "tun ciang."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Itna hong kiam dinga, inn le lo bei ding hi",
+        "Siatna hong tam ding a,",
+        "Thubu’n gen zo;",
+        "Hih teng hong tun takteh, beina nai ding hiveh,",
+        "Pengkul mut pak ven teh,",
+        "mitphiat kal in."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Gimna ong beipah ding, tawntung lungdam den ding,",
+        "Dahna om nawnlo",
+        "ding hong pai ciangin;",
+        "Vantung ah leng to ning, leitung mangpha khak ning,",
+        "Amah tawh mangkhawm",
+        "ding, tua hun ciangin."
+      ]
+    }
+  ]
+}

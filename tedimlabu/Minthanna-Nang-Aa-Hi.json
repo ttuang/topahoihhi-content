@@ -1,0 +1,51 @@
+{
+  "title": "Minthanna Nang Aa hi",
+  "key": "Key: E",
+  "ZBC": "ZBC: 147",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Na min a thang hi, A thokik Topa;",
+        "Na gualzo tawntung hi, sihna zo Topa.",
+        "Vantung mi",
+        "siangthote’n, Suangi lemkhia zo;",
+        "Na puante a maute’n, limtakin",
+        "kemzo"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Na min a thang hi, A thokik Topa;",
+        "Na gualzo tawntung hi, Sihna zo",
+        "Topa."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Han sung pan a tho, Jesuh’n hong muak hi;",
+        "Itna tawh hong dawnzo, launa",
+        "beita hi.",
+        "A pawlpite nuamin, zawhna lapi sa;",
+        "Topa hingkik tu-in, sihna gu",
+        "beita."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Kong muang lah nawn kei, hinna Kumpipa;",
+        "Nang lo hinna om kei, hong huh in",
+        "Topa.",
+        "Tulmawh nong itna in, hong gualzo sak den;",
+        "Jordan gungal kai-in Na inn hong tun hen."
+      ]
+    }
+  ]
+}

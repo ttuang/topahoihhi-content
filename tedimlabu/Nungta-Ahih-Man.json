@@ -1,0 +1,53 @@
+{
+  "title": "NUNGTA AHIH MAN",
+  "key": "Key: A",
+  "ZBC": "ZBC: 491",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Pasian in ah, A Tapa hong sawl",
+        "Hong it ding leh hong damsak ding",
+        "Ka mawhnate maisak ding",
+        "hong pai",
+        "Amah nungta ahih man ka nunna’n man nei."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Nungta ahih man,",
+        "bangbang piang tase leh",
+        "Phamawh sa keng, zong lau beek keng",
+        "Mai lam hunte a khut sung om cih thei",
+        "ing",
+        "Amah nungta ahih man ka nunna’n man nei."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Naungekte zong Aman hong",
+        "kepsak",
+        "Bangzah takin lungdam huai hiam?",
+        "Tua sangin zong lungdam huai zawlai",
+        "Nungta ahih manin",
+        "ahan guak bek om hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Ni khatni ciang sihna gungal ah",
+        "Haksa pi-in ka kan ding",
+        "hi",
+        "Tua ni ciangin sihna zozo-in",
+        "Amah Kumpi ahih lam ka mu thei ding hi."
+      ]
+    }
+  ]
+}

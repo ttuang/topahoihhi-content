@@ -1,0 +1,61 @@
+{
+  "title": "PHAT UN! PHAT UN!",
+  "key": "Key: Ab",
+  "ZBC": "ZBC: 161",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Phat un! Phat un! Eite hong hon thupha Jesuh,",
+        "Sa un! Sa un! Hong it na thang sak un;",
+        "Dawn",
+        "un! dawn un! Vantung mi a lianbelte aw,",
+        "Amin siangtho pahtawi in lian sak un!",
+        "Tuu cin bangin",
+        "Jesuh’n naupangte cing in,",
+        "Ama angah tawi hi sun ni loh in;"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Phat un, phat",
+        "un, A liat na pha den zo omlo,",
+        "Phat un, phat un, nuamna la tawh phat un!"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Phat un!",
+        "Phat un! Eite hong hon thupha Jesuh,",
+        "Gim na, sih na, ei mawh na hang thuak hi;",
+        "Dawn un! Dawn un!",
+        "Singlamteh",
+        "Thuak Topa Jesuh, suahtakna ding",
+        "Lam-etna Suangpi hi!",
+        "Eite’ dahna hong puak",
+        "sak Jesuh hi a,",
+        "Bei thei lo hi lamdang hat hong it na;"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Phat un! Phat un! Eite hong",
+        "hon thupha Jesuh,",
+        "Amah phat na’n vantung innpi thawn hi;",
+        "Mang tawntung ta, eite hong hon",
+        "Topa Jesuh,",
+        "Kamsang Siampi, Kumpi za ngah ta hi!",
+        "Khazih hong kum ciang leitung zo gawp ding",
+        "a,",
+        "Ukna vang liatna Khempeuh Ama a"
+      ]
+    }
+  ]
+}

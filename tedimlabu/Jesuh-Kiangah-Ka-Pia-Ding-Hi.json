@@ -1,0 +1,51 @@
+{
+  "title": "JESUH KIANGAH KA PIA DING HI",
+  "key": "Key: D",
+  "ZBC": "ZBC: 365",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Hong gum Topa kei mah in ah",
+        "Na khempeuh paai in zui ning",
+        "Ka Topa aw Nang mah in",
+        "ah",
+        "Lam honghilh Pa Na hi ding"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Na khempeuh paai a, Na khempeuh paai a",
+        "Na",
+        "khempeuh Topa khut sungah",
+        "Kei mah’n hong pai ning"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Hong gum Topa kei mah in",
+        "ah",
+        "Nang ma kiang ka hong nai hi",
+        "Ki sik a thu pha kong ngetna",
+        "Ngai in hong gum in kong",
+        "ci,"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Hong gum Topa kei mah in ah",
+        "Leitung nopna ka nusia",
+        "Kha Siangtho le Topa",
+        "Pasian",
+        "Hong om in ka lungsungah"
+      ]
+    }
+  ]
+}

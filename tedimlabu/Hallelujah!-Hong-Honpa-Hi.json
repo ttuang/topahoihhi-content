@@ -1,0 +1,57 @@
+{
+  "title": "Hallelujah! Hong Honpa Hi",
+  "key": "Key: C",
+  "ZBC": "ZBC: 462",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "A hong pai Pasian’ Tapa, Ama min “Dahna Thuaka,”",
+        "Mawh neite hong",
+        "Honkhiapa,",
+        "Hallelujah! Hong Honpa hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Maizumna a hong Thuakpa, Kei tang mawhsakna",
+        "Thuakpa,",
+        "A si tawh kei hong Leipa,",
+        "Hallelujah! Hong Honpa hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Mawhna hang i",
+        "cimawh a, Amah’n mawhna nei lo a,",
+        "Amah tawh hong Lemkikpa,",
+        "Hallelujah! Hong Honpa",
+        "hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Si dinga hong kikhai pa, “Ka zozo” ci-a Awngpa,",
+        "Vantunga kipahtawipa,",
+        "Hallelujah! Hong Honpa hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 5",
+      "lines": [
+        "Minthang Kumpi’n hong pai ding,",
+        "A tatsate hong la",
+        "ding,",
+        "Hih lathak e’n i sa ding, Hallelujah! Hong Honpa hi."
+      ]
+    }
+  ]
+}

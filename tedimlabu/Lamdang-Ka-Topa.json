@@ -1,0 +1,65 @@
+{
+  "title": "LAMDANG KA TOPA",
+  "key": "Key: G",
+  "ZBC": "ZBC: 404",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Ka theih ngei loh lungnopna ke’n ngah khin zo ta’ng,",
+        "Leitung in hongpiak theihloh",
+        "nopna;",
+        "Topa tung pum leh kha ka kipiak khit nungsang,",
+        "Lamdang a lamdang ka",
+        "Topa."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Lamdang ka Topa, Lamdang ka Topa",
+        "Vantung misiangte’n phat in bia hi,",
+        "vanah;",
+        "Vanglian ka Honpa, kei aa Na hi ta,",
+        "Lamdang a Lamdang ka Topa."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Ka",
+        "nuntakna khempeuh uk ding in kong deih hi,",
+        "Tua hileh kicing ding Na deihna; Na thu neihna bek",
+        "in",
+        "Na deih na kimsak hi, Lamdang a lamdang ka Topa."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Ka siamna khempeuh Na khe phungah",
+        "kong nga hi,",
+        "Nong san bang bang kei thaman hi pah;",
+        "Ka neih sate khempeuh Nang tungah kong pia",
+        "hi,",
+        "Lamdang a lamdang ka Topa."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Leitung a a hoih pen sangin Na hoihzaw",
+        "hi,",
+        "Nuntakna hong pia vanglian Topa;",
+        "Tawntung-a ka Pasian phat ding Na kilawm hi,",
+        "Lamdang a",
+        "lamdang ka Topa."
+      ]
+    }
+  ]
+}

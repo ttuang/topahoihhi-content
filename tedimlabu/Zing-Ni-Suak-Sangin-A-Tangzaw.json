@@ -1,0 +1,62 @@
+{
+  "title": "Zing Ni Suak Sangin A Tangzaw",
+  "key": "Key: Ab",
+  "ZBC": "ZBC: 496",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Zing nisuak sangin a tangzaw, Ka Honpa le Kumpi hi;",
+        "Na hoihna le na thupina,",
+        "La-in ka sasa",
+        "nuam hi."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Zing nisuak sangin a tangzaw,",
+        "Sun nitang sang tangzaw Nang na",
+        "hi;",
+        "Vangliatna tawh dimna mai-ah,",
+        "Khuamial le meiilum theng h."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Vangliatna puan",
+        "tawh kizemin,",
+        "Min thanna lukhu khu hi;",
+        "Thupha vangliatna le hatna,",
+        "A tawntungin na nei",
+        "hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Na migitna lian mahmah a,",
+        "Na hehpihna kicing hi;",
+        "Na ukna itna tawh dim",
+        "a,",
+        "Kei ading hong bawlsak hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Ngun meivak khaute kitat-in,",
+        "Ka nuntakna bei",
+        "ciangin,",
+        "Kum tul kum then Topa mai-ah,",
+        "Phatna la ka sa ding hi."
+      ]
+    }
+  ]
+}

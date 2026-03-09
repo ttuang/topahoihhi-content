@@ -1,0 +1,67 @@
+{
+  "title": "AW GAM NUAMPI",
+  "key": "Key: G",
+  "ZBC": "ZBC: 451",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "An le leng tui gam ka tung zo,",
+        "A phatna teng kei aa hi zo;",
+        "Lungdam huai ni tang",
+        "tawntunghhi,",
+        "Keima khuamial leng mang zo hi."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Aw gam nuampi, a pha gam",
+        "pi,",
+        "Mualsang tung pan ka gal-et a,",
+        "Kei a’ ding bawl kholhsa inn pi,",
+        "Tuipi gal-ah ka gal",
+        "muh ta;",
+        "Ka tenna ding vantung khuapi,",
+        "A tangpha hi tuipi gal ah"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Hong Honpa kei",
+        "tawh hong vak khawm,",
+        "Nuam takin kei tawh hong om khawm;",
+        "A khut in dam tak in hong",
+        "kai,",
+        "Vantung gamgi ciang dong ka nai."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Gam gi gal panin paknamtui,",
+        "Huih nung",
+        "hiauhiau tawh hong kizui;",
+        "A vul ngei lo pakte palh in,",
+        "Hinna lui luang a tawntung",
+        "in."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Vantung gam pan ngaih mah mah la,",
+        "Huih in hong puak ka gal zak hi;",
+        "Vantung",
+        "mi le mising honpi’n,",
+        "Tatna phelna la sa uh hi."
+      ]
+    }
+  ]
+}

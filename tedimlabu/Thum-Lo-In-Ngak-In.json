@@ -1,0 +1,63 @@
+{
+  "title": "THUM LO-IN NGAK IN",
+  "key": "Key: C",
+  "ZBC": "ZBC: 316",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Lunggim mi aw, inn nuam om hi,",
+        "Lungkhamna, gimnate gal-ah;",
+        "Kikhel ngei lohna",
+        "innpi,",
+        "Kua tung nuam lo ding tua lai-ah."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Ngak in (ngakngak in), thuakin thum",
+        "loin ngakin,",
+        "Ngak in (ngakngak in),thuak in thum loin ngak in,",
+        "Ngak in (ngakngak in), ngak in",
+        "(ngakngak in),Thum loin-ah ngak in."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Leitung a na thuak ding a hi,",
+        "Vangik lel a na kun",
+        "hang in,",
+        "En in, na tun nading innpi,",
+        "Ngak in, lungnem in-ah nggak in,"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Na lam pi",
+        "ah ling a om leh,",
+        "A lutung a khu pa phawkin,",
+        "Lunggim na, dahna na tuah leh,",
+        "Nangsang siangzaw",
+        "pa’n zongthuak khin."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Sem in, na thuakna na thumna,",
+        "Hong zak loh khat beek om lo",
+        "hi,",
+        "Na ngah nading hi, tawldamna,",
+        "Lungnem takin ngak ding hi."
+      ]
+    }
+  ]
+}

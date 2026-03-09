@@ -1,0 +1,43 @@
+{
+  "title": "Leitung Lungdam, Topa Hong Pai",
+  "key": "Key: D",
+  "ZBC": "ZBC: 079",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Leitung nuam nang Jesuh maang hi",
+        "Mihing ten lasa hen",
+        "Lo lai tui pi,Suangpi mual",
+        "pi’n",
+        "(Kidem in ham uh hen)2",
+        "Kidem… kidem… in ham uh hen"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Nungciang mawhna a khanloh nang",
+        "Ling in bawlsia lo ding",
+        "A pha lo na a pha bel",
+        "in",
+        "(Bawlpha ding hong pai ding)2",
+        "Bawlpha… bawlpha ding hong pai ding"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Hong hehpihna thupha bel in",
+        "Leitung hong uk ding hi",
+        "A minthang siangtho hong itna",
+        "(Mi",
+        "khempeuh theisak hi)2",
+        "Mi khem.. Mikhem peuh theisak hi"
+      ]
+    }
+  ]
+}

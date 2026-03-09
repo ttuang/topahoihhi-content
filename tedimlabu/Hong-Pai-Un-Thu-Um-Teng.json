@@ -1,0 +1,36 @@
+{
+  "title": "HONG PAI UN THU UM TENG",
+  "key": "Key: Ab",
+  "ZBC": "ZBC: 078",
+  "sections": [
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Va bia ni hong paita un",
+        "Va bia ni hong paita un",
+        "Hong pai un va bia ni, Khazih Topa."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Sa un kipahna la vantung mi honte aw",
+        "Vantung a sang belna khempeuh thawn sak un",
+        "Van sang",
+        "belna ah Pasian min thang ta hen"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Hi hi hong hon ding pa tuni kong dawn uh hi",
+        "Jesuh Topa na min thang tawntung ta hen",
+        "Pa",
+        "Pasian deih thu mi bangin hong piang ta"
+      ]
+    }
+  ]
+}

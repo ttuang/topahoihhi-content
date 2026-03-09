@@ -1,0 +1,67 @@
+{
+  "title": "Ke’n Mu Khin Tang Lawm Taktak",
+  "key": "Key: G",
+  "ZBC": "ZBC: 178",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Ke’n mukhin tang lawm taktak, ka sapna teng hong dimsak,",
+        "Ka Honpa manpha Honpa;",
+        "Upna",
+        "mit tawh keimah in, ka mu thei a tawntungin,",
+        "Lam tawntung hong tonpih",
+        "hi."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Hallelujah ka Honpa tawh ka paikhawm hi,",
+        "Ka it Honpa, manpha",
+        "Honpa;",
+        "Hong it hong angvanna sungah kei hong kem hi,",
+        "Kei guak hi ke’ng, kei guak pai ngei",
+        "ke’ng."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Ka mawhna hong sawp siangsak,",
+        "Ka sunglam zong hong siangsak,",
+        "Ka",
+        "Honpa manpha Honpa;",
+        "Ka kha hong cidamsak a, ka nunna hong nuamsak a,",
+        "Nisimin thupha hong",
+        "pia."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Maipha hong pia ka dah ciang, ze-etna lian ka thuak ciang,",
+        "Ka Honpa manpha",
+        "Honpa;",
+        "A ang sung khawlmun nuam bang, Muzo ke’ng tawldamna dang,",
+        "Hong huh den Pa Amah",
+        "hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Inn hong bawlsak van tungah, limlang tuipi gal khatah,",
+        "Ka Honpa manpha",
+        "Honpa;",
+        "Ka sunmang hong tangtung ding, tua munah kei ka teng ding,",
+        "Tawntung nopsakna munah."
+      ]
+    }
+  ]
+}

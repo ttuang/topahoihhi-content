@@ -1,0 +1,63 @@
+{
+  "title": "NANGMAH TAWH PASIAN OMKHAWM TAHEN!",
+  "key": "Key: Db",
+  "ZBC": "ZBC: 025",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Nangmah tawh Pasian omkhawm tahen!",
+        "A hongpi, a hong len dingin;",
+        "A tuute hong kembit",
+        "dingin,",
+        "Nangmah tawh Pasian omkhawm tahen!"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "I kimuhkik mateng, Jesuh kiang kimuh",
+        "mateng,",
+        "I kimuhkik mateng,",
+        "Nangmah tawh Pasian omkhawm tahen!"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Nangmah tawh",
+        "Pasian omkhawm tahen!",
+        "A khanuai hong liah hong dal in;",
+        "Nisim “Manna” hong vak",
+        "dingin,",
+        "Nangmah tawh Pasian omkhawm tahen!"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Nangmah tawh Pasian omkhawm",
+        "tahen!",
+        "Launa’n hong lung-am sak ciangin,",
+        "Ang sung hong pom bikbek dingin,",
+        "Nangmah tawh",
+        "Pasian omkhawm tahen!"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Nangmah tawh Pasian omkhawm tahen!",
+        "Itna nuai-ah hong cing",
+        "dingin;",
+        "Sihna tuihual sat paai dingin,",
+        "Nangmah tawh Pasian omkhawm tahen!"
+      ]
+    }
+  ]
+}

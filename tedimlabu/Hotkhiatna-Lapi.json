@@ -1,0 +1,70 @@
+{
+  "title": "Hotkhiatna Lapi",
+  "key": "Key: G",
+  "ZBC": "ZBC: 460",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Honpa’ itna thu ka za hi,",
+        "Itna lamdang hi mah hi ding hi;",
+        "Hih hang, itna hehpihna",
+        "tawh,",
+        "Van pan kei ading hong kumsuk maw?",
+        "Van pan kei ading hong kumsuk",
+        "maw?"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Hi, hi, hi, kei ading hi,",
+        "Keima ading hi,",
+        "Topa hong kumsuk, a sihna,",
+        "tul theilo hong itna,",
+        "Nang le kei ading hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Sisan luangin hong thuak ka",
+        "thei,",
+        "Sing tungah gimna thuakin hong si;",
+        "Mun khempeuh ah hih thu kithei,",
+        "Hong khasiat man kei",
+        "ading thuak hi,",
+        "Hong khasiat man kei ading thuak hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Vantung thu hong kigen ka",
+        "za,",
+        "Jesuh a umte’n mu ding uh hi;",
+        "Kei ading vantungah omna,",
+        "Bawl kholhsa-in a om hiam,",
+        "innpi?",
+        "Bawl kholhsa-in a om hiam, innpi?"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Topa kong dotna hong dawng in,",
+        "Nang",
+        "kiang lo kua kiang pai ding ka hiam?",
+        "Kha Siangtho kei hong hilhsak in,",
+        "Honpa le vantung om,",
+        "ci’n nong ciam,",
+        "Honpa le vantung om, ci’n nong ciam."
+      ]
+    }
+  ]
+}

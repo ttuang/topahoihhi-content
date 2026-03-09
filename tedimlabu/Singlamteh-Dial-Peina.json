@@ -1,0 +1,64 @@
+{
+  "title": "Singlamteh Dial Peina",
+  "key": "Key: Bb",
+  "ZBC": "ZBC: 275",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Kumpipa galkapte’n a et dinginah,",
+        "Dialpei khat a kilak hi;",
+        "Gupna ngah mite’n",
+        "la a sak khawm laitak,",
+        "Hih dial na sangsak ding hi."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Paita un! (pai un) mai nawt",
+        "un! (nawt un)",
+        "Jesuh ading khempeuh pa un;",
+        "Hahkat nasem un, lasa un,",
+        "Jesuh Kumpipa’n",
+        "koih un."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Galkapte in tui bang tam a om hangin,",
+        "Dialpeina na laksak un;",
+        "Dial",
+        "peina nuai-ah Topa galkap bangin,",
+        "Laulo-in na dota un."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Leitung, tui tung mite omna",
+        "khempeuh ah,",
+        "Lungdamna thu zasak un;",
+        "Topa in Ama thu a umte lakna’ng,",
+        "Dialpeina tangthu",
+        "hilh un."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Gualzawh ding naita, minthan ding hong naita,",
+        "Zawhna hong nai semsem",
+        "hi;",
+        "Kumpipa mai-ah galte beimang dinga,",
+        "Singlamteh gualzo ding hi."
+      ]
+    }
+  ]
+}

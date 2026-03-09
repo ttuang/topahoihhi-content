@@ -1,0 +1,48 @@
+{
+  "title": "Daniel Pawlte",
+  "key": "Key: A",
+  "ZBC": "ZBC: 280",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Hanciamna pha a nei mi, Topa’ thumangte;",
+        "Pahtawi un, a muan huai mi,",
+        "Phat un, Daniel",
+        "pawlte."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Daniel bang hi ngam in,",
+        "Hang takin ding ni;",
+        "Hanciamna kip nei",
+        "ngamin,",
+        "Hang takin gen ni."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Daniel pawl a pawmsate, Psian’ mi tampi;",
+        "Hang",
+        "taka ding ngam lote,",
+        "Mangthang khinzo uh hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Mi thahat kihtak huaite, tampi a om",
+        "hang;",
+        "Daniel pawl a langpante,",
+        "A vekpi un mangthang."
+      ]
+    }
+  ]
+}

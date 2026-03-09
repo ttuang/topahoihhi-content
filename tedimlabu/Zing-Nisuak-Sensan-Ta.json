@@ -1,0 +1,37 @@
+{
+  "title": "ZING NISUAK SENSAN TA",
+  "key": "Key: C",
+  "ZBC": "ZBC: 022",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Lungsung dahna om hiam, Hih ah ka dahna kiam;",
+        "Jesuh Khris phat huai hi! Leitung nuamna bei",
+        "leh,",
+        "Hehnepna om veve; Jesuh Khris phat huai hi!"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Vantung lungdamna ah, la a ngaih pen hih mah;",
+        "Jesuh Khris phat huai hi! Khuamial vangte’n",
+        "kihta,",
+        "A zak uh ciang hih la; Jesuh Khris phat huai hi!"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Leitung ka hin lai teng, Sa ning ka sih mateng;",
+        "Jesuh Khris phat huai hi! Sih ciang vantung",
+        "tung leng,",
+        "Ka la hih mah hi ding hi; Jesuh Khris phat huai hi!"
+      ]
+    }
+  ]
+}

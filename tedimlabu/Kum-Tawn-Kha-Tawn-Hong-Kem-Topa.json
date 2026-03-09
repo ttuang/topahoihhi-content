@@ -1,0 +1,43 @@
+{
+  "title": "KUM TAWN KHA TAWN HONG KEM TOPA",
+  "key": "Key: G",
+  "ZBC": "ZBC: 456",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Kumtawn khatawn Nong kep manin Topa, Kong muang uh hi.",
+        "A beisa hun launa, dahna khempeuh, Nang",
+        "Nong huh hi.",
+        "Zingsang khuavak, Ni thak hong suak sial in,",
+        "Topa hehpihna bek kong ngak uh",
+        "hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "A beisa hun teng zong Na khut sung om, hong om-pih in.",
+        "Upna tawh thuciam na gam",
+        "sung tun na’ng, Lam hong hilh in.",
+        "Khuamialna ah khuavak hong tang-sak in,",
+        "Upna lungsim",
+        "khuavak hong nei sak in."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Mailam hun ding zong a thei khol Topa, kong zui uh",
+        "hi.",
+        "Muanhuai mah le ung zong hong om pih in, Hong beel-beel nung.",
+        "Nuntak lai teng Nang, nuntakna",
+        "khomun,",
+        "Ko hun bei ciang inn nuamah hong kha in."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "title": "Jesuh Sungah Kikhen Lo Hi",
+  "key": "Key: Eb",
+  "ZBC": "ZBC: 190",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Jesuh sungah kikhen lo hi, Ni suah, ni tum sak, khang;",
+        "Leitung khempeh kua mi, kua mi, lawm",
+        "khat pawl khat hi hang."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Jesuh sungah lungsiim mante’n, pawl ngah kawikawi ding",
+        "hi;",
+        "Ama nasepna, miteng henkhawm, kham khau zang bang hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Khut kilen ni up kikhat",
+        "teng, u le nau bang hihang;",
+        "Bang nam hi leng, Pa’ nasem teng, beh khat phung khat",
+        "hihang."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Jesuh sungah, i kimat hi, sakmi, khang mi, paam mi;",
+        "Jesuh lungsim banga nei,",
+        "mi khempeuh pumkhat suak hi."
+      ]
+    }
+  ]
+}

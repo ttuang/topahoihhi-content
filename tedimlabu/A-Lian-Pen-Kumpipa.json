@@ -1,0 +1,49 @@
+{
+  "title": "A LIAN PEN KUMPIPA",
+  "key": "Key: G",
+  "ZBC": "ZBC: 048",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Biakna nuamna hong pia",
+        "Kote’ thu hong nget na",
+        "Na hong ngai in",
+        "Lam khial nei",
+        "mite in",
+        "Thumuh kikna ding in",
+        "Lam hilh ding hong pai in",
+        "Kha Siangtho aw"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Thu hilh Kha Siangtho aw",
+        "Hilh ding hong pai in la",
+        "Tu’n hong pai aw",
+        "Siamna",
+        "a om khempeuh",
+        "Kha Siangtho om khempeuh",
+        "Ko tungah hong pia’n la",
+        "Hong uk ta aw"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Nam thum pawl khat Pasian",
+        "Topa nangmah a lian",
+        "Na minthang hen",
+        "Vantung gam sung nang",
+        "mah",
+        "Na vanglian mi dingin",
+        "Nangmah a tawntung in",
+        "Ka it ding hi"
+      ]
+    }
+  ]
+}

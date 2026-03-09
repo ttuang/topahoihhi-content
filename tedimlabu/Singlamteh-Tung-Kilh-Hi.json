@@ -1,0 +1,66 @@
+{
+  "title": "Singlamteh Tung Kilh Hi",
+  "key": "Key: F",
+  "ZBC": "ZBC: 465",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Kei tang ding a si nuam mipa khat hiah om hi,",
+        "Ka kha gi na lo nungta sak ding;",
+        "Singlamteh",
+        "tawn lampi khat Amah’n zui nuam hi,",
+        "Ka mawhna teng hong puaksak",
+        "dingin."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Singlamteh tung kilh hi, Singlamteh tung kilh hi,",
+        "Aw, bangzahin",
+        "Amah’n gimna thuak!",
+        "Khua-ul sisan suakin, Jesuh’n Singlamteh pua!",
+        "Ka mawhna teng",
+        "singkhuam tung pua khin!"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Amah dikin hong it a, kei ading nuam hi,",
+        "Ka lungsim hong",
+        "sawp siangsak ding hi;",
+        "Mawhsakna om nawnlo ka suahtak lam ka thei,",
+        "Ka mawhna singlamteh tung kilh",
+        "hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Ama tung kipia ning, kikhen nawnlo dingin,",
+        "A nisim lungdamtak zui den",
+        "ning;",
+        "Ka lung sung la sa-in ka kam tawh zong phat ning,",
+        "Ka mawhna teng puakhin zo",
+        "hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Ka vangik teng nga ning kisuan kik nawn kei ning,",
+        "A vekpi’n ka nusia khin",
+        "ding hi;",
+        "To Jesuh singlamteh tungah suan khin zo ing,",
+        "Amah’n kei hong tankhia khinzo hi."
+      ]
+    }
+  ]
+}

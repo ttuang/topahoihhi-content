@@ -1,0 +1,55 @@
+{
+  "title": "Hun Nuam Mahmah",
+  "key": "Key: F",
+  "ZBC": "ZBC: 020",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Phatna thungetna hun nuam hi, Pasian i biakkhop ciang;",
+        "Ama kiangah lengto ding hi, Nuamna la i",
+        "sak ciang.",
+        "Kamciam manpha hong kipiata, I telsiang semsem ding;",
+        "Lei-ah lawmte tawh kikhen hang,",
+        "Van-ah kimu kik ding."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Ni tawp ni ciang eite khempeuh",
+        "Van-ah i kimu",
+        "ding;",
+        "Jesuh’ sipha i upna hang,",
+        "Vanah kimu kik ding."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Eite lungsim hong",
+        "kihualsak, Itna siangtho hi-a;",
+        "Pasian Topa Khris min hangin, Eite i kikhawmta.",
+        "Kikhenna hun hong",
+        "tun baih hang, A thuciam kip hi;",
+        "“Eite lam-etna vantungah, Kimukik ding” hong",
+        "ci."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "A gim, atawl i khete in, Khamgam sik baih ding hi;",
+        "I it i lawmte hong ngakna, tua",
+        "kham gam nuam sung hi.",
+        "Kum kivei lo tom kal sungin, Huihpi tuihual ven ciang;",
+        "Tawntung lungdamna",
+        "la sa ding, van ah i kimuh ciang."
+      ]
+    }
+  ]
+}

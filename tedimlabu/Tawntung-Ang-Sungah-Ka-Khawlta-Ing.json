@@ -1,0 +1,38 @@
+{
+  "title": "Tawntung Ang Sungah Ka Khawlta Ing",
+  "key": "Key: Ab",
+  "ZBC": "ZBC: 073",
+  "sections": [
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Khawl ing, om ing, Launa pan lungmuang khinzo ing;",
+        "Khawl ing, khawl ing, Tawntung ang",
+        "sungah kei khawlta ing."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Hih khualzinna ah kei suakta khin tang,",
+        "Tawntung ang sungah kei khawlta ing.",
+        "Anini’n",
+        "ka lam nuamsa semsem ing,",
+        "Tawntung ang sungah kei khawlta ing."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Ke’n bang kihta ding, ke’n bang lau nawn ding,",
+        "Tawntung ang sungah kei khawlta",
+        "ing;",
+        "Honpa tawh omkhawm nopna lian ngah ing,",
+        "Tawntung ang sungah kei khawlta ing."
+      ]
+    }
+  ]
+}

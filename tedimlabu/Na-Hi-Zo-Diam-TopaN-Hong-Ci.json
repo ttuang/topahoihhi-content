@@ -1,0 +1,65 @@
+{
+  "title": "NA HI ZO DIAM? TOPA’N HONG CI",
+  "key": "Key: Ab",
+  "ZBC": "ZBC: 392",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Na hi zo diam, Topa’n hong ci,",
+        "A mah tawh kikhai khawm ding",
+        "Sih dong na deih bang",
+        "gamta ding",
+        "Lungsim ah khentat zo ung"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Hizo mah nung, Topa Nang aa hi",
+        "ung.",
+        "Hong bawlpha in Nang tawh kibangin",
+        "Lam nong hilhna vang tang ka muh uh ciang",
+        "Na mel",
+        "bangin hong it in",
+        "na thu man nung"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Na hizo diam, tua thu phawk ding,",
+        "Guta pa",
+        "khuadakna mun",
+        "Mawhna khempeuh kimaisak zo",
+        "Paradise munnuam tungzo"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Na hizo diam,",
+        "Haksat hun ciang",
+        "Na kiimkot khua a mial ciang",
+        "A mah na kipiak theihna ding",
+        "Na lungsim zo mah",
+        "sa in"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Na hizo diam, Topa’n hong sam,",
+        "Nangmah hong sam lailai hi",
+        "Galilee",
+        "gam aa sap bangin",
+        "Lungsim hang takin dawng in"
+      ]
+    }
+  ]
+}

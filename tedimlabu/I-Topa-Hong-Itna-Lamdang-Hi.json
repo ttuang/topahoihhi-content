@@ -1,0 +1,63 @@
+{
+  "title": "I TOPA HONG ITNA LAMDANG HI",
+  "key": "Key: G",
+  "ZBC": "ZBC: 208",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "I Topa hong itna lamdang hi",
+        "Mawhna, khialhna i neih hang tampi,",
+        "Lian zaw tham lai hong",
+        "hehpih na si,",
+        "Kalani mual tung ah hong bua hi"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Hong hehpih na, i mawhna",
+        "hong",
+        "maisak, siangsak hi, Pasian itna,",
+        "I mawhna teng sangin lian zaw hi"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Mawhna lungkiat",
+        "na’n tui khang bang in.",
+        "Ka kha hong sut nuam hong to laitak,",
+        "Gen zawh loh lian zaw hehpih na",
+        "in,",
+        "Ka belh ding Singlamteh pi hong lak"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Kiseelzo nawn kei i mawhna nin,",
+        "Bang a",
+        "om diam hong sawp zo lai ding,",
+        "En un, hia-a luang sisan gunpi’n,",
+        "Vuk sang hong ngo zaw sak",
+        "pah thei ding"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Lamdang kicing hehpihna lian zaw,",
+        "A um khempeuh A hong piak khong",
+        "hi,",
+        "A mai a mu nuamte khempeuh aw,",
+        "Saang pak ve un hong hehpih na hi."
+      ]
+    }
+  ]
+}

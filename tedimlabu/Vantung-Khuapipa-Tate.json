@@ -1,0 +1,63 @@
+{
+  "title": "VANTUNG KHUAPIPA TATE",
+  "key": "Key: Ab",
+  "ZBC": "ZBC: 452",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Vantung kumpipa tate,",
+        "Na pai la sa un aw;",
+        "Hong gum Topa’ van pi tawh,",
+        "Phat in",
+        "ah la sa un aw."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Vantung inn ah pai ding om,",
+        "Tanglai mi paina lampi;",
+        "Tu lai",
+        "mi nuam sa un aw,",
+        "A sawt lo eite’n mu ding."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "En un aw, khuavak mi-te,",
+        "Zion",
+        "khuapi mu dek hi;",
+        "Tua ah Topa tawh nuam sa,",
+        "Topa pi mukim un aw."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Lau kei un! u",
+        "le nau aw,",
+        "Leitung lam tawpah ding un;",
+        "A ta Jesuh Topa in,",
+        "Hong sawl hi mai nawt ding",
+        "in."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Leitung nate nusia in,",
+        "Mainawt ka pai ding uh hi;",
+        "Nang bek makaipa Na",
+        "hi,",
+        "Na nung kong zui ding uh hi."
+      ]
+    }
+  ]
+}

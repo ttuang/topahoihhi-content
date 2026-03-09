@@ -1,0 +1,64 @@
+{
+  "title": "Leitung ading Pasian’ Thubu",
+  "key": "Key: Bb",
+  "ZBC": "ZBC: 197",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Leitung a ding Lai Siangtho bu,",
+        "Hih pen zuih kim, cih kim hihen!",
+        "Huih khi laan ciang, tua",
+        "dial kipeei,",
+        "Manpha thupha kizeel thang hen!"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Pasian’ kammal, khuavak hong",
+        "puak,",
+        "Leitung tui tung mun khempeuh ah;",
+        "Khuamial sunga vak thap mite,",
+        "Pasian kiangah hong",
+        "tunpih hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "A tunna peuh kham khuavak hi,",
+        "Kiliahzo lo ni tang bang hi;",
+        "Meii bang",
+        "liahte theng mang ding hi,",
+        "Mawhna khempeuh a phel ding hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Pa’ maitangah mi",
+        "teng puak a,",
+        "Mawh maisakna vang kilang hi;",
+        "Adam khang pan a mangthang sa,",
+        "Hehpihna thupha",
+        "thangsak hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Lunggimte a tawldamsak hi,",
+        "Khitui luangte a hehnem hi;",
+        "Tha kiam",
+        "lungvaite tha guan hi,",
+        "Nuntak tawntungna silhsak hi."
+      ]
+    }
+  ]
+}

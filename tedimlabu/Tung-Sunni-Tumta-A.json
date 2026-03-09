@@ -1,0 +1,59 @@
+{
+  "title": "Tung Sunni Tumta A",
+  "key": "Key: Ab",
+  "ZBC": "ZBC: 028",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Tung sunni hong tumta a, tawlngakna hong tunga;",
+        "Zan aksi hong suah lai-in,",
+        "Thangvan paak",
+        "bang palh lai-in, Pasian bia ni."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Siangtho, siangtho, siangtho, Topa",
+        "Pasian;",
+        "Leitung vantungah Na vang,",
+        "Nangma phatna hong kilang, Sang bel",
+        "Pasian"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Nuntakna teng a ukpa, van nuai teng Nangma omna;",
+        "Nangma mai hong zong",
+        "kote,",
+        "Na angsungah hong khawm ve, kinai takin."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Khua hong mial semsem hangin, a tang",
+        "aksite khengin;",
+        "Ko lungsim hong kahto hi,",
+        "Nang mai kong mu nuam uh hi, Van nuai",
+        "Itpa."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Aksite le zan le sun, mu ngei nawnlo ding a hun;",
+        "Hong tun ciang vantung",
+        "panin,",
+        "Tawntung zing khuavak sakta’n, kote’ mai-ah."
+      ]
+    }
+  ]
+}

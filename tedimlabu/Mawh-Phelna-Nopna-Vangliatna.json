@@ -1,0 +1,64 @@
+{
+  "title": "Mawh Phelna, Nopna, Vangliatna",
+  "key": "Key: Bb",
+  "ZBC": "ZBC: 096",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Topa tung lungdam ngah nuamte’n, kisak theihna pai in;",
+        "Um in Ama thu a phate, hong piak",
+        "ding ngaihsun in."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Mawh phelna, nuam vanglianpi,",
+        "Lungdamsak ning, Amin",
+        "phatna;",
+        "Sianthona pha, vantung om hi,",
+        "Kei tang si hi, Jesuh Khazih Topa."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "A thu",
+        "le hong itna pha a, Asi tawh hong sawp hi;",
+        "I mawhna khempeuh hong sawp a, Nopna pha kingah",
+        "hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Mawhna vanglian sukgawp nading, siamna pha hong pia hi;",
+        "Lungsim sunga siantho",
+        "nading, kha pha hong bawlsak hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Adang lungsim zawh nadingin, Kha Siangtho hong pia",
+        "hi;",
+        "Apha bel Khazih Topa in, i lung sungah om hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 5",
+      "lines": [
+        "Naupang bangmah’n i up",
+        "ciangin, thupha i ngah ding hi;",
+        "Thupha bel Khazih Topa in, hong piak ding ciamsa hi."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "title": "JESUH KA LUNGSIM IN KA DEIH",
+  "key": "Key: C",
+  "ZBC": "ZBC: 154",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Jesuh ka lungsim in ka deih",
+        "Hong heh pih na nak pi’n ka ngen",
+        "Hong heh pih na it",
+        "nahong lang",
+        "Amah ke’n ka it pha sem ta"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Lungsim phabel hong guan suk",
+        "in",
+        "Tua Kham khuapi ka muh nading",
+        "Ka lungsim sung hong taang sak in",
+        "Tua khua pi nuam kei a",
+        "ding hi"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Lei tung itna sung a nuampen",
+        "Ki teh thei lo Hong it na tawh",
+        "Kong en to",
+        "lam et na pi tawh",
+        "Na mai muh ciang lamdang ka sa"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Van tung gam sung nop na",
+        "kidim",
+        "Paak te hoih na mu ding tua lai",
+        "Za nawn lo ding vantung mi aw",
+        "Ka kha in lam dang sa",
+        "ding ta"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Nang loin nopna om thei kei",
+        "Ka lungsim hong dam sak thei ding",
+        "Nang Na om",
+        "ciang dahna nuam sak",
+        "Vantung nopna kei sung hong taang"
+      ]
+    }
+  ]
+}

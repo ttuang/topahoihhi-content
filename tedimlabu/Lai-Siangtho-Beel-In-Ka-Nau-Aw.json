@@ -1,0 +1,67 @@
+{
+  "title": "Lai Siangtho beel in Ka Nau Aw",
+  "key": "Key: F",
+  "ZBC": "ZBC: 195",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Hankhuk lamah khualzin a na paipai lai-in,",
+        "Kong deihsak khat om, nasep ding tawh kisai",
+        "in;",
+        "Tua thupha kong gen lai-in limtak na ngai in,",
+        "“Lai Siangtho beel in ka nau",
+        "aw.”"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Lai Siangtho beel in ka nau aw,",
+        "Lai Siangtho beel in ka nau",
+        "aw;",
+        "Hih hun le sih hunah, na dang teng sangin,",
+        "Lai Siangtho beel in ka nau",
+        "aw."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Kamsiatna, dahna, kahna, thuak khata lecin,",
+        "Satan tawh kum tampi kidodo ta",
+        "lecin,",
+        "Limtak thu zui-in lau ke’n, mainawt tawntung in.",
+        "“Lai Siangtho beel in ka nau",
+        "aw.”"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Na sim sialin thu thak khat thei khia den niteh,",
+        "Singtung a Jesuh’n",
+        "hong sih lawhna thu hiveh;",
+        "Topa le vantung le nangma tung thuman veh,",
+        "“Lai Siangtho beel in",
+        "ka nau aw.”"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Tua laibu khuavak le upna sikkawipi hi,",
+        "Zan khuamial a, lam hong",
+        "lak khuavak aksi hi;",
+        "Hong sawlna bang mang lecin, na maan den ding hi,",
+        "“Lai Siangtho beel in",
+        "ka nau aw.”"
+      ]
+    }
+  ]
+}

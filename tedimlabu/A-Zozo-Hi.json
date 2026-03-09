@@ -1,0 +1,49 @@
+{
+  "title": "A Zozo Hi",
+  "key": "Key: Bb",
+  "ZBC": "ZBC: 128",
+  "sections": [
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "A zozo hi! Takpi hi, vekpi’n zokhin hi;",
+        "Hih hi, mawh neite i sap, mawhna pulak ding."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Sang pen a tokhom tung pan, kum in hong sih ciang;",
+        "Na khempeuh a vekin zo, A aw ngai dih un."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Lunggim van pua nasemte’n, koi-ah sem na hiam?",
+        "Khawl dih in Amah’n zozo, sawtpi pek",
+        "inah."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Na vangikpi teng khia in, Jesuh khe kiang khia’n;",
+        "Amah bekbek kiang ding in, Na khempeuh",
+        "cinkhin."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 5",
+      "lines": [
+        "Jesuh nasepsa muang in, na up theih mateng;",
+        "Hanciamna in kimanglo, sihna hong tunzaw."
+      ]
+    }
+  ]
+}

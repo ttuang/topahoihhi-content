@@ -1,0 +1,70 @@
+{
+  "title": "BUHLOMTE KHAWM IN",
+  "key": "Key: C",
+  "ZBC": "ZBC: 212",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Zingsang tuh ding hi,",
+        "Ki-itna khaici tuh in,",
+        "Sun a tuh bang zan in",
+        "Zong tuh in a",
+        "ci;",
+        "A at hun ngak in la,",
+        "A khop hun zong ngak in,",
+        "Lungdamna tawh buhlomte",
+        "I khawm ding",
+        "hi."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Buhlomte khawm in,",
+        "buhlomte khawm in",
+        "Lungdamna tawh buhlomte",
+        "Ih",
+        "khawm ding hi;",
+        "Buhlomte khawmin,",
+        "buhlomte khawm in",
+        "Lungdamna tawh buhlomte",
+        "I khawm ding",
+        "hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Nisa sungah tuh in,",
+        "A liap sung zong tuh in,",
+        "Phalbi leh tuuk",
+        "lai",
+        "lungmanna om lopi;",
+        "Nasep na zawh ciangin",
+        "Kikhop hun hong tung ding,",
+        "Lungdamna tawh",
+        "buhlomte",
+        "I khawm ding hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Kap kawm in pai in la,",
+        "Topa a’ding tuh",
+        "in,",
+        "Kisiatna in a hong dah sak hang a ci;",
+        "Kahna khit ciangin ah,",
+        "Topa’n hong sam ding",
+        "a,",
+        "Lungdamna tawh buhlomte",
+        "I khawm ding hi."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "title": "Jesuh in Nangma Dahna A Thei Hi",
+  "key": "Key: Ab",
+  "ZBC": "ZBC: 344",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Dahna a om khempeuh, Topa Jesuh’n thei;",
+        "Lungsim kisikna le thungetna zong thei;",
+        "Lau",
+        "keei lo-n um in, na lungkhauhsak in;",
+        "Na van Topa suan in, hong nuamsak ding hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Ama",
+        "lungsim sungah, Nang pha hong sa hi;",
+        "Na galte khut sung pan, Nang hong gum ding hi;",
+        "Ama deihna",
+        "bangin, lam hong hilh ding hi;",
+        "A vaang tanna lamah na tung thei ding hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Gal na do",
+        "Jesuh’n thei, Na thuumna za hi;",
+        "Na lunggim lam zong thei, na kiko za hi;",
+        "Na kha tha",
+        "khauhna’ngin, na tai loh na’ngin;",
+        "Lungsim nuam hong pia ding na khitui nul ding."
+      ]
+    }
+  ]
+}

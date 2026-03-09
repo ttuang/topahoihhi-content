@@ -1,0 +1,53 @@
+{
+  "title": "Galdona Awng Un",
+  "key": "Key: Bb",
+  "ZBC": "ZBC: 295",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Galdona awng un, gal naizo en un!",
+        "Topa dialkhai un sang takin;",
+        "Galdal silh unla, kiptak",
+        "ding unla,",
+        "Lai Siangtho’ hilhna, na siksan un."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Khai leh, ding un, dial kim",
+        "hong kikhawm un,",
+        "Limtak, kiging, na kihilh sawn un;",
+        "Kuan un! Mainawt, Hosana kiko un,",
+        "Khris",
+        "in hong makaih hi galkap hon."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Eima lammah in zo ding thei khol in,",
+        "Galte ngap",
+        "thawh-in i kuan hi;",
+        "I lum le i dial ni ah tezialzial,",
+        "Thuman in thukhual lel ngeilo",
+        "hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Mi khempeuh Pasian hehpihna hong pia’n,",
+        "Ko a neu a lian hong huh",
+        "in;",
+        "Galzawh cianginah Nangma maitang ah,",
+        "Hong suak nung zawhna lukhu khu in."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "title": "JESUH’ MIN MANPHA NA LA IN",
+  "key": "Key: Ab",
+  "ZBC": "ZBC: 106",
+  "sections": [
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Min manpha, ngaih mahmah",
+        "Leitung mite’ lam-etna",
+        "Min manpha ngaih",
+        "mahmah",
+        "Vantungah lungdam nuamna."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Jesuh’ min na kem tawntung in",
+        "Gal namkim kidalna lum",
+        "Ze-etna’n hong kimkot",
+        "ciangin",
+        "Amin siangtho suangin thum"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Jesuh’ min a manpha mahmah",
+        "Bangzah i lung hong damsak",
+        "Hong saan’ ciang A ma",
+        "angsung ah",
+        "A ma la i sak laitak"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Lam tawp vantung i tun’ ciangin",
+        "Jesuh’ khe ah i bok ding",
+        "Kumpi khempeuh tung",
+        "Kumpi ci’n",
+        "Ama mai-ah i bia ding"
+      ]
+    }
+  ]
+}

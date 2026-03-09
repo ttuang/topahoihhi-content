@@ -1,0 +1,49 @@
+{
+  "title": "Hong Itna Lamdang",
+  "key": "Key: Eb",
+  "ZBC": "ZBC: 071",
+  "sections": [
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "A lamdang mahmah itna, Pasian’ hong itna hi;",
+        "Kalvary ah Asi dinga, Honpa hong piakna",
+        "hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Upna hangin ka Topa hi, A thokik Pasian’ Ta;",
+        "Sihna tawh kei hong tan zo hi, A si’n",
+        "hong sawpzo ta."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Itna in hong kicingsak a, Misiangte tung gen hi;",
+        "Jesuh upna hang bek inah, eite i suakta hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "A umte aw, nuamin pai un, Vantung nopna hi;",
+        "Hih leitungah na om lai un, Na malep ding uh hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 5",
+      "lines": [
+        "Satan vangliatna i zota, Tatsate’n la sa ni;",
+        "Khris i Topa, i kumpipa, eite gualzawhna hi"
+      ]
+    }
+  ]
+}

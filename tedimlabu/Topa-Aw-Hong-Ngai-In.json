@@ -1,0 +1,56 @@
+{
+  "title": "Topa Aw, Hong Ngai In",
+  "key": "Key: F",
+  "ZBC": "ZBC: 313",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Topa aw, hong ngai in, Na kiang kong nai hi;",
+        "Ka leiba loh dingin, Nang Na sizo hi.",
+        "Na",
+        "minpha tawh mawhphelna,",
+        "Nang kong up ciang ka ngah hi;",
+        "Topa hong beel dingin, Na kiang kong nai",
+        "hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Topa aw, hong ngai in, Hehpihna kong ngen;",
+        "Thupha tawh hong hon in, launa beisak",
+        "in.",
+        "Na thuciamna ka muang hi, Na thupha bel ka um hi;",
+        "Ka Honpa Pasian aw, hehpihna kong",
+        "ngen."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Topa aw, hong it in, Nang hong tangkhin in;",
+        "Keimah bek leitungah, hong paisak",
+        "kei i n.",
+        "Kei ma lam hong tangsak in, Na minthang ka kimkot ah;",
+        "Nang ading taangsak in, Ka belh",
+        "Suangpi aw."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Topa aw, hong liah in, Na kiang hong koih in;",
+        "Na nasep ka zawh dong,",
+        "Lampi hong hilh in.",
+        "Tua ciangin lungdamna la, ka sa ding hi, vantungah;",
+        "Topa aw, tua munah, om",
+        "tawntung nuam ing."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Na Kong Zai Hon In",
+  "key": "Key: Dd",
+  "ZBC": "ZBC: 226",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Jesuh’n hong kiu nang hong sam,",
+        "“Lunggim mi’n hong zuan un,”",
+        "ci;",
+        "Hong gum thei Amah bek hi, Na kong za hon in."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Na kong za hon in! Na kong za",
+        "hon in!",
+        "Hong gum thei Amah bek hi,",
+        "Na kong za hon in!"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Jesuh’n kong kiu",
+        "hong gum ding,",
+        "Nang ading A pumpi pia;",
+        "Hing kikin han pan thokhia,",
+        "Na kong za hon",
+        "in!"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Jesuh’n kong hong kiukiu lai,",
+        "Na lungsim Amah pia in;",
+        "Lungdamna hong",
+        "pia ding hi,",
+        "Na kong za hon in!"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Jesuh’n kiu hunte beibei,",
+        "Gupkhiatna a nai",
+        "lai-in;",
+        "Gumpa’n hong paisan ma-in,",
+        "Na kong za hon in!"
+      ]
+    }
+  ]
+}

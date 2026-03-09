@@ -1,0 +1,53 @@
+{
+  "title": "Huan Sungah",
+  "key": "Key: Ab",
+  "ZBC": "ZBC: 347",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Pak tung zingdai a nom lai-in,",
+        "Keimah guak huan sungah ka vak hi;",
+        "Hong kihopihna ka zak aw",
+        "ging in,",
+        "Pasian Tapa’ awkhum hi."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Amah’n hong tonpih-in hong hopih",
+        "a,",
+        "Ama aa ka hih hong gen hi;",
+        "Amah tawh omkhawm a nuam ka sakna,",
+        "Kuamah’n ciam kha ngei",
+        "lo hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Hong hopihna khum mahmah a,",
+        "Vasate’n zong ngai khipkhep uh hi;",
+        "Kei",
+        "a hong sak tua la ngaih mahmah a,",
+        "Ka bil kha’n ka zaza hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Zan khuamial sung",
+        "ahi zongin,",
+        "Amah tawh ka om khawm den nuam hi;",
+        "Launa tam taleh hong zui-in,",
+        "“Pai",
+        "ni” hong cihna aw ka za hi."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "title": "Pasian In Hong Sam Lai",
+  "key": "Key: Ab",
+  "ZBC": "ZBC: 225",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Pasian sap lai ka za kei diam?",
+        "Leitung nopna ka khenglah diam?",
+        "Nuntak hun a beibei",
+        "lai-in,",
+        "Ka kha ka koih diam, ihsip-in?",
+        "Sakik",
+        "Hong sam lai! Oh, za in!",
+        "Hong sam",
+        "lai! Oh, za in!",
+        "Pa in hong sam lai; oh za un,",
+        "Pa in hong sam lai, Hong sam lai!",
+        "Oh, za un,",
+        "hong sam lai!",
+        "Oh za un, Pa in hong sam lai!",
+        "Oh za un, sam lai!"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Pasian sap lai ka",
+        "tho kei diam?",
+        "A itna aw ka nial thei diam?",
+        "Hong spna ka awlmawh kei diam,",
+        "Hong sam lailai ka",
+        "uaikai diam?"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Pasian sap lai hong kiukiu in,",
+        "Ka lungsim kong ka khakcip",
+        "diam?",
+        "Hong ngak lai hong sang ding hizo,",
+        "Ka dahsak ngam diam? Kha Siangtho."
+      ]
+    }
+  ]
+}

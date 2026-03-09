@@ -1,0 +1,53 @@
+{
+  "title": "Nisimin Naisimin",
+  "key": "Key: Ab",
+  "ZBC": "ZBC: 312",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Topa bek hong phel thei hi,",
+        "Keimah in-ah, Na kiang ka beel hi,",
+        "Na sipha tawh hong",
+        "sawpin,",
+        "Na kiang hong omsak tawntung in."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Ni simin (simin), nai simin",
+        "(simin),",
+        "Sipha thanna thei sak in;",
+        "Hehpih a, Nong itna tawh,",
+        "Khaubang in-ah keimah hong hen",
+        "in."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "A kisia thei leitungah,",
+        "Damtak in keimah lam hong hilh ta;",
+        "Topa bek i up",
+        "ciangin,",
+        "Cikmah hunin lam khial nawn lo ding."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Sih ding hun hong tun",
+        "mateng,",
+        "Vantung innpi nuam sung tun mateng,",
+        "Nang kong upna khang sakin,",
+        "Topa tawh kikhen nawn",
+        "lo dingin."
+      ]
+    }
+  ]
+}

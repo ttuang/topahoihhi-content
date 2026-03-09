@@ -1,0 +1,64 @@
+{
+  "title": "Kong Pai Ding Hi",
+  "key": "Key: F",
+  "ZBC": "ZBC: 248",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Dahna lungkhamna a tun ciang,",
+        "Topa’ hong sapna ngai ning;",
+        "Khazih Topa thupha um",
+        "in,",
+        "Tuni’n a kiangah pai ning."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Kei hong pai ning, kong pai ding",
+        "hi,",
+        "Topa thupha sang dingin;",
+        "Kei hong pai ning, kong pai ding hi,",
+        "Topa kiang maan ngah",
+        "dingin."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "A siangtho kiniamsak Topa,",
+        "Na kiang keimah kong pai hi;",
+        "Hong kem in hong",
+        "cing in Topa,",
+        "Na khutnuai hong omsak in."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Ka kha nopsak na’ng Topa",
+        "aw,",
+        "Nangma kiang kong bel ding hi;",
+        "Vantungah mi siangthote tawh,",
+        "Ka mangkhawm tawntung nuam",
+        "hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Ka kiangah hong om in Topa,",
+        "Lungkhamna huih daisak in;",
+        "Lungdamna piangsak",
+        "in, dahna,",
+        "Khuamial ni tang bangsak in."
+      ]
+    }
+  ]
+}

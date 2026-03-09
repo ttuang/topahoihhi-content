@@ -1,0 +1,64 @@
+{
+  "title": "INN PHA BEL-AH I PAI DING",
+  "key": "Key: Ab",
+  "ZBC": "ZBC: 447",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Mi siangthote pai nading lampi in,",
+        "Pasian mai-ah a om ding hi;",
+        "Vantung khua mual ah i pai",
+        "ngit nget a,",
+        "Zingsol i tungah hong taang hi."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Inn pha bel-ah i pai ding",
+        "a,",
+        "Lungdamna tawh i kimu ding hi;",
+        "Khuamun nuambel eite’n i phak ciang,",
+        "Dahna om nawn lo",
+        "hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Lam nuam tawn mi siangtho honpite in,",
+        "Zion khua a ciah kik bangin;",
+        "Meivak",
+        "sungah namgim tui thun khol un,",
+        "Vantung khua ah i pai ding hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Lam nuam tawn ding a i",
+        "ngaihsut leh,",
+        "Khat le khat i ki-itna in;",
+        "Pasian tawh eite i omkhawm dinga,",
+        "Nuam in i om",
+        "tawntung ding hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Jordan gun gei a a votna gei-ah,",
+        "I din hangin a gal",
+        "khat-ah;",
+        "Topa Pasian tawh i ngap khawm dinga,",
+        "A min i phat tawntung ding hi."
+      ]
+    }
+  ]
+}

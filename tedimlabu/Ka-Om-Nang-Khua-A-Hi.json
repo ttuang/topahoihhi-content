@@ -1,0 +1,51 @@
+{
+  "title": "KA OM NA’NG KHUA A HI",
+  "key": "Key: Ab",
+  "ZBC": "ZBC: 443",
+  "sections": [
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Tua khuapi nuam khut tawh bawl lo,",
+        "Tua gam ei ma ading;",
+        "Tawntung vantung mi’n",
+        "la a sa,",
+        "Eima omna ding hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Gimna thuakna gungal khat-ah,",
+        "Lungsim tamna galah;",
+        "Kikhel a i nopsak",
+        "na’ngah,",
+        "Ka om na’ng in bawl ta."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Sihna tuipi gal khat lamah,",
+        "Khuamialna gal khatah;",
+        "Lungdam nuamnai ngah na ding,",
+        "A",
+        "tang in ka mu hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Mawhna, dahna, gimna, launa,",
+        "Mangpha ka khak khin ta;",
+        "Tawntung tua khuapi nuam",
+        "sungah,",
+        "Topa tawh om khawm ning."
+      ]
+    }
+  ]
+}

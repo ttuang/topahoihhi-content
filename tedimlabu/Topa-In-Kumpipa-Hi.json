@@ -1,0 +1,43 @@
+{
+  "title": "Topa In Kumpipa Hi!",
+  "key": "Key: G",
+  "ZBC": "ZBC: 151",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Ngai un! A tulmawh lapi’n, Vantung teng thawn hi;",
+        "“Pasian minthang hen”",
+        "ci-in, lasa uh hi.",
+        "Van mi’ la in van thawnin, gawsem tumin lasa uh a;",
+        "“Topa Kumpi",
+        "hi” ci-in phatna la sa."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Ngai un! Gualzawhna la aw, mun teng thawn",
+        "zuazua;",
+        "Tuihual bangin nuamna aw, hong ging zuazua.",
+        "“Hallelujah” ci’n sa in, mun",
+        "teng ah phatna aw ginga;",
+        "“Topa Kumpi hi” ci-in phatna kiza."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "To thum gawm",
+        "Pasian phat un, vantung mite aw;",
+        "Pa, Tapa le Kha Siangtho, phat den un aw.",
+        "Nidang lai hun mah",
+        "bangin, Tatsa mite’n sa tawntung hi;",
+        "“Topa Kumpi hi” ci-in phat ding uh hi."
+      ]
+    }
+  ]
+}

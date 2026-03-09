@@ -1,0 +1,76 @@
+{
+  "title": "Ka Kha Ni",
+  "key": "Key: F",
+  "ZBC": "ZBC: 036",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Hong gum Topa ni taang bang hi,",
+        "Ama kiang khuamial ngeilo hi;",
+        "Topa aw, Na mai kong muh",
+        "na’ng,",
+        "Meiilum kaite na thengsak in."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Topa ka lungkham ciang inah,",
+        "Mit",
+        "gui-in a kham luat lai-ah;",
+        "Topa aw, Nanngma ang sungah,",
+        "Ka tawl ka hong damsak",
+        "nuamta."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Topa aw, Nang nong om kei leh,",
+        "Sih ding ka kihta keimah in;",
+        "Keimah tawh",
+        "a om khawm dingin,",
+        "Nisimin Topa hong pai hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Tu lai-a Na thu hong sel a,",
+        "Thupha",
+        "bel hong nialte in-ah;",
+        "Nung ciangin a khialh loh na’ngin,",
+        "Lam a khialte na hehpih",
+        "in."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 5",
+      "lines": [
+        "Leitung sihna ka tuah ma un,",
+        "Thupha hong pia’n ka phawk lai un;",
+        "Tuipi",
+        "bang thuk Na itna sung,",
+        "Hong tunpih in, Na van inn sung."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 6",
+      "lines": [
+        "Nitak a a thum a",
+        "taute,",
+        "Cidam lo a, a zawngkhalte;",
+        "Na thupha kong na hon’ inla,",
+        "A lung na damsak in,",
+        "Topa."
+      ]
+    }
+  ]
+}

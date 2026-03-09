@@ -1,0 +1,52 @@
+{
+  "title": "Topa Na Gam Ka It Hi",
+  "key": "Key: G",
+  "ZBC": "ZBC: 182",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Topa na gam it ing, Gamlapi aa na inn;",
+        "Thupha a piaksa A pawlpi, Ama si tawh",
+        "leizo."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Na Pawlpi ka it hi, Na ding, a kulhpi mai;",
+        "Hawm thawhna le itna mit tawh, En",
+        "in, khut tawh hong len."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Pawlpi ka it manin, luangsak luankhi tui bang;",
+        "Keem in,",
+        "cingin, A nasem ning, leitung bei ni mateng."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Ka lungdam theihzah-in, vantung ka tun",
+        "ciangin;",
+        "Amah tawh ne khawm nuam sa-in, Hong itna ka phat ding."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 5",
+      "lines": [
+        "Na thumana bangin,",
+        "Zion mual ah na sang ding;",
+        "Leitung minthannate bei-in, nuamzaw vantung thupha."
+      ]
+    }
+  ]
+}

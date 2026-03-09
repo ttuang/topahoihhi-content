@@ -1,0 +1,63 @@
+{
+  "title": "Bang Dang Hilo Jesuh Si Hi",
+  "key": "Key: G",
+  "ZBC": "ZBC: 206",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Bang in ka mawh sawpsiang thei",
+        "Bangdang hilo Jesuh si hi!",
+        "Bang in hong damsak kik",
+        "thei?",
+        "Bangdang hilo Jesuh si hi."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Manpha hi hong luang si,",
+        "Vuk bang hong",
+        "ngosak si!",
+        "Tui dang ka thei kei hi,",
+        "Bangdang hilo Jesuh si hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Ka sianna ding",
+        "hih ka mu,",
+        "Bangdang hilo Jesuh si hi!",
+        "Ka mawhna kiphelna’ng thu,",
+        "Bangdang hilo Jesuh si",
+        "hi!"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Mawhmaisak bangdang hilo",
+        "Bangdang hilo Jesuh si hi.",
+        "Apha ka bawl hang",
+        "hilo,",
+        "Bangdang hilo Jesuh si hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Kei lametna lungnopna",
+        "Bangdang hilo",
+        "Jesuh’ si hi",
+        "Kei in dikna ka ngah na",
+        "Bangdang hilo Jesuh’ si hi"
+      ]
+    }
+  ]
+}

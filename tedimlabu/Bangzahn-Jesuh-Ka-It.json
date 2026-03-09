@@ -1,0 +1,63 @@
+{
+  "title": "Bangzah'n Jesuh Ka It",
+  "key": "Key: Ab",
+  "ZBC": "ZBC: 339",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Ka zak nop min khat a om hi",
+        "Tua min la’n sak tham hi",
+        "Tua min bil-ah la bang ka",
+        "za,",
+        "Leitung a min ngaih bel"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Bang zah’n Jesuh ka it",
+        "Bang zah’n",
+        "Jesuh ka it,",
+        "Bang zah’n Jesuh ka it,",
+        "Hongit masak hang hi!"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Hong gumpa itna",
+        "hong gen hi,",
+        "Hong Tan khia ding si hi",
+        "Ama si manpha hong hilh hi",
+        "Mawh nei mi mawh",
+        "maina"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Pa neih khempeuh kei hong hilh hi",
+        "Nisim sapna cing hi;",
+        "Khuamial sungla ka",
+        "pai khialh ciang,",
+        "Khuavak hong tangsak hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Ka lunggimna a hong theihpih,",
+        "Hong",
+        "itpa hong hilh hi;",
+        "Ka dahna teng A hong thuakpih,",
+        "Thuakpih dang omlo hi."
+      ]
+    }
+  ]
+}

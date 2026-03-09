@@ -1,0 +1,54 @@
+{
+  "title": "HONG PAI CIANGIN",
+  "key": "Key: E",
+  "ZBC": "ZBC: 382",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Hong pai ciangin,",
+        "Hong pai ciangin,",
+        "Suang manpha khawmdingin;",
+        "Ama itte, Ama",
+        "ate,",
+        "A suang manphate."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Zingsang aksi sol bangin,",
+        "A tang ciat ding uh",
+        "hi;",
+        "A Kumpi lukhu tungah,",
+        "Tee diamdiam ding hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Hong khawm ding hi,",
+        "Hong",
+        "khawm ding hi,",
+        "A gamsung om ding mi;",
+        "A siangthote, a tang phate,",
+        "A suang",
+        "manphate."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Naupang note, naupang note,",
+        "Hong tanpa a itte;",
+        "Ama aa hi, amah it",
+        "hi,",
+        "A suang manphate."
+      ]
+    }
+  ]
+}

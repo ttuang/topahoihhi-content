@@ -1,0 +1,58 @@
+{
+  "title": "KHAICI MANPHA VAWH UN",
+  "key": "Key: Bb",
+  "ZBC": "ZBC: 416",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Khaici manpha vawh un,",
+        "Zingsang phalvak kipat tungin,",
+        "Khaici manpha vawh un, Sun khua phat",
+        "laitak;",
+        "Khaici manpha vawh un,",
+        "khangno lungsim zep nadingin,",
+        "Khaici manpha vawh un, dawm in",
+        "lungduai tak."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Khaici manpha vawh un, Khaici manpha vawh un,",
+        "Gamla nai-ah vawh",
+        "un, Lungduai itna khut tawh;",
+        "Nuntak khomun balnen, Lungdamna tangthu gen ta un,",
+        "Khaici manpha vawh",
+        "un, I it gam sungah."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Khaici manpha vawh un, ni a kai laitak inah zong,",
+        "Khaici manpha",
+        "vawh un, um lah lo-in om un,",
+        "A vekpi’n Pasian ap in, Amah muang un."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Khaici",
+        "manpha vawh un,",
+        "Lawpna le hanciamna tak tawh,",
+        "Khaici manpha vawh un, kham khaici",
+        "manpha;",
+        "Khaici manpha vawh un,",
+        "Khutte tha zawsak ngei lo-in,",
+        "Pasian in ni le guah, pua ding",
+        "thungen un."
+      ]
+    }
+  ]
+}

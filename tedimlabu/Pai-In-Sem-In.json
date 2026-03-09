@@ -1,0 +1,63 @@
+{
+  "title": "PAI-IN SEM IN",
+  "key": "Key: C",
+  "ZBC": "ZBC: 387",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Tapidaw ihmu nawn ke’n",
+        "Mi ngah na’ng sep theih lai sem",
+        "Khutzep-in ding mawk",
+        "ding maw?",
+        "Topa in thu hong pia leh"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Pai in sem ding kipan in",
+        "Pai in zong A",
+        "mangte gum",
+        "Khua mialna sung mawh nei mi",
+        "Tua pawi ah hong paipih in"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Topa min na",
+        "it ding hiam?",
+        "Hong ciamna na um zo diam?",
+        "Sapna teng A kiang ngen in,",
+        "Hong sapna na nial ding",
+        "maw?"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Na sansa bangin umin,",
+        "Hong hilh bangin nungta in;",
+        "A ma aa bang hi den",
+        "in,",
+        "Sep na tawh upna lak in"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Sing lamteh i puak ding om,",
+        "kham lukhu na khuk nop",
+        "leh,",
+        "Thathak tawh ma i sot ding",
+        "A hun tom a nite tawm"
+      ]
+    }
+  ]
+}

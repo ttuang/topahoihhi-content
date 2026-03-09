@@ -1,0 +1,65 @@
+{
+  "title": "JESUH VA KO NING",
+  "key": "Key: Eb",
+  "ZBC": "ZBC: 397",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Jesuh va ko ning, ka haksatna teng,",
+        "Kei kia’n pua zo ke’ng ka van lompi;",
+        "Hong",
+        "puak pih ding hi, Amah va suan leng,",
+        "Kei hong it in hong kem tawntung hi."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Jesuh",
+        "va ko ning! Jesuh va ko ning!",
+        "Kei kia’n pua zo ke’ng, ka van lompi;",
+        "Jesuh va ko ning!",
+        "Jesuh va ko ning!",
+        "Kei a hong huh thei Jesuh bek hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Jesuh va ko ning ka lungkhamna",
+        "teng,",
+        "Hong hehpih thei pen ka lawmpa hi;",
+        "Hong huhpah ding hi, va ko manpeuh leng,",
+        "Ka lung",
+        "gimna teng veng pah ding hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Ze-et bawlsiatna, ke’n thuakkha zel ing,",
+        "Hong",
+        "honpa lo in ka om thei kei;",
+        "Jesuh va ko ning, Jesuh va ko ning,",
+        "Amah bekbek hi, kei hong hon",
+        "thei."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Leitung in hong zol ka siat-theih na ding,",
+        "Ka lungsim sung ah siatna dim",
+        "hi;",
+        "Bangbang ka tuak zong Jesuh va ko ning,",
+        "Amah’n leitung hong zawhpih ding hi."
+      ]
+    }
+  ]
+}

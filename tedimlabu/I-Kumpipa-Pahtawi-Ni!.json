@@ -1,0 +1,54 @@
+{
+  "title": "I KUMPIPA PAHTAWI NI!",
+  "key": "Key: C",
+  "ZBC": "ZBC: 010",
+  "sections": [
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "No tatkhiat sate in,",
+        "Ki-itna khangsak in.",
+        "Dawn un minthangpa",
+        "Dawn un thahat",
+        "pa.",
+        "A na lamdang bawlte",
+        "Gen un minthan nate,",
+        "I Kumpipa pahtawi ni."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Topa lian hi a gen bangbang piang hi.",
+        "Khanglo ve ni, lasa ve ni.",
+        "Phatna ukna hatna Ama aa",
+        "hi.",
+        "I Kumpipa pahtawi ni."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Topa lian hi lungdamtak zuan ve ni.",
+        "Khanglo ve ni, lasa ve ni",
+        "Minam khempeuh in zong",
+        "lungdam pih hi.",
+        "I Kumpipa pahtawi ni."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Topa lian hi amin siangtho hi.",
+        "Khanglo ve ni, lasa ve ni.",
+        "Leimi vanmi a sep lamdang phat",
+        "ni.",
+        "I Kumpipa pahtawi ni."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "title": "VANGLIAN TOPA PHAT UN",
+  "key": "Key: G",
+  "ZBC": "ZBC: 018",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Topa phat un, na khempeuh a piangsak i Kumpipa,",
+        "Ke’n ka phat ding ka nuntakna hong hon,",
+        "hong damsak pa;",
+        "Tua thu zate’n A biakinn lam hong zuan un,",
+        "Lungdam biakpiakna hong pawm",
+        "un."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Topa phat un, na khempeuh lamdang a hong uk Mangpa,",
+        "A khut nuai-ah keimah hong",
+        "kem, hong liah a, hong vak pa;",
+        "Ka theizo hi, Topa vaihawmna bangin,",
+        "Ka deihna khempeuh hong pia",
+        "khin."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Topa phat un, keimah hong kem, ka ma hong vangsak pa,",
+        "Ama hoihna hehpihna tawh",
+        "nisim a hong keempa;",
+        "Hong itna tawh, kei bang lel lawmin hong nei,",
+        "Kei ading hihlah nei ngei kei."
+      ]
+    }
+  ]
+}

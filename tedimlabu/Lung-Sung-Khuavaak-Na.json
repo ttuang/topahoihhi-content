@@ -1,0 +1,64 @@
+{
+  "title": "LUNG SUNG KHUAVAAK NA",
+  "key": "Key: Ab",
+  "ZBC": "ZBC: 358",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Tuni-in kei ma lungsim sungah",
+        "Khuavaak a hong taang hi",
+        "Lei tung ni sang a vaang tang",
+        "zaw",
+        "Ka khua vak Jesuh hi"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Aw ka lung sung, lung khuavakna",
+        "Lung sung nopna",
+        "nuamna hun pha hi",
+        "Jesuh mai nuam ka muh ciang in",
+        "Ka lungsim sung hong taang",
+        "hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Tuni-in kei mah lungsim sung ah",
+        "Kumpi phatna la sa",
+        "Kei sak theih loh la",
+        "ngaihte zong",
+        "Jesuh’n ngai leh A za"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Tuni-in keima lungsim sungah",
+        "Topa hong",
+        "tum man in",
+        "Lungnopna leh gamtatna pha",
+        "Hong po, hong palh pan hi"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Tuni in keima",
+        "lung sim sungah",
+        "Nuamna, lawpna, dim hi",
+        "Hong piaksa le hong piak lai ding",
+        "Thupha, nuamna hang",
+        "hi"
+      ]
+    }
+  ]
+}

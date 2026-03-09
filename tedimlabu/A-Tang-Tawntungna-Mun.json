@@ -1,0 +1,63 @@
+{
+  "title": "A TANG TAWNTUNGNA MUN",
+  "key": "Key: Bb",
+  "ZBC": "ZBC: 431",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Tua lai gam om nitum lohna,",
+        "Van ah ni tang tawntung;",
+        "Tua lai nitak om ngei lo",
+        "hi,",
+        "Topa vang in tang hi."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Singlamteh e’n i puak leh,",
+        "Kham lukhu i khu",
+        "ding;",
+        "Mi hoihte sung i ten leh,",
+        "Khuavak sung i om ding."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Tua lai mun om kilemna",
+        "gam,",
+        "Gimna om nawnlohna;",
+        "Tua lai huih dam zong nung hiauhiau,",
+        "I tunna’ng tua",
+        "mun-ah."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Tua lai inn om, minthang inn om,",
+        "A kigen van inn nuam;",
+        "I tun nading",
+        "vantung inn nuam,",
+        "Ei hong dawn ding tua lai."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "I pum lui na i nusiat",
+        "leh,",
+        "Manlangin hong kheng ding,",
+        "A tang van zinpa kiang zuan leng,",
+        "I lung nuam tawntung ding."
+      ]
+    }
+  ]
+}

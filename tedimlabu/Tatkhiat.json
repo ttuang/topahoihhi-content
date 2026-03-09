@@ -1,0 +1,70 @@
+{
+  "title": "Tatkhiat",
+  "key": "Key: A",
+  "ZBC": "ZBC: 469",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Tatkhiatna thu ka tangko nuam hi, Tuuno si tawh hong tatkhiatna;",
+        "A bei theilo hong hehpihna hi,",
+        "Pasian ta cihna ka ngahna."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Tatkhiat, tatkhiat, Tuuno sisan tawh",
+        "tatkhiatsa;",
+        "Tatkhiat, tatkhiat, Pasian ta cihna ka ngahta."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Jesuh in keimah hong",
+        "tatkhiatna, Kam a genzawh ding hilo hi;",
+        "Ama khuavak sungah ka om ta,",
+        "Amah tawh ka tengkhawm den",
+        "ding."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Ka lung sung om hong Tanpa itna,",
+        "Sun nilohin hong phawng den",
+        "hi;",
+        "Ke’n sasa nuam ing, Amah phatna,",
+        "Tua la mah ka sasa nuam hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Ka thei",
+        "hi ahoihna ka mu ding,",
+        "Amah ka Kumpi hong hita;",
+        "Amah in kei hong kem tawntung ding,",
+        "Hong pia",
+        "den Amah phatna la."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 5",
+      "lines": [
+        "Ka thei hi, kham lukhu ka ngah ding,",
+        "Hong bawl kholhsak mun ka",
+        "tun ciang;",
+        "Ama mel bangin ka kicing ding,",
+        "Amah tawh ka teenkhop hun ciang."
+      ]
+    }
+  ]
+}

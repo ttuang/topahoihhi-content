@@ -1,0 +1,42 @@
+{
+  "title": "Na Dahna Phum In",
+  "key": "Key: Bb",
+  "ZBC": "ZBC: 337",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Hih leitunga dahna khempeuh paai khia in,",
+        "Nitak hun ciangin ah, damdam lungngai",
+        "in;",
+        "Thukpi-in phum inla, phatakpi’n seel in,",
+        "Jesuh kiangah gen in, thupha hong pia",
+        "ding."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Jesuh kiangah gen in, na dahna thei hi,",
+        "Jesuh kiang gen lecin, huhna hong pia",
+        "ding;",
+        "Na lampi hong taan ciang, pai-in kaikhawm in,",
+        "Thungen in na dahna, na van zang ding",
+        "hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Dahna lungkhamna tawh, khua a mial hangin,",
+        "Nang sang a gimzaw, midangte huh",
+        "in;",
+        "Na dahna paaikhia in, thupha ngah nading,",
+        "Midangte ading zong, Jesuh kiang gen in."
+      ]
+    }
+  ]
+}

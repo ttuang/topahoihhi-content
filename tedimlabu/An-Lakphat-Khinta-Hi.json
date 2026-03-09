@@ -1,0 +1,52 @@
+{
+  "title": "AN LAKPHAT KHINTA HI",
+  "key": "Key: Ab",
+  "ZBC": "ZBC: 405",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "An lak phat khin ta hi, Kuai khin zota hi,",
+        "Khris Topa’n hong sam a ni bei baih ding",
+        "hi;",
+        "Hong sawl bang sem meng in, An-late pawm in,",
+        "Tha nuamtak sem in la an-late huh",
+        "in."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "An lak phat khin ta hi, sep theih lai sem in;",
+        "A hun bei han han hi, Tuni-in",
+        "sem in."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "An lak phat khin ta hi, Kihei hei kei in,",
+        "An late sepna aw huih in hong puak",
+        "khin;",
+        "Lungduai takin sem in, Khawm in anvui teng,",
+        "Kham leh zang mun khempeuh ni hong tum",
+        "mateng."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "An lak phat khin ta hi, Tuni’n kua kuan ding?",
+        "An late huh in buhlomte",
+        "kuan pua ding;",
+        "Na kisep theih sun hun, Hong bei baih ding hi,",
+        "Na zawh ciang Topa’n",
+        "“Pha hi” hong ci ding hi."
+      ]
+    }
+  ]
+}

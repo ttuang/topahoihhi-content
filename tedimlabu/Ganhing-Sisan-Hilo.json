@@ -1,0 +1,45 @@
+{
+  "title": "Ganhing Sisan Hilo",
+  "key": "Key: C",
+  "ZBC": "ZBC: 129",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Tuuno Khazih inah, tua biakna sang phazaw;",
+        "A si a manpha ahi a, mawhna phel theita hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Upna tawh ka khutte, Nangma lamah kong laam;",
+        "Mawhna khempeuh ka kisik hi,",
+        "Ka hong thum hi",
+        "Topa."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Singlamteh na tungah, Nangmah’n na thuak gimna,",
+        "Kei in ka lungngaih cianginah,",
+        "Na",
+        "hong it ka theita."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 5",
+      "lines": [
+        "Biakna vantung Tuuno, A umte nopsakna;",
+        "Ke’n um a ka biak ka nuamzo,",
+        "Ka phat ding a",
+        "itna."
+      ]
+    }
+  ]
+}

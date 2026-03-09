@@ -1,0 +1,43 @@
+{
+  "title": "Jesuh Nangma Deih Bang",
+  "key": "Key: Eb",
+  "ZBC": "ZBC: 373",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Jesuh, Nangma deih bang, Keimah’n zong deih nuam ing;",
+        "Nangma itna khut sung, hong ki-ap",
+        "khin nuam ing.",
+        "Dahna nuamna sungah, Nangmah’n hong tonpih in;",
+        "Cizo nuam ing, Topa",
+        "“Nang deih bang hisak in.”"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Jesuh, Nangma deih bang, luankhi’n liah zel",
+        "zongin;",
+        "Ka upna aksi tang, mualsak, mangsak kei in.",
+        "Nang zong hih leitungah, na dah na kah",
+        "manin;",
+        "Nang tawh kap dingin-ah, “Nang deih bang hisak in.”"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Jesuh, Nangma",
+        "deih bang, kei ading pha khin hi;",
+        "Mailam a piang bangbang, Nangmah kong apkhin hi.",
+        "Lung patau lo",
+        "keimah, Tangtak ka zuan van inn;",
+        "Hin lai, sih ciang, ka la, Nang deih bang hisak in.”"
+      ]
+    }
+  ]
+}

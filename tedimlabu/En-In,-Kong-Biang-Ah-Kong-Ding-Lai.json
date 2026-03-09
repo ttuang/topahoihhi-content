@@ -1,0 +1,65 @@
+{
+  "title": "En In, Kong Biang-ah Kong Ding Lai",
+  "key": "Key: Ab",
+  "ZBC": "ZBC: 232",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "En in, kongbiangah kong ding lai,",
+        "Ngai in! Nang ka hong zolzol lai;",
+        "Mawh nei mi aw, kong",
+        "lut thei diam?",
+        "Na lung sungah kong lut thei diam?"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "En in, kong biangah kong ding",
+        "lai,",
+        "Ngai in! Nang ka hong zolzol lai;",
+        "Mawh nei aw, kong lut thei diam?",
+        "Lunggim mi aw, kong",
+        "lut thei diam?"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Nang tang linglukhu ka khu hi,",
+        "Lungduai takin kong ngakngak",
+        "hi;",
+        "Mawh nei mi aw, kong lut thei diam?",
+        "Lunggim mi maw, kong lut thei diam?"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Nang",
+        "hong mawk zol ka hi kei hi,",
+        "Ka thuaknate ngaihsut huai hi;",
+        "Nang tang hong si, hi lo ka",
+        "hiam?",
+        "Hong hon dingin kong lut thei diam?"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Van pan nuamna nang kong puak",
+        "hi,",
+        "Itna, nopna, mawhphelna hi;",
+        "Mawh nei mi aw, kong lut thei diam?",
+        "Lunggim mi aw, kong lut",
+        "thei diam?"
+      ]
+    }
+  ]
+}

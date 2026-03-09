@@ -1,0 +1,57 @@
+{
+  "title": "BEEL TAMPI HONG PAIPIH IN",
+  "key": "Key: Eb",
+  "ZBC": "ZBC: 368",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Na lungsung Topa’n thupha a dimtak hong piakna ding in,",
+        "Na lunggulh hiam tuni in;",
+        "Na",
+        "Pa’ hong ciamna muang in la,",
+        "A hong cih bang hong pai in,",
+        "Tang mi siangte’ pai bang",
+        "in,"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Na lungsim dimlet dong tu ni’n hong dim ding hi,",
+        "Topa hong sawlna bang",
+        "in,",
+        "Beel tampi hongpai pih in,",
+        "Na lungsung dimlet dong tu ni’n hong dim ding hi,",
+        "Kha",
+        "Siangtho vangliatna tawh."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Jesuh’ sisan’ sianthosak sa na leibeel te hong keng",
+        "in,",
+        "Hong pai un a samdang zong;",
+        "Pasian to khom mai-ah na pumpi kipia inla ngak in,",
+        "Kha",
+        "Siangtho hong ki buak dong."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Sathau bei ngeilo bangin hong heh pih na’n bei hun",
+        "neilo,",
+        "Hong itna zong kiamlo hi;",
+        "Ama hong kamciamsa bangin Kha Siangtho le vangliatna,",
+        "Beel",
+        "khempeuh hongdim ding hi."
+      ]
+    }
+  ]
+}

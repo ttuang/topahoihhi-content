@@ -1,0 +1,41 @@
+{
+  "title": "A Thusiam Pen Pasian",
+  "key": "Key: D",
+  "ZBC": "ZBC: 464",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "A thusiam pen Pasian aw, deih teng cinna Na hi;",
+        "Na nuntakna laigil tawh, Amaute Na gawm",
+        "hi.",
+        "Sih dongin a amau tegel, A thuciam uh kip hen;",
+        "Na vangliatna tawh kigeel, Na thupha sang uh",
+        "hen."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Leitungah Na om lai-in, Kana Na pai laitak;",
+        "Kiteenna pawi va simin, Tui lengtui",
+        "na suaksak.",
+        "Tua lai mopina pawi a, Na thupha hong tung hen."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Nangmah hong muan theih",
+        "nangun, Topa aw, Na huh in;",
+        "Haksatna a thuak ciangun, Na ompih tawntung in.",
+        "Leitung a nusiat ni",
+        "dong, Nang sungah kip uh hen;",
+        "Na innpi ah hong tun dong, Nangmah hong muang uh hen."
+      ]
+    }
+  ]
+}

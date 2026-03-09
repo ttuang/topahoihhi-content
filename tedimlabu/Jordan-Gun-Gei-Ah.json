@@ -1,0 +1,63 @@
+{
+  "title": "JORDAN GUN GEI AH",
+  "key": "Key: G",
+  "ZBC": "ZBC: 433",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Jordan gun gei ah ka dinga,",
+        "A gal lam ka en hi;",
+        "Kanaan gam nuam hong kilang a,",
+        "Ka",
+        "luah nading gam hi."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Tua gam nuam sungah ei i khawl ding hi,",
+        "A nop tawntungna",
+        "gungal khat-ah;",
+        "Nung ciangin Moses le Tuuno la sa ding hi,",
+        "Jesuh tawh mang tawntung ding",
+        "hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Tua gam pha bel sungah inn-ah,",
+        "Khuavak tawntung om hi;",
+        "Pasian le Jesuh vang",
+        "in-ah,",
+        "A tang tawntung ding hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Cikciang tua gam ka tung ding hiam,",
+        "Khuamial om",
+        "lohna ah;",
+        "I Pa maitang lungdamna dim,",
+        "Cikciang ka mu ding hiam."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Ka sin sungah",
+        "lungdam nading,",
+        "Leitung sawtpi om lo;",
+        "Jordan gunpi kilok hangin,",
+        "Lungdamin ka tum zo."
+      ]
+    }
+  ]
+}

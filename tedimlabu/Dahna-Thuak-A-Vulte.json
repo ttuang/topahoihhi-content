@@ -1,0 +1,46 @@
+{
+  "title": "Dahna Thuak-a Vulte",
+  "key": "Key: D",
+  "ZBC": "ZBC: 343",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "A dahte hong pai un,",
+        "Na vulna pan un,",
+        "Hehpih tokhom mai-ah, hong khuk din un;",
+        "Na lung",
+        "liamna, gimna,",
+        "Hong pai hong gen un,",
+        "Vantung damsak lah, bangmah om lo",
+        "hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Lungsim hawmte’ nuamna,",
+        "Lamkhialte’ khuavak,",
+        "Vul ngeilo, mual",
+        "ngeilo, lawpna hong lak;",
+        "Kha Siangtho Huhpa in,",
+        "Hong nem hi nuamtak,",
+        "Vantung damsak lah,",
+        "bangmah om lo hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "En un, hinna anlum, en un, hinna tui,",
+        "Pasian’ tokhom mai pan,",
+        "hong luangsuk tui;",
+        "Hong pai un, hih lai-ah, itna an kilui,",
+        "Vantung damsak lah, bangmah om lo hi."
+      ]
+    }
+  ]
+}

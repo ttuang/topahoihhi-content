@@ -1,0 +1,55 @@
+{
+  "title": "A KUMKUM IN NUAM SEMSEM",
+  "key": "Key: Ab",
+  "ZBC": "ZBC: 453",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Mawhna sung ka om lai-in, Jesuh itna’n hong zong;",
+        "A lam dang hehpih na in, Hong kha kik",
+        "tuu buk dong;",
+        "A thuk, a sang hehpihna, Tuipi sang zong thuk zaw;",
+        "Vantung sangin zong sang zaw, Ka",
+        "deih bel hi lo maw."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "A kumkum in nuam semsem,",
+        "A kum kum in nuam",
+        "semsem;",
+        "Jesuh it-na lian zaw, cing zaw, thukzaw, khumzaw,",
+        "A kum-kum in nuam",
+        "semsem."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Tang lai Judea gam sungah, Jesuh vak kawikawi a;",
+        "Hotkhiatna thu thei nuam in,",
+        "Mi hon hong pai uh a;",
+        "Lung tamkham te damsakin, Mittawte vaak sak hi;",
+        "A migitna lungsim in, Kei na",
+        "ngawn hong it hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "A lamdang hong itna hang, Supna, baina hong thuak;",
+        "Singlamteh",
+        "tungah gimna, Phun lo, pau lo-in thuak;",
+        "Tatkhiat sa mi siangte tawh, I aw sang khai ve ni;",
+        "Leitung",
+        "vantung thawnsak in, Ei hong Tanpa phat ni."
+      ]
+    }
+  ]
+}

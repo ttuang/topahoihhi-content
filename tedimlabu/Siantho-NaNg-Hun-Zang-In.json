@@ -1,0 +1,54 @@
+{
+  "title": "SIANTHO NA’NG HUN ZANG IN",
+  "key": "Key: F",
+  "ZBC": "ZBC: 301",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Siantho na’ng hun zang in, thungen zelzel in;",
+        "Ama sungah om in, Athu’n kivaak",
+        "in",
+        "Pasian’ Tate pawl in, A nangte huh in;",
+        "Na khat na hih ciangin Dong khial ngai kei",
+        "in;"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Siantho na’ng hun zang in, mi a kin zongin;",
+        "Jesuh bek tawh om in, Hun tampi",
+        "zangin.",
+        "Amah na sut na’ng in, etteh tawntung in;",
+        "Ama lim langsak in, Nang’ tatna pan",
+        "in."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Siantho na’ng hun zang in, Hong pina zui in;",
+        "A mai-ah tai kei in, bang a ci",
+        "zongin.",
+        "Na nuam na dah zong in, Topa mah zui in;",
+        "Jesuh en tawntung in, Ama thu muang",
+        "in."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Siantho na’ng hun zang in, lung hi di-de in;",
+        "Ngaihsut a namkim in, Amah uk",
+        "sak in.",
+        "Kha Siangtho tua bang in, kikai sak le cin;",
+        "Vantung na sem ding in, siam ding sawt lo in."
+      ]
+    }
+  ]
+}

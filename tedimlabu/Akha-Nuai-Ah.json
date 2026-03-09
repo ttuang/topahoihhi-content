@@ -1,0 +1,40 @@
+{
+  "title": "Akha Nuai-ah",
+  "key": "Key: Db",
+  "ZBC": "ZBC: 063",
+  "sections": [
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Akha nuai-ah hong itna pan,",
+        "Kuamah’n hong khen zolo ding;",
+        "Akha nuai-ah kei ka",
+        "teeng ding a,",
+        "Lungmaung tak om tawntung ning."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Akha nuai-ah dah ciang belh ding muan huai a,",
+        "K alungsim in tawldamna nuam ngah",
+        "hi;",
+        "Leitungah nopna hong pia thei om lo-a,",
+        "Tua lai-ah nopna thupha ka ngah hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "A kha nuai-ah nopna manpha mahmah a,",
+        "Nuntak haksatna bei dongin beel ning;",
+        "Hong liah, hong",
+        "dal, siatna’n hong su thei lo a,",
+        "Jesuh’ sung khawl leng, lungmuang tawntung ning."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "title": "Pasian Kihelna Neucih Omlo",
+  "key": "Key: E",
+  "ZBC": "ZBC: 484",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Lo sung ah ante min khinzo",
+        "Mikim sep theih ding om a",
+        "Ngai dih ve Pasian in hong",
+        "sam",
+        "Tua ante ala dingin"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Pasian kihelna neu cih om lo",
+        "Minthanna, hauhna zong",
+        "ken",
+        "Jesuh’ min suang a nasep leh",
+        "Kham lukhu na ngah ding hi"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Topa in nang",
+        "hong koihna mun",
+        "Neu in kua man theiloh hang",
+        "Hong koihpa hangin thupi hi",
+        "Aman hong mangngilh",
+        "ngeilo"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Na pumpi hong zawngkhal ta dia",
+        "Sepzawhloh hun hong tun ciang",
+        "Thungetna",
+        "tawh Topa a ding",
+        "Gal na sim thei lai veve"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Leitung haksat nate nusia’n",
+        "I",
+        "nasep i zawh khit teh",
+        "Citak a nasem pa tung ah",
+        "‘Pha hi ta, hong ciah tan’ ci"
+      ]
+    }
+  ]
+}

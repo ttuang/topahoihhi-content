@@ -1,0 +1,63 @@
+{
+  "title": "TOPA TUNGAH LUNG DAM UN",
+  "key": "Key: Bb",
+  "ZBC": "ZBC: 360",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Lungsim a pha mihing te aw",
+        "Topa tungah na lungdam un",
+        "Topa a teel mihing te aw",
+        "Dahna",
+        "lung man’na pai san un"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Nuam un, Nuam un",
+        "Topa tungah na lungdam",
+        "un",
+        "Nuam un, Nuam un",
+        "Topa tung ah lungdam khin un"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Lungdam ve un Topa",
+        "in-ah",
+        "Leitung, vantungah pha bel hi",
+        "A thupha a la phate tawh",
+        "Hong uk a ei-mah hong phel",
+        "hi"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Topa aa ding galkap na-ah",
+        "Galte hong zo dek hang a ci",
+        "Topa galkap mangte",
+        "in-ah",
+        "Galte sangin a tamzaw hi"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Sun lai in khua hong mial hangin",
+        "Zan lai van hong",
+        "khup bang in-ah",
+        "Na lungsim na mawh lo ding hi",
+        "Um in gal bei mateng thupha"
+      ]
+    }
+  ]
+}

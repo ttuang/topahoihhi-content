@@ -1,0 +1,47 @@
+{
+  "title": "Zingsang Dong Kong Ompih Ding",
+  "key": "Key: Eb",
+  "ZBC": "ZBC: 057",
+  "sections": [
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Hong gum Topa ko in, Hong thupiak ngai in",
+        "Zingsang mateng kong ompih ding,",
+        "Lau",
+        "ke’n hong gum ding kong pai h i;",
+        "Hi hi, zingsang mateng ompih ding,",
+        "Lauke’n hong gum",
+        "ding kong pai hi"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Lam-et bei teembaw nasemte, lungsim thaneem hi;",
+        "Topa’ sapna aw za uha, Lungdam khin uh",
+        "hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Tuipi tung huihnun phat lai-ah, Teembaw tum dek hi;",
+        "A gum ding Jesuh va pai a, Lungman damsak",
+        "hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Nang hong it manin hong kum a, Nang tang ding si hi;",
+        "Siatna pai-in a thu-um in, Inn na tung",
+        "ding hi."
+      ]
+    }
+  ]
+}

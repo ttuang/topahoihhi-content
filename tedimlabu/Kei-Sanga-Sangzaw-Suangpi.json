@@ -1,0 +1,53 @@
+{
+  "title": "Kei Sanga Sangzaw Suangpi",
+  "key": "Key: Ab",
+  "ZBC": "ZBC: 043",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Khat veivei ciang i nuntakna,",
+        "Haksat mahmah hun hong tun ciang;",
+        "Lungkham sinkham, dah le",
+        "kah in,",
+        "Huihpi’ sem bangin hong sem thei"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Alian suangpi ka beel nuam",
+        "hi,",
+        "Keimah sanga a sangzaw Suangpi,",
+        "A kip Suangpi ka beel nuam hi,",
+        "Keimah sanga a sangzaw",
+        "Suangpi"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Khat veivei nitum theilo bang,",
+        "Khat veivei i gim diak bang hi;",
+        "Leitung",
+        "nuntak gimna sung pan,",
+        "Thupha Suangpi beel leng nuam ding."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Tua Suangpi ke’n ka",
+        "beel nuam hi,",
+        "Dahna nopna ka thuak zongin;",
+        "Mual sang guamthuk sung ka pai zong,",
+        "A suk ato ah",
+        "ka pai zong."
+      ]
+    }
+  ]
+}

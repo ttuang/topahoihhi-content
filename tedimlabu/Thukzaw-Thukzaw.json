@@ -1,0 +1,47 @@
+{
+  "title": "Thukzaw, Thukzaw",
+  "key": "Key: G",
+  "ZBC": "ZBC: 480",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Thukzaw, thukzaw Jesuh itna sungah;",
+        "Nisim hong pi-in,",
+        "Sangzaw, sangzaw vantung pilna",
+        "sangah;",
+        "Hong kalsuanpih in.",
+        "Sakkik;",
+        "A thuk,a thukzaw thukzaw in",
+        "A sangzaw nisim",
+        "in,",
+        "Hong khang sakin Topa",
+        "Manpha na kammal sungah"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Thukzaw, thukzaw thupha kha",
+        "siangtho aw,",
+        "Hong thuk paipih in,",
+        "Ka nuntakna Jesuh deihna sungah;",
+        "Phum khit mateng",
+        "in."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Thukzaw, thukzaw haksat thuak kuul taleh,",
+        "Hong thuk paipih in,",
+        "Jesuh itna",
+        "sung hong zungkha sakin,",
+        "Hong gahphasak in."
+      ]
+    }
+  ]
+}

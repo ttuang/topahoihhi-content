@@ -1,0 +1,55 @@
+{
+  "title": "Ahoih Huan Sung Thungetna",
+  "key": "Key: D",
+  "ZBC": "ZBC: 306",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Jesuh hong ngakna mun huan sung khat om,",
+        "Tua in a lamdang mun hoih khat hi;",
+        "A vangliatna",
+        "khuavakpi a taang hi,",
+        "Ahoih huan sung thungetna mun-ah."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Aw, a hoih huan sung,",
+        "Huan sung thungetna ahi,",
+        "Aw, a hoih huan sung thungetna hi;",
+        "Hong Gumpa’n hong ngak",
+        "a,",
+        "Kong khakpi hong honsak,",
+        "Ahoih huan sung thungetna mun-ah."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Jesuh hong ngakna",
+        "mun huan sung khat om,",
+        "Vangik pua kawmin Amah ka zuan;",
+        "A kam sung pan hehnepna aw ka",
+        "za,",
+        "Ahoih huan sung thungetna mun-ah."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Jesuh hong ngakna mun huan sung khat",
+        "om,",
+        "Amah tawh kimu dingin hong sam;",
+        "Topa tawh kimu, kiho khawm dingin,",
+        "Ahoih huan sung",
+        "thungetna mun-ah."
+      ]
+    }
+  ]
+}

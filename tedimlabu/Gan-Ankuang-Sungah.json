@@ -1,0 +1,29 @@
+{
+  "title": "Gan Ankuang Sungah",
+  "key": "Key: D",
+  "ZBC": "ZBC: 088",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Bawngte hamna aw in naungek phawng zel hi,",
+        "Hih hang naungek Jesuh lah kapse lo hi;",
+        "Naungek",
+        "Jesuh aw Nang kong ngaih mah bangin,",
+        "Van pan hong en in khuavak dong hong kem in."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Ko kiangah naitakin hong ompih inla,",
+        "Ka Topa Jesuh aw, kei hong ngai inla;",
+        "Naupangte",
+        "khempeuh tu’n hong kem hong cing in,",
+        "Na kiangah om thei dingin hong bawlpha in."
+      ]
+    }
+  ]
+}

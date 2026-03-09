@@ -1,0 +1,56 @@
+{
+  "title": "Lawm Khat Ka Nei Hi",
+  "key": "Key: A",
+  "ZBC": "ZBC: 351",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Kei in lawm hoih khat ka nei a! Ka theih ma-in hong it hi;",
+        "Ki-itna khau tawh hong kai-a, Amah",
+        "tawh hong henkhawm hi.",
+        "Keima lungsim hong khih khin a, Kuamah in phel zolo hi;",
+        "Kei Ama aa, Amah",
+        "kei aa, A tawntung ding hita hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Kei in lawm hoih khat ka nei a! Hong hon dingin hong si",
+        "hi;",
+        "Nuntakna bek hong pia lo a, Amah mah hong kipia hi.",
+        "Kei neihsa bangmah om lo a, Ama neihsa",
+        "hikhin hi;",
+        "Lungsimi thatang le nuntakna, Ama aa hi tawntung hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Kei in lawm hoih khat",
+        "ka nei a! vangliatna khempeuh nei hi;",
+        "Ka lampi ah hong cing ding a, Innpi ah hong kha ding",
+        "hi.",
+        "Minthanna taang ka galmuh ta, Hong thahatsak kik ding hi;",
+        "Tu’n vil ding, sem ding, do",
+        "ding a, Nung ciang kitawlnga ding hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Kei in lawm hoih khat ka nei a! Migi thuman, lungnem",
+        "hi;",
+        "Vaihawm siampa lamhilh siampa, thahat galdo siampa hi.",
+        "Hong it Topa ka nei khinta, hong khenzo",
+        "ding omlo hi;",
+        "Sihna’n hong khen zolo dinga, Topa aa ka hita hi."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "title": "TOPA IN HONG KEM DING HI",
+  "key": "Key: Bb",
+  "ZBC": "ZBC: 052",
+  "sections": [
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Pasian in hong keem hi",
+        "Nisim in ah, tawntung in ah",
+        "A mah in hong keem hi",
+        "Pasian",
+        "in hong keem hi"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Nasep nakpi na bawl laitak",
+        "Pasian in hong keem hi",
+        "Na paina lam launa om leh",
+        "Pasian in",
+        "hong keem hi"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "A ma’h na deih teng hong pia ding",
+        "Pasian in hong keem hi",
+        "Piak loh bangmah om kei",
+        "hi",
+        "Pasian in hong keem hi"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Ze et gitlohna thuak hangin",
+        "Pasian in hong keem hi",
+        "Ama angsung na om ding hi",
+        "Pasian",
+        "in hong keem hi"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "title": "Singlamteh Ah Hong Hon In",
+  "key": "Key: A",
+  "ZBC": "ZBC: 252",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Hong it Honpa hong ngai in, Hong ngai in, hong ngai in;",
+        "Na ang kong beel liingkawmin, Topa hong",
+        "honkhia aw;",
+        "Ka mawhna hang nong si hi, Nong si hi, nong si hi;",
+        "Hong hehpih in nong liah hi, Topa",
+        "hong honkhia aw."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Hong sang in, Topa aw, Hong dahsak nawn kei ning,",
+        "Tu’n",
+        "thupha hong pia aw, Topa hong honkhia aw."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Ka gitloh hang kong thum hi, kong thum hi, kong",
+        "thum,",
+        "Nuntakna lampi Na hi, Topa hong honkhia aw;",
+        "Hehpihna in nget neilo, nget neilo, nget nei",
+        "lo;",
+        "Hehpih huai lua nong sa zo, Topa hong honkhia aw."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Na sisan in hong sawp in, hong",
+        "sawp in, hong sawp in,",
+        "Sisan sungah hong diah in, Topa hong honkhia aw;",
+        "Upna bek mawhphelna hi,",
+        "phelna hi, phelna hi,",
+        "Tua upna tawh kong beel hi, Topa hong honkhia aw."
+      ]
+    }
+  ]
+}

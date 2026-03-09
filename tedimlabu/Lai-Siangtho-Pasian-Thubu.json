@@ -1,0 +1,52 @@
+{
+  "title": "Lai Siangtho Pasian Thubu",
+  "key": "Key: E",
+  "ZBC": "ZBC: 193",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Lai Siangtho Pasian thu bu",
+        "Ka neih man pha pen na hi",
+        "Koi pan ka piang hong gen",
+        "ding",
+        "Bang ka hi hiam hong hilh ding"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Lam ka pial ciang hong tai ding",
+        "Hon",
+        "Pa’ itna hong lak ding",
+        "Lam hong hilh ding hong cing ding",
+        "Hong thu-hilh ding hong phat",
+        "ding"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Hilh leitung gam sim tham ah",
+        "Hong hehneem ding dahna ah",
+        "Hong hilh hi nei",
+        "leeng up na",
+        "Mi in zong zo thei sih-na"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Nong hilh hi nopna ngah na’ng",
+        "Lang",
+        "pan’ mi mawhte thuak na’ng",
+        "Ka neih manpha pen na hi",
+        "A siangtho Lai Siangtho bu"
+      ]
+    }
+  ]
+}

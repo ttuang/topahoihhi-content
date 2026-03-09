@@ -1,0 +1,54 @@
+{
+  "title": "Honpa’n Hong Makaih Bang",
+  "key": "Key: Eb",
+  "ZBC": "ZBC: 061",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "A siangtho tui luanna mualkum zui dingin,",
+        "Jesuh in lam hong pi leh lungdam zui ning;",
+        "A",
+        "khut zanin, tuipi hual tung hong sawl zong,",
+        "A mangte gup nading A thu va puak",
+        "ning."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Lam hong hilh bang zui ning,",
+        "Lungdam takin zui ning;",
+        "Gumpa hong hilh",
+        "bangin zui ning,",
+        "Lungdam tak zui ning."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Bangmah omlo, mual sang tung ahi",
+        "zongin,",
+        "A lawmte tawh kikhen a, mangthang tuuno;",
+        "Huih le guahpi a zu zongin va zong",
+        "ning,",
+        "Gumpa hong lah bang mailam nawt va pai ning."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Ka zui ding hi, Gumpa hong lah mah",
+        "bangin,",
+        "Dah ta leng, nuam ta leng, lungdamin zui ning;",
+        "Gumpa’n thei hi, a muanhuai thuman",
+        "lampi,",
+        "A tang kham khuapi sungah hong tunpih ding."
+      ]
+    }
+  ]
+}

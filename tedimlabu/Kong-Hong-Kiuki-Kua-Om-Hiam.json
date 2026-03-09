@@ -1,0 +1,49 @@
+{
+  "title": "Kong Hong Kiukiu Kua Om Hiam?",
+  "key": "Key: Eb",
+  "ZBC": "ZBC: 220",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Hong kiu, hong kiu, kua om hiam?",
+        "Hong ngak, hong ngak, nang hong ngak!",
+        "Khualzinpa in",
+        "midikpa hi,",
+        "Amah bang na mu ngei maw!",
+        "Ka lungsim in lamdangsa hi,",
+        "Kong khak hon lo ding na",
+        "hiam?"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Hong kiu, hong kiu, hiah omlai,",
+        "Hong ngak, hong ngak, na um hiam?",
+        "Kongkhak",
+        "hon ding haksa mahmah,",
+        "Singkung lopa’n tuamcip a;",
+        "Khuamial khaugui in kancip",
+        "hi,",
+        "Kiimkot tengah lencip hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Hong kiu, hong kiu, bang om hiam?",
+        "Hong ngak, hong",
+        "ngak, nang hong ngak!",
+        "A kilhcip khut in hong kiu lai,",
+        "A Kumpi lukhu nuai pan;",
+        "A lungnem le a",
+        "migit mai,",
+        "Hong gum Topa’n hong ngak lai."
+      ]
+    }
+  ]
+}

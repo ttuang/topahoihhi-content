@@ -1,0 +1,62 @@
+{
+  "title": "KA HI BANGIN",
+  "key": "Key: Eb",
+  "ZBC": "ZBC: 261",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Ka hi bangin misia mittaw,",
+        "khuamuhna, hauhna, damna tawh;",
+        "Ka sapna teng ngah ding in",
+        "aw,",
+        "Pasian’ tuuno, kong zuan, kong zuan."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Ka hi bangin mawhna baangin,",
+        "Kisil tawm dingin khawllo-in;",
+        "Na si’n hong siangsak",
+        "thei manin,",
+        "Pasian’ Tuuno, kongzuan, kong zuan."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Ka hi bangin lungsim patau,",
+        "kisiatna tam, lungkiatna hau;",
+        "Sunglam, pualam, kaling",
+        "kalau,",
+        "Pasian’ Tuuno, kong zuan, kong zuan."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 5",
+      "lines": [
+        "Ka hi bangin nong sang mah ding,",
+        "Nongphel, nong sawp, nong huh mah ding;",
+        "Nang aa bek hi ta",
+        "ning tu in,",
+        "Pasian’ Tuuno, kong zuan, kong zuan."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 6",
+      "lines": [
+        "Ka hi bangin nong it manin,",
+        "Hong dal khempeuhte palsat in",
+        "Na thu ciamte ke’n umzo",
+        "ing,",
+        "Pasian’ Tuuno, kong zuan, kong zuan"
+      ]
+    }
+  ]
+}

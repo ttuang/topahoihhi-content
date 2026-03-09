@@ -1,0 +1,53 @@
+{
+  "title": "En In Hing In",
+  "key": "Key: G",
+  "ZBC": "ZBC: 141",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Topa kiang pan thu hong tung, Hallelujah!",
+        "Ke’n nang kiang kong puak sawn ding",
+        "hi;",
+        "Kigelhzo A kammal sung, Hallelujah!",
+        "En a, na hin ziau ding bek ahi."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "En",
+        "in, hing in sanggam aw,",
+        "Topa Jesuh en in tuni;",
+        "Kigelhzo A Kammal sung, Hallelujah!",
+        "En a na",
+        "hin ziau ding bek ahi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Itna thupha ka neita, Hallelujah!",
+        "Nang kong genloh ding hi",
+        "thei kei;",
+        "Van pan hong kipuaksuk ta, Hallelujah!",
+        "Jesuh’n gen hi thuman hi ka",
+        "thei."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Nunna nang hong kipiazo, Hallelujah!",
+        "Tawntung nunna na ngah ding hi;",
+        "Jesuh",
+        "lo et ding om lo, Hallelujah!",
+        "Nangmah hong hon thei Jesuh bek hi."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "title": "Jesuh Ka Lung Sungah Hong Lutphet-In",
+  "key": "Key: A",
+  "ZBC": "ZBC: 346",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Topa Jesuh ka lung sungah hong lut phet-in,",
+        "Ka lungsim hong kikhel pah hi!",
+        "Topa Jesuh ka",
+        "lung sungah hong lut phet-in,",
+        "Ka lung sung khua hong vak pah hi!"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Topa Jesuh ka",
+        "lung sungah,",
+        "Hong tum hong khawl khit phet in-ah;",
+        "Tuipi kilok bang ka lung sungah",
+        "khuavakna,",
+        "Thakhat-in a hong tang pah hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Topa Jesuh ka lung sungah hong lut",
+        "phet-in,",
+        "Lam ka khial nawn kei pah ding hi!",
+        "Topa Jesuh ka lung sungah hong lut phet-in,",
+        "Ka",
+        "mawh khempeuh hong sawp siang hi!"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Topa Jesuh ka lung sungah hong lut phet-in,",
+        "Upna a",
+        "kip ka ngah pah hi!",
+        "Topa Jesuh ka lung sungah hong lut phet-in,",
+        "Up khialhna teng bei khin pah",
+        "hi!"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Topa Jesuh ka lung sungah hong lut phet-in,",
+        "Sihna kuam sung khuavak pah",
+        "hi!",
+        "Topa Jesuh ka lung sungah hong lut phet-in,",
+        "Khuapi kong khak kimu pah hi!"
+      ]
+    }
+  ]
+}

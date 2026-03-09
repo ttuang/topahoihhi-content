@@ -1,0 +1,66 @@
+{
+  "title": "NASEM UN",
+  "key": "Key: Bb",
+  "ZBC": "ZBC: 217",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Lo lai-ah nasep ding a omlai-ah,",
+        "Buh athun zo nasem dingte tawm pha;",
+        "Tuni thuman nasem te",
+        "a kiang ah,",
+        "Topa sawlna bangin ta un."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Nasem un! Nasem un!",
+        "Nopna pha na",
+        "ngaihsun un;",
+        "Topa in thahatna a hong piading hi,",
+        "Nitum ma tengin nasem un."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "An",
+        "kholna buhtang tawh",
+        "na dimsak un,",
+        "Lungdam na tawh la pha takpi sa un;",
+        "Nitum a khua a hongmial",
+        "mateng in,",
+        "Pha takpi na sem niloh un."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Nasepna haksa ni a sawt hang-in,",
+        "Nasemte",
+        "in nopna lian a ngah ding;",
+        "Topa in a teel sa mita dingin,",
+        "Nopna pha bel hong pia ding",
+        "hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Vantung an khol na",
+        "inn nuam mahmah ah,",
+        "Nasem mite’n thaman sang ding",
+        "uh a;",
+        "Topa'n itna tawh a mau sam ding a,",
+        "A tawntung maangkhawm ding uh hi."
+      ]
+    }
+  ]
+}

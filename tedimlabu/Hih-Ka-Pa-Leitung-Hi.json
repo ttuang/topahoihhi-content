@@ -1,0 +1,39 @@
+{
+  "title": "HIH KA PA’ LEITUNG HI",
+  "key": "Key: Eb",
+  "ZBC": "ZBC: 053",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Hih ka Pa’ leitung hi,",
+        "A min phat ding ki pak;",
+        "Vasa ham le zing sang",
+        "khuavak,",
+        "Unok pak tawh ki lawm,",
+        "Hih ka Pa’ leitung hi,",
+        "A hoih khempeuh",
+        "sungah;",
+        "Amah om a hong pau pih na,",
+        "Ka pai na teng ka za."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Hih ka Pa’ leitung hi,",
+        "Ke’n mangngilh ngei kei ning;",
+        "Asia lamsang a hat",
+        "hangin,",
+        "Uk lai Pasian mah in,",
+        "Hih ka Pa’ leitung hi,",
+        "Gal ki zo nai lo hi;",
+        "Lei le",
+        "van pum khat suah ciangin,",
+        "Jesuh’ lung-kim ding hi."
+      ]
+    }
+  ]
+}

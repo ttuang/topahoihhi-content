@@ -1,0 +1,66 @@
+{
+  "title": "Amah’n Bang Hih?",
+  "key": "Key: Db",
+  "ZBC": "ZBC: 111",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Aw! Ngai un, a lamdang bel tangthu,",
+        "Mangthang mi lakah simsa;",
+        "Vantung pan a hong tuaksuk",
+        "Jesuh,",
+        "Haksapi’n hong honkhia hi."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Kua’n a si ding honkhia a",
+        "hiam?",
+        "(Singlamteh tuak Pasian Tapa)",
+        "Amah’n bang hih? (Nang tang ding si)",
+        "Koi ah om",
+        "tu’n? (Nang om na’ng mun)",
+        "Vantungah hong thumsak hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Van a asang mahmah",
+        "vantung mi,",
+        "Hong gumzo ding om lo a;",
+        "Singlamteh tunga thuaka bek hi,",
+        "To thum laka khat Pa",
+        "hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Hih lamdang tangthu kizom lai a,",
+        "Lungsim le tha lawpsak hi;",
+        "Vanah hong",
+        "thumsak Siampi lian pa,",
+        "Amin Jesuh Khazih hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Honpa khut nuai na kiniamkhiat",
+        "diam?",
+        "Ama’ kiangah kipia-in;",
+        "Hong hehpihna thu na thei nai hiam?",
+        "Nang hong hon ding hi,",
+        "tu-in."
+      ]
+    }
+  ]
+}

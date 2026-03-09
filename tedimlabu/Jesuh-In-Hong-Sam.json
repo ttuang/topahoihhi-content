@@ -1,0 +1,64 @@
+{
+  "title": "Jesuh in Hong Sam",
+  "key": "Key: C",
+  "ZBC": "ZBC: 237",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Jesuh in itna tawh inn ah hong sam;",
+        "Tuni’n hong sam, tuni’n hong sam;",
+        "Ni bang",
+        "tang hong itna pan a pualam,",
+        "Bang ding kidai thah na hiam?"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Tuni’n hong",
+        "sam, Tuni’n hong sam;",
+        "Jesuh in hong sam,",
+        "Hong it manin tuni’n hong",
+        "sam."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Jesuh’n hong pia nuam a gimte tawldam;",
+        "Tuni’n hong sam, tuni’n",
+        "hong sam;",
+        "Na van va puak inla, ngah in lungdam,",
+        "Nang a hong nial kei ding",
+        "hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Jesuh’n hong ngak hi, pai in tu laitak;",
+        "Tuni’n hong ngak,",
+        "tuni’n hong ngak;",
+        "Na mawhna mah tawh va kun in niamtak,",
+        "Pai in kizekai sak",
+        "ke’n."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Jesuh in hong zol hi, A aw ngai in:",
+        "Tuni’n za in, tuni’n za",
+        "in,",
+        "Nuamna ngah ding hi, Amah umte in,",
+        "Tho in paipah vingveng in."
+      ]
+    }
+  ]
+}

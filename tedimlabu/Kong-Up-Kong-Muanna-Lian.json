@@ -1,0 +1,58 @@
+{
+  "title": "Kong Up Kong Muanna Lian",
+  "key": "Key: Eb",
+  "ZBC": "ZBC: 366",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Kong up kong muanna lian,",
+        "Hong hon Topa Pasian,",
+        "Hong tan Tuuno,",
+        "Kong thumna hong ngai",
+        "in,",
+        "Ka mawh na teng paai in,",
+        "Tuni a kipan in, Hong tang khin aw."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Keima lungsim",
+        "zawngkhal,",
+        "Hong guan in tha le ngal, Tha nuamsak in,",
+        "Kei a’ ding, Nong si ta,",
+        "Kei zong",
+        "Nang kong itna,",
+        "Mit ngei lo ka sungah Lum densak in."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Lungman khuamial",
+        "lak-ah,",
+        "Dahna tampi lakah,",
+        "Lam honghilhaw; Khuamialna vaksak in,",
+        "Dahna khitui siak",
+        "in,",
+        "Pial lo, hong naisak in, Nangma kiang tawh."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Leitung nun tom bei a, Sihna gun ka",
+        "tungah,",
+        "Hong tum ciangin;",
+        "Launa lunghih mawhna, Hong paihkhiat sak inla,",
+        "Na tatsa keima kha,",
+        "Hong pua to in."
+      ]
+    }
+  ]
+}

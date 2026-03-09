@@ -1,0 +1,62 @@
+{
+  "title": "Hong Hehpihna Thupha",
+  "key": "Key: G",
+  "ZBC": "ZBC: 117",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Hong hehpihna thupha’n, lungsim khauh zo thei hi;",
+        "Leitung a it mana, A Tapa hong pia",
+        "hi."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Kuamah peuhmah in thu-um leh,",
+        "Hin tawntungna pha ngah ding hi;",
+        "Hin",
+        "tawntungna pha ngah ding hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Gamlakah gul kikhai, a noptuam mah bangin;",
+        "Topa Jesuh",
+        "kikhai, nuntak tawntung na’ng hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Mawh neite sihkik ding, thukhenna i thei",
+        "hi;",
+        "A thu bang zui kei leng, kisia takpi ding hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Leitung mawhsak dingin, Jesuh hong",
+        "pai lo hi;",
+        "A minthan mah bangin, leitung hong gum ding hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 5",
+      "lines": [
+        "A um lote hehpih,",
+        "upna’ng lungsim guan hi;",
+        "Thupha bel hong tun’ ve’n, hong umphasak tahen."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "title": "Kei Nong Phawk Na’ng Un",
+  "key": "Key: D",
+  "ZBC": "ZBC: 209",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Nong hehpihna hangin kong phat uh hi, Topa",
+        "Tua in kote tudongin hong keem hi;",
+        "Na hoihna,",
+        "Nong itna ka zahtak uha,",
+        "Nangma tungah hong ki-ap-in kong kuun uh hi."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Topa aw,",
+        "tuni’n nong vaikhaksa mah bangin,",
+        "Na sabuai ah an kong um uh hi;",
+        "“Kei nong phawk",
+        "na’ng un ne un” nong cih bangin,",
+        "Nang phawkna in ka nei uh hi"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Nuntak",
+        "khomun ne ding, ka kilawm kei uh hi,",
+        "A them tawm ding zong kilawm kei ung;",
+        "Ahi zongin hong",
+        "hehpihin nong pia a,",
+        "Na hong itna hang bekin a ne thei hi ung."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Upna tawh kote in",
+        "khomun ka ne uh hi,",
+        "Lungsim, pumpi hong thahatsak hen;",
+        "Nangma sihna thu hong gengen ahi",
+        "hi,",
+        "Genzawh loh na minthanna sung hong tun tahen."
+      ]
+    }
+  ]
+}

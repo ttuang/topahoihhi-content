@@ -1,0 +1,69 @@
+{
+  "title": "NANG KONG DEIH TAWN TUNG HI",
+  "key": "Key: Ab",
+  "ZBC": "ZBC: 309",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Nang kong deih tawntung hi, migi ka To,",
+        "lungnop na hong pia thei a dang om",
+        "lo,"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Kong deih hi, Nang kong deih hi,",
+        "Nang kong deih tawntung hi,",
+        "Thupha",
+        "hong pia’n Topa aw,",
+        "Nang kong zuan hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Nang kong deih tawntung hi,",
+        "Nai tak",
+        "kei kiang, ze-et na in hong zo lo,",
+        "Nang nong nai ciang"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Nang kong deih tawntung",
+        "hi,",
+        "Nuam leng dah leng,",
+        "Nuntak na’n man nei kei,",
+        "Nang hong tan",
+        "leng,"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Nang kong deih tawntung hi,",
+        "Hong thu hilh in,",
+        "Nong khapsa a pha te hong",
+        "ngah sak in."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 5",
+      "lines": [
+        "Nang kong deih tawntung hi,",
+        "Sang pen pa aw,",
+        "Nang a tak hong hi",
+        "ning, Tapa pha aw,"
+      ]
+    }
+  ]
+}

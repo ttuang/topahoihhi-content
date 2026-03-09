@@ -1,0 +1,53 @@
+{
+  "title": "A Mangte Zong Hi",
+  "key": "Key: Bb",
+  "ZBC": "ZBC: 110",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "A mangte hong zongin hong zol ngeungeu,",
+        "Mual sang tung a lam a khial mite;",
+        "“Keimah",
+        "hong zuan un” hong cikik leuleu,",
+        "Topa’n tuni-in hong sam eite."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Mual",
+        "sang tunga gamla ah pai ni,",
+        "A vak mite lakik ni;",
+        "Mawh nei mi tang dinga si Tuuno",
+        "I",
+        "honpa’ tuubuk ah khum in."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "A mangte zongin Jesuh’ lamlak in,",
+        "Thahat lo kha",
+        "le a na lungsim;",
+        "Hotkhiatna lampi sungah makaih in,",
+        "Nuntak tawntungna lampi lak",
+        "in."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Tua bangin pai ni thupha nasem mi,",
+        "Khazih zui den ni, a ni sialin;",
+        "A bah mi",
+        "lawpsak in, pukmi phong ni,",
+        "A mang mi lampi Jesuh lak ni."
+      ]
+    }
+  ]
+}

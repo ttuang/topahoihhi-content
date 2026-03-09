@@ -1,0 +1,65 @@
+{
+  "title": "HONG GEN DIH IN, TANGLAI THU",
+  "key": "Key: C",
+  "ZBC": "ZBC: 390",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Tang thupha hong genta in, a kimu ngeilo na;",
+        "Jesuh le a vanglian pi, Amah in na",
+        "dingin;",
+        "Tangthu teltak hong gen in, naupangte hilh bangin;",
+        "Hong hilh in ka gimzo hi, ka khial gawp",
+        "khinta hi."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Tua tangthu hong genta in, tua tangthu hong genta in;",
+        "Tua tangthu",
+        "hong genta in, Jesuh le hong itna"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Tua tangthu damtak gen in, ka theih baih",
+        "nadingin;",
+        "A mah in hong tatkhiatna, mawh kiphel nadingin;",
+        "Tua tangthu hong genkik in, ka mangngilh",
+        "theih loh na’ng;",
+        "Daitui bang zingsang om hang, sun ciangin mang thei hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Tua",
+        "tangthu mah hong gen in, nuamna aw tawh gen in;",
+        "Mawhna pan hong phelna ding, Jesuh hong gup phawk",
+        "ning;",
+        "Tua tangthu gen laitakin, gimna khat hong tun leh;",
+        "Hehnepna hong pia ding ci’n,",
+        "tu’n tangthu genta in"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Tua tangthu mah hong gen in, limtak kiciantakin;",
+        "Leitung",
+        "minthannate in, hong suksiat gawp khak ding;",
+        "Hih leitung minthannate, ka lunggulh lua thei",
+        "hi;",
+        "Jesuh’n hong damsaknate, nong gen phapha ding hi."
+      ]
+    }
+  ]
+}

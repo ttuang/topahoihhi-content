@@ -1,0 +1,53 @@
+{
+  "title": "Jesuh Ang Muanhuai Sungah",
+  "key": "Key: G",
+  "ZBC": "ZBC: 423",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Gal omlo Jesuh ang sung, kham khut tawh hong kawi ding,",
+        "Hong itna a liim beel leng, ka lungsim",
+        "nuamsa ding.",
+        "Ngai un, vantung mi aw in, A vangtang vantungah;",
+        "Mual tung, tuipi tal panin, la sa",
+        "bang hong tunga."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Gal omlo Jesuh ang sung, Kham khut tawh hong kawi ding;",
+        "Hong",
+        "itna a liim beel leng, Ka lungsim nuamsa ding."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Gal omlo Jesuh ang sung, gimna tawlna",
+        "beina,",
+        "Leitung ze-etna khialhna’n, Hong zolzo nawn lo ding.",
+        "Lungkiatna le dahnate, kihtakn",
+        "zong dai hi;",
+        "Leitungah khitui luanna, neukha bek om lai hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Ka bukna Jesuh suangpi,",
+        "kei tang ding hong si pa,",
+        "Tua khang suangpi ka bel a, ka muang tawntung ding hi.",
+        "Zan khuamial hun",
+        "bei mateng,",
+        "Hiah ka ngak hithiat hi;",
+        "Kham khua a hong vak mateng, lungdamin ka ngak hi."
+      ]
+    }
+  ]
+}

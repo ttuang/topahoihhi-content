@@ -1,0 +1,69 @@
+{
+  "title": "MITE TUNG GEN DING THU KHAT I NEI HI",
+  "key": "Key: F",
+  "ZBC": "ZBC: 412",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Mite tung gen ding thu khat i nei hi,",
+        "Amau lungsim A man hei ding;",
+        "Thuman le hehpihna",
+        "tangthu,",
+        "Kilemna, khuavakna thu,",
+        "Kilemna khuavakna thu."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Zan khuamial, zing",
+        "khuavak suak ding a,",
+        "Zing khuavak sun nitang suak ding hi;",
+        "Khazih gam lei tung’ hong tung",
+        "ding hi,",
+        "Itna le khuavakna gam."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Mite tung sak dingla khat i nei hi,",
+        "Topa lam",
+        "lungsim ngasak ding;",
+        "Siatna a zo ding la khat hi,",
+        "Tei leh namsau susia ding,",
+        "Tei leh namsau",
+        "susia ding."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Mite tung puak ding thu khat i nei hi,",
+        "Van a mang tawntung Topa",
+        "thu;",
+        "A Tapa hong sawlna thu hi,",
+        "Pasian itna hong lak thu,",
+        "Pasian itna hong lak",
+        "thu."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Mite tung lah ding Honpa i nei hi,",
+        "Gimna dahna hong thuah khin hi;",
+        "Leitung",
+        "mi khempeuh theih dingin,",
+        "Pasian thuman hong lak hi,",
+        "Pasian thuman hong lak hi."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "title": "Topa in Kei Hong Cingpa Hi",
+  "key": "Key: Eb",
+  "ZBC": "ZBC: 159",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Topa in hong cingpa hi a, bangmahka sam kei hi;",
+        "Lonona ah hong lumsak a, tui dam kiang hong kha",
+        "hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Nuntakna tha hong dimsak a, keimah hong tonpih hi;",
+        "Thuman lampi hong tawnsak a,",
+        "Ama’ min ding a hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Sihna guam thuk ka nawk hangin, ka lau tuan het kei hi;",
+        "Na",
+        "molhtum le Na ciangkhut in, Kei hong lungmuangsak hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Ka galte omna lak mah-ah, An nong",
+        "lui veve hi;",
+        "Ka lu sathau nong nilhsak a, Ka hai a dimleet hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 5",
+      "lines": [
+        "Ka khan tawntung",
+        "thupha ngah-in, nopna ka luah dinga;",
+        "Pasian’ innpi a tawntungin, ka omna ding hita."
+      ]
+    }
+  ]
+}

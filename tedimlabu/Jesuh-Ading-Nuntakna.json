@@ -1,0 +1,65 @@
+{
+  "title": "Jesuh Ading Nuntakna",
+  "key": "Key: F",
+  "ZBC": "ZBC: 364",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Jesuh ading thumanin ka nungta,",
+        "A lungdamsak dingin ka hanciam a;",
+        "Lung taitakin Ama lam ka",
+        "pang hi,",
+        "Thupha ka ngahna hih bang lampi hi."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Honpa Topa Jesuh aw, Nang tungah",
+        "kong kipia,",
+        "Nong tatkhiatna dinginah, kei ading nong kipia;",
+        "To dang kuamah ka nei lo, ka lung sung",
+        "hong uk in,",
+        "Nang ading bek nungta dingin, Nang tung kong kipia khin."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Ka mawhna teng",
+        "Kalvary ah pua a,",
+        "Keitang si Jesuh ading ka nungta;",
+        "Tua itna in a nung hong zuisak hi,",
+        "A",
+        "nungzui dingin ka kipan khin hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Mun khempeuh Jesuh ading ka nungta,",
+        "Amin siangtho",
+        "suangin na ka sem a;",
+        "Gimna le supnate ka thuak ngam hi,",
+        "Tua bang thuakna in, kei singlamteh",
+        "hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Tomkal nuntak Jesuh ading hi-a,",
+        "Ama nuih mai mah manpha pen ka sa;",
+        "A mangte",
+        "zongin, tan ding hong si hi,",
+        "A gaimte Ama sung tawldamsak hi."
+      ]
+    }
+  ]
+}

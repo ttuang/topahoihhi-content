@@ -1,0 +1,51 @@
+{
+  "title": "SI A KHUT GUAK MASUAN DING MAW?",
+  "key": "Key: D",
+  "ZBC": "ZBC: 271",
+  "sections": [
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Si ding a khut guak masuan in,",
+        "Hong Hon pa' mai mu ding maw?",
+        "A mahdawn na ding mi",
+        "khat zong",
+        "tonpih lo guak pai ding maw?"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Sih ding kih ta ka hi kei hi,",
+        "Topa in hong hon zo tah,",
+        "Ahih hang in guak pai ding",
+        "pen,",
+        "Ngaih sut ciang sin lung kha lah,"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Mawh na sung a mawk kum teng,",
+        "khat vei sam kik thei leng maw,",
+        "Avek pi in Topa pia in na",
+        "deih bang",
+        "mang nuam sing maw."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Hah kat un, dingun, misiang te,",
+        "Sun lai na citak in sem,",
+        "Sih na zan in hong phak ma",
+        "in,",
+        "Mi ngah nang septheih lai sem."
+      ]
+    }
+  ]
+}

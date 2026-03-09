@@ -1,0 +1,64 @@
+{
+  "title": "KALVARI-AH",
+  "key": "Key: C",
+  "ZBC": "ZBC: 264",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Kiphat sakna’n kum sawt ka bei sak",
+        "Kei aading kithat Topa don lo,",
+        "Kei a ding hong",
+        "sih lam",
+        "ka phawk kei Kalvari ah"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Man piak loh hehpihna a lian leh",
+        "Mawh mai",
+        "sakna kei tungah khang a",
+        "Ka kha van gik tu in suak ta hi",
+        "Kalvari ah"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Pasian thu",
+        "in ka mawh lam phawk sak,",
+        "Bang ka hi ka phawk ciang ka ling a",
+        "A mawh ka kha thum in,",
+        "Ka kihei",
+        "Kalvari lam"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Tu’n Jesuh a vekpi’n ka pia khin,",
+        "Tu’n amah ka ka",
+        "kumpipa hi ta",
+        "Tu’n a sia sa kha in la ka sa",
+        "Kalvari mah"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Aw, gup khiatna",
+        "thu a geel itna",
+        "Aw, mitung dong hong puak suk thupha",
+        "Aw, a khauh kizopna lei hong",
+        "dawh",
+        "Kalvari-ah"
+      ]
+    }
+  ]
+}

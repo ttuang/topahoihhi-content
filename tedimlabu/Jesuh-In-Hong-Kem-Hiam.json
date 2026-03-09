@@ -1,0 +1,64 @@
+{
+  "title": "Jesuh In Hong Kem Hiam?",
+  "key": "Key: Db",
+  "ZBC": "ZBC: 349",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Ka lampi sau-in a gim huai-a,",
+        "Vangik pua-in kikem khialin;",
+        "Ka lampi sau-in, lungsim a nat",
+        "ciangin,",
+        "Jesuh in kei a hong kem hiam?"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "A hong kem hi, ke’n ka thei",
+        "hi,",
+        "Ka dahna hong thuakpih hi,",
+        "Sunin om nuam lo-in, zana lauhuai laitak",
+        "Hong gumpa’n",
+        "hong kem."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Sun khuavak in a hong mial ciangin,",
+        "Kei kiangah a hong nai om hiam?",
+        "Ka",
+        "lampi mialin, lauhuai a tam ciang,",
+        "Jesuh in kei a hong kem hiam?"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Haksa ze-et ka thuak",
+        "laitakin,",
+        "Zan tawntung khitui luanna tawh;",
+        "Hong hon ding omlo ka dah laitakin,",
+        "Jesuh in kei a",
+        "hong kem hiam?"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "I itte tawh mangpha kipia-in,",
+        "Lungkham lutang nat a bei",
+        "ciang;",
+        "Topa in ei bang ci-in hong mu diam,",
+        "Jesuh in kei a hong kem hiam?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "title": "Huihpi A Ven Mateng",
+  "key": "Key: Eb",
+  "ZBC": "ZBC: 482",
+  "sections": [
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Huihpite veng mang khina, vangingte a beisiang dong,",
+        "Van a meiite beimang a khua phat",
+        "dong;",
+        "Topa, hong len in na khut kuak sung hong koih in,",
+        "Hong kem in huihpi a ven mateng."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Hahkat hang a mawkna pi, dahna bei theilo pi,",
+        "Lam-etna zong om beek kei ci’n",
+        "Satan’n hong khem hi;",
+        "A’ih hang Nong ompih thei ing, zing ciang thoto inah,",
+        "“Ka",
+        "pai ding huihpi omlohna ah.”"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Zan saupi bei khinta a huihpi a ven ciangin,",
+        "Na mai-ah ka ding ding hi, tua a tang",
+        "gungei-ah;",
+        "Tua gamah huihpi omlo hong teng ning Topa aw,",
+        "“Huihpi a ven khittak ciangin",
+        "maw.”"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "title": "Kalvary ah Hong Kha In",
+  "key": "Key: Eb",
+  "ZBC": "ZBC: 127",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Ka kumpi na hi ta tu’n Nang",
+        "Vangliatna teng tang in",
+        "Lingna khuk ka mangngilh loh",
+        "na’ng",
+        "Kalvary ah hong kha in."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Getsemani mangngilh loh na’ng",
+        "Na",
+        "thuakna mangngilh loh na’ng",
+        "Nong itna ka mangngilh loh na’ng",
+        "Kalvary hong kha",
+        "in."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Na kisial na han hong lak in",
+        "Nangmah hong ki kah na",
+        "Vantung mite’n",
+        "puanpak silh in",
+        "Nangmah a hong cinna."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Mary bang phalvak tung in ah",
+        "Pak namtui",
+        "puak ding in",
+        "Hong paipih in Kalvary ah",
+        "Na han hawm hong lak in."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Nangma’",
+        "ading ken puanuam ing",
+        "Singlamteh ni sim in",
+        "Na dahna hong thuakpih nuam ing",
+        "Kei a’ ding",
+        "Nang thuak khin."
+      ]
+    }
+  ]
+}

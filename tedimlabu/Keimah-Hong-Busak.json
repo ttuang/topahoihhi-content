@@ -1,0 +1,66 @@
+{
+  "title": "KEIMAH HONG BUSAK",
+  "key": "Key: D",
+  "ZBC": "ZBC: 062",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Keima Topa Jesuh lamdang Honpa hi",
+        "Kei aa ding lamdang Honpa hi",
+        "Suangpi kitam sung ah ka",
+        "kha hong liah sak",
+        "Nuamna gunpi bang hong musak."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Suangpi kitam sung keima kha",
+        "hong liahsak",
+        "Tua suangpi’n gamgaw tak liapsak",
+        "A itna sungah ka nun’takna phumta",
+        "A",
+        "ma khut in kei hong tuamta",
+        "A ma khut in kei hong tuamta"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Keima Topa Jesuh lamdang",
+        "honpa hi",
+        "Amah’n puakhia keima van pi",
+        "Amah’n hong len a kei ka liing kei ding",
+        "hi",
+        "Ka ni bang in tha hong pia hi"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Kisim zolo thupha hong pia kimat in",
+        "Ama hoihna",
+        "tawh kidimin",
+        "Lungdamin la ka sa Pasian minthang hen",
+        "Hih bang Tanpa ka nei hi",
+        "ke’n"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Ama dikna puan paak silh a ka thawh ciang",
+        "Amah dawnin ka leentoh",
+        "ciang",
+        "Ama hong itna leh hong hotna kicing",
+        "Van ah aw tampi tawh sa ning"
+      ]
+    }
+  ]
+}

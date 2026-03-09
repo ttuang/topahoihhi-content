@@ -1,0 +1,53 @@
+{
+  "title": "Hehpihna Tawh Note Hong Honzo",
+  "key": "Key: D",
+  "ZBC": "ZBC: 461",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Pasian hong hehpihna’n, A geel hotkhiat kicing;",
+        "Langdo mite honkhia dingin, a thupha sung",
+        "hong teel."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Upna tawh gupna i ngah, up man, up man,",
+        "Nang dikna hilo upna",
+        "tawh;",
+        "Nang dikna hilo upna tawh sep hilo,",
+        "Sep hi lo, sep hi lo, hi leh mi kisial ding,",
+        "Pasian",
+        "hong piak khong hi,",
+        "Sep hi lo, hi leh mi kisial ding,",
+        "Pasian hong piakkhong hi, Pasian hong",
+        "piakkhong hi,",
+        "Pasian hong piakkhong hi, Pasian hong piakkhong hi,",
+        "Hong piakkhong",
+        "hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Hih Pasian’ thupha lian, Tapa ah kilangsak;",
+        "Zum huai singlamteh ah",
+        "thuakin, Pasian thu kithangsak."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "A um takpi mite, Pasian in hong theisak;",
+        "Khazih",
+        "hangin hotkhiatna cing, “Tate” cihna ngahsak."
+      ]
+    }
+  ]
+}

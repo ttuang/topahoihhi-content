@@ -1,0 +1,52 @@
+{
+  "title": "PASIAN KIANGAH OM DING",
+  "key": "Key: Bb",
+  "ZBC": "ZBC: 060",
+  "sections": [
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Tua bangin u le nau,",
+        "Pasian lamah na lungkip hen,",
+        "Cikmah hun lungkia lo",
+        "in,",
+        "Pasian kiang i tun’ ciangin,",
+        "Lungnopna bang zahtak in a om diam."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Haksatna namkim a hong tun’ hangin,",
+        "Bangmah kihtak ka nei kei,",
+        "Pasian ka kiangah a",
+        "hong om peuh leh,",
+        "koimah peuh pai ding ka laulo."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Sihna guamthuksung dong ka tung zongin,",
+        "Bangmah kihtak ka nei kei,",
+        "Gam nuam ah om ding",
+        "Topa gam sungah,",
+        "koimah peuh pai ding ka laulo."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Mi namkim in kei hong do hangin ah,",
+        "Bangmah kihtak ka nei kei,",
+        "Pasian vangliatna a om ka",
+        "sungah,",
+        "koimah peuh pai ding ka laulo."
+      ]
+    }
+  ]
+}

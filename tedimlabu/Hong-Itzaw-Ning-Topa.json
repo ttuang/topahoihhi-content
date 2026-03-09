@@ -1,0 +1,61 @@
+{
+  "title": "HONG ITZAW NING TOPA",
+  "key": "Key: Ab",
+  "ZBC": "ZBC: 300",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Hong it zaw ning,Topa,",
+        "Hong it zaw ning;",
+        "Khukdin a kong thumna,",
+        "Nang hong ngai",
+        "ding;",
+        "Hih bang hi kong thumna,",
+        "Khazih, hong it zaw ning;",
+        "Hong it zaw ning, Hong it zaw",
+        "ning."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Nidang leitung nopna, Ka lung gulhpen;",
+        "Tu in kong deih Nangmah,",
+        "A hoih pha",
+        "pen;",
+        "Tu in kong deih Nangmah,",
+        "Khazih hong it zaw ning,",
+        "Hong itzaw ning, hong it zaw",
+        "ning."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Dahna natna thuak hang,",
+        "Pha mawh salo; Nangma sawltakte bang,",
+        "La ka sa zo;",
+        "Kasa khawm a mau bang,",
+        "Khazih, hong it zaw ning;",
+        "Hong it zaw ning, hong it zaw",
+        "ning."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Kasih laitak inah, Nang kong phat ding;",
+        "Ka hutawp na inah,",
+        "Ka vai khak",
+        "ding; Ka ngen lailai hih mah,",
+        "Khazih, hong it zaw ning;",
+        "Hong it zaw ning, hong it zaw ning."
+      ]
+    }
+  ]
+}

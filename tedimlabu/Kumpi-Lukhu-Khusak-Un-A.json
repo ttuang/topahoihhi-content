@@ -1,0 +1,43 @@
+{
+  "title": "KUMPI LUKHU KHUSAK UN!",
+  "key": "Key: Ab",
+  "ZBC": "ZBC: 009",
+  "sections": [
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Kumpi lukhu, kumpi lukhu, Topa Jesuh khusak un!",
+        "Kumpi lukhu, kumpi lukhu, Topa Jesuh",
+        "khusak un!"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Vantung a misiang khempeuh in, Topa Jesuh min phat hi",
+        "Thukhen tokhom tung tusak a, vantung mite",
+        "phatsak hi"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Mi gilote’n ling tawh kigan, lukhu Jesuh khusak hi;",
+        "Mi siangtho le vantung mite’n,",
+        "tu’n Jesuh a minphat hi"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Ama min phatin kiko ni, gal zawh pawikhamna ngai un",
+        "Topa Jesuh in man ngah hi, lungdam huai bel",
+        "hi, en un."
+      ]
+    }
+  ]
+}

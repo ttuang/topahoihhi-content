@@ -1,0 +1,30 @@
+{
+  "title": "HONG MASUAN IN KHUA VAK AW",
+  "key": "Key: G",
+  "ZBC": "ZBC: 044",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Tua bangin thungetna, ni dang lai-in, om ngei lo hi;",
+        "Ka teelsa lam ka zuih hangin tuni, nong",
+        "kha ding hi;",
+        "Kisak theihna ding in ka deih kei mah’n,",
+        "ka kiphasak, ka mawh na ngaih sun ken."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Sawtpi nang mah’n thupha nong piak manin; hong pia lai in;",
+        "Gam kuam mual kal tuipi kheng",
+        "Topa in, lam hong hilh ta,",
+        "Khuavak ciang in sau veipi ka it mi,",
+        "Lungdamin ah kei mah’n ka um",
+        "ding uh."
+      ]
+    }
+  ]
+}

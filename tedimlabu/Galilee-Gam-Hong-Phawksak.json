@@ -1,0 +1,53 @@
+{
+  "title": "Galilee Gam Hong Phawksak",
+  "key": "Key: Bb",
+  "ZBC": "ZBC: 150",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Huihdam nung le vakhu khuang in,",
+        "Nitak khuamui nuamsak mahmah;",
+        "Pasian’ thupha hong",
+        "phawksak in,",
+        "Lungsim hong zol, Galilee ah."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Aw Galilee, aw gam",
+        "nuampi,",
+        "Jesuh’ utna gam nuam hi-a;",
+        "Aw Galilee, aw gam nuampi",
+        "Hong sakkik in, tua a",
+        "ngaih la."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Paak le singkung niim dildial ve’n,",
+        "Vasa ham tawh kilawm",
+        "mahmah;",
+        "Zing nisuah sim, phatna hong gen,",
+        "Om nuam zen si’ng, Galilee",
+        "ah."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Tuipi tunga, a paina thu’n,",
+        "Ka lungsim sung hong phawng",
+        "mahmah;",
+        "Khatvei beek pawh, a vakna mun,",
+        "Tung nuam zen si’ng, Galilee ah."
+      ]
+    }
+  ]
+}

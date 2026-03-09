@@ -1,0 +1,52 @@
+{
+  "title": "A MAH’N KA MAWH NA TENG LAKHIA ZO",
+  "key": "Key: Bb",
+  "ZBC": "ZBC: 352",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Lungsim leh aw in, Topa phat ning,",
+        "Ama sung ka kipak ding.",
+        "La in sa ning lamdang hong",
+        "itna",
+        "Ken sasa ning hih la"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Ama’n ka mawhna teng lakhia zo",
+        "Amin siang",
+        "phat un, Amin siang phat un",
+        "Ama’n ka mawhna teng lakhia zo",
+        "Haleluijah min phat",
+        "un."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Nopna khawlna ngah ding amakiang",
+        "Ka mawhna tawh ka pai ciang",
+        "Ka nget hong za",
+        "in hong khahkhia ta",
+        "Ken sasa ning hih la."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Ka hu tawpna tawh Amah phat ning",
+        "Sihna",
+        "ka zawh manin ah.",
+        "Amah phat ning a tawntungin ah",
+        "Ken sasa ning hih la."
+      ]
+    }
+  ]
+}

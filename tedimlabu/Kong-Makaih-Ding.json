@@ -1,0 +1,65 @@
+{
+  "title": "Kong Makaih Ding",
+  "key": "Key: G",
+  "ZBC": "ZBC: 355",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "A gim a tawl mite’ tungah,",
+        "Pasian in thu a ciam hi;",
+        "Leitung panin vantung",
+        "dongah,",
+        "“Kong makaih ding” hong ci hi."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "“Kong makaih ding, kong",
+        "makaih ding,",
+        "Kong makaih tawntng ding hi;",
+        "Leitung panin vantung dongah,",
+        "Kong makaih tawntung",
+        "ding hi.”"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Ze-etna in hong zo thei a,",
+        "Muante’n hong taisan thei",
+        "hi;",
+        "Hih hang na phawk ding thu om a,",
+        "“Kong makaih ding” hong ci",
+        "hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Na lametnate bei thei a,",
+        "Dahna tawh kum bei thei hi;",
+        "Hih hang na phawk ding",
+        "thu om a,",
+        "“Kong makaih ding” hong ci hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Nuntakna hun hong bei kuan",
+        "in,",
+        "Sih ding hun hong naita hi;",
+        "Hih hang hong Honpa’ aw ngai in,",
+        "“Kong makaih",
+        "ding” hong ci hi."
+      ]
+    }
+  ]
+}

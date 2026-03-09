@@ -1,0 +1,60 @@
+{
+  "title": "Topa Sungah Thahat Un",
+  "key": "Key: G",
+  "ZBC": "ZBC: 192",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Topa leh a vangliatna sungah thahat un,",
+        "Ama thuman sungah kiptak ding un,",
+        "Gal kidona",
+        "sungah A mah’n hong makaih ding,",
+        "Topa min tawh nang na gualzo ding",
+        "hi."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Thuman in (Thuman in)",
+        "Kiptak ding (Kiptak ding)",
+        "Kumpipa thupiakna tawh",
+        "zawh dong,",
+        "Topa’ minthan nading le Ama Thu gualzawh nading,",
+        "Topa thahat na sung kiptak",
+        "ding"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Topa le avangliatna sungah thahat un,",
+        "Galte mai pan in kihei ngei kei",
+        "un,",
+        "Thuman gal sim laitak",
+        "Amah na, kiang ding ding,",
+        "Ama vangliatna sungah",
+        "Mainawt",
+        "un,"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Topa le A vangliatna sungah tha-hat un,",
+        "Ama thu ciam nate pel ngeilo",
+        "ding,",
+        "Thuman galsim laitak na",
+        "Taklam khutlen ding,",
+        "Amah muang in,",
+        "Na gualzo tawntung",
+        "ding,"
+      ]
+    }
+  ]
+}

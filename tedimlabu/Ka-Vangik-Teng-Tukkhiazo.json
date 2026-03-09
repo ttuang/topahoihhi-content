@@ -1,0 +1,67 @@
+{
+  "title": "Ka Vangik Teng Tukkhiazo",
+  "key": "Key: F",
+  "ZBC": "ZBC: 475",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Ka thei hi, ka vangik khempeuh tukkhiazo,",
+        "Sun le zan kum sawtpi ka puak hizo;",
+        "Thupha Topa",
+        "ka zuat ciang, A kammalte ka muan ciang,",
+        "Thakhat-in ka vangik teng tukkhia",
+        "zo."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Tukkhia zo, tukkhiazo,",
+        "Ka nuam hi, ka vangik khempeuh tukkhia",
+        "zo.",
+        "Tukkhiazo, tukkhiazo, tukkhiazo,",
+        "Ka nuam hi, ka vangik khempeuh tukkhia",
+        "zo."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Ka thei hi, ka vangik khempeuh tukkhiazo,",
+        "Ka van bei theilo di’n ka um",
+        "ngeio;",
+        "Jesuh’n hih thu hong laka,",
+        "Singlamteh phung ka nga pah,",
+        "Ka nuam hi, ka vangik",
+        "khempeuh tukkhia zo."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Ka thei hi, ka vangik khempeuh tukkhiazo,",
+        "Kum sawtpi sung ka mai",
+        "hong khak khinzo;",
+        "Hepih tokhom ka zuan a, Jesuh maipha ka muta,",
+        "Hallelujah! vangik khempeuh",
+        "tukkhia zo."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "La ka sa, ka vangik khempeuh tukkhia zo,",
+        "Sun le zanin ka lung hong damsak",
+        "zo;",
+        "Kumpipa a ding ka hing, lungdam la asasa hing,",
+        "Hallelujah! vangik khempeuh tukkhia zo."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Khia Un",
+  "key": "Key: G",
+  "ZBC": "ZBC: 244",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Mawhna neite aw, Jesuh’n hong sam, a kiangah pai un!",
+        "Hong pai un mawhna kisik",
+        "khempeuh,",
+        "Jesuh kiang khia un!"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Khia un, mawh neite’n khia un,",
+        "Topa",
+        "Jesuh kiang pai un,",
+        "Khia un, mawhneite’n khia un,",
+        "Jesuh kiang khia un!"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "A",
+        "umte pai un nopna zong un, Topa kiang pai un!",
+        "Na lungsim gimna vangik khempeuh,",
+        "Jesuh kiang khia",
+        "un!"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Na upna in hong nuamsak ding hi,",
+        "Jesuh kiang pai un!",
+        "Na kha ading gimna a",
+        "tampi,",
+        "Jesuh kiang khia un!"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Hong pai un, no omna’ng omlai hi,",
+        "Jesuh kaing",
+        "pai un!",
+        "Na van neih khempeuh a gikpha pi,",
+        "Jesuh kiang khia un!"
+      ]
+    }
+  ]
+}

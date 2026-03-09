@@ -1,0 +1,53 @@
+{
+  "title": "Phabel Jesuh Aw",
+  "key": "Key: F",
+  "ZBC": "ZBC: 160",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Phabel Jesuh aw, na khempeuh na uk hi.",
+        "Pasian le mihing ta na hi;",
+        "Nangmah kong muang hi,",
+        "Nangmah kong phat hi,",
+        "Nangmah kong pahtawi ding uh hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Lono zong hoih a, singniim",
+        "zong hoih sem hi.",
+        "Tuk lai-a paak palhte hoih a;",
+        "Jesuh hoihzaw hi, Jesuh siang pen a,",
+        "Nangmah",
+        "kong pahtawi ding uh hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Ni tang zong hoih a, kha tang zong hoih sem hi.",
+        "Aksite",
+        "diamdiam zong hoih a;",
+        "Jesuh hoih zaw hi, Jesuh hoih pen a,",
+        "Nangmah kong pahtawi ding uh",
+        "hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "A phabel Honpa, mikim Topa Na hi.",
+        "Pasian le mita Na hi a;",
+        "Na min a thang hi,",
+        "pahtawina phatna,",
+        "Nangmah kong pahtawi ding uh hi."
+      ]
+    }
+  ]
+}

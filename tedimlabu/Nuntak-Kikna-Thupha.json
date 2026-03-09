@@ -1,0 +1,51 @@
+{
+  "title": "Nuntak Kikna Thupha",
+  "key": "Key: G",
+  "ZBC": "ZBC: 104",
+  "sections": [
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Nungta kikna thupha",
+        "Na mai khukdin ciangin",
+        "Topa aw, hong kumsuk in la,",
+        "Thupha",
+        "bel hong pia in."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Nungta kikna thupha",
+        "Na minpha thangsak in.",
+        "Mihing khempeuh lungsim sung ah",
+        "Na itna",
+        "guang sakin"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Nungta kikna thupha",
+        "thuhilh a pha pia a,",
+        "A siangtho na thupha",
+        "zak ciang upna na piang",
+        "sak ta’n"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Nungta kikna thupha",
+        "Kha Siangtho hong guang in",
+        "Na minthanna kilangsak in",
+        "Ko aa dingin",
+        "a pha."
+      ]
+    }
+  ]
+}

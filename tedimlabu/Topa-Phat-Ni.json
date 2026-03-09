@@ -1,0 +1,56 @@
+{
+  "title": "Topa Phat Ni!",
+  "key": "Key: Bb",
+  "ZBC": "ZBC: 035",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Minthang Kumpi phat un, Amah bek Psian,",
+        "Na lamdang lian hong lahkhiat manin phat ni;",
+        "Zan a",
+        "meikhuam tawh lam hong makaih Pasian,",
+        "Sun a meiikhuam tawh hong pi Pasian phat",
+        "ni."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Vantung mite’n phat un, Kham gawmsem tumin;",
+        "A mite’n zong kunin,",
+        "A mai-ah bia un;",
+        "A gam lianpi sungah, Kum tawn, khang tawnin,",
+        "A bawlsate’n phat un, A",
+        "bawlsate’n phat un,",
+        "Abawlsate’n phat un, ke’n zong ka phat",
+        "ding."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Khawnkhong tatna hong pia, phat ni, i Pasian,",
+        "Sapna teng hong luanna tuinak hi,",
+        "phat ni;",
+        "Phat ni hong it hong kem, a migi Pasian,",
+        "I thungetnate hong dawng Pasian phat",
+        "ni."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Eite hong it mana, hong ze-et Pasian,",
+        "Amah tawh hong kinaizaw sak Pasian phat",
+        "ni;",
+        "Upna, lawpna hang gualzo sak Pasian,",
+        "It le ngaih teng tawh hong gawm Pasian phat ni."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "title": "TANGSAK NI!",
+  "key": "Key: Ab",
+  "ZBC": "ZBC: 411",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Miallak tuipi hual tung pan kiko aw in,",
+        "Khuavak hong puak un ci!",
+        "Khualmial sungah a cimawh",
+        "mi tampi in,",
+        "Khuavak hong puak un ci!"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Tang sak ni (o, tangsak ni",
+        "nuamna)",
+        "Nuamna thupha khuavak (thupha khuavak)",
+        "Tangsak ni (tangsak ni), mun khempeuh-ah (mun",
+        "khempeuh ah)",
+        "Tangsak ni (o tangsak ni), nuamna thupha khuavak (nuamna thupha khuavak)",
+        "Tangsak ni",
+        "tawlnga lo-in."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Makedawnia gam pan a sapna aw in,",
+        "Khuavak hong puak un",
+        "ci!",
+        "Singlamteh mai-ah i biakna koih sukin,",
+        "I khuavak va puak ni."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Jesuh hong",
+        "hehpihna mi’n ngah kim na-ding,",
+        "Tangsak ni, tang sak ni!",
+        "Khazih lungsim bang kimuh kawikawi",
+        "nading,",
+        "Tangsak ni, tangsak ni."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Eite’n itna nasepna cimtak kei ni,",
+        "Tangsak",
+        "ni, tangsak ni!",
+        "Van lukhu zep nading suangmanpha khawm ni",
+        "Tangsak ni, tangsak ni."
+      ]
+    }
+  ]
+}

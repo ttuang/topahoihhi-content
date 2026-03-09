@@ -1,0 +1,43 @@
+{
+  "title": "Tawntung Kha Kihual Hen",
+  "key": "Key: G",
+  "ZBC": "ZBC: 466",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Pasian geelsa hong tunga, lia le tang kigawmna;",
+        "Itna tawh pumkhat suak ding, khuk din uh, Na",
+        "mai-ah,",
+        "Kamciamna kip la uh aa, Amau khutte kilen;",
+        "Pasian gawmsa a amaute, mite in khen kei",
+        "hen."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Nangma thupha namkim tawh, lungnopna guanta in;",
+        "Gentheih hun le nopsak hun,",
+        "ki-it hun suaksak in.",
+        "Inn sung, phung sung kilemna, kipatna suak uh hen;",
+        "Khristian innkuan hoih",
+        "suakin, limpha lak den uh hen."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Topa aw, hih nupate, thupha tampi pia in;",
+        "Tu le ta",
+        "tawi uh hen la, Neih le lam cingsak in.",
+        "Upna, lawpna kip nei-in, Nang sung lungkim uh hen;",
+        "A khan",
+        "kum uh sawt henla, tawntung kha kihual hen."
+      ]
+    }
+  ]
+}

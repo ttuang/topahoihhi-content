@@ -1,0 +1,52 @@
+{
+  "title": "KA LUNG SUNGAH LA NGAIH KA ZA",
+  "key": "Key: Ab",
+  "ZBC": "ZBC: 393",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Jesuh hong puak la khat ka ngah hi,",
+        "Tua la van pan hong puak hi;",
+        "Tua sang a ngaihzaw la om",
+        "ngeilo hi,",
+        "Tua in ki-itna la hi"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Ka lungsung la ngaih khat ka za hi",
+        "A kihual",
+        "mahmah vantung pan hong kisa hi;",
+        "Ka lungsung la ngaih khat ka za hi,",
+        "Tua la in ki-itna la",
+        "hi"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Kalvary aa si Khazih it ing,",
+        "Ka mawhna hong sawpsak hi;",
+        "Ka lung sungah la",
+        "ngaih khat hong koih hi",
+        "Ka lung sungah teng den ding"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "A tul ngeilo minthanna la",
+        "hi,",
+        "Vantung mite tawh sa ding;",
+        "Tua la in a kihual mahmah la hi,",
+        "Van innpi panin hong ging"
+      ]
+    }
+  ]
+}

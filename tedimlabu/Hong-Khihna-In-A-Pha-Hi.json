@@ -1,0 +1,50 @@
+{
+  "title": "HONG KHIHNA IN A PHA HI",
+  "key": "Key: F",
+  "ZBC": "ZBC: 021",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Ei lung hong khihna ding",
+        "Jesuh itna pha hi, Lung kituakna in",
+        "Vantung khua Kituakna bang om",
+        "hi"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Ei Pa tokhom mai ah",
+        "Nakpi thu i ngen hi",
+        "Ei lawpna upna deihna teng",
+        "A",
+        "kibang in om hi"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Eite’n dahna thuak khawm",
+        "Van puak na kipua hi",
+        "Khat veivei",
+        "i lawmte aa ding",
+        "Khitui a luang thei hi"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Eite kikhen ciang in",
+        "Lungsim dahna piang",
+        "hi",
+        "Hih bang i lungsim tawh om khawm",
+        "Nung ciang kimu ding hi."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Kumpipa Mai I Ding Ding",
+  "key": "Key: Ab",
+  "ZBC": "ZBC: 422",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Kumpi pa mai i ding ding,",
+        "Vantungmi tawh la sa ding,",
+        "Nung ciangin, nung ciangin;",
+        "A",
+        "tang gun gei lam zui ding,",
+        "Topa min phat tawntung ding,",
+        "Nung ciangin, nung",
+        "ciangin."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Kumpipa mai i ding ding,",
+        "Vantung mi tawh la sa ding,",
+        "Kumpipa a min",
+        "phat ding;",
+        "Hallelujah! Hallelujah!",
+        "Kumpipa mai i ding ding."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Vantung khua sik",
+        "long tum ding,",
+        "Kumpipa mai i ding ding,",
+        "Nung ciangin, nung ciangin;",
+        "Dahnate paisan ding",
+        "a,",
+        "Sa tawntung ding min phatna,",
+        "Nung ciangin, nung ciangin."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Ka kha in manpha",
+        "puak ding,",
+        "Kumpipa mai i ding ding,",
+        "Nung ciangin, nung ciang in;",
+        "Zawhna A khe mai nga",
+        "ding,",
+        "Amah bang meel kicing ding,",
+        "Nung ciangin, nung ciangin."
+      ]
+    }
+  ]
+}

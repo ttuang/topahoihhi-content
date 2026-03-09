@@ -1,0 +1,57 @@
+{
+  "title": "Noel Masa, Vantung Mi Sak",
+  "key": "Key: D",
+  "ZBC": "ZBC: 082",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Cho.",
+        "Noel…..Noel… Noel…..Noel…",
+        "Itazila Kumpi pa suak."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "A khuadak ciang nisuahna lam ah",
+        "Gamlapi pan aksi tang khat kilak",
+        "Leitung teng ah nakpi tang hi",
+        "Sun le zan ci lo-in",
+        "Tang tawntung hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Tua aksi pi tang zuikawm in ah",
+        "Gamlapi pan mipil thum te in ah",
+        "Kumpi zong ding hong pai uh hi",
+        "Aksi paina khempeuh hong zui uh hi"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Tua aksi’n ni tumna lam naih hi",
+        "Bethlehem khuapi tunglam hong naih hi",
+        "Tua lai ah aksi pi hong khawl",
+        "Jesuh a kisialna tung ah hong khawl"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 5",
+      "lines": [
+        "Mipil thumte zong buk sung lut a",
+        "Zahtakna lianpi tawh khukdin uh hi",
+        "Kham paknamtui, paknamtui kha",
+        "Ama kiang ah pia-in, a bia uh hi"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "title": "Nitak Thungetna",
+  "key": "Key: Bb",
+  "ZBC": "ZBC: 032",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Siatna in hong kimkot hangin,",
+        "thaltang tawh hong kap hangin;",
+        "Na vantung mite’n hong",
+        "cing hi,",
+        "Nong nai ciang ka lau kei hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Zan khua a hong mial phat hangin,",
+        "Nang hong liah lo, khua mial in",
+        "Na mite omna khempeuh",
+        "ah,",
+        "Nang gim ngeilo hong Cingpa."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Zan ciangin ko lupna tungah,",
+        "Ka si pakkha zong unah;",
+        "A vul ngeilo pakpalh",
+        "bangin,",
+        "Vanah zingsang khanglo nung."
+      ]
+    }
+  ]
+}

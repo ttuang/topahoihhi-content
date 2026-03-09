@@ -1,0 +1,38 @@
+{
+  "title": "Sawmkua le Kuate",
+  "key": "Key: Ab",
+  "ZBC": "ZBC: 064",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Topa, tuu sawm kua le kua om lai-a,",
+        "Tua teng tawh lungkimlo na hiam?",
+        "Tuucingpa’n",
+        "hong dawngin, “Ka tuu khat tai-a,",
+        "Kei kiang pan mangthang hilo hiam?",
+        "Keen kawm guamkawm",
+        "hitaleh ka pai ding hi,",
+        "Amangsa ka tuu ka zong ding” ci hi",
+        "“Amangsa ka tuu ka zong",
+        "ding” ci hi"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "A gammangsa a tuu amuh ma teng,",
+        "Khuazin khuazan a zong zonga;",
+        "Kuamah’n thei khin",
+        "zolo athuak gimna teng,",
+        "Haksatna tampi thuakin zonga;",
+        "Gamlapi pan a ham aza ciaiciai",
+        "hi,",
+        "Cimawh-in si dinga om a mu hi,",
+        "Cimawh-in si dinga om a mu hi."
+      ]
+    }
+  ]
+}

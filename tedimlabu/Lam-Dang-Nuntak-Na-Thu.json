@@ -1,0 +1,58 @@
+{
+  "title": "LAM DANG NUNTAK NA THU",
+  "key": "Key: G",
+  "ZBC": "ZBC: 196",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Kei hong sak kik leuleu dih in",
+        "Lamdang nuntak na thu",
+        "A hoih na hong lak lai lai",
+        "in",
+        "Lam dang nuntak na thu",
+        "Nun tak na thupia hi",
+        "Gam tat nang hong hilh",
+        "hi"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Thu hoih mah mah",
+        "Thu pha mah mah",
+        "Nuntakna thu mah",
+        "mah"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Jesuh’n mi khempeuh hong lui hi",
+        "Lamdang nuntakna thu",
+        "Hong sam hi ngai",
+        "un mawh nei mi",
+        "Lamdang nuntakna thu",
+        "Hong pia khong hih thu gol",
+        "Van tung khua lam hong",
+        "zol"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Lungdamna thu na gen sawn in",
+        "Lamdang nuntakna thu",
+        "Mawh phel lungnopna mi ko",
+        "in",
+        "Lamdang nuntak na thu",
+        "Jesuh bek hong hon thei",
+        "Tawntung siangtho sak thei"
+      ]
+    }
+  ]
+}

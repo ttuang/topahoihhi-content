@@ -1,0 +1,64 @@
+{
+  "title": "HAT IN, ZION",
+  "key": "Key: Bb",
+  "ZBC": "ZBC: 413",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Hat in Zion, sem meng in na na sep ding,",
+        "Miteng tung-ah khuavak Pasian hilh in;",
+        "Mihing",
+        "khat zong khuamial sung a mangthang ding,",
+        "Phal het lo hi mihing piangsak Pa",
+        "in."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Lungdamna thupha, Nopna thupha;",
+        "Jesuh, hong tatna thupha, va gen meng",
+        "in."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "En ven, mawhna khuamial thong inn mial sung ah,",
+        "Mi tul tampi kihenin om uh",
+        "hi;",
+        "Khat beek va pai lo amau ko dingin ah,",
+        "A suaktak na’ng uh Topa si",
+        "napi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Mi namkim, pau namkimte kiang va gen in,",
+        "Amau hinna in Itna Pasian",
+        "hi;",
+        "Kiniamsak in A bawlsate hon dingin,",
+        "Van nun nuam piak nading hong sisuk",
+        "hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Na tate sawl in tua thupha gen dingin,",
+        "Na sum tawh huh in manlang theih",
+        "nading;",
+        "Na lungsim teng tawh nak pi’n thunget sak in,",
+        "Na zat khempeuh Jesuh’n hong",
+        "dinkik ding."
+      ]
+    }
+  ]
+}

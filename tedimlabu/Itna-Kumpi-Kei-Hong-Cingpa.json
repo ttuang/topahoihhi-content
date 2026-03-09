@@ -1,0 +1,40 @@
+{
+  "title": "ITNA KUMPI KEI HONG CINGPA",
+  "key": "Key: G",
+  "ZBC": "ZBC: 001",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Nuntakna tui luanna mun-ah,",
+        "Tatsa kei hong paipih hi;",
+        "Kei hong pi hi,",
+        "lonona-ah,",
+        "Vantung an in hong vaak hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Topa’n hong ompih tawntung-a,",
+        "Sihna ka kihta kei hi;",
+        "A ciangkhut in lung muan",
+        "sak-a,",
+        "Singlamteh in hong pi hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Ka khantawnin ka nuntak sung,",
+        "Kei nong cing khial ngei kei hi;",
+        "Tuucing pha aw, Na innpi",
+        "sung,",
+        "Phatna la kong sa ding hi."
+      ]
+    }
+  ]
+}

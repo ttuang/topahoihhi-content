@@ -1,0 +1,75 @@
+{
+  "title": "Jesuh Khris Hong Honpa",
+  "key": "Key: G",
+  "ZBC": "ZBC: 379",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Van pan hong kumsuk kua hiam?",
+        "Jesuh Khris hong Honpa!",
+        "Kiniamkhiat a suak kua",
+        "hiam?",
+        "Jesuh Khris hong Honpa!"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Sa un, Ama min phatna,",
+        "Hotkhiatna hong tunzo",
+        "ta;",
+        "Eite hong it penpen pa,",
+        "Jesuh Khris hong Honpa!"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Singkhuam tung kikhai kua",
+        "hiam?",
+        "Jesuh Khris hong Honpa!",
+        "Nang le kei hong tan kua hiam?",
+        "Jesuh Khris hong",
+        "Honpa!"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Mawhmai na’ng kua’n hong ciam hiam?",
+        "Jesuh Khris hong",
+        "Honpa!",
+        "Um in hing un, kua’n ci hiam?",
+        "Jesuh Khris hong Honpa!"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Van tokhom",
+        "tung kua tu hiam?",
+        "Jesuh Khris hong Honpa!",
+        "I it i zuih ding kua hiam?",
+        "Jesuh Khris hong",
+        "Honpa!"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 5",
+      "lines": [
+        "Van pan kua hong kumkik diam?",
+        "Jesuh Khris hong Honpa!",
+        "A mite khawm ding",
+        "kua hiam?",
+        "Jesuh Khris hong Honpa!"
+      ]
+    }
+  ]
+}

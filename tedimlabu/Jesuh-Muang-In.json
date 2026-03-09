@@ -1,0 +1,52 @@
+{
+  "title": "Jesuh Muang In",
+  "key": "Key: Ab",
+  "ZBC": "ZBC: 338",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Nisimin Jesuh a min, umin huihpi nun ciangin;",
+        "Thu upna tawm hangin, Jesuh bek umin muang",
+        "in."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Nisimin Jesuh Topa, umin beel in muang inla;",
+        "Lai Siangtho hong hilh bangin,",
+        "Jesuh bek umin muang in."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Kha Siangtho keima tungah, hong taang hi, ka sin sungah;",
+        "Lam",
+        "hong hilh leh puk zolo, Jesuh bek umin muang in."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Lam a nop leh la sa ta, khua hong mial le",
+        "thuum inla;",
+        "Gimna thuak ciang thungen in, Jesuh bek umin muang in."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Ka nuntak lai teng",
+        "muang ning, leitung bei mateng suang ning.",
+        "Vantung khua tun mateng in, Jesuh bek umin muang in."
+      ]
+    }
+  ]
+}

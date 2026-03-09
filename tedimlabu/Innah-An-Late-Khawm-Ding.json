@@ -1,0 +1,57 @@
+{
+  "title": "Innah An Late Khawm Ding",
+  "key": "Key: Bb",
+  "ZBC": "ZBC: 363",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Khamgam nuam panin la aw na za hiam?",
+        "Lungdamna la thak a hi;",
+        "Lawp takin buhlomte hen khawm ve ni,",
+        "A hun sawt nawnlo ding hi."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "An la Topa tu’n hong kilang baih ding,",
+        "Amai mu-in A aw i za ding;",
+        "An la Topa tu’n hong kilang baih ding,",
+        "Innah an l ate khawm ding."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Khamgam nuam panin hong ensuk uha,",
+        "I it i lawm ngaihte hi;",
+        "Nasep khempeuh zo, Singlamteh puazo,",
+        "Khapsa lukhu khu uh hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Khamgam nuam panin la ngaih hong kisa,",
+        "I lungsim hong hatsak hi;",
+        "Tua la ngaih aw in, hong thakhauhsak a,",
+        "Sun niloh na i sem hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Khamgam nuam panin la ngaih hong kisa,",
+        "Lungnopna gam nuam pan hi;",
+        "Upna tawh i thei, a sawt lo in-ah,",
+        "Tua la i sa khawm ding hi."
+      ]
+    }
+  ]
+}

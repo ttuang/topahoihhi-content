@@ -1,0 +1,54 @@
+{
+  "title": "Ihmu Leng Khang Macip Lo-in",
+  "key": "Key: C",
+  "ZBC": "ZBC: 334",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Ihmu leng khangma cip loin, minthanna khua hong vak ding;",
+        "Hinkik ni ciang kimu kik leng, i",
+        "kikhen nawn kei ding hi.",
+        "Tuipi thuk le kuam thuk sung pan, minam cin hong khawm ding hi,",
+        "Mual",
+        "dawn, mual kuam, gamlak panin, mi tampi hong tho ding hi."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Ihmu leng khangma cip",
+        "lo-in, minthanna khuavak ding hi,",
+        "Hin kik ni ciang kimu kikin, I kikhen nawn kei ding",
+        "hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Paak hoih banga i deih mahmah, I lung hihmawh phat mahmah;",
+        "I ang sung pan i",
+        "lakkhiat ciang, lian mahmah hi i dahna,",
+        "Ni a tum dek matengin ah, han kiim ah i kunkun",
+        "a,",
+        "Eite’n paak i it manin ah, lam-etna bei bang kisa."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Ihmu leng khangma cip",
+        "lo-in, han sungah lumcip lo ding;",
+        "Hong sap ciangin thupha a pia, Topa’n thupha ngah",
+        "tahen,",
+        "Sihna om ngei nawn lohna mun, a kip tawntung khuapi ah,",
+        "Omna inn nuam ngah dingin-ah, Topa",
+        "in hong sam ding hi."
+      ]
+    }
+  ]
+}

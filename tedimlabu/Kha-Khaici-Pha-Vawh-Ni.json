@@ -1,0 +1,53 @@
+{
+  "title": "Kha Khaici Pha Vawh Ni",
+  "key": "Key: Ab",
+  "ZBC": "ZBC: 367",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Kha khaici pha vawh ni, nisimin vawh ni,",
+        "Lam dung tengah vawh ni, tua itna khaici;",
+        "Kha",
+        "khaici pha vawh ni, muang den ni Pasian,",
+        "Nasepna nuamsa-in sang ding thaman",
+        "lian."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Kha khaici pha vawh ni,",
+        "Ni a niam hang zong, lungkia ke’n cimtak",
+        "ke’n",
+        "Nasep zawh siang dong."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Kha khaici pha vawh ni, thungenin kuan ni,",
+        "I",
+        "vawh khaici phate, hong po khia ding hi;",
+        "Upna kip tawh vawh ni, van guah hong zu ding;",
+        "I lozau",
+        "khempeuh teng kham khai tawh dim ding."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Kha khaici pha vawh ni, upna a neu",
+        "hang,",
+        "Thanem taleng vawh ni, khitui a luan hang;",
+        "Nasep i zawh siang dong, hun ngah bang sem",
+        "ding,",
+        "Anlak hun hong tung dong, lungdam tawntung ding."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "title": "SINGLAMTEH TUL GEMGAM",
+  "key": "Key: Bb",
+  "ZBC": "ZBC: 134",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Gamla pi mual tungah",
+        "Singlamteh tul gemgam",
+        "Gen theih mai zum na lim a hi",
+        "Tua khuampi",
+        "ka it hi",
+        "Leitung bup pi tan ding",
+        "A it huai pen pa hong sih na hi"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Tua",
+        "singlamteh ken ngilh ngei kei ning",
+        "Zawhna minpha ka tut zawh mateng",
+        "Tua singlamteh khah lo lenlen",
+        "ning",
+        "Kham lukhu ka khekna ni mateng"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Mi in tua singlamteh a thusim loh",
+        "hangin,",
+        "Ke’n ka phawk tawntungna thu hi",
+        "Pasian Tuuno in vantung nopna nu sia hi",
+        "Kalani",
+        "mual tua pua ding in"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Ka mawhna hong mai sak",
+        "Hong siangtho sak ding in",
+        "Si san",
+        "luang in Jesuh hong si hi",
+        "Pasian Tapa si san siangtho a hong baan’ na",
+        "Tua singlamteh ka",
+        "velvel nuam hi"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Tua singlamteh khuampi",
+        "Ke’n nusia ngei kei ning",
+        "Taina,",
+        "zumna ka thuakpih hangin",
+        "Tua hi leh khatvei ciang",
+        "Hong sam ding a inn ah",
+        "Amah tawh a min",
+        "thang khawm ding in"
+      ]
+    }
+  ]
+}

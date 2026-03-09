@@ -1,0 +1,62 @@
+{
+  "title": "KA HI BANG HONG LA IN",
+  "key": "Key: E",
+  "ZBC": "ZBC: 369",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Topa Jesuh ka thungai in",
+        "Na hong phel kei leh ka si ding",
+        "Kiphel na thu hong pia suk",
+        "in",
+        "Ka hi bang hong la in"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Ka hi bang hong la in",
+        "Ka hi bang hong la",
+        "in",
+        "Nang ma sih kei ma phatna hi",
+        "Ka hi bang hong la in"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Phelna mu lo mawhna",
+        "tampi",
+        "Ka neih manin Topa a si",
+        "Nong hehpih leh Nong phel thei hi"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Bang mah a pha",
+        "ka bawl zolo",
+        "Ka thu ciamna ka siasak zo",
+        "Na min tawh hong phel sak in aw",
+        "Ka hi bang hong la",
+        "in"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Na khe mai ah kong kun Topa",
+        "Nong muh bangin kei ka hi hi",
+        "Nasep kipan kiman",
+        "khin zo",
+        "Ka hi bang hong la in"
+      ]
+    }
+  ]
+}

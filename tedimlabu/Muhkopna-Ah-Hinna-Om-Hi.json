@@ -1,0 +1,50 @@
+{
+  "title": "Muhkhopna ah Hinna Om Hi",
+  "key": "Key: G",
+  "ZBC": "ZBC: 130",
+  "sections": [
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "En in hing ta in, En in hing ta in;",
+        "Nang aa ding sing tung sihna en in",
+        "En in hing ta",
+        "in."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Na mawh van gik kha hong gum ding hiam",
+        "Nun’ tak tawn tung na na nei ding maw",
+        "Jesuh",
+        "bek in hong hon zo thei hi",
+        "En in hing ta in"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Han pan a tho Jesuh en le ci’n",
+        "Man lang in inn dei sung om lai in",
+        "A mai nuam in hong",
+        "lung dam sak ding",
+        "En in hing ta in"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Jesuh’n van nun’ nuam hong bawl sak hi",
+        "Lung kham mawh nei mi’ sapna hong",
+        "thei",
+        "Napai na peuhah hong kha ding hi",
+        "En in hing ta in"
+      ]
+    }
+  ]
+}

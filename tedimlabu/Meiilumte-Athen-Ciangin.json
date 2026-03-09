@@ -1,0 +1,57 @@
+{
+  "title": "Meiilumte Athen Ciangin",
+  "key": "Key: D",
+  "ZBC": "ZBC: 417",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "A siangtho mahmah mual tungah, meilum a then ciangin ah;",
+        "Nisa a vangtanna vakpha, cik le lui",
+        "neute tung tu’n;",
+        "Sakhi tuihup a vangin ah, itna pha lai kisimta;",
+        "Eite kimu dingin a hun,",
+        "meiilum a then ciangin ah."
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Eite i (eite i) kimu ding hi (kimu ding",
+        "hi),",
+        "Leitungah (leitungah), kimuh bangin (kimuh bangin);",
+        "Tua thupha le lungdamna ni,",
+        "Zingsang",
+        "a phalvak ciang ah;",
+        "Eite kimu dingin a hun, meilum a then ciangin ah"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Mihingte",
+        "khuamial sungah khial, leitung mi a hih mangngilh;",
+        "Phatna dinga hahkatna a, ki-itna thupha",
+        "paikhia;",
+        "Nopsakna’ng Topa’n hong phel ding, eite khempeuh hong liah ding;",
+        "I ngak",
+        "dingin zingsang hun hi, meilumte a theng ding hi."
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Meilumte ei khempeuh tungah, a leentoh",
+        "laitakin ah,",
+        "I it khempeuh i lawmte tawh, eite i kimu ding maw;",
+        "Khuamial cipna gungal khat-ah,",
+        "khuavak ni tang hong tung ta;",
+        "A lamdang khuavak i muhna, meilum a then ciangin ah."
+      ]
+    }
+  ]
+}

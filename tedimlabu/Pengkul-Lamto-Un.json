@@ -1,0 +1,73 @@
+{
+  "title": "Pengkul Lamto un",
+  "key": "Key: A",
+  "ZBC": "ZBC: 488",
+  "sections": [
+    {
+      "type": "verse",
+      "label": "Verse 1",
+      "lines": [
+        "Pengkul lamto un, nakpi’n gingsak un;",
+        "Jesuh hong paikik ding hi;",
+        "Khualzinte kipaak,",
+        "lungdam lasa un,",
+        "Jesuh hong paikik ding hi!"
+      ]
+    },
+    {
+      "type": "chorus",
+      "label": "Chorus",
+      "lines": [
+        "Hong pai ding hi, hong pai ding",
+        "hi,",
+        "Jesuh hong paikik ding hi!"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 2",
+      "lines": [
+        "Zangkuam kiko, mualte thawnsak un;",
+        "Jesuh hong",
+        "paikik ding hi!",
+        "A kigo Tuuno, vanglian in hong kum,",
+        "Jesuh hong paikik ding",
+        "hi!"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 3",
+      "lines": [
+        "Tuipite’n zong tuihual sim gingsak un;",
+        "Jesuh hong paikik ding",
+        "hi!",
+        "Tuipi gei sehnel tungah kitam un,",
+        "Jesuh hong paikik ding hi!"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 4",
+      "lines": [
+        "Thangvan ngo",
+        "mei in, miza ta hilh un;",
+        "Jesuh hong paikik ding hi!",
+        "Huihpi le pingpeite’n zong zai in",
+        "suut,",
+        "Jesuh hong paikik ding hi!"
+      ]
+    },
+    {
+      "type": "verse",
+      "label": "Verse 5",
+      "lines": [
+        "Minamte’ buaina in hong theisak hi;",
+        "Jesuh",
+        "hong paikik ding hi!",
+        "Pilna khang semsem, sak khang ah mizin,",
+        "Jesuh hong paikik ding hi!"
+      ]
+    }
+  ]
+}

@@ -19,7 +19,7 @@
     },
     {
       "type": "verse",
-      "label": "Verse 2",
+      "label": "Verse 1",
       "lines": [
         "Huan sungah thu hong ngetsak in,",
         "“Nang deih bang hizaw hen” ci;",
@@ -30,7 +30,7 @@
     },
     {
       "type": "verse",
-      "label": "Verse 3",
+      "label": "Verse 2",
       "lines": [
         "Van mite’n hehpih huaisa in,",
         "Khuavak gam pan en uh hi;",
@@ -41,7 +41,7 @@
     },
     {
       "type": "verse",
-      "label": "Verse 4",
+      "label": "Verse 3",
       "lines": [
         "Ka mawh ka dahna teng la-in,",
         "Ama tungah kisuan hi;",
@@ -52,7 +52,7 @@
     },
     {
       "type": "verse",
-      "label": "Verse 5",
+      "label": "Verse 4",
       "lines": [
         "Tatsate tawh minthang ding a,",
         "Ama maitang ka mu ding;",

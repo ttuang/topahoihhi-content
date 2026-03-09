@@ -16,7 +16,7 @@
     },
     {
       "type": "verse",
-      "label": "Verse 2",
+      "label": "Verse 1",
       "lines": [
         "Khatvei leh Eden bang nuamna,",
         "Khatvei leh khuamialna thukpi,",
@@ -27,7 +27,7 @@
     },
     {
       "type": "verse",
-      "label": "Verse 3",
+      "label": "Verse 2",
       "lines": [
         "Phunlo puamlo lungkim takin,",
         "Topa na khut ka len nuam hi.",
@@ -38,7 +38,7 @@
     },
     {
       "type": "verse",
-      "label": "Verse 4",
+      "label": "Verse 3",
       "lines": [
         "Na hehpihna tawh galzo a",
         "Nasep ka khit ciang a vekpi’n;",

@@ -5,7 +5,7 @@
   "sections": [
     {
       "type": "verse",
-      "label": "Verse 2",
+      "label": "Verse 1",
       "lines": [
         "Dai dide…. zan siangtho….",
         "Thakhat in…theih kholh loh",
@@ -17,7 +17,7 @@
     },
     {
       "type": "verse",
-      "label": "Verse 3",
+      "label": "Verse 2",
       "lines": [
         "Dai dide…. zan siangtho….",
         "Mipilte’n …van en to..",
@@ -29,7 +29,7 @@
     },
     {
       "type": "verse",
-      "label": "Verse 4",
+      "label": "Verse 3",
       "lines": [
         "Dai dide…. zan siangtho….",
         "Aksi pi’n.. Hong tan hen",

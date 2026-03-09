@@ -5,7 +5,7 @@
   "sections": [
     {
       "type": "verse",
-      "label": "Verse 2",
+      "label": "Verse 1",
       "lines": [
         "Nunna hong pia’n Pasian,",
         "Ka lungsiim sian’ dongin;",
@@ -16,7 +16,7 @@
     },
     {
       "type": "verse",
-      "label": "Verse 3",
+      "label": "Verse 2",
       "lines": [
         "Nunna hong pia’n Pasian,",
         "Nang mi ka hih khit dong;",
@@ -27,7 +27,7 @@
     },
     {
       "type": "verse",
-      "label": "Verse 4",
+      "label": "Verse 3",
       "lines": [
         "Nunna hong pia’n Pasian,",
         "Si ngei nawnlo dingin;",

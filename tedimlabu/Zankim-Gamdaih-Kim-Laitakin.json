@@ -5,7 +5,7 @@
   "sections": [
     {
       "type": "verse",
-      "label": "Verse 2",
+      "label": "Verse 1",
       "lines": [
         "Van kong pan hong pai lailai mah",
         "Kilemna kha zak in",
@@ -21,7 +21,7 @@
     },
     {
       "type": "verse",
-      "label": "Verse 3",
+      "label": "Verse 2",
       "lines": [
         "Leitung nuntak vangik nuai ah",
         "Vangik lel a gim te",
@@ -37,7 +37,7 @@
     },
     {
       "type": "verse",
-      "label": "Verse 4",
+      "label": "Verse 3",
       "lines": [
         "Thei un hong tung petmah ding ta",
         "Tang kamsangte gensa",

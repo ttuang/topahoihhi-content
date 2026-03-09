@@ -5,7 +5,7 @@
   "sections": [
     {
       "type": "verse",
-      "label": "Verse 2",
+      "label": "Verse 1",
       "lines": [
         "Nuntakna tui luanna mun-ah,",
         "Tatsa kei hong paipih hi;",
@@ -16,7 +16,7 @@
     },
     {
       "type": "verse",
-      "label": "Verse 3",
+      "label": "Verse 2",
       "lines": [
         "Topa’n hong ompih tawntung-a,",
         "Sihna ka kihta kei hi;",
@@ -27,7 +27,7 @@
     },
     {
       "type": "verse",
-      "label": "Verse 4",
+      "label": "Verse 3",
       "lines": [
         "Ka khantawnin ka nuntak sung,",
         "Kei nong cing khial ngei kei hi;",

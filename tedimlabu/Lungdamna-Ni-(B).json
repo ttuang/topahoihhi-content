@@ -17,7 +17,7 @@
     },
     {
       "type": "verse",
-      "label": "Verse 2",
+      "label": "Verse 1",
       "lines": [
         "Na seppi bel kikhin zo hi.,",
         "Kei Topa aa, ka hi zota",
@@ -27,7 +27,7 @@
     },
     {
       "type": "verse",
-      "label": "Verse 3",
+      "label": "Verse 2",
       "lines": [
         "Ka lungsim aw, lungka nawn ken",
         "Hih thupha ah kiptak khawlta’n",
@@ -37,7 +37,7 @@
     },
     {
       "type": "verse",
-      "label": "Verse 4",
+      "label": "Verse 3",
       "lines": [
         "Lungsim takpi tawh ka ciamsa,",
         "Nisim in ka ciamphapha ding",

@@ -5,7 +5,7 @@
   "sections": [
     {
       "type": "verse",
-      "label": "Verse 2",
+      "label": "Verse 1",
       "lines": [
         "Leitung nuntakna manlang in bei thei,",
         "Leitungah nuamna om tawntung thei kei;",
@@ -16,7 +16,7 @@
     },
     {
       "type": "verse",
-      "label": "Verse 3",
+      "label": "Verse 2",
       "lines": [
         "Kei tawh om khawm, Keima tha a pha kei,",
         "Nang mah bek in ze-etna na zo thei;",
@@ -27,7 +27,7 @@
     },
     {
       "type": "verse",
-      "label": "Verse 4",
+      "label": "Verse 3",
       "lines": [
         "Thupha na hong piak leh Kei ka lau lo,",
         "Dahna khi tui’n zong hong siasak zolo",
@@ -38,7 +38,7 @@
     },
     {
       "type": "verse",
-      "label": "Verse 5",
+      "label": "Verse 4",
       "lines": [
         "Ka sih ma in, Na maipha hong lak in,",
         "Khuamial vaak sak in van lam hong lak in;",

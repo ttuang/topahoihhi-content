@@ -5,7 +5,7 @@
   "sections": [
     {
       "type": "verse",
-      "label": "Verse 2",
+      "label": "Verse 1",
       "lines": [
         "Nu in nau a khim bangin,",
         "Tuipi lauhuai daisak in;",
@@ -18,7 +18,7 @@
     },
     {
       "type": "verse",
-      "label": "Verse 3",
+      "label": "Verse 2",
       "lines": [
         "Gungal ka tun ding ciangin,",
         "Tuihual hong lauhuai ciangin;",

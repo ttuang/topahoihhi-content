@@ -5,7 +5,7 @@
   "sections": [
     {
       "type": "verse",
-      "label": "Verse 2",
+      "label": "Verse 1",
       "lines": [
         "Biakna nuamna hong pia",
         "Kote’ thu hong nget na",
@@ -19,7 +19,7 @@
     },
     {
       "type": "verse",
-      "label": "Verse 3",
+      "label": "Verse 2",
       "lines": [
         "Thu hilh Kha Siangtho aw",
         "Hilh ding hong pai in la",
@@ -33,7 +33,7 @@
     },
     {
       "type": "verse",
-      "label": "Verse 4",
+      "label": "Verse 3",
       "lines": [
         "Nam thum pawl khat Pasian",
         "Topa nangmah a lian",

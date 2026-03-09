@@ -16,7 +16,7 @@
     },
     {
       "type": "verse",
-      "label": "Verse 2",
+      "label": "Verse 1",
       "lines": [
         "Jesuh thu ken sinsin nuam ingh.",
         "A deihna khen tel thei nuam ingh.",
@@ -27,7 +27,7 @@
     },
     {
       "type": "verse",
-      "label": "Verse 3",
+      "label": "Verse 2",
       "lines": [
         "Jesuh kammal zaza nuam ingh.",
         "Topa tawh holim den nuam ingh.",
@@ -38,7 +38,7 @@
     },
     {
       "type": "verse",
-      "label": "Verse 4",
+      "label": "Verse 3",
       "lines": [
         "Van tokhom ah a tutna thu,",
         "Van hauhna teng a neihna thu;",

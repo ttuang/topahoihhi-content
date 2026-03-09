@@ -16,7 +16,7 @@
     },
     {
       "type": "verse",
-      "label": "Verse 2",
+      "label": "Verse 1",
       "lines": [
         "Gimna thuakna gungal khat-ah,",
         "Lungsim tamna galah;",
@@ -27,7 +27,7 @@
     },
     {
       "type": "verse",
-      "label": "Verse 3",
+      "label": "Verse 2",
       "lines": [
         "Sihna tuipi gal khat lamah,",
         "Khuamialna gal khatah;",
@@ -38,7 +38,7 @@
     },
     {
       "type": "verse",
-      "label": "Verse 4",
+      "label": "Verse 3",
       "lines": [
         "Mawhna, dahna, gimna, launa,",
         "Mangpha ka khak khin ta;",

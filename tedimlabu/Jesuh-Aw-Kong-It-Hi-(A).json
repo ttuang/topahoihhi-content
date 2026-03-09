@@ -53,7 +53,7 @@
     },
     {
       "type": "verse",
-      "label": "Verse 1",
+      "label": "Verse 5",
       "lines": [
         "Jesuh aw kong it hi, kei aa na hi ta",
         "Nangma hang mawhna nuam namcin ka khia ta",
@@ -65,7 +65,7 @@
     },
     {
       "type": "verse",
-      "label": "Verse 2",
+      "label": "Verse 6",
       "lines": [
         "Tun’ Nang kong it hang Nang mah’n Nong it masa",
         "Nong it ma’n",
@@ -77,7 +77,7 @@
     },
     {
       "type": "verse",
-      "label": "Verse 3",
+      "label": "Verse 7",
       "lines": [
         "Hong it tawntung ning hin’na sihna sung-ah",
         "Hong",
@@ -89,7 +89,7 @@
     },
     {
       "type": "verse",
-      "label": "Verse 4",
+      "label": "Verse 8",
       "lines": [
         "Nuamsak tawntungna minthang innpi sungah",
         "Na min",

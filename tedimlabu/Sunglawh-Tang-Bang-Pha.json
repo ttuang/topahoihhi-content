@@ -5,7 +5,7 @@
   "sections": [
     {
       "type": "verse",
-      "label": "Verse 2",
+      "label": "Verse 1",
       "lines": [
         "Nang tawh omkhawmzo lailung muang mawh nawn ke’n,",
         "Kei in na tung Pasian ka hi nang kong",
@@ -18,7 +18,7 @@
     },
     {
       "type": "verse",
-      "label": "Verse 3",
+      "label": "Verse 2",
       "lines": [
         "Damtui kulthuk sunga nang na kum ding pawh,",
         "Tang khuang bang hong kho ham bang vai kong",
@@ -31,7 +31,7 @@
     },
     {
       "type": "verse",
-      "label": "Verse 4",
+      "label": "Verse 3",
       "lines": [
         "Tatsa sial bang et nang kammei sung tung ding,",
         "Hehnepna tui bang kicing kong langsak",
@@ -44,7 +44,7 @@
     },
     {
       "type": "verse",
-      "label": "Verse 5",
+      "label": "Verse 4",
       "lines": [
         "Kum khua sawt a tum bang vuai dong ka mite,",
         "Tui bang kiamlo mu bang ngaih kum khua om",

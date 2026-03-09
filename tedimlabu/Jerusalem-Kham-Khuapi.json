@@ -5,7 +5,7 @@
   "sections": [
     {
       "type": "verse",
-      "label": "Verse 2",
+      "label": "Verse 1",
       "lines": [
         "Zion innpi nuam sungah, bawlsiatna thuakte le,",
         "Puanpak silh van mite in, phatna la sa khawm",
@@ -16,7 +16,7 @@
     },
     {
       "type": "verse",
-      "label": "Verse 3",
+      "label": "Verse 2",
       "lines": [
         "Amaute in Topa tawh, galdo-in zo uh hi,",
         "A tawntung kikhel lo-in, puanpak a silh uh hi;",
@@ -27,7 +27,7 @@
     },
     {
       "type": "verse",
-      "label": "Verse 4",
+      "label": "Verse 3",
       "lines": [
         "Thupha a dim gam nuam pen, Pasian’ mite omna,",
         "Thupha a dim gam nuam pen, mihingte",

@@ -5,7 +5,7 @@
   "sections": [
     {
       "type": "verse",
-      "label": "Verse 2",
+      "label": "Verse 1",
       "lines": [
         "A khe phungah na lungkhamnate va nga in,",
         "Amah’n nang tangin hong puaksak ding hi;",
@@ -16,7 +16,7 @@
     },
     {
       "type": "verse",
-      "label": "Verse 3",
+      "label": "Verse 2",
       "lines": [
         "Na neihsa piak tawm lua, ci-in kisuang ken la,",
         "A tokhom zuat ding lau ngaihsut kei in;",
@@ -27,7 +27,7 @@
     },
     {
       "type": "verse",
-      "label": "Verse 4",
+      "label": "Verse 3",
       "lines": [
         "Lau kawm, liing kawmin tuate i va puak ciangin,",
         "Lungkim takin Topa’n hong sang ding",

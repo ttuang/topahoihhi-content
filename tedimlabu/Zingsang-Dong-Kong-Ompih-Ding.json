@@ -18,7 +18,7 @@
     },
     {
       "type": "verse",
-      "label": "Verse 2",
+      "label": "Verse 1",
       "lines": [
         "Lam-et bei teembaw nasemte, lungsim thaneem hi;",
         "Topa’ sapna aw za uha, Lungdam khin uh",
@@ -27,7 +27,7 @@
     },
     {
       "type": "verse",
-      "label": "Verse 3",
+      "label": "Verse 2",
       "lines": [
         "Tuipi tung huihnun phat lai-ah, Teembaw tum dek hi;",
         "A gum ding Jesuh va pai a, Lungman damsak",
@@ -36,7 +36,7 @@
     },
     {
       "type": "verse",
-      "label": "Verse 4",
+      "label": "Verse 3",
       "lines": [
         "Nang hong it manin hong kum a, Nang tang ding si hi;",
         "Siatna pai-in a thu-um in, Inn na tung",

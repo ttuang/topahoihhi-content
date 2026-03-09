@@ -17,7 +17,7 @@
     },
     {
       "type": "verse",
-      "label": "Verse 2",
+      "label": "Verse 1",
       "lines": [
         "Topa tawh kinai theih na ding",
         "Jesuh a si luangsak,",
@@ -28,7 +28,7 @@
     },
     {
       "type": "verse",
-      "label": "Verse 3",
+      "label": "Verse 2",
       "lines": [
         "Nung ciang i min bangci than ding",
         "Tu’n ki thei nai lo hi",
@@ -39,7 +39,7 @@
     },
     {
       "type": "verse",
-      "label": "Verse 4",
+      "label": "Verse 3",
       "lines": [
         "Tua thu alawpte khempeuh in",
         "I Topa bang ding hi",

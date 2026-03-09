@@ -19,7 +19,7 @@
     },
     {
       "type": "verse",
-      "label": "Verse 2",
+      "label": "Verse 1",
       "lines": [
         "Topa lian hi a gen bangbang piang hi.",
         "Khanglo ve ni, lasa ve ni.",
@@ -30,7 +30,7 @@
     },
     {
       "type": "verse",
-      "label": "Verse 3",
+      "label": "Verse 2",
       "lines": [
         "Topa lian hi lungdamtak zuan ve ni.",
         "Khanglo ve ni, lasa ve ni",
@@ -41,7 +41,7 @@
     },
     {
       "type": "verse",
-      "label": "Verse 4",
+      "label": "Verse 3",
       "lines": [
         "Topa lian hi amin siangtho hi.",
         "Khanglo ve ni, lasa ve ni.",

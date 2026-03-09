@@ -5,7 +5,7 @@
   "sections": [
     {
       "type": "verse",
-      "label": "Verse 2",
+      "label": "Verse 1",
       "lines": [
         "Khazih ka Pasian sihna lo,",
         "Kisialh pih ding bangmah om kei;",
@@ -16,7 +16,7 @@
     },
     {
       "type": "verse",
-      "label": "Verse 3",
+      "label": "Verse 2",
       "lines": [
         "En ven, a lu a khut, a khe,",
         "Dahna, itna hong luang suk khawm;",
@@ -27,7 +27,7 @@
     },
     {
       "type": "verse",
-      "label": "Verse 4",
+      "label": "Verse 3",
       "lines": [
         "Leitung khempeuh pia thei hileng,",
         "Tamlua ka ci ngei kei ding hi;",

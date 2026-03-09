@@ -5,7 +5,7 @@
   "sections": [
     {
       "type": "verse",
-      "label": "Verse 2",
+      "label": "Verse 1",
       "lines": [
         "Hehpihna’n hong kidawm sak a, Launa teng bei sak hi,",
         "Ka upcil a kipanin ah, manpha ka sa",
@@ -14,7 +14,7 @@
     },
     {
       "type": "verse",
-      "label": "Verse 3",
+      "label": "Verse 2",
       "lines": [
         "Launa gim na dah na sung pan, hong pai suak pih zo hi.",
         "Tu ciang dong zawhpih tawn tung, inn",
@@ -23,7 +23,7 @@
     },
     {
       "type": "verse",
-      "label": "Verse 4",
+      "label": "Verse 3",
       "lines": [
         "Van ah kum tul kum then om , ni bang bang ih tang ding hi,",
         "Pasian phatna a cil sang in, nuamzaw",

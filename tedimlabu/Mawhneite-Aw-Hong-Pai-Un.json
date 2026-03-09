@@ -5,7 +5,7 @@
   "sections": [
     {
       "type": "verse",
-      "label": "Verse 2",
+      "label": "Verse 1",
       "lines": [
         "Khua khempeuh ah pai kawikawi a, mi khempeuh a hehpih hi;",
         "Mihing zawngkhal khempeuhte le,",
@@ -15,7 +15,7 @@
     },
     {
       "type": "verse",
-      "label": "Verse 3",
+      "label": "Verse 2",
       "lines": [
         "Jesuh, leitung a omlai-in, thupha vive a gen hi;",
         "Keimah zong Jesuh ka um a, ka lungdamna piang",
@@ -25,7 +25,7 @@
     },
     {
       "type": "verse",
-      "label": "Verse 4",
+      "label": "Verse 3",
       "lines": [
         "Pasian in thupha hong piakna, Jesuh’ mi kiangah gen hi;",
         "Mihing kim khat in a um a, kim",
@@ -35,7 +35,7 @@
     },
     {
       "type": "verse",
-      "label": "Verse 5",
+      "label": "Verse 4",
       "lines": [
         "Kei sih tang ding Topa Jesuh, singlamteh tungah si hi;",
         "Ama lawmte in a vui a, ni thum ciang a",

@@ -16,7 +16,7 @@
     },
     {
       "type": "verse",
-      "label": "Verse 2",
+      "label": "Verse 1",
       "lines": [
         "A gammangte Jesuh’n zong hi",
         "Lam a khial tuu te zong hi",
@@ -27,7 +27,7 @@
     },
     {
       "type": "verse",
-      "label": "Verse 3",
+      "label": "Verse 2",
       "lines": [
         "Cinate Jesuh’n dam sak a",
         "A kipukte zong phong hi",
@@ -38,7 +38,7 @@
     },
     {
       "type": "verse",
-      "label": "Verse 4",
+      "label": "Verse 3",
       "lines": [
         "Khuamial kei tungah hong tung ta",
         "Dahna lampi ka zui ta",
@@ -49,7 +49,7 @@
     },
     {
       "type": "verse",
-      "label": "Verse 5",
+      "label": "Verse 4",
       "lines": [
         "Sihna gun gal kah mateng in",
         "Topa in hong cing ding hi",

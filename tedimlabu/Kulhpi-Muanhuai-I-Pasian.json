@@ -5,7 +5,7 @@
   "sections": [
     {
       "type": "verse",
-      "label": "Verse 2",
+      "label": "Verse 1",
       "lines": [
         "Eima thatang bek i suan leh, i sepna mawkna suak ding;",
         "Pasian teel pa’n hong huh kei leh,",
@@ -18,7 +18,7 @@
     },
     {
       "type": "verse",
-      "label": "Verse 3",
+      "label": "Verse 2",
       "lines": [
         "Siatna kidim hih leitung in, bawlsiat ding hong toto hi;",
         "I thumanna gualzo dingin, Pasian in",
@@ -31,7 +31,7 @@
     },
     {
       "type": "verse",
-      "label": "Verse 4",
+      "label": "Verse 3",
       "lines": [
         "Tua kammal pen khuamial ukte’ lungdamna ding hi lo hi;",
         "Kha Siangtho le a thuphate, hong",

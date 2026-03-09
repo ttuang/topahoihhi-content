@@ -5,7 +5,7 @@
   "sections": [
     {
       "type": "verse",
-      "label": "Verse 2",
+      "label": "Verse 1",
       "lines": [
         "Mawhna pan hong tatkhiat na’ng in, Jesuh’n Asi pha hong bua khin;",
         "Nuamna la ka sa",
@@ -17,7 +17,7 @@
     },
     {
       "type": "verse",
-      "label": "Verse 3",
+      "label": "Verse 2",
       "lines": [
         "Vanglian tokhom tungah tu a, Itna mel pua in a omna;",
         "La in sa sa nuam ing, A liatna leh a hoih",
@@ -29,7 +29,7 @@
     },
     {
       "type": "verse",
-      "label": "Verse 4",
+      "label": "Verse 3",
       "lines": [
         "Lungnop ni hong tun tak ciang, Topa’n hong ciah pih ding a kiang;",
         "Ama mai ka mu ding,",

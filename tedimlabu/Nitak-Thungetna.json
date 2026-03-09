@@ -5,7 +5,7 @@
   "sections": [
     {
       "type": "verse",
-      "label": "Verse 2",
+      "label": "Verse 1",
       "lines": [
         "Siatna in hong kimkot hangin,",
         "thaltang tawh hong kap hangin;",
@@ -16,7 +16,7 @@
     },
     {
       "type": "verse",
-      "label": "Verse 3",
+      "label": "Verse 2",
       "lines": [
         "Zan khua a hong mial phat hangin,",
         "Nang hong liah lo, khua mial in",
@@ -27,7 +27,7 @@
     },
     {
       "type": "verse",
-      "label": "Verse 4",
+      "label": "Verse 3",
       "lines": [
         "Zan ciangin ko lupna tungah,",
         "Ka si pakkha zong unah;",

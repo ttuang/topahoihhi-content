@@ -15,7 +15,7 @@
     },
     {
       "type": "verse",
-      "label": "Verse 2",
+      "label": "Verse 1",
       "lines": [
         "Mawhna tui hual in hong tuum a,",
         "Khemna’n hong zol laitak;",
@@ -26,7 +26,7 @@
     },
     {
       "type": "verse",
-      "label": "Verse 3",
+      "label": "Verse 2",
       "lines": [
         "Lungkiatna le launate in, ka lampi hong mialsak;",
         "Kei hong kem hi, A itna in,",
@@ -36,7 +36,7 @@
     },
     {
       "type": "verse",
-      "label": "Verse 4",
+      "label": "Verse 3",
       "lines": [
         "Topa aw, ka hun beikuan a, Na gam kong zuat laitak;",
         "Na khut in kei hong len inla,",

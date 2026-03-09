@@ -5,7 +5,7 @@
   "sections": [
     {
       "type": "verse",
-      "label": "Verse 2",
+      "label": "Verse 1",
       "lines": [
         "Nong huhna tawh hih ciang kong tung",
         "Huhna mualsuang hiah phut ing",
@@ -21,7 +21,7 @@
     },
     {
       "type": "verse",
-      "label": "Verse 3",
+      "label": "Verse 2",
       "lines": [
         "A nisimin hong hehpihna",
         "A tampi hong basak den",

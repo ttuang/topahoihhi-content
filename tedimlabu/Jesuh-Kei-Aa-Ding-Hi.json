@@ -5,7 +5,7 @@
   "sections": [
     {
       "type": "verse",
-      "label": "Verse 2",
+      "label": "Verse 1",
       "lines": [
         "Mi a haute ka eng kei hi",
         "Jesuh kei aa ding hi",
@@ -21,7 +21,7 @@
     },
     {
       "type": "verse",
-      "label": "Verse 3",
+      "label": "Verse 2",
       "lines": [
         "Zawng a gimna ka thuak hangin",
         "Jesuh kei aa ding hi",
@@ -37,7 +37,7 @@
     },
     {
       "type": "verse",
-      "label": "Verse 4",
+      "label": "Verse 3",
       "lines": [
         "Galte khut sung ka tung zongin",
         "Jesuh kei aa ding hi",

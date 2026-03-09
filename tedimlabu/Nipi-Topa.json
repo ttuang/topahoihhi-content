@@ -5,7 +5,7 @@
   "sections": [
     {
       "type": "verse",
-      "label": "Verse 2",
+      "label": "Verse 1",
       "lines": [
         "Nong piak Nipi ni ka it uh,",
         "Tua sang ni thupi zaw omlo;",
@@ -16,7 +16,7 @@
     },
     {
       "type": "verse",
-      "label": "Verse 3",
+      "label": "Verse 2",
       "lines": [
         "Lungkham, sinkham om nawnlo-in,",
         "Mawhna gimna om nawnlo-in;",
@@ -27,7 +27,7 @@
     },
     {
       "type": "verse",
-      "label": "Verse 4",
+      "label": "Verse 3",
       "lines": [
         "I lam-et ni hong tung zota,",
         "Khuavakpi in ei hong tanzo;",

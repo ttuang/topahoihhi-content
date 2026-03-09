@@ -5,7 +5,7 @@
   "sections": [
     {
       "type": "verse",
-      "label": "Verse 2",
+      "label": "Verse 1",
       "lines": [
         "Van pan hong Ukpa, Hong hon zopa hi,",
         "Gamlapi dongin, Amin tangko un;",
@@ -16,7 +16,7 @@
     },
     {
       "type": "verse",
-      "label": "Verse 3",
+      "label": "Verse 2",
       "lines": [
         "Pasian hong Honpa, Kumpi in mang den,",
         "Mi khempeuh awng hen, Topa pahtawi hen;",
@@ -27,7 +27,7 @@
     },
     {
       "type": "verse",
-      "label": "Verse 4",
+      "label": "Verse 3",
       "lines": [
         "Va bia ni, ei’n zong Biak mah ding hi a,",
         "Minthanna teng zong Ama a’ hita;",

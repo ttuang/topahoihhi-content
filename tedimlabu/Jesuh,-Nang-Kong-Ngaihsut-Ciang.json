@@ -5,7 +5,7 @@
   "sections": [
     {
       "type": "verse",
-      "label": "Verse 2",
+      "label": "Verse 1",
       "lines": [
         "Jesuh a kici min sangin,",
         "Min ngaih zaw om lopi;",
@@ -16,7 +16,7 @@
     },
     {
       "type": "verse",
-      "label": "Verse 3",
+      "label": "Verse 2",
       "lines": [
         "Dahna thuakte’ kihehnepna,",
         "Lung niamkhiatte nuamna;",
@@ -27,7 +27,7 @@
     },
     {
       "type": "verse",
-      "label": "Verse 4",
+      "label": "Verse 3",
       "lines": [
         "Kam tawh a kigenkhia theilo,",
         "Thupha a ngah uh hi;",
@@ -38,7 +38,7 @@
     },
     {
       "type": "verse",
-      "label": "Verse 5",
+      "label": "Verse 4",
       "lines": [
         "Topa Jesuh nangmah simloh,",
         "Nuamna dang om nawn lo;",

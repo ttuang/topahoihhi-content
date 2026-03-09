@@ -5,7 +5,7 @@
   "sections": [
     {
       "type": "verse",
-      "label": "Verse 2",
+      "label": "Verse 1",
       "lines": [
         "Jesuh ah deihna teng cing hi",
         "Lungkham laitak ka lawm",
@@ -21,7 +21,7 @@
     },
     {
       "type": "verse",
-      "label": "Verse 3",
+      "label": "Verse 2",
       "lines": [
         "Jesuh ah deihna teng cing hi",
         "A tung ka thumaan ding",
@@ -37,7 +37,7 @@
     },
     {
       "type": "verse",
-      "label": "Verse 4",
+      "label": "Verse 3",
       "lines": [
         "Jesuh ah deihna teng cing hi",
         "Lawmpha zaw deih tuan keng",

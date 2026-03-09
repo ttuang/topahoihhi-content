@@ -5,7 +5,7 @@
   "sections": [
     {
       "type": "verse",
-      "label": "Verse 2",
+      "label": "Verse 1",
       "lines": [
         "Bang hiam na hong cih leh",
         "Mary sungpan Jesuh suak hi",
@@ -21,7 +21,7 @@
     },
     {
       "type": "verse",
-      "label": "Verse 3",
+      "label": "Verse 2",
       "lines": [
         "Lamdang lungdam huai thulian pi",
         "Hong kidai piak khian hi",
@@ -37,7 +37,7 @@
     },
     {
       "type": "verse",
-      "label": "Verse 4",
+      "label": "Verse 3",
       "lines": [
         "Bethlehem naungek siangtho aw",
         "Ko kiang ah hong kum aw",

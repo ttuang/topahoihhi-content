@@ -5,7 +5,7 @@
   "sections": [
     {
       "type": "verse",
-      "label": "Verse 2",
+      "label": "Verse 1",
       "lines": [
         "Topa, tuu sawm kua le kua om lai-a,",
         "Tua teng tawh lungkimlo na hiam?",
@@ -21,7 +21,7 @@
     },
     {
       "type": "verse",
-      "label": "Verse 3",
+      "label": "Verse 2",
       "lines": [
         "A gammangsa a tuu amuh ma teng,",
         "Khuazin khuazan a zong zonga;",
